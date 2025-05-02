@@ -1,5 +1,7 @@
 # LoA (Librarian of Alexandria)
 
+The unchanged version of LoA released along with the paper.
+
 ## Overview
 
 LoA (Librarian of Alexandria) is a comprehensive tool designed for researchers, data scientists, and information professionals. It automates the process of searching, scraping, and analyzing scientific papers from various preprint servers and databases. The tool combines web scraping, natural language processing, and data extraction to efficiently gather and process large volumes of academic literature.
@@ -26,6 +28,8 @@ LoA (Librarian of Alexandria) is a comprehensive tool designed for researchers, 
 2. Install required dependencies listen in install_commands.txt (will be creating requirements.txt soon, as well as a dockerized version)
 
 3. Simply run "python main.py"
+
+Optionally, there is a jupyter/colab notebook provided which is able to run LoA, and provides some educational examples to get started.
 
 ## Usage
 
