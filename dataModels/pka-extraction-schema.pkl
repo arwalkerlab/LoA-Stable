@@ -1,0 +1,36 @@
+Key Columns: 1,2,3
+
+1 - Type: 'str'
+1 - Name: 'iupac_name'
+1 - Description: 'The IUPAC name of the compound for which pKa is reported.'
+1 - Max Length: 500
+
+2 - Type: 'float'
+2 - Name: 'pka_value'
+2 - Description: 'The reported pKa value of the compound.'
+2 - Min Value: -100
+2 - Max Value: 100
+
+3 - Type: 'str'
+3 - Name: 'solvent'
+3 - Description: 'The solvent used for the pKa measurement, if provided.'
+
+4 - Type: 'float'
+4 - Name: 'temperature'
+4 - Description: 'The temperature at which the pKa was measured, in Kelvin. If given in Celsius, add 273.15 to convert to Kelvin.'
+4 - Min Value: 0
+4 - Max Value: 1000
+
+5 - Type: 'str'
+5 - Name: 'functional_group'
+5 - Description: 'The functional group associated with the reported pKa, if specified and required to differentiate between different reported pKa values for the same compound.'
+
+6 - Type: 'float'
+6 - Name: 'uncertainty'
+6 - Description: 'The reported uncertainty or error in the pKa measurement.'
+6 - Min Value: 0
+6 - Max Value: 5
+
+7 - Type: 'str'
+7 - Name: 'additional_info'
+7 - Description: 'Any additional relevant information about the pKa measurement or compound.'

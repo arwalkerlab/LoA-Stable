@@ -1,0 +1,74 @@
+Key Columns: 1,2,3
+
+1 - Type: 'str'
+1 - Name: 'mof_name'
+1 - Description: 'The name or identifier of the metal-organic framework.'
+1 - Max Length: 200
+
+2 - Type: 'str'
+2 - Name: 'metal_center'
+2 - Description: 'The metal ion(s) or cluster(s) used as nodes in the MOF.'
+2 - Max Length: 100
+
+3 - Type: 'str'
+3 - Name: 'organic_linker'
+3 - Description: 'The organic molecule(s) used as linkers in the MOF.'
+3 - Max Length: 500
+
+4 - Type: 'str'
+4 - Name: 'crystal_system'
+4 - Description: 'The crystal system of the MOF (e.g., cubic, tetragonal, etc.).'
+4 - Max Length: 50
+
+5 - Type: 'str'
+5 - Name: 'space_group'
+5 - Description: 'The space group of the MOF structure.'
+5 - Max Length: 20
+
+6 - Type: 'float'
+6 - Name: 'surface_area'
+6 - Description: 'The BET surface area of the MOF in m²/g.'
+6 - Min Value: 0
+6 - Max Value: 10000
+
+7 - Type: 'float'
+7 - Name: 'pore_volume'
+7 - Description: 'The pore volume of the MOF in cm³/g.'
+7 - Min Value: 0
+7 - Max Value: 5
+
+8 - Type: 'float'
+8 - Name: 'pore_size'
+8 - Description: 'The average pore size or diameter of the MOF in Angstroms.'
+8 - Min Value: 0
+8 - Max Value: 200
+
+9 - Type: 'str'
+9 - Name: 'synthesis_method'
+9 - Description: 'Brief description of the synthesis method used to create the MOF.'
+9 - Max Length: 500
+
+10 - Type: 'str'
+10 - Name: 'thermal_stability'
+10 - Description: 'The thermal stability of the MOF, typically given as a temperature range or decomposition temperature in °C.'
+10 - Max Length: 100
+
+11 - Type: 'str'
+11 - Name: 'chemical_stability'
+11 - Description: 'Description of the MOF's stability in different chemical environments (e.g., acidic, basic, water).'
+11 - Max Length: 200
+
+12 - Type: 'str'
+12 - Name: 'applications'
+12 - Description: 'Potential or demonstrated applications of the MOF.'
+12 - Max Length: 500
+
+13 - Type: 'str'
+13 - Name: 'topology_code'
+13 - Description: 'A simplified topological description or code representing the MOF structure, such as RCSR symbols (e.g., pcu, dia, tbo) or augmented topological codes.'
+13 - Max Length: 100
+
+14 - Type: 'str'
+14 - Name: 'additional_properties'
+14 - Description: 'Any additional relevant properties or characteristics of the MOF.'
+14 - Max Length: 500

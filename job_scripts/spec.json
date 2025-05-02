@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "def_search_terms": [
+      "absorption",
+      "emission"
+    ],
+    "maybe_search_terms": [
+      "photophysical property",
+      "quantum yield",
+      "excited state",
+      "fluorophore",
+      "dye",
+      "chromophore",
+      "fluorescent probe",
+      "phosphorescence",
+      "small molecule",
+      "organic compound",
+      "luminophore"
+    ],
+    "model_name_version": "deepseek-r1:8b",
+    "check_model_name_version": "falcon3:10b",
+    "concurrent": "y",
+    "use_hi_res": "y"
+  },
+  "files": {
+    "schema_file": "chromophores.pkl",
+    "results_csv": "./results/spec.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "y",
+    "unpaywall": "y",
+    "customdb": "n",
+    "retmax": 10000,
+    "base_url": "",
+    "email": "gi1632@wayne.edu"
+  },
+  "extract": {
+    "user_instructions": "Extract information about small molecules with photophysical data from the provided research paper according to these guidelines:\n\n1. Include any molecule (often called a chromophore, fluorophore, dye, probe, etc.) for which absorption, emission, quantum yield, or other photophysical properties are reported. We are not strictly limited to the term 'chromophore.'\n\n2. Only include data if the chemical name is parseable (i.e., a valid IUPAC name or a well-known common/trade name typically resolvable by name-to-structure libraries). Exclude local paper labels (e.g. 'Compound 1a', 'V-3a', etc.) when no parseable name is provided. In general, if you are unsure if a name is parsable, if it is exceedingly short, it is not parsable. However, though most papers use names like this to avoid re-writing the full iupac name over and over, they often do provide the full iupac name in the paper somewhere.\n\n3. For numeric values:\n   - Absorption and emission wavelengths range from 200 to 1100 nm.\n   - Quantum yield is between 0 and 1.\n   - If only a range is provided, take the midpoint of that range (do not provide min–max ranges).\n   - Lifetimes may be reported in ns or µs; store them as a float in ns if possible.\n\n4. Exclude data for proteins, large biomolecules, or polymers unless a specific small-molecule chromophore or moiety is well-defined and parseable.\n\n5. Include any additional relevant photophysical measurements, if available (e.g., molar absorptivity). Because you have trouble recognizing valid IUPAC names, here is a concise definition I think will help:IUPAC names are official, systematic chemical names following International Union of Pure and Applied Chemistry (IUPAC) rules. They typically:\n1)Identify the main structure (longest carbon chain or ring).\n2)Use prefixes (e.g., “methyl,” “chloro”) for substituents, along with numerical locants (e.g., 1-, 2-, 3-) showing where those substituents attach.\n3)End with a suffix naming the principal functional group (e.g., “-ol,” “-oic acid,” “-one”).\n4)Indicate stereochemistry when relevant (e.g., (R)/(S), (E)/(Z), cis/trans).\n\nTrivial or trade names (e.g., “benzene,” “acetone,” “chloroform”) may not be strictly systematic, but some are widely accepted by IUPAC. Names that lack clear IUPAC formatting or key elements—such as unnumbered substituents—are typically not valid IUPAC names. Do not perform an extraction if there is no valid IUPAC (or other common name that can be parsed into a structure) name present in the paper.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

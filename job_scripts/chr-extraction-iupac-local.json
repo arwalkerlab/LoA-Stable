@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "def_search_terms": ["chromophore"],
+    "maybe_search_terms": ["none"],
+    "model_name_version": "deepseek-r1:8b",
+    "check_model_name_version": "falcon3:10b",
+    "concurrent":"y",
+    "use_hi_res":"y"
+  },
+  "files": {
+    "schema_file": "chromophores.pkl",
+    "results_csv":"./results/deep8_chr_falcon10_hi.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "y", 
+    "unpaywall": "y",
+    "customdb": "n",
+    "retmax": 10000,
+    "base_url": "",
+    "email": "gi1632@wayne.edu"
+  },
+  "extract": {
+    "user_instructions": "Extract information about chromophores from the provided research paper according to these guidelines: 1. Identify chromophores: Focus on molecules explicitly described as chromophores, fluorophores, or dyes. Include molecules with reported absorption or emission peaks. Exclude proteins, enzymes, or other biomolecules unless specifically described as having chromophore properties. 2. Extract information only if the official iupac name for the chromophore is provided, such that the structure can be determined from the name. 3. Wavelengths will likely be between 200 and 1100 nm. Quantum yield should be between 0 and 1. For numercial values such as these, if only a range is provided in literature, calculate the average of the range and provide that; do not provide the ranges as they will fail to parse.",
+    "max_retries": 1,
+    "ollama_url":"http://localhost:11434"
+  }
+}

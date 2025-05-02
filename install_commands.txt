@@ -1,0 +1,23 @@
+conda create -y -n LoA python=3.9
+
+conda activate LoA
+
+# module load cuda/11.0
+# Need to use cuda 11.8 or higher for gpu acceleration
+module load cuda/12.3
+
+conda install -y cudatoolkit -c pytorch -c nvidia
+
+pip install torch torchvision torchaudio torchmetrics
+
+pip install 'git+https://github.com/johnnynunez/detectron2.git'
+pip install pillow==9.5.0
+pip install pikepdf==7.2.0
+
+pip install selenium
+pip install webdriver_manager
+
+pip install "unstructured[all-docs]"
+pip install "unstructured[local-inference]"
+pip install libmagic poppler-utils pytesseract
+conda install -y tesseract

@@ -1,0 +1,25 @@
+Key Columns: 1
+
+1 - Type: 'str'
+1 - Name: 'iupac_name'
+1 - Description: 'A parseable chemical name (IUPAC or a well-known common name).'
+1 - Min Length: 5
+1 - Max Length: 500
+1 - Required Substrings:
+1 - Blacklisted Substrings: '@', '#', '$', '%', '^', '&', '*', '_', '+', '=', '[', ']', '{', '}', '|', '\\', ':', ';', '"', "'", '<', '>', '/', '?'
+
+2 - Type: 'float'
+2 - Name: 'melting_point'
+2 - Description: 'Melting point in °C.'
+2 - Min Value: -200
+2 - Max Value: 3000
+
+3 - Type: 'float'
+3 - Name: 'boiling_point'
+3 - Description: 'Boiling point in °C.'
+3 - Min Value: -200
+3 - Max Value: 6000
+
+4 - Type: 'str'
+4 - Name: 'comments'
+4 - Description: 'Any extra notes or context (e.g., measurement conditions).'

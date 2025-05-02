@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "def_search_terms": ["chromophore"],
+    "maybe_search_terms": ["absorption wavelength", "emission wavelength","fluorescence quantum yield"],
+    "auto": true,
+    "model_name_version": "mistral:7b-instruct-v0.2-q8_0",
+    "concurrent":"n"
+  },
+  "files": {
+    "schema_file": "chromophores.pkl",
+    "logfile":"chromophores.log",
+    "results_csv":"chromophores_results.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "n",
+    "scienceOpen": "n", 
+    "unpaywall": "n",
+    "customdb": "n",
+    "retmax": 100,
+    "base_url": "",
+    "email": ""
+  },
+  "extract": {
+    "user_instructions": "Explain the extraction task here",
+    "max_retries":3,
+    "ollama_url":"https://localhost:11434"
+  }
+}

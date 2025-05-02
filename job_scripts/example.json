@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "def_search_terms": [
+      "melting point",
+      "boiling point"
+    ],
+    "maybe_search_terms": [""],
+    "model_name_version": "deepseek-r1:8b",
+    "check_model_name_version": "falcon3:10b",
+    "concurrent": "y",
+    "use_hi_res": "y"
+  },
+  "files": {
+    "schema_file": "example.pkl",
+    "results_csv": "./results/example.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "n",
+    "unpaywall": "n",
+    "customdb": "n",
+    "retmax": 10,
+    "base_url": "",
+    "email": "youremail@example.com"
+  },
+  "extract": {
+    "user_instructions": "Extract information on small molecules for which a melting point or boiling point is reported. Only include data if a valid IUPAC or well-known common name is present. Numeric values must be in °C. If a paper reports a range, you may take the midpoint or the approximate average. Exclude polymers, proteins, or large biomolecules unless a well-defined small molecule is given with a parseable name.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

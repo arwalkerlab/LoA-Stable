@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "def_search_terms": ["metal-organic framework"],
+    "maybe_search_terms": ["none"],
+    "auto": true,
+    "model_name_version": "deepseek-r1:32b",
+    "check_model_name_version": "phi4:14b-q8_0",
+    "concurrent": "y"
+  },
+  "files": {
+    "schema_file": "mof-extraction-schema.pkl",
+    "logfile": "mof_extraction.log",
+    "results_csv": "./results/deepeek32_mof.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "y",
+    "unpaywall": "y",
+    "customdb": "n",
+    "retmax": 5000,
+    "base_url": "",
+    "email": "gi1632@wayne.edu"
+  },
+  "extract": {
+    "user_instructions": "Extract information about metal-organic frameworks (MOFs) from the provided research paper according to these guidelines: 1. Identify MOFs: Focus on materials explicitly described as metal-organic frameworks or porous coordination polymers. 2. Extract information only if the MOF name or identifier and at least one structural component (metal center or organic linker) are provided. 3. Guidelines: MOF names should be as reported in the paper. Metal centers should be chemical elements or clusters. Organic linkers should be chemical compounds or their names. Crystal systems should be standard crystallographic terms (e.g., cubic, tetragonal). Space groups should use standard notation. Surface area, pore volume, and pore size should be numerical values within reasonable ranges. Topology codes should be standard descriptors (e.g., RCSR symbols like pcu, dia, tbo). 4. Extract all relevant properties, synthesis methods, stability information, and potential applications as described in the paper.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

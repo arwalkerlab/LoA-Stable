@@ -1,0 +1,45 @@
+Key Columns: 1
+
+1 - Type: 'str'
+1 - Name: 'iupac_name'
+1 - Description: 'A parseable chemical name (IUPAC or a common name, must be resolvable by a typical name-to-structure tool).'
+1 - Min Length: 5
+1 - Max Length: 500
+1 - Required Substrings:
+1 - Blacklisted Substrings: '@', '#', '$', '%', '^', '&', '*', '_', '+', '=', '[', ']', '{', '}', '|', '\\', ':', ';', '"', "'", '<', '>', '/', '?'
+
+2 - Type: 'str'
+2 - Name: 'solvent'
+2 - Description: 'The solvent used for the spectroscopic measurements, if provided.'
+
+3 - Type: 'float'
+3 - Name: 'peak_absorption'
+3 - Description: 'Peak absorption wavelength in nm, typically between 200 and 1100 nm.'
+3 - Min Value: 200
+3 - Max Value: 1100
+
+4 - Type: 'float'
+4 - Name: 'peak_emission'
+4 - Description: 'Peak emission wavelength in nm, typically between 200 and 1100 nm.'
+4 - Min Value: 200
+4 - Max Value: 1100
+
+5 - Type: 'float'
+5 - Name: 'quantum_yield'
+5 - Description: 'Quantum yield as a decimal value between 0 and 1.'
+5 - Min Value: 0
+5 - Max Value: 1
+
+6 - Type: 'str'
+6 - Name: 'molar_absorptivity'
+6 - Description: 'The molar absorptivity (extinction coefficient) in L/(mol·cm). If a wavelength is specified, include it in parentheses, e.g., \"1.2e4 (350 nm)\".'
+
+7 - Type: 'float'
+7 - Name: 'lifetime'
+7 - Description: 'Photoluminescence or phosphorescence lifetime (in ns). If multiple lifetimes are listed, provide the primary or average value.'
+7 - Min Value: 0
+7 - Max Value: 100000
+
+8 - Type: 'str'
+8 - Name: 'comments'
+8 - Description: 'Any additional relevant details about the molecule or its measurements.'

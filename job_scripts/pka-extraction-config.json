@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "def_search_terms": ["pKa", "values"],
+    "maybe_search_terms": ["none"],
+    "model_name_version": "nemotron:latest",
+    "concurrent":"y"
+  },
+  "files": {
+    "schema_file": "pka-extraction-schema.pkl",
+    "results_csv":"./results/nemotron_test.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "y", 
+    "unpaywall": "y",
+    "customdb": "n",
+    "retmax": 10000,
+    "base_url": "",
+    "email": "gi1632@wayne.edu"
+  },
+  "extract": {
+    "user_instructions": "Extract experimental pKa values and related information for compounds reported in the paper, if any are reported. Include the IUPAC name, pKa value, solvent, temperature (convert to Kelvin if given in Celsius by adding 273.15), and any uncertainty or additional information provided. If multiple pKa values are reported for different functional groups of the same compound, extract them as separate entries.",
+    "max_retries": 3,
+    "ollama_url":"http://localhost:11434"
+  }
+}
