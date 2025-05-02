@@ -1,0 +1,982 @@
+iupac_name,solvent,peak_absorption,peak_emission,quantum_yield,molar_absorptivity,comments,paper
+null,null,null,null,null,null,null,pubmed_11878172
+null,null,null,null,null,null,null,pubmed_11878127
+null,null,null,null,null,null,null,pubmed_11877498
+null,null,null,null,null,null,null,pubmed_11877495
+null,null,null,null,null,null,null,pubmed_11876387
+null,null,null,null,null,null,null,pubmed_11876016
+null,null,null,null,null,null,null,pubmed_11875817
+null,null,null,null,null,null,null,pubmed_11875362
+null,null,null,null,null,null,null,pubmed_11874931
+Disperse Red 1 (DR1U),O-dichlorobenzene,null,null,null,null,Chromophore with unmodified structure showing fluorescence quenching upon binding to SWNTs.,arxiv_1312.6312v1
+Disperse Red 1 (DR1A),O-dichlorobenzene,null,null,null,null,Anthracene-functionalized DR1 showing higher binding efficiency than DR1U.,arxiv_1312.6312v1
+Disperse Red 1 (DR1P),O-dichlorobenzene,null,null,null,null,Pyrene-functionalized DR1 with the strongest binding to SWNTs and partial radial orientation observed via SHG.,arxiv_1312.6312v1
+null,null,null,null,null,null,null,arxiv_1612.03001v1
+null,null,null,null,null,null,null,arxiv_0902.2231v1
+Disperse Red 1 (DR1),null,null,633,null,null,Chromophore with dipole-dipole interactions affecting absorption; r33 coefficient around 15 pm/V at 633 nm.,arxiv_0602533v1
+MM42,null,null,null,null,null,New optimized chromophore structure; no specific emission or absorption data provided.,arxiv_0602533v1
+MM52,null,null,831,null,null,New optimized chromophore with r33 around 50 pm/V at 831 nm.,arxiv_0602533v1
+null,null,null,null,null,null,null,arxiv_0111086v1
+null,null,null,null,null,null,null,arxiv_1710.06792v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_2305.16981v1
+Oregon Green 488,null,null,null,null,null,No experimental data provided in the paper.,arxiv_1809.02324v2
+Coumarin 343,null,null,null,null,null,No experimental data provided in the paper.,arxiv_1809.02324v2
+null,null,null,null,null,null,null,arxiv_2112.00680v2
+null,null,null,null,null,null,null,arxiv_1009.1602v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1109.6613v2
+poly(3-hexylthiophene),toluene,458,600,null,null,single chromophore in solution,arxiv_1507.06531v1
+poly(3-hexylthiophene,null,458,700,null,null,bulk film emission,arxiv_1507.06531v1
+null,null,null,null,null,null,null,arxiv_1507.06533v1
+poly(3-hexylthiophene),null,null,530,null,null,Conjugated polymer with chromophoric properties influenced by torsional disorder and temperature effects. Single-molecule emission study reports peak at 530 nm.,arxiv_1610.02604v3
+null,null,null,null,null,null,null,arxiv_1704.01795v2
+null,null,null,null,null,null,null,arxiv_1112.5863v2
+null,null,null,null,null,null,null,arxiv_1312.6301v1
+pCT−,water,null,null,null,null,The pCT− anionic photoactive yellow protein chromophore in water was used to develop machine learning models for predicting excited state energy gaps.,arxiv_2005.09776v1
+NileRed,water,null,null,null,null,NileRed in water was analyzed using indirect-solvent and hidden-solvent ML models to predict excited state energy gaps.,arxiv_2005.09776v1
+null,null,null,null,null,null,null,arxiv_2107.01072v1
+null,null,null,null,null,null,null,arxiv_1001.2593v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1010.4903v1
+null,null,null,null,null,null,null,arxiv_2101.01105v2
+null,null,null,null,null,null,null,arxiv_0609075v4
+null,null,null,null,null,null,null,arxiv_1912.00918v1
+null,null,null,null,null,null,null,arxiv_0703073v1
+null,null,null,null,null,null,null,arxiv_1410.5066v1
+null,null,null,null,null,null,null,arxiv_1506.05559v1
+null,null,null,null,null,null,null,arxiv_1607.07993v1
+null,null,null,null,null,null,null,arxiv_1805.09522v1
+null,null,null,null,null,null,null,arxiv_1902.10218v3
+null,null,null,null,null,null,null,arxiv_2003.00980v2
+null,null,null,null,null,null,null,arxiv_1907.00065v2
+DR1,null,null,null,null,null,The paper discusses the shape effects of molecular motors on induced transport but does not provide specific spectroscopic data or quantum yields.,arxiv_1712.00798v1
+null,null,null,null,null,null,null,arxiv_2110.15880v1
+n-methyl-6-oxyquinolinium betaine,water,null,null,null,null,Chromophore used to study solvation dynamics in aqueous solution. Solvent modeled using SWM4-NDP water model.,arxiv_2105.09256v1
+3tBu-n-methyl-6-oxyquinolinium betaine,water,null,null,null,null,Derivative of N-methyl-6-oxyquinolinium betaine with a tert-butyl group at position 3. Used to study solvation dynamics in aqueous solution.,arxiv_2105.09256v1
+null,null,null,null,null,null,null,arxiv_2208.05444v2
+null,null,null,null,null,null,null,arxiv_2310.09142v1
+null,null,null,null,null,null,null,arxiv_1706.02779v1
+null,null,null,null,null,null,null,arxiv_0106085v1
+null,null,null,null,null,null,null,arxiv_0412170v1
+null,null,null,null,null,null,null,arxiv_1012.0244v1
+null,null,null,null,null,null,null,arxiv_1210.6790v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1608.06943v2
+null,null,null,null,null,null,null,arxiv_2108.13943v2
+null,null,null,null,null,null,null,arxiv_2310.17818v1
+null,null,null,null,null,null,null,arxiv_0601147v1
+"dimethyl-2-(benzimidazolyl)ethane-1,2-dione",null,479,null,null,null,Gas-phase absorption spectrum of HBDI anion has a maximum at 479 nm with a full width at half maximum (FWHM) of 45 nm.,arxiv_0902.3775v4
+null,null,null,null,null,null,null,arxiv_1106.6150v1
+1-amino-2-methylanthraquinone,PMMA,null,null,null,null,"Self-healing chromophore in PMMA polymer, does not self-heal in liquid solution.",arxiv_1205.0481v2
+null,null,null,null,null,null,null,arxiv_1206.3300v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1711.11576v2
+null,null,null,null,null,null,null,arxiv_2102.05322v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1801.04924v1
+Modified Perylene diimide (L1),null,330,585,0.001,null,"PDI derivative with phenylamine and neopentyl groups, exhibits enhanced electronic purity in cage structure.",arxiv_2210.16420v1
+Perylene diimide pseudo-cube (C1),null,null,640,0.1,null,"Supramolecular assembly of six PDI derivatives forming a rigid cage, shows delayed fluorescence and an excited multimer state.",arxiv_2210.16420v1
+null,null,null,null,null,null,null,arxiv_2301.05233v3
+Disperse Red 1 (N-Ethyl-N-(2-hydroxyethyl)-4-(4-nitrophenylazo)aniline),null,404,null,null,null,"Chromophore with large dipole moment (8.7 D), aggregates detected at 404 nm",arxiv_2501.19006v1
+Ethyl-[4-(4-nitro-phenylazo)-phenyl]-(2-oxiranylmethoxy-ethyl)-amine (ENPMA),null,null,null,null,null,"Modified DR1 molecule, used as grafted chromophore in films",arxiv_2501.19006v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_9411004v1
+null,null,null,null,null,null,null,arxiv_1003.3857v1
+null,null,null,null,null,null,null,arxiv_1111.4531v1
+null,null,null,null,null,null,null,arxiv_1202.3439v1
+null,null,null,null,null,null,null,arxiv_1212.6804v1
+null,null,null,null,null,null,null,arxiv_1712.05655v1
+null,null,null,null,null,null,null,arxiv_2103.07171v2
+null,null,null,null,null,null,null,arxiv_2203.07176v1
+null,null,null,null,null,null,null,arxiv_2501.15872v1
+null,null,null,null,null,null,null,arxiv_2502.17004v1
+null,null,null,null,null,null,null,arxiv_0602534v1
+null,null,null,null,null,null,null,arxiv_0312002v1
+null,null,null,null,null,null,null,arxiv_1010.1984v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1105.4189v1
+null,null,null,null,null,null,null,arxiv_1303.2074v1
+null,null,null,null,null,null,null,arxiv_1405.3170v1
+"5-methylpyrimidine-2,4(1H,3H)-dione",null,267,null,null,null,Thymine was used in an ultra-high vacuum setup without solvent. It exhibits ππ* and nπ* states involved in internal conversion.,arxiv_1610.08498v1
+null,null,null,null,null,null,null,arxiv_1611.06052v1
+Tri-anisole-heptazine,toluene,400,null,0.69,null,"long lifetime of 287 ns, fluorescence quantum yield of 0.69",arxiv_2006.16634v1
+null,null,null,null,null,null,null,arxiv_1908.08373v1
+null,null,null,null,null,null,null,arxiv_1709.06911v1
+"2,5,8-tris(4-fluoro-3-methylphenyl)-1,3,5,6,9,9b-heptaazaphenalene",toluene,350,525,null,null,IST system with negative ΔST of about -0.25 eV,arxiv_2111.08987v1
+"4,4',4''-(1,3,3a,4,6,7,9-heptaazaphenalene-2,5,8-triyl)tris(N,N-bis(4-(tert-butyl)phenyl)aniline",hexane,475,535,null,null,TADF system with very small positive ΔST of approximately 0.01 eV,arxiv_2111.08987v1
+hexafluoroacetylacetone,null,null,null,null,null,"The paper discusses ultrafast X-ray spectroscopy of intersystem crossing in hexafluoroacetylacetone (HfAcAc), focusing on its photophysics and spectral changes influenced by electron-withdrawing groups.",arxiv_2209.13149v2
+green fluorescent protein chromophore,water,490,null,null,null,Chromophore within GFP with transition energy at 490 nm.,arxiv_2211.09408v2
+null,null,null,null,null,null,null,arxiv_2411.18112v1
+null,null,null,null,null,null,null,arxiv_1109.3416v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_0302074v1
+CF3CHFI,null,null,null,null,null,Algebraic model for vibrational motion of CF3CHFI; discussion of polyads and quantum state assignments.,arxiv_0403053v1
+null,null,null,null,null,null,null,arxiv_0801.1641v1
+null,null,null,null,null,null,null,arxiv_0905.3787v2
+null,null,null,null,null,null,null,arxiv_1001.0809v3
+failed,failed,failed,failed,failed,failed,failed,arxiv_1101.0291v1
+null,null,null,null,null,null,null,arxiv_1106.1986v1
+null,null,null,null,null,null,null,arxiv_1204.5262v3
+failed,failed,failed,failed,failed,failed,failed,arxiv_1301.1088v1
+null,null,null,null,null,null,null,arxiv_1301.6611v1
+null,null,null,null,null,null,null,arxiv_1305.0422v2
+null,null,null,null,null,null,null,arxiv_1309.5165v1
+null,null,null,null,null,null,null,arxiv_1309.5176v1
+null,null,null,null,null,null,null,arxiv_1311.2091v1
+null,null,null,null,null,null,null,arxiv_1409.1091v2
+null,null,null,null,null,null,null,arxiv_1606.09077v1
+null,null,null,null,null,null,null,arxiv_1607.03247v1
+null,null,null,null,null,null,null,arxiv_1612.05398v1
+null,null,null,null,null,null,null,arxiv_1701.05723v4
+null,null,null,null,null,null,null,arxiv_1706.00579v2
+"Poly([4,8-bis[(2-ethylhexyl)oxy]benzo[1,2-b:4,5-b′]dithiophene-2,6-diyl][3-fluoro-2-[(2-ethylhexyl)carbonyl]thieno[3,4-b]thiophenediyl])",toluene,620,675,0.02,null,Solvent: toluene; True optical gap higher due to aggregation; Quantum yield of 2%.,arxiv_1802.04570v1
+null,null,null,null,null,null,null,arxiv_1802.06616v1
+null,null,null,null,null,null,null,arxiv_1804.05939v1
+null,null,null,null,null,null,null,arxiv_1808.06824v1
+"5,10-bis(triisopropylsilyl)pentacene",CHCl3,650,null,null,Increased (visible region),null,arxiv_1812.07648v1
+"2,2'-bipentacene",CHCl3,500,null,null,Increased (visible region),null,arxiv_1812.07648v1
+"1,1'-bipentacene",CHCl3,null,null,null,No additional absorption,null,arxiv_1812.07648v1
+"2,2'-ethene-linked bipentacene",CHCl3,500,null,null,Increased (visible region),null,arxiv_1812.07648v1
+null,null,null,null,null,null,null,arxiv_1905.11552v1
+ATTO647N,aqueous solution with MgCl2 and ROXS,null,null,0.85,null,Used in DNA origami structures; benefits from reducing and oxidizing system (ROXS) for stability,arxiv_2009.13177v1
+PPEB polymers,chloroform/acetone mixture,null,null,null,null,Form H-type or J-type aggregates; used in mesoscopic studies of exciton diffusion,arxiv_2009.13177v1
+null,null,null,null,null,null,null,arxiv_1907.10180v3
+null,null,null,null,null,null,null,arxiv_1811.10526v2
+null,null,null,null,null,null,null,arxiv_2201.02324v1
+null,null,null,null,null,null,null,arxiv_2309.12274v1
+Rhodamine 6G,methanol,null,null,null,null,0.4 mM solution in methanol,arxiv_2410.06199v1
+CdSe nanoplatelets,hexane,null,null,null,null,1 mg/ml concentration in hexane,arxiv_2410.06199v1
+green fluorescent protein (GFP) chromophore motif,null,510,null,null,null,used in imaging applications; covalently bound within proteins affecting optical properties,arxiv_1008.4982v2
+null,null,null,null,null,null,null,arxiv_1502.07842v3
+null,null,null,null,null,null,null,arxiv_0307257v1
+null,null,null,null,null,null,null,arxiv_0501422v1
+null,null,null,null,null,null,null,arxiv_0507078v1
+null,null,null,null,null,null,null,arxiv_0608300v2
+null,null,null,null,null,null,null,arxiv_0705.3022v1
+null,null,null,null,null,null,null,arxiv_0806.4725v2
+null,null,null,null,null,null,null,arxiv_1103.1142v1
+null,null,null,null,null,null,null,arxiv_1201.2306v1
+null,null,null,null,null,null,null,arxiv_1204.4490v2
+null,null,null,null,null,null,null,arxiv_1403.3045v1
+null,null,null,null,null,null,null,arxiv_1603.07182v1
+null,null,null,null,null,null,null,arxiv_1901.01234v2
+null,null,null,null,null,null,null,arxiv_1912.03003v1
+null,null,null,null,null,null,null,arxiv_2006.13559v1
+null,null,null,null,null,null,null,arxiv_1502.05613v1
+null,null,null,null,null,null,null,arxiv_1801.08789v2
+null,null,null,null,null,null,null,arxiv_2303.01376v1
+"3-(3,4-Dihydroxyphenyl)-DL-alanine",null,null,null,null,null,Catecholamine- like molecule used for fluorescence enhancement through coassembly with peptides.,arxiv_2307.00813v1
+dopamine,null,null,null,null,null,Forms green fluorescent nanostructures upon oxidation and coassembly with tripeptides.,arxiv_2307.00813v1
+norepinephrine,null,null,null,null,null,Coassembled with GYK to form structures with redshifted fluorescence.,arxiv_2307.00813v1
+epinephrine,null,null,null,null,null,Used in coassemblies showing further redshift and enhanced intensity.,arxiv_2307.00813v1
+isoprenaline,null,null,null,null,null,Coassembly results in significant fluorescence enhancement.,arxiv_2307.00813v1
+null,null,null,null,null,null,null,arxiv_2411.12489v1
+biliverdin IXα,null,660,null,null,null,"tetrapyrrole chromophore covalently bound to phytochrome, involved in photoreversibility between Pr and Pfr states",arxiv_0809.1067v2
+null,null,null,null,null,null,null,arxiv_0910.2272v1
+null,null,null,null,null,null,null,arxiv_1103.5502v1
+null,null,null,null,null,null,null,arxiv_1512.04806v1
+"poly(2,5-di(hexyloxy)cyanoterephthalylidene)",chloroform,540,637.5,null,null,Exciton migration length of 16 nm observed in CN-PPV films with diffusive transport.,arxiv_1706.08460v2
+null,null,null,null,null,null,null,arxiv_1905.09002v1
+null,null,null,null,null,null,null,arxiv_1912.09998v1
+GE133,null,450,null,null,null,Push-pull chromophore with large Stokes shift embedded in a MIM cavity; absorbance range 400-500 nm.,arxiv_2004.09902v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_2102.06615v1
+null,null,null,null,null,null,null,arxiv_2102.13579v1
+null,null,null,null,null,null,null,arxiv_1908.00276v1
+"2,6-difluorophenylacetylene",null,281.77,null,null,null,Forms weak hydrogen-bonded complexes with dimethylamine (DMA) and trimethylamine (TMA); excited via resonant two-photon excitation at 4.4 eV leading to intermolecular Coulombic decay (ICD) processes.,arxiv_2010.06494v2
+1-methyl-6-oxyquinolinium betaine,water,null,null,null,null,Chromophore used as a probe for solvation dynamics around trehalose. The time-dependent Stokes shift measures solvent relaxation after excitation of the chromophore.,arxiv_2105.09236v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_2107.06587v1
+null,null,null,null,null,null,null,arxiv_2109.09737v1
+null,null,null,null,null,null,null,arxiv_2110.01418v1
+tyrosine,null,null,null,null,null,involved in energy transfer but no specific data provided,arxiv_2208.10628v1
+null,null,null,null,null,null,null,arxiv_2208.11397v1
+null,null,null,null,null,null,null,arxiv_2210.02315v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_2307.03883v1
+null,null,null,null,null,null,null,arxiv_2312.03783v1
+Tryptophan,BRB80,280,null,0.124,null,"Tryptophan networks exhibit superradiance and high quantum yield enhancements in biological structures like microtubules, actin filaments, and amyloid fibrils.",arxiv_2406.15403v1
+"[oxo(10,20-diphenylporphyrinato-5-yl)vanadium(IV)]-10,20-diphenylporphyrin",toluene,640,null,null,null,The absorption peak at 640 nm allows selective excitation of the free base porphyrin in the dimer.,arxiv_2408.02104v1
+null,null,null,null,null,null,null,arxiv_2501.02212v1
+null,null,null,null,null,null,null,arxiv_1308.4889v1
+null,null,null,null,null,null,null,arxiv_1410.0986v2
+Hemoglobin,null,null,null,null,null,"Dominant chromophore in tissue, absorbs strongly below 300 nm and above 1000 nm.",arxiv_1612.08743v1
+Oxyhemoglobin,null,null,null,null,null,"Carries oxygen, found inside red blood cells.",arxiv_1612.08743v1
+Cytochrome Oxidase,null,null,null,null,null,"Enzyme ending cellular respiratory chain, located in mitochondrial membrane.",arxiv_1612.08743v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1703.09614v3
+failed,failed,failed,failed,failed,failed,failed,arxiv_2010.04256v1
+null,null,null,null,null,null,null,arxiv_2012.06740v1
+null,null,null,null,null,null,null,arxiv_2111.06996v2
+failed,failed,failed,failed,failed,failed,failed,arxiv_2204.12217v1
+Chlorophyll a,null,620,null,null,null,Computed using GW-BSE method for monomers and dimers.,arxiv_2205.08360v2
+Pheophytin a,null,620,null,null,null,Included in the hexameric complex calculations.,arxiv_2205.08360v2
+10-methylphenothiazinyl-terpyridyl-ruthenium(II) complex,CH2Cl2,563,null,null,0.315 (563 nm),null,arxiv_2304.14261v1
+null,null,null,null,null,null,null,arxiv_0510790v1
+null,null,null,null,null,null,null,arxiv_0104009v2
+null,null,null,null,null,null,null,arxiv_0209392v1
+null,null,null,null,null,null,null,arxiv_0303488v1
+null,null,null,null,null,null,null,arxiv_0404504v1
+null,null,null,null,null,null,null,arxiv_0509444v1
+null,null,null,null,null,null,null,arxiv_0605018v1
+null,null,null,null,null,null,null,arxiv_0703217v1
+null,null,null,null,null,null,null,arxiv_0102059v1
+null,null,null,null,null,null,null,arxiv_0212064v1
+null,null,null,null,null,null,null,arxiv_0403052v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_0601042v1
+null,null,null,null,null,null,null,arxiv_0609160v1
+null,null,null,null,null,null,null,arxiv_0502012v1
+null,null,null,null,null,null,null,arxiv_0607127v3
+failed,failed,failed,failed,failed,failed,failed,arxiv_0704.3560v2
+null,null,null,null,null,null,null,arxiv_0707.1442v1
+adenine,null,248,null,null,null,"TDDFT calculated vertical singlet excitation energies of adenine at 5.00 eV (S1), 5.29 eV (S2), and 5.38 eV (S3).",arxiv_0708.1128v1
+thymine,null,262,null,null,null,TDDFT calculated vertical singlet excitation energies of thymine at 4.74 eV (nπ∗) and 5.22 eV (ππ∗).,arxiv_0708.1128v1
+guanine,null,270,null,null,null,"TDDFT calculated vertical singlet excitation energies of guanine at 4.89 eV (πσ∗), 5.07 eV (S2), and 5.42 eV (S3).",arxiv_0708.1128v1
+cytosine,null,261,null,null,null,TDDFT calculated vertical singlet excitation energies of cytosine at 4.78 eV (ππ∗) and 4.70 eV (nπ∗).,arxiv_0708.1128v1
+null,null,null,null,null,null,null,arxiv_0802.2388v1
+null,null,null,null,null,null,null,arxiv_0805.3829v1
+null,null,null,null,null,null,null,arxiv_0809.0039v3
+failed,failed,failed,failed,failed,failed,failed,arxiv_0906.3914v1
+null,null,null,null,null,null,null,arxiv_0911.5320v4
+null,null,null,null,null,null,null,arxiv_0912.0122v2
+null,null,null,null,null,null,null,arxiv_1002.2843v1
+null,null,null,null,null,null,null,arxiv_1005.3695v1
+null,null,null,null,null,null,null,arxiv_1010.5598v1
+lazurite,null,null,null,null,null,"blue pigment, Islamic production",arxiv_1012.1465v1
+lead tin yellow type II,null,null,null,null,null,"yellow pigment, Renaissance period",arxiv_1012.1465v1
+calcium antimonate,null,null,null,null,null,"white pigment, antiquity",arxiv_1012.1465v1
+chromate,null,null,null,null,null,"blue pigment, 18th century",arxiv_1012.1465v1
+calcium arsenate,null,null,null,null,null,"pink/striped beads, European origin",arxiv_1012.1465v1
+Fe-Scromophore,null,null,null,null,null,"black pigment, Mapungubwe oblates",arxiv_1012.1465v1
+spinel,null,null,null,null,null,"black pigment, Fe3O4 or substituted homologues",arxiv_1012.1465v1
+null,null,null,null,null,null,null,arxiv_1201.5849v1
+null,null,null,null,null,null,null,arxiv_1208.2086v3
+coumarin C343,null,360,null,0.57,null,Coumarin-based dye for DSSCs,arxiv_1209.1900v1
+NKX-2388 s-trans,null,351,null,0.88,null,Coumarin-based dye for DSSCs,arxiv_1209.1900v1
+NKX-2388 s-cis,null,351,null,0.8,null,Coumarin-based dye for DSSCs,arxiv_1209.1900v1
+NKX-2311 s-cis,null,347,null,1,null,Coumarin-based dye for DSSCs,arxiv_1209.1900v1
+null,null,null,null,null,null,null,arxiv_1210.6665v2
+null,null,null,null,null,null,null,arxiv_1212.4069v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1310.6826v1
+null,null,null,null,null,null,null,arxiv_1405.3485v1
+null,null,null,null,null,null,null,arxiv_1409.1930v1
+null,null,null,null,null,null,null,arxiv_1412.8743v2
+null,null,null,null,null,null,null,arxiv_1501.05679v1
+null,null,null,null,null,null,null,arxiv_1501.07710v2
+null,null,null,null,null,null,null,arxiv_1504.01966v2
+null,null,null,null,null,null,null,arxiv_1504.05014v1
+null,null,null,null,null,null,null,arxiv_1505.02346v2
+Disperse Orange 11,PMMA,null,null,null,null,DO11/PMMA exhibits reversible photodegradation with high photostability. The system shows a large irreversible IQE and recovery rate independent of wavelength.,arxiv_1509.08508v1
+null,null,null,null,null,null,null,arxiv_1601.02579v1
+"1-amino, 2,4-dibromo anthraquinone",PMMA,488,575,null,null,Solvent is PMMA polymer.,arxiv_1611.00383v1
+null,null,null,null,null,null,null,arxiv_1611.05089v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1612.01332v1
+poly(para-phenylene-ethynylene-butadiynylene) (PPEB),PMMA/toluene,465,500,null,null,Single-chain PPEB shows structured PL with 0-0 peak at 465 nm and vibronic progression up to 520 nm.,arxiv_1612.02976v1
+null,null,null,null,null,null,null,arxiv_1701.02259v4
+null,null,null,null,null,null,null,arxiv_1706.00156v2
+null,null,null,null,null,null,null,arxiv_1706.03565v1
+magnesium tetrabenzoporphyrin,pyridine,442.8,null,null,1.5e6 (4428 nm),"used in pyridine solution, Soret band at 4428Å",arxiv_1706.04273v1
+h2tetrabenzoporphyrin,pyridine,438.5,null,null,null,part of grains matrix,arxiv_1706.04273v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1711.03460v2
+null,null,null,null,null,null,null,arxiv_1806.10941v2
+perylene,toluene,435,600,0.98,null,part of rylene dyad studied in toluene solvent,arxiv_1808.02467v1
+benzoperylene,toluene,550,620,0.98,null,part of rylene dyad studied in toluene solvent,arxiv_1808.02467v1
+S-13-obisim,toluene,435,580,0.98,null,part of rylene dyad studied in toluene solvent,arxiv_1808.02467v1
+terylene,toluene,435,620,0.98,null,part of rylene dyad studied in toluene solvent,arxiv_1808.02467v1
+TbPO4·D2O,D2O,426.5,650,0.3,null,Excited at 365 nm and 488 nm; emission peaks at 596 nm and 650 nm with high dissymmetry.,arxiv_1808.05626v1
+null,null,null,null,null,null,null,arxiv_1809.09618v1
+null,null,null,null,null,null,null,arxiv_1812.00227v2
+null,null,null,null,null,null,null,arxiv_1902.05839v1
+null,null,null,null,null,null,null,arxiv_1902.10583v2
+null,null,null,null,null,null,null,arxiv_1904.06718v1
+null,null,null,null,null,null,null,arxiv_1910.14355v1
+null,null,null,null,null,null,null,arxiv_2006.12291v1
+null,null,null,null,null,null,null,arxiv_2108.13337v1
+coumarin,null,null,null,null,null,Coumarin forms a single bond with the nanowire surface.,arxiv_1407.1331v1
+C21H20N2SO2,null,null,null,null,null,C2-1 exhibits bidentate mode adsorption on the nanowire surfaces.,arxiv_1407.1331v1
+null,null,null,null,null,null,null,arxiv_1903.03972v1
+deoxyguanosine hexamer,null,257.5,null,null,null,Action spectroscopy data provided without specific solvent details.,arxiv_1903.04412v1
+deoxyadenosine hexamer,null,267.5,null,null,null,Action spectroscopy data provided without specific solvent details.,arxiv_1903.04412v1
+deoxycytidine hexamer,null,275,null,null,null,Action spectroscopy data provided without specific solvent details.,arxiv_1903.04412v1
+thymidine hexamer,null,262.5,null,null,null,Action spectroscopy data provided without specific solvent details.,arxiv_1903.04412v1
+null,null,null,null,null,null,null,arxiv_1903.05167v1
+null,null,null,null,null,null,null,arxiv_2101.10796v1
+null,null,null,null,null,null,null,arxiv_1502.01324v1
+Disperse Red 1,null,null,null,null,null,Study focuses on isomerization-induced molecular motions and diffusion thresholds in azobenzene-containing materials.,arxiv_1712.00786v1
+null,null,null,null,null,null,null,arxiv_1712.09398v1
+BF2bcz,CHCl3,null,null,null,null,"The chromophore BF2bcz (C31H25BF2N2O2) was used as a donor in the nanocrystals. The acceptors BF2cna and BF2dan were also mentioned but their IUPAC names were not provided. The emission spectrum of BF2bcz is in green light, which typically corresponds to wavelengths around 500-570 nm, but exact values were not specified. The quantum yield for BF2bcz was not explicitly stated in the provided text.",arxiv_1811.10131v1
+null,null,null,null,null,null,null,arxiv_2005.13409v2
+null,null,null,null,null,null,null,arxiv_2103.17035v1
+null,null,null,null,null,null,null,arxiv_2111.07253v2
+all-trans retinal,null,null,null,null,null,Chromophore embedded in bacteriorhodopsin protein with nonlinear optical properties.,arxiv_1108.0200v1
+magnesium meso tetraphenylporphyrin dimers,DSPC liposome,604,null,null,null,MgTPP dimer in T-shaped geometry within DSPC liposomes studied using PM-2D FS method,arxiv_1108.1143v1
+phycoerythrobilin,null,null,null,null,null,Phycoerythrobilin is a chromophore in the PE545 complex of cryptophyte algae CS24.,arxiv_1108.5297v1
+dihydrobiliverdin,null,null,null,null,null,"Dihydrobiliverdin is another chromophore in the PE545 complex, redshifted compared to phycoerythrobilin.",arxiv_1108.5297v1
+Phycocyanobilin α84,10 mM Potassium Phosphate,620,null,null,null,Absorption peak in dry phase,arxiv_1707.00817v1
+Phycocyanobilin β84,10 mM Potassium Phosphate,null,null,null,null,Dominant luminescence contributor (~93%),arxiv_1707.00817v1
+Phycocyanobilin β155,10 mM Potassium Phosphate,null,null,null,null,Minor luminescence contributor (~7%),arxiv_1707.00817v1
+null,null,null,null,null,null,null,arxiv_1710.03684v1
+null,null,null,null,null,null,null,arxiv_1710.10910v1
+null,null,null,null,null,null,null,arxiv_1802.00096v1
+azide anion,helium,null,null,null,null,The azide anion is a stable chromophore with a detachment energy of 2.68 eV and is suggested to be the chromophore in nitrogen cluster anions.,arxiv_1805.00835v1
+Flavin Adenine Dinucleotide,methanol,346,null,null,null,FAD mono-anion in neutral oxidized state with one phosphoric acid group deprotonated.,arxiv_1805.05140v1
+null,null,null,null,null,null,null,arxiv_1805.05733v1
+null,null,null,null,null,null,null,arxiv_1905.02978v1
+bacteriochlorophyll a,1-propanol,775,802,null,null (667-857 nm),photosynthetic pigment; excited-state dynamics and vibrational coherences studied in solution,arxiv_2010.07664v1
+null,null,null,null,null,null,null,arxiv_2010.08312v1
+null,null,null,null,null,null,null,arxiv_2011.00532v1
+retinal chromophore,null,null,null,0.55,null,"The steady-state quantum yield varies dramatically with small changes in system parameters, suggesting a possible link to quantum chaos.",arxiv_2011.14342v3
+null,null,null,null,null,null,null,arxiv_2104.12614v1
+null,null,null,null,null,null,null,arxiv_2105.13476v1
+null,null,null,null,null,null,null,arxiv_2106.10817v2
+null,null,null,null,null,null,null,arxiv_2107.06682v1
+null,null,null,null,null,null,null,arxiv_2107.11112v1
+null,null,null,null,null,null,null,arxiv_2110.09895v2
+null,null,null,null,null,null,null,arxiv_2202.00533v2
+anthracene,null,694,null,null,null,peak absorption at 694 nm,arxiv_2202.01326v1
+tetracene,null,null,null,null,null,undergoes endothermic SF with high triplet yields,arxiv_2202.01326v1
+pentacene,null,null,null,null,null,exhibits quantitative SF in neat films,arxiv_2202.01326v1
+phenyl-substituted tetracene,null,null,null,null,null,maintains high SF yield despite molecular disorder,arxiv_2202.01326v1
+diphenylisobenzofuran (DPIBF),null,null,null,0.7,null,engineered for SF with high triplet yields in α polymorph,arxiv_2202.01326v1
+perylenediimide (PDI),null,null,null,0.7,null,undergoes endothermic SF with slow rates,arxiv_2202.01326v1
+terylene diimide (TDI),null,null,null,null,null,maintains quantitative SF with weak endothermicity,arxiv_2202.01326v1
+spirilloxanthin,null,null,null,0.15,null,observed in photosynthetic bacteria with high triplet yields,arxiv_2202.01326v1
+null,null,null,null,null,null,null,arxiv_2202.07534v1
+"3,3'-bis(2-hydroxyphenyl)phthalidinedione",implicit,null,null,null,null,Calculations performed on phenolphthalein in implicit solvent using PBE0 functional with PBE-optimised NGWFs.,arxiv_2203.04710v1
+null,null,null,null,null,null,null,arxiv_2203.06736v1
+null,null,null,null,null,null,null,arxiv_2203.16120v1
+null,null,null,null,null,null,null,arxiv_2206.10882v1
+null,null,null,null,null,null,null,arxiv_2208.10187v2
+"1,3-bis(phenylethynyl)benzene",null,296,319,null,null,Unusual Stokes shift of about 2000 cm⁻¹ reported in emission spectrum.,arxiv_2301.05862v2
+diphenylacetylene (tolane),null,278,297,null,null,Theoretical study on absorption and emission spectra.,arxiv_2301.05862v2
+null,null,null,null,null,null,null,arxiv_2301.09329v2
+"7,8-dimethyl-10H-benzo[g]pteridine-2,4(3H,10H)-dione",null,760,null,null,null,ETPA cross-section of approximately 220 GM at 760 nm,arxiv_2303.00574v1
+9-(dimethoxytrityl)camptothecin,null,640,null,null,null,ETPA cross-section of approximately 188 GM at 640 nm,arxiv_2303.00574v1
+null,null,null,null,null,null,null,arxiv_2303.02277v1
+null,null,null,null,null,null,null,arxiv_2304.06884v2
+null,null,null,null,null,null,null,arxiv_2305.16861v1
+null,null,null,null,null,null,null,arxiv_2305.17265v2
+null,null,null,null,null,null,null,arxiv_2311.13796v1
+null,null,null,null,null,null,null,arxiv_2312.01727v3
+helium dimer,null,null,null,null,null,triplet excitation-energy transfer (TEET) couplings studied using subsystem time-dependent density-functional theory (sTDDFT),arxiv_2312.07123v1
+fluoroethylene dimer,null,null,null,null,null,HOMO(π)→LUMO(π*) triplet excitation studied in fluoroethylene dimer,arxiv_2312.07123v1
+perylenediimide dimer,water,null,null,null,null,TEET couplings investigated in solvated PDI dimers with explicit solvent effects,arxiv_2312.07123v1
+null,null,null,null,null,null,null,arxiv_2402.06911v1
+pentacene,null,520,630,0.63,null,Room-temperature optically detected coherent control of molecular spins in pentacene:para-terphenyl system with high photoluminescence contrast and microsecond coherence times.,arxiv_2402.07572v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_2403.03316v1
+null,null,null,null,null,null,null,arxiv_2408.02975v1
+null,null,null,null,null,null,null,arxiv_2409.05548v1
+"3,10 para",THF,null,null,0.76,null,"Perylene dimer with 3,10 substitution pattern in para configuration.",arxiv_2409.17393v1
+"3,9 para",THF,null,null,0.57,null,"Perylene dimer with 3,9 substitution pattern in para configuration.",arxiv_2409.17393v1
+"3,10 ortho",THF,null,null,0.57,null,"Perylene dimer with 3,10 substitution pattern in ortho configuration.",arxiv_2409.17393v1
+"3,9 ortho",THF,null,null,0.49,null,"Perylene dimer with 3,9 substitution pattern in ortho configuration.",arxiv_2409.17393v1
+azobenzene,DPPC,563,null,0.24,null,trans isomer with slower photoisomerization due to steric hindrance,arxiv_2410.06649v1
+null,null,null,null,null,null,null,arxiv_2411.14134v1
+null,null,null,null,null,null,null,arxiv_2411.18643v1
+null,null,null,null,null,null,null,arxiv_2502.09347v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_2502.17820v1
+null,null,null,null,null,null,null,arxiv_9912415v1
+null,null,null,null,null,null,null,arxiv_0903.4255v1
+null,null,null,null,null,null,null,arxiv_1002.0954v1
+null,null,null,null,null,null,null,arxiv_1006.4866v3
+null,null,null,null,null,null,null,arxiv_1104.2943v2
+null,null,null,null,null,null,null,arxiv_1201.0156v2
+spiropyran,null,250,null,null,null,"Spiropyran isomerizes upon UV photoexcitation or mechanical stress to form a charge-separated merocyanine state, creating a dipole moment of 11.5 Debye.",arxiv_1202.0809v1
+null,null,null,null,null,null,null,arxiv_1205.5519v1
+null,null,null,null,null,null,null,arxiv_1207.2464v1
+null,null,null,null,null,null,null,arxiv_1208.2477v2
+failed,failed,failed,failed,failed,failed,failed,arxiv_1210.2111v2
+null,null,null,null,null,null,null,arxiv_1403.0569v1
+null,null,null,null,null,null,null,arxiv_1404.1452v1
+null,null,null,null,null,null,null,arxiv_1406.4330v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1412.3554v1
+null,null,null,null,null,null,null,arxiv_1501.06674v1
+null,null,null,null,null,null,null,arxiv_1503.01714v2
+null,null,null,null,null,null,null,arxiv_1703.07267v2
+null,null,null,null,null,null,null,arxiv_1704.05662v1
+null,null,null,null,null,null,null,arxiv_1704.08137v1
+null,null,null,null,null,null,null,arxiv_1711.02954v1
+null,null,null,null,null,null,null,arxiv_1711.11036v1
+null,null,null,null,null,null,null,arxiv_1806.07655v2
+null,null,null,null,null,null,null,arxiv_1809.03438v1
+"4-(N,N-dimethyl-amino)-4'-(2,3,5,6-tetrafluorostyryl)-stilbene",null,null,null,null,null,Push-pull dye exhibiting intramolecular charge transfer (ICT) behavior and forming J-aggregates with red-shifted absorption.,arxiv_1809.08563v1
+null,null,null,null,null,null,null,arxiv_1810.11432v1
+null,null,null,null,null,null,null,arxiv_1906.00893v1
+null,null,null,null,null,null,null,arxiv_2003.08805v3
+zinc oxide,chloroform/ethanol mixture,374,383,null,null,ZnO NWs show optical gain in the UV range with an ASE threshold of 650 μJ/cm².,arxiv_2006.15392v1
+null,null,null,null,null,null,null,arxiv_1112.2563v1
+null,null,null,null,null,null,null,arxiv_1911.05711v1
+null,null,null,null,null,null,null,arxiv_2001.07180v3
+null,null,null,null,null,null,null,arxiv_1709.06338v2
+null,null,null,null,null,null,null,arxiv_1709.07490v2
+chlorophyll,chloroform,null,null,null,null,Chlorophyll used in a tetramer model for photosynthetic energy transfer simulation.,arxiv_1801.09475v2
+null,null,null,null,null,null,null,arxiv_1909.08925v1
+dibenzoterrylene,null,null,785,null,null,DBT in anthracene (Ac) matrix with quadratic Stark effect.,arxiv_2005.12199v1
+null,null,null,null,null,null,null,arxiv_2103.13122v1
+indole,water,287,null,null,null,solvation effects and hydrogen bonding interactions observed,arxiv_2205.08217v3
+null,null,null,null,null,null,null,arxiv_1012.3451v1
+cyanothyl dye,water,549,null,null,null,used in DNA constructs for biophysical studies,arxiv_1802.05298v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1907.04604v1
+null,null,null,null,null,null,null,arxiv_2002.08896v1
+null,null,null,null,null,null,null,arxiv_2002.12465v2
+null,null,null,null,null,null,null,arxiv_2009.03429v2
+null,null,null,null,null,null,null,arxiv_2010.02832v2
+null,null,null,null,null,null,null,arxiv_2011.03397v2
+null,null,null,null,null,null,null,arxiv_2011.04847v1
+DBT (dibenzoterrylene),anthracene,785,null,1,null,"High quantum yield, used as single-photon source",arxiv_2011.05059v2
+Tr (terrylene),p-terphenyl,null,null,null,null,Used in early single-molecule fluorescence detection,arxiv_2011.05059v2
+DBATT (dibenzanthanthrene),null,null,null,null,null,Part of the PAH family used in quantum technologies,arxiv_2011.05059v2
+Pentacene,p-terphenyl,null,null,null,null,Early demonstrations of single-molecule fluorescence,arxiv_2011.05059v2
+Perylene,null,null,null,null,null,Used in various molecular crystals for quantum emitters,arxiv_2011.05059v2
+null,null,null,null,null,null,null,arxiv_2105.10885v1
+null,null,null,null,null,null,null,arxiv_2110.12897v1
+null,null,null,null,null,null,null,arxiv_2112.05418v5
+retinyl chromophore,null,500,null,null,null,The retinal chromophore in rhodopsin is described as undergoing photoisomerization with a quantum yield of approximately 70%.,arxiv_2203.00527v2
+failed,failed,failed,failed,failed,failed,failed,arxiv_2209.12042v2
+failed,failed,failed,failed,failed,failed,failed,arxiv_2210.14421v1
+null,null,null,null,null,null,null,arxiv_2210.14912v1
+null,null,null,null,null,null,null,arxiv_2211.08513v2
+null,null,null,null,null,null,null,arxiv_2304.04305v1
+"E)-3-methyl-4-(2-(3'-(methylsulfonamido)-[1,1'-biphenyl]-4-yl)vinyl)benzoate",acetonitrile,336,null,null,null,novel chromophore with absorption maximum wavelength of 336 nm,arxiv_2304.05376v5
+failed,failed,failed,failed,failed,failed,failed,arxiv_2304.13123v1
+null,null,null,null,null,null,null,arxiv_2307.05257v2
+null,null,null,null,null,null,null,arxiv_2307.12805v1
+PT-symmetric chromophore dimer,null,null,null,null,null,Non-hermitian PT-symmetric chromophore dimer with exceptional points enhancing vibrationally assisted energy transfer (VAET) through phonon absorption.,arxiv_2309.02819v3
+"p-hydroxybenzylidene-2,3-dimethylimidazolinone (HBDI-)",water,null,null,null,null,The anionic GFP chromophore was studied in water using machine learning potentials. The system consisted of the chromophore with 167 solvating waters for a total of 528 atoms in a periodic orthorhombic cell.,arxiv_2310.03121v2
+azine-1N,null,null,null,null,null,Theoretical study of singlet-triplet gap inversion in azine-1N.,arxiv_2311.17602v2
+azine-4N,null,null,null,null,null,Theoretical study of singlet-triplet gap inversion in azine-4N.,arxiv_2311.17602v2
+azine-7N,null,null,null,null,null,Theoretical study of singlet-triplet gap inversion in azine-7N.,arxiv_2311.17602v2
+null,null,null,null,null,null,null,arxiv_2402.08518v1
+null,null,null,null,null,null,null,arxiv_2402.13898v2
+null,null,null,null,null,null,null,arxiv_2404.10016v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_2406.05595v1
+bacteriochlorophyll a,null,800,null,null,null,"part of LH2 complex, involved in energy transfer with ~830 fs timescale",arxiv_2406.06784v1
+null,null,null,null,null,null,null,arxiv_2407.04232v1
+null,null,null,null,null,null,null,arxiv_2407.08624v1
+null,null,null,null,null,null,null,arxiv_2408.04915v1
+"1,7-bis(2,4,6-tris-(3,5-di-tert-butylphenyl)-phenoxy)perylene-3,4:9,10-bis(dicarboximide)",dichloromethane,561,null,0.6,null,High photostability and monomer-like absorption/emission properties in solid state; used in microcavities for polariton lasing at room temperature.,arxiv_2409.12093v1
+null,null,null,null,null,null,null,arxiv_2411.14675v3
+null,null,null,null,null,null,null,arxiv_2412.12068v2
+null,null,null,null,null,null,null,arxiv_1001.5108v1
+null,null,null,null,null,null,null,arxiv_1403.4787v2
+null,null,null,null,null,null,null,arxiv_1603.08013v1
+null,null,null,null,null,null,null,arxiv_1612.07948v1
+failed,failed,failed,failed,failed,failed,failed,arxiv_1701.00957v1
+null,null,null,null,null,null,null,arxiv_1901.01323v1
+null,null,null,null,null,null,null,arxiv_1801.08964v2
+null,null,null,null,null,null,null,arxiv_1811.01618v1
+null,null,null,null,null,null,null,arxiv_1909.05493v1
+null,null,null,null,null,null,null,arxiv_2007.01581v3
+null,null,null,null,null,null,null,arxiv_2007.04314v2
+null,null,null,null,null,null,null,arxiv_2204.06315v1
+null,null,null,null,null,null,null,arxiv_2205.10393v1
+null,null,null,null,null,null,null,arxiv_1907.09430v2
+null,null,null,null,null,null,null,arxiv_2104.01462v1
+null,null,null,null,null,null,null,arxiv_2206.14485v4
+null,null,null,null,null,null,null,arxiv_2306.08574v3
+null,null,null,null,null,null,null,arxiv_2407.09060v2
+null,null,null,null,null,null,null,arxiv_2411.04834v1
+heptazine,null,289,null,null,null,The heptazine molecule is the building block of graphitic carbon nitride (g-C3N4). The hydrogen-bonded Hz·  ·  · H2O complex was studied for its photochemical properties.,arxiv_2412.00400v1
+heptazine-water complex,null,289,null,null,null,The hydrogen-bonded Hz·  ·  · H2O complex exhibits ultrafast internal conversion dynamics and proton transfer processes.,arxiv_2412.00400v1
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2025-wdwsh
+"1,3,6,8-tetrakis(4-ethynylbenzoic acid)pyrene",DMSO,469,509,0.74,null,"nanofibers promote H2 production (84 mmol g⁻¹ h⁻¹), nanoparticles produce H2O2 (71 mmol g⁻¹ h⁻¹)",chemrxiv_10.26434_SLASH_chemrxiv-2025-4dncx
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-3ndrr
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-592hr
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-j1pnk
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-xzkx7
+15,dichloromethane,428,428,0.38,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+16,dichloromethane,450,455,0.07,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+17,dichloromethane,465,465,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+18,dichloromethane,480,480,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+23,dichloromethane,485,485,0.02,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+24,dichloromethane,530,530,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+25a,dichloromethane,502,490,0.06,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+25b,dichloromethane,495,485,0.04,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+19a,dichloromethane,535,535,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+20a,dichloromethane,525,525,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+21a,dichloromethane,485,480,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+19b,dichloromethane,530,530,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+20b,dichloromethane,510,510,0.05,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+21g,dichloromethane,495,488,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+19c,dichloromethane,510,510,0.01,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+20c,dichloromethane,465,465,0.06,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+21c,dichloromethane,453,444,0.02,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+21f,dichloromethane,495,490,0.04,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+29,dichloromethane,520,520,0.05,ε = 11800–38500 M⁻¹·cm⁻¹,PMMA film data available,chemrxiv_10.26434_SLASH_chemrxiv-2025-5733v
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2025-1mqbt
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-k9rtv
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-v9kjf
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-cjls7-v2
+"1,3-diphenyl-1,3-propanedione (dbm)",dichloromethane,755,null,null,null,Distorted square antiprism geometry with DyO6N2 environment,chemrxiv_10.26434_SLASH_chemrxiv-2025-tnhwp
+acetylacetonate (acac),dichloromethane,755,484,null,null,Distorted square antiprism geometry with DyO6N2 environment and significant thermometric performance,chemrxiv_10.26434_SLASH_chemrxiv-2025-tnhwp
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2025-chsf0-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-6x911
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-99d55
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-9hcdq-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-56x1p
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-3k0zn
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-s5ndl
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2025-kp7jf
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8tqvn-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-fhzdt-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-jd2bq-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-m46z4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-t2rtl
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-b5xlm
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-346s1
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-42hh2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-9t0z9
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-j0pmk
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-4vn1q-v4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-vc37r
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-cw0kl
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2pc7l-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-gnpvz-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-zql2w
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-fd2hp
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-sz3pn
+tri(9-anthryl)borane,toluene,null,null,null,null,trimer- type fluorescent molecule with three anthracenes linked via boron,chemrxiv_10.26434_SLASH_chemrxiv-2025-fkfwh
+"9,10-diphenylanthracene",toluene,null,null,null,null,anthracene monomer derivative used as TTA emitter,chemrxiv_10.26434_SLASH_chemrxiv-2025-fkfwh
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-ctvjv
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-pl8s1
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-vdjb1-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-3tg1x-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-5krws
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-jjcbv
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-2xq3l
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-5t1h2-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-9xk7r
+"4,4'-bis(methylester)-2,2'-bipyridine Ni(II)]•2Cl-",null,null,null,null,null,The molecular nickel catalyst was covalently bound to metal oxide supports through ester moieties. The catalyst exhibits reactivity dependent on the electronic properties of the support.,chemrxiv_10.26434_SLASH_chemrxiv-2025-2l3d9
+"Ruthenium(II) tris(2,2'-bipyridine)",DMSO,660,610,null,null,Spin-forbidden excitation under red light leads to triplet state formation without intersystem crossing.,chemrxiv_10.26434_SLASH_chemrxiv-2024-mvk0z-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-z7zjr
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-29gd5
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-b6n4m
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vrvwd-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-4s8qr-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-zx11g
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-kbdl0
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2025-gdx77
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-qfgsd
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-5m3lf
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-jclbt
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-nlj7m
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-9m1g5
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-kcqbz
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-20zjq-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-lrlq2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-jhhxw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-6389c-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-xt9vs
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-mtlpf
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-d2455-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-57jk1
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-whg34
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-q4t58
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-ggvh2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-sbg6w
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-nvv8h
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2025-pbxfg
+anisolyl-picolinate antenna grafted onto tacn,water,308,541,0.75,47000 (308 nm),peak absorption increased upon degassing,chemrxiv_10.26434_SLASH_chemrxiv-2025-df42c
+anisolyl-picolinate antenna grafted onto pyclen,water,304,541,0.76,43000 (304 nm),peak absorption increased upon degassing,chemrxiv_10.26434_SLASH_chemrxiv-2025-df42c
+anisolyl-picolinate antenna grafted onto cyclen,water,307,541,0.68,20000 (307 nm),peak absorption increased upon degassing,chemrxiv_10.26434_SLASH_chemrxiv-2025-df42c
+anisolyl-picolinate antenna grafted onto tacn with Eu,water,308,614,0.25,50000 (308 nm),null,chemrxiv_10.26434_SLASH_chemrxiv-2025-df42c
+anisolyl-picolinate antenna grafted onto cyclen with Eu,PBS buffer,307,614,0.14,20000 (307 nm),null,chemrxiv_10.26434_SLASH_chemrxiv-2025-df42c
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-2f149
+methyl pyridinium indole,DMSO,457,509,null,null,"Shows strong fluorescence upon binding to RNA, good photostability, low cytotoxicity.",chemrxiv_10.26434_SLASH_chemrxiv-2025-93w58
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-3rdw8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-j2n26
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-sv64m
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-2bvm7
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2025-x6t1z
+bacteriochlorophyll BA,null,null,null,null,null,Chromophore involved in electron transfer in bacterial reaction centers.,chemrxiv_10.26434_SLASH_chemrxiv-2024-sc7gr
+bacteriopheophytin HA,null,null,null,null,null,Chromophore involved in electron transfer in bacterial reaction centers.,chemrxiv_10.26434_SLASH_chemrxiv-2024-sc7gr
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-tl36p-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-6chtt
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7zl3b-v4
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-jxph9
+"5 A Low-Spin Manganese (II) Complex with an Emissive Charge-Transfer Excited State Maxwell C. Rhames1†, Nora L. Burnett2†, William C. Tocco1, Ahshabibi Ahmed2, Annemarie A. Lee2, Alexander N. Ruhren2, Claire Besson2, Julien A. Panetier2, John R. Swierk2*, Daniela M. Arias-Rotondo1*",acetonitrile,480,620,null,4400 (480 nm),Emissive charge-transfer excited state with a lifetime of 1 ns at 620 nm,chemrxiv_10.26434_SLASH_chemrxiv-2024-r2qq0
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vznhc
+eosin Y,phosphate-buffered saline (PBS),526,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-k3074
+JF-567,phosphate-buffered saline (PBS),567,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-k3074
+methylene blue,phosphate-buffered saline (PBS),649,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-k3074
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7591m-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-sd1wl-v4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-qvnls
+4-benzoylbenzoic acid (protonated form),H2O,364,null,null,null,Protonated form in acidic conditions; absorption maximum at ~364 nm,chemrxiv_10.26434_SLASH_chemrxiv-2024-1q4tf
+4-benzoylbenzoic acid (deprotonated form),H2O,null,null,null,null,Deprotonated form in basic conditions; weak absorption features predicted theoretically,chemrxiv_10.26434_SLASH_chemrxiv-2024-1q4tf
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8k69t
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-l7fl9-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-c7csx
+peri-anthracenethioindigo (PAT) derivative 1,benzene,null,null,0.2,null,High quantum yield in benzene for E to Z photoisomerization,chemrxiv_10.26434_SLASH_chemrxiv-2024-4qfd4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-m0rg4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1zf5m
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-shnqc
+"o-methoxy-N-(2,4-dinitrophenyl)-N'-benzylidenehydrazine",DMSO,404,null,null,null,Acidochromic behavior observed with hypsochromic shift upon protonation.,chemrxiv_10.26434_SLASH_chemrxiv-2024-f3tc4
+"m-methoxy-N-(2,4-dinitrophenyl)-N'-benzylidenehydrazine",DMSO,397,null,null,null,Acidochromic behavior observed with hypsochromic shift upon protonation.,chemrxiv_10.26434_SLASH_chemrxiv-2024-f3tc4
+"p-methoxy-N-(2,4-dinitrophenyl)-N'-benzylidenehydrazine",DMSO,411,null,null,null,Acidochromic behavior observed with hypsochromic shift upon protonation.,chemrxiv_10.26434_SLASH_chemrxiv-2024-f3tc4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-gzvbj
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-s81t8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-ljtxr
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dcpqv-v2
+Ru(II)-terpyridyl push-pull triad (RuCl),CH3CN,549,null,null,null,The chromophore exhibits a low-lying 1ILCT transition at 549 nm and higher MLCT transitions. The Franck-Condon photophysics were evaluated using UV-Vis spectroscopy and TDDFT simulations. The excited state dynamics involve rapid electron transfer from the 3MLCT state to both 3ILCT and 3LLCT states.,chemrxiv_10.26434_SLASH_chemrxiv-2024-9fds6
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-4s0dn
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-lk8q5
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dnkbx
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8hxsh
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-t0lhz
+TPPQ,toluene,null,456,0.021,69900 (314 nm),photochromic behaviour observed in ethereal solvents,chemrxiv_10.26434_SLASH_chemrxiv-2024-trlwc
+4DMAC-TPPQ,toluene,null,650,0.137,70500 (314 nm),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-trlwc
+4PXZ-TPPQ,toluene,null,762,0.008,86900 (314 nm),AIE active in THF:water mixtures,chemrxiv_10.26434_SLASH_chemrxiv-2024-trlwc
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-38npb
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-ms8x6-v2
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-9wfb9
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-ftq9n
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-bgzv3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-b8x26
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-383sc
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-sr8sl
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5m8m7
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-slrc0
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1w0d2-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-kvhzf-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-x94rm
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-l2f3l
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-xkt1j-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-x7wgx
+"3,5-diFluoro-2-(2-pyridinyl)phenyl",MeCN,343,505,0.78,"38540 (238 nm), 115150 (another wavelength)",null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1m0q7
+"Indolo[3,2,1-jk]carbazole-Decorated NHC Ligand",MeCN,343,505,0.75,115150 (another wavelength),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1m0q7
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rjj1z
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-hdpn5
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-sbwxm
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-cgnhq-v2
+1a,MeCN,630,815,3e-05,3620 (630 nm),quantum yield determined via comparative actinometry with [Ru(bpy)₃]²⁺ using 475 nm excitation,chemrxiv_10.26434_SLASH_chemrxiv-2024-x72vw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-n7bm6
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-zwdmd
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-bdnhr
+Malachite Green,DCM,null,null,null,null,"Known dye, absorption ~620 nm",chemrxiv_10.26434_SLASH_chemrxiv-2024-t6zqq
+Crystal Violet,EtOH,null,null,null,null,"Known dye, absorption ~600 nm",chemrxiv_10.26434_SLASH_chemrxiv-2024-t6zqq
+TAM1CF,MeCN/PBS,792,null,0.01,140000 (792 nm),"NIR-absorbing molecular rotor, photostable in MSOT conditions",chemrxiv_10.26434_SLASH_chemrxiv-2024-t6zqq
+TAM2CF,MeCN/PBS,935,null,null,120000 (935 nm),"NIR/SWIR-absorbing molecular rotor, extended π-system for SWIR activity",chemrxiv_10.26434_SLASH_chemrxiv-2024-t6zqq
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-b97rz
+Chromeazurol S,null,null,null,null,null,Chromophore used in competition assays to detect Fe³⁺ binding by chelators.,chemrxiv_10.26434_SLASH_chemrxiv-2024-9f26t
+Blue Evans,Milli-Q water,608,null,null,47243 (608 nm),Used in textiles; interacts with gold nanoparticles affecting degradation.,chemrxiv_10.26434_SLASH_chemrxiv-2024-bxgpz
+Tropaeolin Orange III,Milli-Q water,483,null,null,17492 (483 nm),Used in textiles; interacts with gold nanoparticles affecting degradation.,chemrxiv_10.26434_SLASH_chemrxiv-2024-bxgpz
+Procion Brilliant Red M-2B,Milli-Q water,510,null,null,11259 (510 nm),Used in textiles; interacts with gold nanoparticles affecting degradation.,chemrxiv_10.26434_SLASH_chemrxiv-2024-bxgpz
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-3nxtx
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2gf9b
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5vb65
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-xjg2k
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-6v2jn
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-v4j8t
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-44kkd
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-pzxww
+Phazr-N3,toluene,630,703,0.62,null,near-infrared fluorophore with solvatochromic properties showing large bathochromic shifts in emission,chemrxiv_10.26434_SLASH_chemrxiv-2024-vd53f
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-q9j9k-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dlx0q
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-wkdpf
+indole,water,206,null,0.55,null,quantum yield based on reaction probability; peak absorption derived from experimental data at 6.02 eV (~206 nm),chemrxiv_10.26434_SLASH_chemrxiv-2024-wtrg5
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-0cvjg
+bis(dansyl)thioether,DMSO,345,545,0.177,10637,Fluorescence quantum yield of ~50% in chloroform,chemrxiv_10.26434_SLASH_chemrxiv-2024-jl88c
+bis(dansyl)disulfide,DMSO,340,529,0.046,10508,"Disulfide bond causes self-quenching, lower quantum yields compared to thioether",chemrxiv_10.26434_SLASH_chemrxiv-2024-jl88c
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-g31v9
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-864rm-v2
+benzo-fused norcyanine derivative (Benz-NorCy7),ethanol with 1% TFA,956,996,0.0014,null,pH-responsive probe used in lysosomal imaging,chemrxiv_10.26434_SLASH_chemrxiv-2024-zc58k
+heptamethine cyanine dye (FNIR-Tag-766),null,785,890,null,null,always-ON probe for ratiometric imaging,chemrxiv_10.26434_SLASH_chemrxiv-2024-zc58k
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-jfv93
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-c0shc-v2
+Bo6,chloroform,408,null,null,null,Solvent used: chloroform and hexane. Absorption peak at 408 nm in hexane.,chemrxiv_10.26434_SLASH_chemrxiv-2024-1q4rz
+Py6,hexane,305,533,null,null,Solvent used: hexane and chloroform. Absorption peaks at 305 and 408 nm. Emission peak at 533 nm (excimer).,chemrxiv_10.26434_SLASH_chemrxiv-2024-1q4rz
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2j8mx-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rk6w2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-769kr
+NDI-ceNDI Dyad DIPAY,water,594,null,0.001,null,"dyad with flexible linker, used in DNA binding studies",chemrxiv_10.26434_SLASH_chemrxiv-2024-n178z
+NDI-ceNDI Dyad DIPAC,water,547,null,0.001,null,"dyad with rigid triazole linker, used in DNA binding studies",chemrxiv_10.26434_SLASH_chemrxiv-2024-n178z
+heptamethine_cyanine_1a_J1,ethanol,1004,1009,0.03,null,aggregate formed at low methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1a_J3,ethanol,1012,1027,0.05,null,aggregate formed at higher methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1a_J4,ethanol,921,null,0.02,null,aggregate formed over extended time,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1b_J1,ethanol,1029,1049,0.03,null,aggregate formed at low methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1b_J2,ethanol,910,649,0.02,null,tubular aggregate formed at 20% methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1b_J3,ethanol,998,1027,0.05,null,aggregate formed at higher methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1b_J4,ethanol,990,995,0.08,null,aggregate formed over extended time,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1c_J1,ethanol,1032,1043,0.02,null,aggregate formed at low methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1c_J3,ethanol,996,null,0.05,null,aggregate formed at higher methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1c_J4,ethanol,900,null,0.02,null,aggregate formed over extended time,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1d_J1,ethanol,1034,1050,0.02,null,aggregate formed at low methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1d_J3,ethanol,965,null,0.08,null,aggregate formed at higher methanol,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+heptamethine_cyanine_1d_J4,ethanol,990,991,0.02,null,aggregate formed over extended time,chemrxiv_10.26434_SLASH_chemrxiv-2024-k4v5k
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-cchdm
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5q956-v2
+"4,7-bis(9-butyl-9H-carbazol-3-yl)benzo[c][1,2,5]thiadiazole",dichloromethane,457,588,0.79,null,high photoluminescence quantum yield and good photosensitization ability,chemrxiv_10.26434_SLASH_chemrxiv-2024-pktbw
+"4,7-bis(9-butyl-3-methylcarbazol-3-yl)benzo[c][1,2,5]thiadiazole",dichloromethane,441,561,0.42,null,moderate photoluminescence quantum yield and photosensitization ability,chemrxiv_10.26434_SLASH_chemrxiv-2024-pktbw
+"4-(9-butyl-9H-carbazol-3-yl)-7-(tert-butylphenyl)benzo[c][1,2,5]thiadiazole",dichloromethane,407,555,0.47,null,high singlet oxygen quantum yield,chemrxiv_10.26434_SLASH_chemrxiv-2024-pktbw
+"4,7-bis(3-methyltriphenylamine)benzo[c][1,2,5]thiadiazole",dichloromethane,431,625,0.74,null,good triplet state properties and high photoluminescence quantum yield,chemrxiv_10.26434_SLASH_chemrxiv-2024-pktbw
+"4,7-bis(triphenylamine)benzo[c][1,2,5]thiadiazole",dichloromethane,419,602,0.26,null,lower photoluminescence quantum yield and higher intersystem crossing,chemrxiv_10.26434_SLASH_chemrxiv-2024-pktbw
+"4-(tert-butylphenyl)-7-triphenylaminebenzo[c][1,2,5]thiadiazole",dichloromethane,415,603,0.21,null,moderate photoluminescence quantum yield and higher charge transfer character,chemrxiv_10.26434_SLASH_chemrxiv-2024-pktbw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1xlvq-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-shsjs-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-481l3
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-z29m3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-tljj9
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-nfsqn-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-l31n8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-l5vns
+flavin mononucleotide (FMN),water,380,null,0.55,null,Flavin chromophore with absorption bands around 380 nm and 450 nm.,chemrxiv_10.26434_SLASH_chemrxiv-2024-cd8ht
+flavin adenine dinucleotide (FAD),water,450,null,0.55,null,Flavin chromophore with absorption bands around 380 nm and 450 nm.,chemrxiv_10.26434_SLASH_chemrxiv-2024-cd8ht
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-jw2x3
+2-aminoterephthalic acid,null,300,null,null,null,"Electron-donating group lowers T1 energy, inhibits emission",chemrxiv_10.26434_SLASH_chemrxiv-2024-75n7q-v2
+2-bromoterephthalic acid,null,300,null,null,null,"Electron-withdrawing group increases T1 energy, higher QY observed",chemrxiv_10.26434_SLASH_chemrxiv-2024-75n7q-v2
+2-fluoroterephthalic acid,null,300,null,null,null,"Electron-withdrawing group increases T1 energy, higher QY observed",chemrxiv_10.26434_SLASH_chemrxiv-2024-75n7q-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-v9r4k
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-h3119
+Bacteriochlorophyll a,null,null,null,null,null,Part of the light-harvesting LH2 complex involved in exciton transfer.,chemrxiv_10.26434_SLASH_chemrxiv-2024-llc9d
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-501gn-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8k5qd
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-qcb4h
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-qbgt0
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-hnmdn
+497 nm,toluene,497,505,0.91,null,GADIPY in toluene,chemrxiv_10.26434_SLASH_chemrxiv-2024-c87hb
+494 nm,dichloromethane,494,501,0.82,null,GADIPY in dichloromethane,chemrxiv_10.26434_SLASH_chemrxiv-2024-c87hb
+467 nm,dichloromethane,467,510,0.8,null,PHODIPY in dichloromethane,chemrxiv_10.26434_SLASH_chemrxiv-2024-c87hb
+518 nm,toluene,518,null,null,null,GEDIPY in toluene,chemrxiv_10.26434_SLASH_chemrxiv-2024-c87hb
+514 nm,toluene,514,547,null,null,SBDIPY variant 1,chemrxiv_10.26434_SLASH_chemrxiv-2024-c87hb
+505 nm,toluene,505,568,null,null,BIDIPY variant 1,chemrxiv_10.26434_SLASH_chemrxiv-2024-c87hb
+496 nm,toluene,496,538,null,null,ASDIPY in toluene,chemrxiv_10.26434_SLASH_chemrxiv-2024-c87hb
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-h7tsx
+oxyluciferin,water,null,null,null,null,solvated biochromophore used to study orbital entanglement effects,chemrxiv_10.26434_SLASH_chemrxiv-2024-zqbjt
+p-hydroxybenzyledene imidazolinone,water,null,null,null,null,solvated biochromophore used to study orbital entanglement effects,chemrxiv_10.26434_SLASH_chemrxiv-2024-zqbjt
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1kbcw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-c8m0b-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-45q9k
+"spiro[fluorene-9,9'-imidazo[1,2-a]indole]",null,null,null,null,null,Intensely emissive in near-UV visible (blue-purple) spectrum range,chemrxiv_10.26434_SLASH_chemrxiv-2024-qrwxd
+"7'-methoxyspiro[fluorene-9,9'-imidazo[1,2-a]indole]",null,null,null,null,null,Emissive characterisLcs in the purple/near UV porLon of the visible region,chemrxiv_10.26434_SLASH_chemrxiv-2024-qrwxd
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8fgnc
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-qghqc-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-nzk5q
+bis(trifluoromethyl)carborhodamine 4a,1× dPBS buffer,650,661,0.33,187000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4b,1× dPBS buffer,656,667,null,122000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4c,1× dPBS buffer,651,661,null,109000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4d,1× dPBS buffer,630,641,null,91000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4e,1× dPBS buffer,648,661,null,64000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4f,1× dPBS buffer,653,669,null,88000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4g,trifluoroethanol with 0.1% TFA,621,635,0.11,145000 (trifluoroethanol),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4h,trifluoroethanol with 0.1% TFA,620,656,0.94,168000 (trifluoroethanol),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4i,1× dPBS buffer,661,677,null,111000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4j,trifluoroethanol with 0.1% TFA,623,636,null,165000 (trifluoroethanol),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4k,1× dPBS buffer,592,602,null,109000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4l,1× dPBS buffer,620,630,null,110000 (dPBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+bis(trifluoromethyl)carborhodamine 4m,PBS with 0.1% SDS,605,615,0.73,88000 (PBS),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7p8dl
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-107xf
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-35sv7
+Chrom9,dichloromethane,1057,1088,0.005,107000,Measured in dichloromethane,chemrxiv_10.26434_SLASH_chemrxiv-2024-dxdr9
+LFlav7,dichloromethane,986,1016,0.0153,149000,Measured in dichloromethane,chemrxiv_10.26434_SLASH_chemrxiv-2024-dxdr9
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dc59q
+p- HBDI derivatives,acetonitrile,475.99,785.18,0.22,example_ string_6,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-9xhvf
+"9,10-bis(phenylethynyl)anthracene",null,null,null,null,null,"The paper discusses the translational diffusivity of BPEA in confined PS films, showing significant reductions in diffusivity with decreasing film thickness. The apparent activation energy for BPEA diffusivity increases from ~210 kJ/mol in bulk films to ~370 kJ/mol in 130-nm-thick films.",chemrxiv_10.26434_SLASH_chemrxiv-2024-z7nw5
+decacyclene,null,null,null,null,null,"Decacyclene exhibits a smaller onset thickness (~100 nm) for the diffusivity-confinement effect compared to BPEA, but shows less percentage reduction in diffusivity when confined.",chemrxiv_10.26434_SLASH_chemrxiv-2024-z7nw5
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rwkxv
+"Ni(II) tetrakis(2,4,6-trimethylphenyl)porphyrin",toluene,415,null,null,B band (415 nm),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-lpxzb
+ABN,1× PBS buffer at pH 7.4,442,null,0.39,"20,000 (442 nm)",IUPAC name not explicitly provided in the paper,chemrxiv_10.26434_SLASH_chemrxiv-2024-7b24p
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rp0kc
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-7zqfn
+"Co-2,5-dihydroxyterephthalic acid MOF (Co-DHBDC)",DMF,520,null,null,null,High stability and density of metal sites.,chemrxiv_10.26434_SLASH_chemrxiv-2024-vmk13
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-q6b3g
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-r007f
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-44vd8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-xdp9p
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2023-pcv6m-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7357m
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-0z1gn
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-snzf8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-4jw94
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-v90l8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5vwkp-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8jxvh
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2w2cs
+phenol-DAOTA,aqueous solution,560,null,null,absorption at 580 nm (580 nm),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-zk6gr
+Bu2N-TTz-CO2(NPr),Toluene,445,507,0.08,null,Fluorescence lifetime: 2.1 ns,chemrxiv_10.26434_SLASH_chemrxiv-2024-cmpzt
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5mpgz
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-74qqp
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vs03b
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-sbk3g-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-x6b9h
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-w40xh
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-tgbjq
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rjm5p
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-k846p
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-ddlz7
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1vw8d
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-zr6rw
+bodipy-phenoxazine,toluene,null,null,0.96,null,quantum yield approaches 1 for BDP monomers,chemrxiv_10.26434_SLASH_chemrxiv-2024-ls64n
+tetramethylbodipy-phenoxazine,toluene,null,null,null,null,no specific quantum yield provided for dyads,chemrxiv_10.26434_SLASH_chemrxiv-2024-ls64n
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-24gv6
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-mzq5g
+trifluoromethyl aryl diazirine conjugated to dimethylfluorene,methanol,418,null,null,null,Diazirine-fluorene conjugate activated with visible light.,chemrxiv_10.26434_SLASH_chemrxiv-2024-bqp13-v2
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-6dnh8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-ljkf8-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-bg249
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-3hsm9
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-qnsmr
+"3,7-bis(dimethylamino)phenothiazine-5-ium chloride",PBS,650,687,null,null,Methylene blue used as a photocatalyst for activating Pt(IV) anticancer prodrugs under red light.,chemrxiv_10.26434_SLASH_chemrxiv-2024-ljqrl-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-glhqn-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2cf6g-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-k42rz
+EP-Perlene dicarboximide (EP-PDI),null,630,null,null,10^4 L/(mol·cm),Absorption bands at ~630 nm and ~450 nm; structural differences between α- and β-crystals affect transport properties.,chemrxiv_10.26434_SLASH_chemrxiv-2024-l6m4v
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-b37sc
+calicene,null,null,null,null,null,"Calicene derivatives with substituents such as -CN (electron-withdrawing) and -NMe2 (electron-donating) groups exhibit singlet-triplet inversions in their excited states. These substitutions influence the energy levels of HOMO and LUMO orbitals, leading to charge-transfer states and potential applications in optoelectronic materials.",chemrxiv_10.26434_SLASH_chemrxiv-2024-hhj39
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-067sp
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-54w68-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-bnpbf
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-r6p6t
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-hq04v
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2023-m9d1z-v4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-b7vz3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-hk43q-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2t8hw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-pj99z
+BDP-TFP-COF,null,575,646,null,null,"Highly crystalline, porous photosensitizer with enhanced stability in various solvents, red emission upon exfoliation.",chemrxiv_10.26434_SLASH_chemrxiv-2024-7f8sn
+p-hydroxybenzylidene-imidazolinone,null,484,null,null,null,ChlorON1 chromophore with absorption peak at 484 nm in apo state,chemrxiv_10.26434_SLASH_chemrxiv-2024-6qxsx
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-zcggj
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-77sm0
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-16879
+"4a-hydroxy-5-hydro-10-methyl-9H-pyrimido[4,5-b]indole-2-carboxaldehyde",null,null,490,null,null,Fluorescence emission maximum at 490 nm in the protein environment.,chemrxiv_10.26434_SLASH_chemrxiv-2024-dfv2d
+4a-hydroxy-5-hydro-lumiflavin,null,null,412,null,null,Fluorescence emission maximum at 412 nm under vacuum.,chemrxiv_10.26434_SLASH_chemrxiv-2024-dfv2d
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-cs31x
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-lkl5t-v4
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-4t9hj
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-t696j
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-sfp3b-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vj96d-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1f7t0-v2
+iridium(III) compound C1,CH3CN,370,null,null,null,"dual emission: fluorescent in free state, phosphorescent when chelated with Ba²+",chemrxiv_10.26434_SLASH_chemrxiv-2024-t81cl
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-pjklk
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2wg0k-v2
+Au36(Naphtalenethiol)24,chloroform,800,null,null,null,Ligand contributes to larger DOS and better TPA due to orbital hybridization.,chemrxiv_10.26434_SLASH_chemrxiv-2024-jx3rr-v2
+Au36(Cyclopentanethiol)24,chloroform,860,null,null,null,"Ligands do not participate in orbital hybridization, leading to lower TPA cross-sections.",chemrxiv_10.26434_SLASH_chemrxiv-2024-jx3rr-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8nj9k
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-1lxr0
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5v5s8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rcvcc
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7056b
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-nh4br
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-jsfbr
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2rkzl
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vsrjz-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-s649t
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-fl3ln
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-z9rgh
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-27rdw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-mxnh2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-42f7k
+tris(2-[2-(pyridyl)phenyl])cobalt(III),dichloromethane,438,null,null,7600 (438 nm),MLCT state undergoes Jahn-Teller distortion leading to a five-coordinate structure and rapid deactivation with a lifetime of 8.65 ps.,chemrxiv_10.26434_SLASH_chemrxiv-2024-hlvjr-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8mxvd-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-b5532
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-d4cjt
+CuMesMICNaphCz,DCM,400,530,0.078,null,Phosphorescent emission with vibronic structure,chemrxiv_10.26434_SLASH_chemrxiv-2024-n6mzr
+"Cu3,5-MePhMICNaphCz",DCM,400,440,0.052,null,Phosphorescent emission with vibronic structure,chemrxiv_10.26434_SLASH_chemrxiv-2024-n6mzr
+CuMesMICp-AnCz,DCM,400,411,0.05,null,Emission consistent with CT character,chemrxiv_10.26434_SLASH_chemrxiv-2024-n6mzr
+"CuMesMIC3,5-CF3PhCz",DCM,400,520,0.135,null,Strong CT transition due to electron-donating and withdrawing groups,chemrxiv_10.26434_SLASH_chemrxiv-2024-n6mzr
+"CuMesMIC3,5-CF3PhNPh2",DCM,400,387,0.02,null,Emission from LE states of diphenylamide motif with CT character,chemrxiv_10.26434_SLASH_chemrxiv-2024-n6mzr
+CuMesMICNaphNPh2,DCM,400,399,0.021,null,Dual emissive behavior with phosphorescence and fluorescence,chemrxiv_10.26434_SLASH_chemrxiv-2024-n6mzr
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7rpw5
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-s8z45
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-kbcr5
+"7-nitrobenz-2-oxa-1,3-diazol-4-yl",dimethyl sulfoxide,null,null,null,null,Chromophore used in DMSO with discussion on spectral lineshapes and Stokes shifts.,chemrxiv_10.26434_SLASH_chemrxiv-2024-ljjb9-v2
+Nile Red,dimethyl sulfoxide,null,null,null,null,Fluorescent dye studied in DMSO with analysis of vibronic coupling and environmental effects.,chemrxiv_10.26434_SLASH_chemrxiv-2024-ljjb9-v2
+7-methoxy coumarin-4-acetic acid,methanol,null,null,null,null,Chromophore used in methanol with discussion on conformational changes and hydrogen bonding.,chemrxiv_10.26434_SLASH_chemrxiv-2024-ljjb9-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2023-v95p8-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-428c6
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-wnx5w
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rdrvn
+BDPA-Br2,DCM,585,672,0.74,null,Data obtained from DCM solution,chemrxiv_10.26434_SLASH_chemrxiv-2024-g87l4-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-s77rv
+ethene,null,789,null,null,null,simple alkene model system,chemrxiv_10.26434_SLASH_chemrxiv-2024-knpvw
+propene,null,678,null,null,null,model system for photochemical reactions,chemrxiv_10.26434_SLASH_chemrxiv-2024-knpvw
+butene,null,482.93,null,null,null,used in Franck-Condon region analysis,chemrxiv_10.26434_SLASH_chemrxiv-2024-knpvw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-p8hbw
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8pn7s
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rj11q
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vz6cr-v3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-lw7r2-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-rcj48
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dt7fg
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-3rvk6
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-c8x0p-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-qmsll
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-d7xbn
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-68h4g-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-kg4cp
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-bthcz
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-b186s
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8kbh6
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-spb86-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-tc9ms
+"2,6-diazaindole",null,339.15,null,null,null,studied in gas phase using laser spectroscopy techniques; higher ionization energy compared to similar compounds suggests better photostability,chemrxiv_10.26434_SLASH_chemrxiv-2024-40z1t
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-mm5qz
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-x7r91
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-pnm11
+"Fe(terpyridine)2(bis(trifluoromethyl)benzene-1,3-dicarboxamide)2",dichloromethane,525,null,null,null,bis-meridional iron(II) complex with specific ligand rocking dynamics,chemrxiv_10.26434_SLASH_chemrxiv-2024-7w8mr-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-p5js8
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-bxr4n
+rhodamine b,water,550,600,null,null,"The study investigates optically-induced thermal diffusion in aqueous solutions of rhodamine B. The fluorescence response of rhodamine B is influenced by temperature and solvent effects, with a decrease in fluorescence intensity upon heating. Isotope effects on fluorescence lifetime are also observed.",chemrxiv_10.26434_SLASH_chemrxiv-2024-5n858
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-57gzq
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2023-6v0hv-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-sgj70-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-v8mmt
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-2gjfk
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-4wkrq
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-9qwm8
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-bd612
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2022-4hnsj-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-22tsj
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-bdbjj
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dwtg0
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-v9wn6
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-jk23r
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-m1q73
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-sqwhs
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-39n68
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-j230b-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8kqxc
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-v4rdx
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-jrkwj
+"2-allyl-6-((pyridin-2-ylmethyl)amino)-1H-benzo[de]isoquinoline-1,3(2H)-dione",DMSO,438,523,0.6,16174,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5bbbm
+"2-allyl-6-((3-morpholinopropyl)amino)-1H-benzo[de]isoquinoline-1,3(2H)-dione",DMSO,445,526,0.93,18284,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5bbbm
+"2-allyl-6-((2-hydroxyethyl)thio)-1H-benzo[de]isoquinoline-1,3(2H)-dione",DMSO,394,484,0.11,14691,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-5bbbm
+peri-anthracenethioindigo (PAT) 2,THF/CS2 (1:1),745,null,0.94,null,"bright green color, global minimum E-isomer",chemrxiv_10.26434_SLASH_chemrxiv-2024-v95dn
+rhodanine derivative 1,THF/CS2 (1:1),403,null,0.94,null,"cyan color, Z-isomer with lower energy absorption",chemrxiv_10.26434_SLASH_chemrxiv-2024-v95dn
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2024-qn1rp
+3cC,CH2Cl2,287,null,0.09,null,Shows through-space conjugation and increased fluorescence lifetime compared to biphenyl.,chemrxiv_10.26434_SLASH_chemrxiv-2024-h72dt
+POZ-M,water,650,null,0.015,null,"Positively charged NRs, PLQY = 1.5%",chemrxiv_10.26434_SLASH_chemrxiv-2023-cnqbr-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-h6dvb
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-r3hbl
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-g9kxs
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-lprs0
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-mg64g
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-k1g2w
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-l5cf2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-8w0sg
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dpbq3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-7k052
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2023-3bxp0-v2
+8-azo-cAMP,Milli-Q® water,null,null,null,null,The photoswitchable cAMP derivative 7 is an orange powder after lyophilization and is stored for several months at -18 °C without noticeable degradation.,chemrxiv_10.26434_SLASH_chemrxiv-2024-cq5rz
+2-aminothiazole,aqueous solution,280,null,0.8,null,"absorbs in UV-B range, undergoes C-S bond breaking upon UV excitation, solvent is aqueous phosphate buffer (50 mM, pH 6.9)",chemrxiv_10.26434_SLASH_chemrxiv-2024-drxcv-v2
+Crystal Violet,methanol,590,null,null,null,Absorption spectrum in methanol with a splitting of 0.126 eV between peaks.,chemrxiv_10.26434_SLASH_chemrxiv-2024-lv9db-v2
+failed,failed,failed,failed,failed,failed,failed,chemrxiv_10.26434_SLASH_chemrxiv-2023-g69tm-v2
+NR700,DPBS:MeCN (7:3),700,null,null,null,Photophysical properties measured in DPBS/MeCN solvent system,chemrxiv_10.26434_SLASH_chemrxiv-2024-7cbk2
+NR773,DPBS:MeCN (7:3),773,null,null,null,Derived from NR721 with conformational restriction modifications,chemrxiv_10.26434_SLASH_chemrxiv-2024-7cbk2
+NR812,DCM,800,1012,null,null,Displays exceptionally large Stokes shift and broad absorbance peak,chemrxiv_10.26434_SLASH_chemrxiv-2024-7cbk2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-35nc4
+Rhodamine B-AN,null,595,null,null,104 (595 nm),"High photon efficiency, near-complete Z→E isomerization",chemrxiv_10.26434_SLASH_chemrxiv-2024-vm4n3
+Rhodamine B-AO,null,595,null,null,103 (595 nm),"High photon efficiency, near-complete Z→E isomerization",chemrxiv_10.26434_SLASH_chemrxiv-2024-vm4n3
+Rhodamine B-AK,null,595,null,null,102 (595 nm),"High photon efficiency, near-complete Z→E isomerization",chemrxiv_10.26434_SLASH_chemrxiv-2024-vm4n3
+Cy3-AN,null,660,null,null,9 (660 nm),"Moderate photon efficiency, significant NIR shift",chemrxiv_10.26434_SLASH_chemrxiv-2024-vm4n3
+Cy3-AO,null,660,null,null,8 (660 nm),"Moderate photon efficiency, significant NIR shift",chemrxiv_10.26434_SLASH_chemrxiv-2024-vm4n3
+Cy3-AK,null,660,null,null,7 (660 nm),"Moderate photon efficiency, significant NIR shift",chemrxiv_10.26434_SLASH_chemrxiv-2024-vm4n3
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-37crl-v2
+"1,8-naphthalenemonoimide",acetonitrile,460,null,null,null,Used as acceptor in D-Cu(I)-A triad with CSS lifetime of 18 ns,chemrxiv_10.26434_SLASH_chemrxiv-2024-nqlfh
+triphenylamine,acetonitrile,350,null,null,null,Used as donor in D-Cu(I)-A triad,chemrxiv_10.26434_SLASH_chemrxiv-2024-nqlfh
+"[Cu(2,9-dimethyl-1,10-phenanthroline)(2,9-dimesityl-1,10-phenanthroline)]PF6",acetonitrile,460,null,null,null,Reference compound with CSS lifetime of 20-23 ns,chemrxiv_10.26434_SLASH_chemrxiv-2024-nqlfh
+"[Cu(2,9-dimethyl-1,10-phenanthroline)(1,8-naphthalenemonoimide)]PF6",acetonitrile,460,null,null,null,Dyad Cu(I)-A with CSS lifetime of 25 ns,chemrxiv_10.26434_SLASH_chemrxiv-2024-nqlfh
+"[Cu(2,9-dimethyl-1,10-phenanthroline)(triphenylamine)]PF6",dichloromethane,460,null,null,null,Dyad D-Cu(I) with CSS lifetime of 14.5 ns,chemrxiv_10.26434_SLASH_chemrxiv-2024-nqlfh
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-lpfs9
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vfp2c
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-hn590
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-dkp4s
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-zstrb
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-w3kwn
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-3tjqq
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-9crwq-v2
+2a²⁺(BF₄)₂,CH₂Cl₂,420,null,null,100000 (420 nm),Blue shift compared to monocations due to π-π stacking,chemrxiv_10.26434_SLASH_chemrxiv-2024-fd9ws
+2b²⁺(BF₄)₂,CH₂Cl₂,561,null,null,30197 (561 nm),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-fd9ws
+2c²⁺(BF₄)₂,CH₂Cl₂,603,null,null,46815 (603 nm),null,chemrxiv_10.26434_SLASH_chemrxiv-2024-fd9ws
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-xqb4g
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-hkqcp-v2
+null,null,null,null,null,null,null,chemrxiv_10.26434_SLASH_chemrxiv-2024-vlcxx

@@ -1,0 +1,992 @@
+mof_name,metal_center,organic_linker,crystal_system,space_group,surface_area,pore_volume,pore_size,synthesis_method,thermal_stability,chemical_stability,applications,topology_code,additional_properties,paper,TFPN,Notes,rand
+Zn(nbpdc)(DMF)(H2O),Zn(II),nbpdc^2-,trigonal bipyramidal,null,null,null,null,solvothermal synthesis in DMF/water,null,null,null,null,3D supramolecular architecture with hydrogen-bonded ladders and nbpdc-bridged chains,pubmed_11901891,TP,"a bit weird, but I think qualifies as a mof",0.0843584503
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11870026,TN,,0.6974911927
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897956,TN,,0.2749477017
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901802,TN,,0.9628470193
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,Pubmed_11859037,TN,,0.0688833224
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11908468,TN,,0.0085108008
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11901825,TN,,0.1122344835
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,Pubmed_11853711,TN,,0.2693692197
+Cr-MOF/MIL-101,Cr,null,null,null,null,null,null,nanoporous crystalline structure for microplastic removal,null,null,microplastic removal,null,null,Pubmed_11843541,TP,,0.7595255843
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11911921,TN,,0.5110533985
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11873908,TN,,0.7335206566
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11893831,TN,"some mofs mentioned, but none with any real data",0.3476768476
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11834969,TN,,0.5721437114
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11601354,TN,,0.6969863414
+Co-MOF@rGO,Cobalt (Co),null,null,null,null,null,null,Electrode material for selective Cr(VI) removal,null,null,"Selective ion separation, heavy metal removal",null,Enhanced Cr(VI) removal efficiency through synergistic adsorption and electrocatalytic reduction,Pubmed_11902163,TP,"not much data, but some",0.5246744829
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902246,TN,,0.9146209999
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11892188,TN,,0.6231468078
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11858342,TN,,0.6375140541
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11836273,TN,,0.8621269835
+TS-1,Titanium (Ti),Silica-based framework,Cubic,MFI,210.16,2.51,null,Hydrothermal synthesis,Thermally stable up to 573 K,Stable in acidic and basic environments,Epoxidation of methyl oleate,MFI,"High crystallinity, Ti incorporated into framework",Pubmed_11881798,FP,"so close, but not a MOF imo",0.6450259807
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11880314,TN,,0.2838269731
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11808662,TN,,0.9653952152
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11830568,TN,,0.7791155765
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11903057,TN,,0.2434997896
+Prussian Blue,Fe,hexacyanoferrate,cubic,P4/mmm,null,null,null,precipitation method,thermally stable up to 500°C,biocompatible in physiological environments,"ROS scavenging, disease therapy",pcu,"high biocompatibility, clinically approved",Pubmed_11874232,TP,"holy crap, prussian blue is a mof!",0.3158485694
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11869569,FN,goes over synthesis of ZIP-8,0.1208106652
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11870260,TN,,0.3702001744
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11844015,FN,,0.6357155945
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,Pubmed_11872064,TN,,0.6388287081
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,Pubmed_11901213,TN,,0.6880993939
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11908105,,,0.0767845388
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873914,,,0.5037416425
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11833174,,,0.1436627188
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901743,,,0.5004274799
+Zn(NDI)@FTO,Zn,naphthalenediimide,null,null,null,null,16,null,null,null,null,null,1D channels with Zn nodes and NDI linkers,pubmed_11843255,,,0.5752496729
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11854334,,,0.3226782191
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851939,,,0.3318427145
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912195,,,0.6016189153
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903635,,,0.937062104
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901347,,,0.0757295042
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902430,,,0.5163356147
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873818,,,0.642985038
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11867026,,,0.3152767112
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869358,,,0.057941451
+bis[4-(dimethylamino)pyridinium]tetraiodozincate(II),Zn,C7H11N2,monoclinic,C2/c,null,null,null,slow evaporation at room temperature,stable up to 473 K,null,"electrical materials, proton conduction",null,"thermal conductivity follows Arrhenius behavior, phase transition at 369 K",pubmed_11886746,,,0.926212464
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11874244,,,0.7465583852
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902238,,,0.8306125503
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903436,,,0.1848966235
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11883987,,,0.9238463533
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905443,,,0.6986691521
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868574,,,0.6348704018
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11910916,,,0.5490291724
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11828903,,,0.3309617226
+FeSNC,Iron,null,Porous carbon structure,null,349.1,null,null,Template-assisted and ligand site construction methods,null,null,Bisphenol A removal via PMS activation,null,Highly dispersed iron species with sulfur–nitrogen co-doping,pubmed_11808356,,,0.176839476
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11873929,,,0.5278351987
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11824958,,,0.7857592802
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901668,,,0.4528630124
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886636,,,0.000132968
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903459,,,0.5389592315
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11894554,,,0.3981688062
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868577,,,0.0250057692
+example_11,Cd,VOL9,Triclinic,P-1,574,null,null,Reaction in DMA/MeOH/H₂O,null,Stable under catalytic conditions,"Gas storage, catalysis",TBO,High H₂ adsorption capacity,pubmed_11901807,,,0.1401018123
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11836364,,,0.7852454686
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901621,,,0.1697080308
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11854982,,,0.4553266843
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901896,,,0.8007839986
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858496,,,0.3952213675
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850414,,,0.5506396594
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11861424,,,0.3004991075
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11883809,,,0.9569572501
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850594,,,0.7470198025
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861909,,,0.5731721246
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11863386,,,0.6109781514
+Z867 core–nanoshell,"Co,Zn",2-methylimidazole (2mIm),null,null,820,null,2.26,Synthesis details in ESI Section S1,Thermally stable under standard conditions,Chemically stable in aqueous and organic environments,Supercapacitor electrode material for energy storage,null,"High surface area, hierarchical porosity",pubmed_11844434,,,0.4398566424
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11856901,,,0.1228114793
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11863280,,,0.5158822685
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857908,,,0.4178290914
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11831073,,,0.7097451854
+ZIF-8,Zinc (Zn²+),2-methylimidazole (2-MIM),null,null,null,null,null,One-pot synthesis method involving zinc nitrate hexahydrate and 2-methylimidazole with encapsulation of doxorubicin followed by surface modification with LT-PEG-COOH via electrostatic interactions,null,"Good chemical stability under physiological conditions, pH-responsive degradation in acidic environments",Targeted drug delivery for colorectal cancer treatment using doxorubicin (DOX),null,pH-sensitive release behavior,pubmed_11858906,,,0.8808738238
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898633,,,0.477428193
+ZIF-8,zinc (Zn²+),imidazole,null,null,null,null,null,synthesized via microwave-assisted synthesis,null,null,used in fuel cell membranes to enhance proton conductivity,null,exhibits molecular sieve network structure with sodalite topology,pubmed_11901833,,,0.7375426621
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811131,,,0.5907674266
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11838571,,,0.5786871344
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868841,,,0.255853429
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11889569,,,0.1363825442
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11852113,,,0.8293350935
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912505,,,0.4235942927
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902637,,,0.2046231644
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857907,,,0.8406915162
+2f-UiO-PDI,Zr,dcph-Me PDI,cubic,Im-3m,1502,0.78,16,"solvothermal synthesis with ZrCl4, DMF, and acetic acid as modulator under solvothermal conditions at 90 °C",null,stable in various solvents and water,photocatalysis for radical addition reactions,UiO-66,high surface area and stability,pubmed_11912319,,,0.249859506
+MIL-53 (Fe),Fe,"1,4-benzenedicarboxylate",null,null,null,null,null,null,null,High stability in water,Oil/water separation,null,"Hydrophilicity, high stability in water, photocatalytic and adsorptive activities",pubmed_11886428,,,0.0751067994
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894338,,,0.1493785421
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904211,,,0.3666534317
+q2D-FcU66,Zr,terephthalic acid,null,null,null,null,null,Ice-templating followed by fluorination,null,Resistant to air corrosion and electrolyte decomposition,Artificial solid electrolyte interface (ASEI) for Li metal batteries,null,"High surface area, good ionic conductivity",pubmed_11847004,,,0.321903235
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11844752,,,0.3108195586
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901468,,,0.1207564517
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11814143,,,0.5409954758
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905135,,,0.5278638569
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873843,,,0.29673789
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11877876,,,0.7635929694
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857173,,,0.688530589
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901479,,,0.5043757067
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887423,,,0.6234093576
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11911372,,,0.3442914104
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11905450,,,0.50595404
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11888230,,,0.8667830538
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11859903,,,0.2834706472
+2D–Cu–HOF,Cu^2+,hexahydroxyl cyclotricatechylene (HHCC),orthorhombic triclinic,null,265,0.254,null,solvothermal reaction with Cu(II) acetate and HHCC in H2O/MeOH with NH3·H2O at 60°C for 5 days,stable up to 200°C,"chemically stable in various solvents including DMF, H2O, THF, acetone, and DCM",electrocatalytic CO2 reduction to C2 products (ethanol and ethylene),null,"high crystallinity, undulated structure with π-π stacking, self-adaption interlayered sites for efficient C–C coupling",pubmed_11850663,,,0.087074205
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887029,,,0.8511937819
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11847421,,,0.3324462196
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858137,,,0.185338326
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11910425,,,0.0832029921
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11886713,,,0.2442565975
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887809,,,0.8601869054
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868662,,,0.1097675457
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855519,,,0.5916971434
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11898452,,,0.4784589042
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902377,,,0.6704761984
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868998,,,0.0394871053
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894362,,,0.5852289079
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11814627,,,0.1887812491
+Ni/Co BTC MOF,"Ni, Co",H3BTC (trimesic acid),null,null,null,null,null,Cathodic electrochemical deposition,null,Stable in aqueous environments,Catalyst in bio-electro-Fenton systems for pollutant degradation and energy generation,null,"High surface area, porous structure, wet stability, catalytic activity",pubmed_11846976,,,0.901351399
+Li[Eu(BTFA)4],Eu^3+,"BTFA (4,4,4-trifluoro-1-phenyl-1,3-butanedionate)",null,null,null,null,null,microwave-assisted synthesis,null,photoreduction under UV exposure,"UV sensors, molecular dosimeters, photovoltaic applications",null,"high quantum efficiency in nonpolar solvents, lower stability in nonpolar solvents",pubmed_11881040,,,0.5465136347
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858420,,,0.7042941875
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11817928,,,0.9394669558
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811014,,,0.4006672734
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858542,,,0.7813899247
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905133,,,0.5078458418
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902575,,,0.8791816558
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902640,,,0.4552538004
+example_1,V,Ligand L1,Monoclinic,P2₁/c,null,null,null,Reaction in methanol,null,Stable under catalytic conditions,Catalysis for epoxidation,PCU,High catalytic activity,pubmed_11901807,,,0.3094595179
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11828848,,,0.6049753847
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11866208,,,0.5987109283
+MIL-88B(Fe 2/ Ni),"Fe, Ni",terephthalic acid,null,null,null,null,null,solvothermal method using DMF and heating at 100°C for 20h,up to 550°C,null,catalyst for synthesizing nicotinonitriles,null,"high porosity, large pore volume",pubmed_11815556,,,0.9468831047
+Ln₂(C₂O₄)₃·nH₂O,"Lanthanide (La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu)",Oxalate (C₂O₄^2−),Monoclinic or Triclinic,P2₁/c or p-1,2040,null,null,Homogeneous precipitation via oxamic acid hydrolysis,Decomposes at >500°C,Stable in aqueous solutions; exfoliable in ethanol,"Thin films, inkjet printing, luminescent materials, magnetic devices, sorption",Honeycomb or layered,"Exfoliates into 2D nanosheets, high surface area after activation",pubmed_11881034,,,0.1564697688
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894654,,,0.6509883942
+Cu3(HHTP)2,Copper(II),"2,3,6,7,10,11-hexahydroxytriphenylene (HHTP)",null,null,null,null,null,Solvothermal synthesis,Stable under humid conditions and prolonged storage,Stable in presence of ionic liquids and NO gas exposure,Gas sensing for detection of nitric oxide (NO) gas,null,High conductivity due to ionic liquid functionalization,pubmed_11873966,,,0.4877424524
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11894595,,,0.9379340054
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11859392,,,0.317268875
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902628,,,0.7884584849
+ZIF90,zinc,imidazole-2-carboxaldehyde (2-ICA),null,null,null,null,null,self-assembly synthesis involving zinc ions and imidazole-2-carboxaldehyde (2-ICA),null,"sensitive to ATP and acidic environments, facilitating drug release",targeted delivery of Spermine (Sp) to macrophages in atherosclerotic plaques for inhibiting ferroptosis and reducing atherosclerosis progression,null,ability to release drugs in response to ATP and acidic conditions; good stability over time in various environments,pubmed_11877808,,,0.9445564423
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886731,,,0.3481655079
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811375,,,0.8957621714
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891859,,,0.0029460676
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11840620,,,0.8612905194
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811206,,,0.7781674559
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859622,,,0.677929787
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902780,,,0.714112255
+example_1,example_2,example_3,example_4,example_5,null,null,null,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11858622,,,0.4424584606
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11811701,,,0.9372175434
+[Dy2(1-tza)4(phen)4]·(ClO4)2·(H2O)2,Dy³⁺,"1-tza, phen",tetragonal,I41/acd,null,null,null,solvothermal synthesis,78-395 °C,stable in humid conditions,"luminescent, single-molecule magnet, proton conductor",null,1D H-bonding network for proton conductivity,pubmed_11901984,,,0.4580147008
+CA-ANA,null,null,null,null,1147,0.4,38,Chemical activation using phosphoric acid followed by carbonization at 400°C,null,null,Wastewater treatment for removal of Acid Orange 7 dye,null,High surface area and mesoporous structure,pubmed_11858260,,,0.7594645005
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811699,,,0.9605965219
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851829,,,0.2891577801
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855882,,,0.4154506503
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859603,,,0.4681219661
+Zn1Sn1/SNC,"Zn, Sn",2-methylimidazole,null,null,1582.3,null,null,Ligand co-etching method with pyrolysis at 1000°C under Ar atmosphere,null,Maintains structure after reactions without significant leaching,CO2 electroreduction to formate with high efficiency and current density,null,"Yolk-shell structure, Zn-Sn dual sites for enhanced catalytic activity",pubmed_11882884,,,0.027272508
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11913072,,,0.495813664
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901645,,,0.8724729023
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869206,,,0.3825654886
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891900,,,0.6532855208
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891781,,,0.8450485973
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11874780,,,0.1007439839
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11908822,,,0.2948458521
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901307,,,0.6074112253
+mn-tcpp,Mn³+,TCPP (tetracarboxyphenylporphyrin),null,null,null,null,null,Coordination of Mn³+ with TCPP molecules via solvothermal synthesis,null,null,Enhanced photodynamic therapy through GSH depletion and ROS generation,null,"Responsive to intracellular GSH levels, releases TCPP upon reduction",pubmed_11860060,,,0.0679252124
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861261,,,0.3023423657
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858615,,,0.745219219
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11871041,,,0.5158762778
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912114,,,0.1359630534
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11848404,,,0.7605096684
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851078,,,0.0970430309
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857922,,,0.0093814931
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11886906,,,0.4864494009
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11853472,,,0.0237979873
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11855843,,,0.114226961
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11838904,,,0.5097301393
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11847370,,,0.60508489
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905990,,,0.3659684777
+MIL-88 A(Fe)/C,Iron (Fe),Fumaric acid (C4H4O4),null,null,43.79,0.036,null,Hydrothermal synthesis combining MIL-88 A with carbon in water,null,null,Treatment of dairy wastewater using enhanced electro-Fenton method,null,"High surface area, stability, porosity, catalytic efficiency",pubmed_11904188,,,0.6948741942
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11830095,,,0.6777004956
+ZIF-8,Zn²⁺,2-methylimidazole,null,null,1652.67,null,null,Solvothermal synthesis followed by pyrolysis with Ni²+ ions,null,null,Electrochemical detection of Cu²⁺ and Hg²+,null,"High surface area, mesoporous structure",pubmed_11901796,,,0.7886273935
+complex 1,Cu(II),C6F5,null,null,null,null,null,Prepared using Cu(II) ions and β-diketonate ligands via known protocols,null,null,Selective adsorption of CO₂ and benzene,null,"Non-porous adaptive crystal (NAC), encapsulates aromatic molecules",pubmed_11851097,,,0.0055522572
+MOF-801,null,null,null,null,null,null,null,nanoparticle delivery system,null,null,HCC immunotherapy,null,null,pubmed_11911377,,,0.6039499922
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11891191,,,0.6305671039
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11842804,,,0.4587189737
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11879999,,,0.8014059963
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858165,,,0.1882442401
+FeMn@R@H,"iron (Fe), manganese (Mn)",resiquimod (R848),null,null,null,null,null,modification with hyaluronic acid,null,null,tumor immunotherapy by activating TLR 7/8 and inducing pyroptosis,null,nanoparticles with high porosity,pubmed_11859595,,,0.0970263144
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894524,,,0.9896998394
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11870030,,,0.5277773293
+example_1,null,null,null,null,null,null,null,example_synthesis_method,example_thermal_stability,example_chemical_stability,example_applications,example_topology_code,example_additional_properties,pubmed_11882420,,,0.5473770923
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886424,,,0.3228215016
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11898414,,,0.2432452694
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11892924,,,0.1757707889
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11889621,,,0.0692660273
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904844,,,0.7047797802
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11846985,,,0.008940289
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886005,,,0.932274106
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858530,,,0.3328305827
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11849288,,,0.315572344
+mof_1,In,biphenyltetracarboxylate (bptc^4−),tetragonal,I4122,1000,null,8,Encapsulation of white phosphorus P4 molecules within the MOF structure followed by photo-polymerization using visible light to form a double-helical chain composite.,Thermally stable with weight loss corresponding to removal of water and phosphorus as per TGA data,Air-stable under ambient conditions after polymerization,"Gas detection, photocatalysis, water purification",null,Indium-based MOF with cylindrical channels,pubmed_11821825,,,0.0890442159
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850678,,,0.4125335992
+example_organic_inorganic_hybrid_supramolecule_1,Hg²⁺,L,monoclinic,P2₁/n,null,null,null,room temperature volatilization method,decomposes around 230°C,null,photocatalytic degradation of tetracycline,null,null,pubmed_11858477,,,0.7416458845
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11848744,,,0.6153189023
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868503,,,0.961284112
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11882832,,,0.4425365885
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11897725,,,0.2981307933
+Ce-MOF-1,Cerium(IV),"1,4-benzenedicarboxylic acid (BDC)",null,null,592,0.4401,2.97,Green synthesis using water as solvent and no exchange solvent,High thermal stability up to 500 °C,Stable in acidic solution but decomposes in basic solutions,"Adsorption of organic dyes (Congo Red, Malachite Green), wastewater treatment",null,"High surface area, good porosity, ability to adsorb both anionic and cationic dyes",pubmed_11868615,,,0.599889087
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901711,,,0.8845155726
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858249,,,0.6453272144
+HKUST-1,Cu,"Benzene-1,3,5-tricarboxylic acid",null,null,null,null,null,null,null,High stability in water,Oil/water separation,null,"Hydrophilicity, high stability in water, photocatalytic activity",pubmed_11886428,,,0.3939596904
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905209,,,0.3725353053
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11844257,,,0.2882812251
+dia,Zn²⁺,"1,4-benzenedicarboxylate (BDC)",null,null,null,null,null,Solvothermal synthesis,null,Moderately stable under dry conditions; prone to hydrolysis in humid environments,CO2 capture and separation in mixed matrix membranes (MMMs),null,null,pubmed_11833178,,,0.2814333015
+Ni- COF366/ CNT,Ni,COF-366 (phthalocyanine-based),null,null,null,null,null,Solvothermal synthesis followed by metalation using Ni acetate salt in methanol-chloroform-DIMAC mixture under argon atmosphere at 80 °C for 24 h,null,Stable in acidic and alkaline conditions,Oxygen reduction reaction (ORR) catalysis in proton exchange membrane fuel cells (PEMFCs) and metal-air batteries,null,Well-defined atomic structure with single-atom Ni centers and improved dispersion of active sites,pubmed_11848820,,,0.1182257917
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11891840,,,0.3038881088
+Mn-Organic Framework,Mn²⁺,"2,5-dihydroxyterephthalic acid (DHTA)",cubic,Fm3̄m,200.4,null,58,Hydrothermal synthesis followed by annealing,null,Stable in aqueous environments,Cathode material for aqueous zinc-ion batteries,null,"High surface area, strong MnO-C interactions",pubmed_11848712,,,0.9348039581
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865906,,,0.8097687673
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11870384,,,0.1589902677
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858423,,,0.0142635754
+DCMH,CuCl₂·2H₂O,"Metformin (Met), α-cyano-4-hydroxycinnamic acid (CHCA)",null,null,46.28,1.5,null,"Solvothermal method using CuCl₂·2H₂O, CHCA, and Met in a mixed solvent of water and ethanol with triethylamine as catalyst",null,null,Cancer therapy through synergistic chemo/chemodynamic therapy by remodeling the tumor microenvironment,null,"High loading efficiency (8.12%) and encapsulation efficiency (48.63%), good stability in physiological solutions",pubmed_11837371,,,0.2837908024
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11900449,,,0.404146346
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859980,,,0.9674161477
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904666,,,0.5310528683
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11883404,,,0.6226119082
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11826846,,,0.4548886458
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901876,,,0.5968867582
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857507,,,0.3820027681
+compound_1,[Ni5S6],2-(2-benzimidazolyl)ethanethiol,monoclinic,C2/c,null,null,null,hydrothermal,"room temperature-~100 °C, decomposition at ~330-500 °C",null,iodine adsorption,null,"high iodine adsorption capacity (2.08 g/g for gaseous and 560 mg/g for solution), excellent reusability after several cycles",pubmed_11901886,,,0.6989346449
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904881,,,0.9069388835
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851809,,,0.8533980071
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861530,,,0.7721655383
+example_organic_linker,example_metal_center,null,null,null,null,null,null,example_synthesis_method,example_thermal_stability,example_chemical_stability,example_applications,example_topology_code,example_additional_properties,pubmed_11872572,,,0.9262683736
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11835777,,,0.8590360153
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912327,,,0.9634991672
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11877417,,,0.6652552024
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887472,,,0.0351325769
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11860020,,,0.4423911499
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11828699,,,0.3137281544
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11841485,,,0.1231981285
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11867967,,,0.8243937138
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858424,,,0.3360771576
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11822184,,,0.2972028176
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897126,,,0.3958662297
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11880720,,,0.5584143342
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905824,,,0.2614159994
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897165,,,0.5578452167
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901564,,,0.8219280138
+MIL-101(Cr)-PY,Cr,pyridine (-PY),null,null,null,null,null,null,null,null,degradation of methylene blue (MB),null,null,pubmed_11901548,,,0.1857648508
+DUT-8(Ni),Ni,"ndc, dabco",null,null,null,null,null,null,null,sensitive to water and alcohols,null,null,exhibits gating behavior,pubmed_11912024,,,0.5759869504
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11846537,,,0.1814855372
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859077,,,0.9514742622
+TpPa-SCOF-An,null,"p-phenylenediamine (Pa), 2,4,6-triformylphloroglucinol (Tp)",null,null,933,null,null,Two-step synthesis involving precipitation polymerization followed by solvothermal treatment,null,null,Photocatalytic hydrogen production,null,High surface area and enhanced crystallinity on the surface,pubmed_11850636,,,0.3815821132
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901204,,,0.2851363739
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894209,,,0.8841188145
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858230,,,0.3395597078
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901451,,,0.4798901554
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858819,,,0.986462065
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904201,,,0.5431993927
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11871933,,,0.7544403519
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11913253,,,0.9000547703
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11897657,,,0.1255886364
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11893797,,,0.1438724427
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11851274,,,0.4397112217
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11822353,,,0.8531968542
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886654,,,0.694921365
+no_data_found,no_data_found,no_data_found,no_data_found,no_data_found,null,null,null,no_data_found,no_data_found,no_data_found,no_data_found,no_data_found,no_data_found,pubmed_11839462,,,0.0205952921
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858931,,,0.3955706779
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858096,,,0.4511944747
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904652,,,0.4506068474
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858908,,,0.1692710188
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11863789,,,0.7320647521
+Lithium-phosphide double helices,"Li, P",null,null,null,null,null,null,Periodic DFT calculations,null,Stable semiconducting framework,Hydrogen storage,null,9.6 wt% hydrogen storage capacity,pubmed_11850393,,,0.7717556639
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861699,,,0.1088895132
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11908496,,,0.9265141948
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902263,,,0.4345327418
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880057,,,0.2700120199
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11885248,,,0.7030485615
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11885775,,,0.6008371559
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11860079,,,0.768234561
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11809189,,,0.6026754931
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901602,,,0.7836702624
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11840664,,,0.9440940034
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886614,,,0.5629620503
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887813,,,0.6592022944
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11907402,,,0.1685563268
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11830034,,,0.6699736067
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11877513,,,0.7955745251
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11854172,,,0.8227835626
+MOF-Phosphate Glass Composite,Titanium (Ti),2-Aminoterephthalate (NH₂BDC),null,null,327,null,null,"Composite formed by combining Ti-MOF with phosphate glass through ball milling, pelletization, and thermal treatment at 180 °C",null,null,"Gas sorption, photocatalysis for amine oxidation to imines",fcu (face-centered cubic unit cell),null,pubmed_11912187,,,0.6982371856
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11835391,,,0.2356577977
+Zn-TCPP,Zinc (Zn),Tetrakis(4-carboxyphenyl)porphyrin (TCPP),null,null,null,null,null,"Synthesized using PVP, Zn(NO3)2·6H2O, pyrazine, and TCPP in a DMF/ethanol mixture under reflux conditions at 80°C for 16 hours",null,null,"sono-gene therapy, CRISPRa delivery, obesity treatment",null,Used as a carrier for CRISPRa-UCP1 plasmid and singlet oxygen generation under ultrasound,pubmed_11811159,,,0.5571987755
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901709,,,0.6560732352
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887487,,,0.1682097772
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855478,,,0.3451172188
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887062,,,0.378538291
+ZIF-8,Zn(II),null,null,null,null,null,null,Solventothermal synthesis,null,null,Detection of metronidazole in pharmaceutical samples,null,null,pubmed_11833170,,,0.6438292267
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858107,,,0.0170727377
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902573,,,0.3304012564
+MIL-88B(Fe),Iron,Terephthalic acid,null,null,null,null,null,Solvothermal synthesis using FeCl3·6H2O and terephthalic acid in DMF with NaOH,Good thermal stability up to 380°C,null,"Oil bleaching, specifically for Idesia polycarpaMaxim. oil",null,"High porosity, tunable pore structure, good reusability after regeneration",pubmed_11898808,,,0.1795388556
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11885230,,,0.2943439793
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891339,,,0.7429462415
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11863959,,,0.006227114
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11840672,,,0.816746305
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11869165,,,0.0019627947
+ZIF-9,Co,benzimidazole (bml),null,null,75.38,null,null,solvothermal synthesis,thermal stability up to 580 °C,stable in neutral pH conditions,"photocatalysis for water treatment, degradation of methylene blue under visible and UVA light",null,"high surface area, photocatalytic activity",pubmed_11868913,,,0.9381460063
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11874039,,,0.6846596531
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859861,,,0.6511625601
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11828348,,,0.887200648
+ZIF-8,Zn²⁺,2-methylimidazole,null,null,544.48,null,null,In situ mineralization of ZIF-8 onto bacterial cellulose,Up to 600 °C,High chemical stability in aqueous environments,Wastewater treatment (adsorption of Congo red and Cu²⁺ ions),pcu,"High specific surface area, hierarchical porosity, excellent adsorption capacity, reusability, selectivity",pubmed_11901442,,,0.1235963146
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857295,,,0.3360727425
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904243,,,0.2932047676
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11907296,,,0.645343174
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11840010,,,0.7830306571
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855543,,,0.8166079607
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891841,,,0.7952373887
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904600,,,0.1822028994
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11864181,,,0.2018986386
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873543,,,0.2632778992
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11876544,,,0.3582118833
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902826,,,0.152793804
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11874011,,,0.2081118596
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859697,,,0.223838324
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858120,,,0.8748084139
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887045,,,0.0350985778
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11886651,,,0.5963528845
+K₃GaF₆:Er³+,"Ga, Er",null,cubic,null,null,null,null,co-precipitation,null,null,"biological imaging, laser displays, optical sensing",null,upconversion luminescence,pubmed_11858277,,,0.2969741591
+γ-Graphyne nanotubes (γ-GNT),"B, N-doped carbon framework",Graphyne framework,null,null,null,null,null,Functionalization with OLi2 at boron-doped sites,null,Chemical stability under adsorption conditions,Hydrogen storage,null,Enhanced hydrogen binding energies,pubmed_11850393,,,0.3904048908
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11829892,,,0.379455213
+NU-2000,[Al(OH)] cluster,"bicyclo[2.2.2]octane-1,4-dicarboxylate (BODCA)",null,null,null,null,null,null,null,null,"gas storage, catalysis, separations",sra,"high mechanical stability, reduced flexibility",pubmed_11808794,,,0.1749308601
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901863,,,0.2152177508
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11877942,,,0.7504651537
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11836329,,,0.0105060148
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902688,,,0.013959036
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901484,,,0.6820506307
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902470,,,0.8706955251
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902495,,,0.6522610972
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811728,,,0.2227972716
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11879985,,,0.3271617303
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858398,,,0.7351518143
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11909133,,,0.0316957256
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11859541,,,0.7310784874
+Ti-TCPP MOF,Ti,TCPP (tetracarboxylphthalocyanine),hexagonal,null,513,0.24,null,solvothermal synthesis,thermal stability up to 300°C,stable in acidic and basic conditions,"nitrogen reduction reaction, energy conversion",dia,"high conductivity, redox-active ligands",pubmed_11886991,,,0.957473808
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880608,,,0.7975527889
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11871205,,,0.2639727818
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11840952,,,0.322889721
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859955,,,0.2220874561
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865426,,,0.4083582617
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11836431,,,0.1739112011
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11853894,,,0.9348940859
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11851780,,,0.2377834946
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899533,,,0.4028231925
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894251,,,0.6436302485
+SG-1,null,TAPB and PDA,null,null,1897,null,null,Self-sacrificing guest strategy involving impregnation with ammonium bicarbonate followed by activation,null,High stability in water without residual guest molecules,Adsorption of per- and polyfluoroalkyl substances (PFAS),null,High crystallinity and porosity,pubmed_11868610,,,0.4375386629
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851414,,,0.9786802079
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869280,,,0.9377356688
+AuNPs@G4-SNAzyme,Au,null,null,null,null,null,null,nanoprobe for cTnI detection,null,null,detection of cardiac biomarkers for myocardial infarction diagnosis,null,null,pubmed_11829642,,,0.2782570717
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851964,,,0.0643697463
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11878011,,,0.3123204971
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861102,,,0.1341029024
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902809,,,0.3001181225
+Cs2Mo6Br14,Mo,null,octahedral,P3m1,null,null,17.5,encapsulation within SWCNTs via melting method,null,null,"imaging, sensing, telecommunications",pcu,formation of [Mo2Br6] chains and changes in vibrational properties upon encapsulation,pubmed_11887431,,,0.242045332
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11813723,,,0.2861521
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912178,,,0.1515587338
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886957,,,0.5830312476
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891648,,,0.5458845058
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11852683,,,0.1129380206
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861087,,,0.3528334666
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902015,,,0.4658091324
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902838,,,0.9878182523
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11822182,,,0.20498387
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11813985,,,0.2538491492
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850552,,,0.0013732042
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11821909,,,0.5678957843
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11842831,,,0.9052425697
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11843543,,,0.6772616974
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11836371,,,0.9313346695
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850804,,,0.1989474786
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11875313,,,0.2378372168
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903330,,,0.394534742
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11825869,,,0.5193597495
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11866049,,,0.0571643827
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11893043,,,0.6847698721
+SCOF-2,null,"benzene-1,4-diamine (Pa), 2,5-diaminobenzenesulfonic acid (Pa-SO3H)",null,null,57,null,1.4,Schiff base reaction,up to 800 °C under N2 atmosphere,null,glycopeptide enrichment in serum samples,null,"High hydrophilicity, abundant sulfonate groups, excellent enrichment selectivity, ultralow detection limit (0.01 fmol μL⁻¹), satisfactory recovery rate (89.1%), high adsorption capacity (150 mg g⁻¹), good reusability",pubmed_11900406,,,0.8953897029
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886643,,,0.7340061218
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858132,,,0.2575307698
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11813857,,,0.2830041125
+NiO/N-rGO nanohybrids,Nickel (Ni),Nitrogen-doped reduced graphene oxide (N-rGO),Cubic,Fm-3m,null,null,null,Airbrushing of N-rGO and NiO nanoparticles onto electrodes,null,Stable under 70% RH conditions,NO2 gas sensing for environmental monitoring and IoT applications,null,"Enhanced sensitivity to NO2, low limit of detection (<1 ppb)",pubmed_11902665,,,0.0739691609
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11856669,,,0.6532398893
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903802,,,0.9582023397
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902673,,,0.5841520007
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902022,,,0.4482078326
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11822169,,,0.3124181544
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901503,,,0.4689256074
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11897319,,,0.3110396145
+ZIF-8,Zn,Imidazolate,null,null,null,null,null,null,null,Moderate stability in water,Oil/water separation,null,"Hydrophobicity, moderate stability in water, high chemical and thermal stability, functionalizable",pubmed_11886428,,,0.7178990257
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11885155,,,0.1575739491
+ZIF-67,Co,Dimethylimidazole,null,null,null,null,null,null,null,Excellent chemical and thermal stability,Oil/water separation,null,"Hydrophobicity, catalytic capacity, excellent chemical and thermal stability, functionalizable",pubmed_11886428,,,0.5063602927
+NH2-MIL-101(Fe),Fe,NH2-BDC,null,null,null,null,null,"Synthesized using NH2-BDC and FeCl3·6H2O in DMF, heated at 120°C for 20h",null,Stable under various pH conditions with reduced Fe ion release after CMC modification,"Agricultural applications, iron delivery to rice plants",null,"High specific surface area, hierarchical pore structure, amino groups enhance interactions, CMC modification reduces toxicity and improves iron absorption",pubmed_11901664,,,0.5879239219
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858081,,,0.7566785139
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11884119,,,0.3236530174
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873912,,,0.6024317807
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11863366,,,0.0069659459
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901448,,,0.7616418023
+example_1,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858949,,,0.4649406727
+CP1,Cu(II),"5-methyl-1-(pyridine-4-yl-methyl)-1H-1,2,3-triazole-4-carboxylate",monoclinic,C2/c,null,null,null,Slow diffusion method at the water/n-butanol interface,Decomposes above 50°C,Insoluble in protic and aprotic solvents,Hydrogen evolution reaction (HER) catalysis,null,"Superior HER kinetics, lower Tafel slope",pubmed_11855095,,,0.3492862985
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11830038,,,0.439086573
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898610,,,0.5802051921
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886659,,,0.6719376491
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902779,,,0.2703278249
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873794,,,0.4034801465
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897175,,,0.7010282367
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859843,,,0.7536087479
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11862094,,,0.2295701492
+Co-3(HTQ)2,Co,HTQ (tricycloquinazadine),hexagonal,null,613,0.24,null,solvothermal synthesis,thermal stability up to 300°C,stable in acidic and basic conditions,"CO2 reduction, energy storage",pcu,"high conductivity, abundant active sites",pubmed_11886991,,,0.8071568736
+mil-121,aluminum,"1,2,4,5-benzenetetracarboxylic acid (h4btec)",null,null,null,null,null,hydrothermal method,>=300 °C,stable under dehydration and calcination,electrolyte scaffold for quasi-solid-state ion conductor,null,lattice distortion upon ion substitution; improved dielectric properties,pubmed_11857909,,,0.6872199322
+pb-l-mof,Pb(II),C6H4(CO2H)2,Monoclinic,P21/c,null,null,null,"Hydrothermal, Branch tube, Sonochemical",Crystalline: ~414°C; Amorphous: Lower,null,Photocatalytic degradation of methylene blue,bcu (speculative),High surface area and thermal stability,pubmed_11869037,,,0.2680520972
+CC-1,Co/Cu,2-methyl imidazole,null,null,15.36,null,null,step-by-step hydrothermal synthesis,null,null,electrodes for supercapacitors,null,null,pubmed_11912221,,,0.2879339862
+AgNPrs,Silver (Ag),None reported,Not specified,Not specified,null,null,null,Various synthesis methods including etching and functionalization,Depends on environment; prone to degradation in certain conditions,"Chemically robust but sensitive to halide ions, polyelectrolytes, or oxidizing agents","Biomedical sensing, environmental monitoring, food safety analysis",Not specified,"High surface area, tunable optical properties, etching effects",pubmed_11831252,,,0.8276339732
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11852938,,,0.5221675702
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11877355,,,0.671608224
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11870740,,,0.0564923799
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11823592,,,0.2861597119
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901637,,,0.4988438087
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912197,,,0.451140973
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865965,,,0.1231259389
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11896635,,,0.5907149373
+Fe-MOF,Iron (Fe),null,null,null,null,null,null,null,null,null,Nucleic acid detection,null,null,pubmed_11908094,,,0.7000203189
+TpBpy/CS,null,bipyridine,null,null,332.7,0.191,null,"Covalent linking of bipyridine COF with chitosan using 1,3,5-triformylphloroglucinol as a cross-linking agent",Up to 330 °C,Stable in acidic conditions (HCl and HNO3),null,null,"High adsorption capacity for Pd(II), selective recovery of palladium from wastewater",pubmed_11878236,,,0.0760435387
+Fe₃O₄@SiO₂/Schiff-base/Zn(II) MNC,"Fe³⁺, Fe²⁺, Zn²⁺",Schiff base ligand (salicylaldehyde and APTES),cubic,Fd3m,null,null,null,Coprecipitation of FeCl₃ and FeCl₂ followed by silica coating via modified Stöber method and Schiff-base/Zn(II) complex functionalization,Thermally stable up to 370°C with minimal mass loss,Stable in various chemical environments as tested,"Antimicrobial agent against bacterial and fungal pathogens, biofilm inhibition, potential for targeted drug delivery due to magnetic properties",null,"Superparamagnetic behavior, positive zeta potential (+26.5 mV), stable structure after 3 months of storage",pubmed_11833134,,,0.8582310069
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11836362,,,0.429973206
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902195,,,0.1756069246
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11825661,,,0.004562062
+Metal acetylide complexes,"Cu, Ag, Au","CCH (acetylide), CN (cyanide)",null,null,null,null,null,DFT-based computations,null,Stable in noble gas environment,Hydrogen storage,null,Thermodynamically favorable hydrogen adsorption,pubmed_11850393,,,0.3546577306
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11825848,,,0.0032700254
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11892102,,,0.8621897297
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899469,,,0.5326334743
+mcta,"fe3o4,cu",null,null,null,95.2,0.332,null,"hydrothermal,solvothermal",null,"resistant to common anions such as carbonate, chloride, nitrate, phosphate, and sulfate ions",photocatalytic degradation of pollutants in wastewater treatment,null,"high surface area, magnetic properties",pubmed_11828876,,,0.5313653841
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891785,,,0.6302393635
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902138,,,0.4346908522
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868585,,,0.7644693721
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11900071,,,0.446635036
+MCM-41-PEI,null,polyethylenimine (PEI),null,null,null,null,null,impregnation of PEI on MCM-41,null,null,CO2 capture,null,null,pubmed_11886658,,,0.0760611885
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901563,,,0.9247581977
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11882713,,,0.8372291704
+Ln-CPM,"Eu3+, Sm 3+, and/or Tb 3+",H2DCPA,null,null,null,null,null,Information encryption,null,null,null,null,null,pubmed_11873967,,,0.4646641714
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898271,,,0.4829700657
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851775,,,0.7032596876
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11910205,,,0.2212483932
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11826152,,,0.1013385984
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11849557,,,0.7293393768
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11885261,,,0.0312216976
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11833602,,,0.4037668237
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905120,,,0.241107909
+MIL-100,iron (Fe),carboxylate ligands,null,null,null,null,null,solvent-based method,null,null,drug delivery carrier for tumor immunotherapy,null,nanoparticles with high porosity,pubmed_11859595,,,0.257397979
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11866187,,,0.6050315253
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905057,,,0.5781465725
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11852982,,,0.4621975974
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11862879,,,9.2645175755024E-005
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887844,,,0.2566500725
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880625,,,0.0061784985
+example_1,example_2,example_3,example_4,example_5,6230.22,4.11,3.65,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11901929,,,0.3200916452
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11854473,,,0.0537187068
+MIL-53,iron (Fe³+),carboxylate,null,null,null,null,null,synthesized via hydrothermal method,null,null,used as cathode catalyst in microbial fuel cells,null,exhibits high ORR activity,pubmed_11901833,,,0.2862116392
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898143,,,0.0976692392
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904684,,,0.7924630393
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873915,,,0.5008545283
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898176,,,0.0203892484
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857418,,,0.7964518678
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901510,,,0.1506436355
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902007,,,0.6103560836
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905217,,,0.8547875497
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897236,,,0.2102507968
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11837242,,,0.3697847018
+q2D-FcZ8,Zn,2-methylimidazole,null,null,null,null,null,Ice-templating followed by fluorination,null,Resistant to air corrosion and electrolyte decomposition,Artificial solid electrolyte interface (ASEI) for Li metal batteries,null,"High surface area, good ionic conductivity",pubmed_11847004,,,0.3885940432
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902636,,,0.4665949096
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858784,,,0.0851594845
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858410,,,0.6244128074
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887326,,,0.0808653908
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11907706,,,0.3868886183
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11852266,,,0.1042404149
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857953,,,0.2145398273
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11836199,,,0.6811987462
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857398,,,0.448121123
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11907298,,,0.1600663261
+example_1,example_2,example_3,example_4,example_5,null,null,null,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11864185,,,0.2779584262
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869291,,,0.7252190649
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11892508,,,0.4120516251
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858098,,,0.264524865
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11833234,,,0.0881921747
+NU-2003,[V(=O)(OH)₂] cluster,"bicyclo[1.1.1]pentane-1,3-dicarboxylate (BPDCA)",null,null,null,null,null,null,null,null,"gas storage, catalysis, separations",srw,"high mechanical stability, reduced flexibility",pubmed_11808794,,,0.9994739506
+BiOBr/coal gangue-based SAPO-5,"Bismuth oxybromide (BiOBr), Aluminum (Al), Silicon (Si)",null,Tetragonal,P42/mnm,null,null,25.19,Hydrothermal synthesis followed by impregnation with BiOBr,null,null,Adsorption and photocatalytic degradation of methylene blue,afi,"Enhanced adsorption capacity, high photogenerated charge density",pubmed_11902256,,,0.2485948193
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11876481,,,0.8016808869
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11885292,,,0.3238017056
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11842613,,,0.3728006666
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11891868,,,0.1662581391
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11862567,,,0.7103365513
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11840067,,,0.4843168489
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886738,,,0.8579742722
+mof_1,Cu²+,"benzene-1,3,5-tricarboxylic acid",null,null,null,null,null,in situ synthesis within hydrogel using Cu(NO3)2 and BTC,null,high water stability,catalytic reduction of nitrophenols and dyes,null,"high catalytic activity, easily recoverable through filtration",pubmed_11876955,,,0.216099398
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11875835,,,0.9743877582
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858895,,,0.5076748289
+example_1,WO3,melamine,null,null,205,0.3,40,hydrothermal and calcination methods,high stability after four cycles of use,good catalytic stability and photo-corrosion resistance,photocatalytic degradation of pollutants under visible light,null,high specific surface area and efficient electron-hole separation,pubmed_11901496,,,0.8607775697
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857441,,,0.4834930061
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11913365,,,0.088877744
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857695,,,0.1508990799
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811144,,,0.6551232319
+Cu-HITP,Copper (Cu),"2,3,6,7,10,11-hexaiminotriphenylene (HITP)",hexagonal,null,null,null,null,solvothermal reaction involving HITP and Cu(NO3)2,null,null,electrocatalyst for CO₂ reduction,null,dual copper sites suitable for C–C coupling,pubmed_11887130,,,0.4986823495
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857861,,,0.371842531
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11854474,,,0.7058167364
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11871784,,,0.2647531799
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11872485,,,0.2648323786
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11821550,,,0.2808872082
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865619,,,0.1752036319
+msp,null,null,null,null,null,null,null,"nanoparticle synthesis via in situ encapsulation of PEITC, SQ-675, and CORM-401 into MOFs",null,null,photodynamic therapy for triple-negative breast cancer,null,null,pubmed_11892270,,,0.0788705025
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11892125,,,0.6487084534
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850590,,,0.4985673074
+NP-DA-10%,Si,Dopamine,null,null,235,null,48,Sol-gel method,Decomposes at ~240°C,"Stable in physiological conditions, prevents dopamine oxidation",Controlled delivery of dopamine for Parkinson's disease treatment,null,Amorphous structure with high surface area and pore volume for drug stabilization,pubmed_11881884,,,0.4680276292
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11885268,,,0.7858809328
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11844087,,,0.1297830949
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858727,,,0.5957550562
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858488,,,0.3896706062
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902231,,,0.7112111412
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858221,,,0.5410080815
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11876744,,,0.9333648777
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902026,,,0.1540926602
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11872554,,,0.8610054257
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11881133,,,0.6203122905
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865970,,,0.09095825
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11837358,,,0.3148654944
+[(EtCAAC)2P3]-,null,EtCAAC,null,null,null,null,null,Reaction of potassium dicyanophosphide with EtCAAC-P⁻ followed by heating,null,Reactive towards nucleophiles and oxidants,"Functionalization of phosphorus clusters, extended conjugation",null,"5-center-6-electron π delocalization, electron-rich central phosphorus",pubmed_11890873,,,0.693809154
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11819507,,,0.8773929358
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11855277,,,0.3281097361
+Ni–ImzAdn,Nickel(II),"Imidazole, Adenine",null,null,161.8486,0.146227,19,Hydrothermal synthesis under ethanol at 180°C for 10 hours,Up to 318°C,null,Catalyst for CO₂ cycloaddition with epoxides to form cyclic carbonates at ambient pressure,null,"High surface area, nitrogen-rich sites, recyclable without significant activity loss after six cycles",pubmed_11883551,,,0.9718307746
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11881141,,,0.0602445358
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858847,,,0.3951642322
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858138,,,0.0631855696
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858446,,,0.8780978192
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851273,,,0.832535397
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11897326,,,0.9577388803
+TpBD(SO3H)2COF,null,"1,3,5-triformylphloroglucinol (TFP), BD(SO3H)2",null,null,78,null,2.1,Schiff-base condensation and in situ polymerization,Thermally stable up to 250 °C,null,Proton-conducting materials for fuel cells,null,"High surface area, ordered nanochannels, good mechanical stability",pubmed_11901798,,,0.1806169527
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904111,,,0.0879107567
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868840,,,0.2413670761
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865380,,,0.2522849143
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11878132,,,0.6535364005
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11812092,,,0.1012469141
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11860610,,,0.786857991
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11881315,,,0.3148013467
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11883743,,,0.8811635671
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11859928,,,0.6269084017
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902686,,,0.0255845592
+example_1,example_2,example_3,example_4,example_5,100,0.5,20,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11857584,,,0.6941167174
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11848913,,,0.9428283521
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857864,,,0.3791140236
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11849041,,,0.5087856164
+q2D-FcNiMOF,Ni,"4,4’-bipyridine",null,null,null,null,null,Ice-templating followed by fluorination,null,Resistant to air corrosion and electrolyte decomposition,Artificial solid electrolyte interface (ASEI) for Li metal batteries,null,"High surface area, good ionic conductivity",pubmed_11847004,,,0.4050870282
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11896601,,,0.7403710471
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11844895,,,0.2712099522
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855300,,,0.0151241999
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11846837,,,0.3845597336
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902859,,,0.7621007632
+PSZ-70,Zinc (Zn),HL1 photoswitch grafted on ZIF-70,null,null,588.24,null,null,Solvent-assisted ligand exchange (SALE) process with HL1 photoswitch grafting,Excellent thermal stability under heat treatment with organic solvents,Stable in weakly basic to basic environments; less stable in acidic conditions,Selective extraction of uranium from seawater with high U(VI)/V(V) separation factor,null,"Dynamic pore size modulation, photoisomerization capability for selective adsorption",pubmed_11894057,,,0.159822756
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858690,,,0.3477841343
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851373,,,0.8937129863
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901523,,,0.5236997125
+Fe2O3@SiO2-L-cysteine-cellulose,"Fe₂O₃, SiO₂","L-cysteine, cellulose",null,null,371.11,0.048,17.32,"Multi-step synthesis involving Fe₂O₃@SiO₂ nanoparticles, L-cysteine, and cellulose",Up to ~500°C,Stable in acidic and basic environments,"Heavy metal adsorption (Cr, Cd, Ni, Pb), water, N₂, CO₂ adsorption",null,"High surface area, magnetic separation capability, reusability",pubmed_11897135,,,0.4154833909
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901310,,,0.9360099146
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865509,,,0.1652418599
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11865594,,,0.9451363895
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902811,,,0.894077088
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898779,,,0.5777905732
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850677,,,0.6959342333
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898769,,,0.4383168151
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11854346,,,0.0140756641
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11887453,,,0.3436694136
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912132,,,0.6154880396
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11881893,,,0.9547889945
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11866177,,,0.3272946677
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11907284,,,0.917251277
+Cu- based metal–organic framework (MOF),Copper,null,null,null,null,null,null,one-pot pyrolysis in a tube furnace with air as carrier gas,null,null,CO2 reduction to ethanol,null,"carbon-coated, high selectivity for ethanol production",pubmed_11848642,,,0.5952144272
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897740,,,0.8883246235
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11842878,,,0.7478394532
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899461,,,0.148795669
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891217,,,0.8470795944
+MOFs,null,null,null,null,4,null,null,null,null,null,Hydrogen storage,null,null,pubmed_11857648,,,0.2148350556
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11809490,,,0.7203691038
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11840547,,,0.8615251395
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811299,,,0.407649003
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904692,,,0.9112732953
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11871976,,,0.6288606788
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858966,,,0.7371174863
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880143,,,0.4190160648
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850627,,,0.660005938
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861154,,,0.7196877142
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11833290,,,0.2458370226
+UiO-66,Zr(IV),null,cubic,Im-3m,null,null,null,Two-step process involving surface functionalization with cat-CTA followed by polymerization using RAFT method,null,null,"Formation of self-assembled MOF monolayers (SAMMs) for free-standing films, applications in ion nanochannels and energy harvesting",pcu,null,pubmed_11869284,,,0.4636668717
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11893803,,,0.3501109993
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902097,,,0.593690427
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897286,,,0.3756312081
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11886736,,,0.5077684151
+SU-101,Bismuth (Bi),Ellagic acid,null,null,null,null,null,Solvent-based synthesis with activation at 60 °C followed by activation under vacuum at 150 °C,Moderate thermal stability up to 280 °C,Stable in various chemical environments; selective conversion of H₂S to polysulfides,"H₂S detection, environmental monitoring, molecular sensing",null,Highly selective H₂S detection; forms polysulfides upon exposure; increased fluorescence intensity due to blocked LMCT process,pubmed_11853078,,,0.7835681899
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858853,,,0.8245648914
+CU CAM-1,Cu(I),"pyrazine, benzene-1,3,5-tricarboxylate",triclinic,null,null,null,null,hydrothermal synthesis,null,"stable in non-polar solvents, reacts in polar solvents with halides","halide detection, structural transformation study",diamondoid topology,null,pubmed_11863367,,,0.302053934
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901251,,,0.5798213496
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901848,,,0.5895461971
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901611,,,0.9306801064
+hexakis(urea-O)iron(III) dichromate,Fe III,urea,trigonal,R3̅c,null,null,null,precipitation method from aqueous solution of iron nitrate and urea mixed with sodium dichromate,"stable at room temperature, decomposes above 110 °C","selective oxidant for sulfur-containing compounds, stable in dark for over a month","potential catalyst for CO₂ hydrogenation, selective oxidation agent, potential use in solid oxide fuel cells",null,"selective oxidation of organic compounds, catalytic activity in CO₂ hydrogenation",pubmed_11863387,,,0.3281781571
+Zn/Ni-MCM-41,"Zn²⁺, Ni²⁺",null,hexagonal,null,722.86,0.74,2.77,surfactant-assisted precipitation method,null,null,photocatalytic degradation of tetracycline,null,enhanced visible light absorption and improved charge carrier separation,pubmed_11833085,,,0.5031826524
+ZIF-8,Zn²⁺,imidazolate,null,null,null,null,null,hydrothermal synthesis,null,null,"drug delivery, photodynamic therapy (PDT)",null,"biodegradable, high surface area",pubmed_11858586,,,0.0692241983
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11886958,,,0.0457214317
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11849338,,,0.6741856341
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901276,,,0.0641385186
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11808566,,,0.1018323405
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898898,,,0.6698151862
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861157,,,0.5023516568
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886619,,,0.6213115479
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901959,,,0.8434071522
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11849835,,,0.8756025201
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904686,,,0.7245226661
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902801,,,0.0320389513
+ZIF-7@PANI,Zinc (Zn²⁺),Benzimidazole,null,R-3,null,null,null,PEG-templated synthesis at room temperature,null,null,Heavy metal ion detection in water samples,pcu,"High surface area, conductivity from PANI, effective adsorption of heavy metals",pubmed_11902615,,,0.5799832884
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11897405,,,0.1260821722
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11837437,,,0.9267794592
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11871330,,,0.4473982889
+tb-btc,terbium (Tb³+),"benzene-1,3,5-tricarboxylic acid",null,null,null,null,null,"synthesized using benzene-1,3,5-tricarboxylic acid (H3BTC) as the organic linker",null,null,color converters for optical wireless communication,null,efficient energy transfer leading to reduced photoluminescence lifetime and increased bandwidth,pubmed_11869274,,,0.23407195
+UiO-66-NH2,Zr,NH2-BDC,null,null,671,0.25,null,solvothermal,null,null,gas separation (CO2/N2 and CO2/CH4),pcu,high microporosity,pubmed_11858266,,,0.4965238844
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858635,,,0.8923871301
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11885448,,,0.8943539034
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11889803,,,0.4325745841
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912484,,,0.4826972438
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11827613,,,0.1553918824
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11843534,,,0.7940852011
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865690,,,0.7917156429
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11900508,,,0.9668126607
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11877424,,,0.2613730771
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904675,,,0.2353199208
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891572,,,0.9479728923
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873925,,,0.4631936774
+UiO-66,Zr,"1,4-benzenedicarboxylic acid",null,null,null,null,null,null,null,High stability in water,Oil/water separation,null,"Hydrophilicity, high stability in water, high water adsorption capacity, high roughness, functionalizable",pubmed_11886428,,,0.8633368181
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11853684,,,0.8533106449
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11853510,,,0.9724341144
+UiO-66-NH2,Zr,2-aminoterephthalic acid,cubic,null,707.38,0.676,null,Rapid aqueous synthesis at room temperature with acetic acid on graphitic substrates,null,"Exceptional chemical stability, stable in water",Ion–ion selectivity and molecular/ionic separation applications,null,"High crystallinity, low defect density, mechanically robust",pubmed_11887446,,,0.6294661406
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898470,,,0.6446416189
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11910576,,,0.0204831597
+MOF-derived,"Ni, Co, Fe",null,null,null,null,null,null,Thermal treatment of MOFs to form nanostructured composites,Excellent stability under test conditions,Stable in acidic and alkaline conditions,"Hydrogen evolution, oxygen evolution, urea oxidation",null,High surface area and tunable porosity,pubmed_11858572,,,0.4752295702
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912552,,,0.97069726
+CoMC6*aa,cobalt,porphyrin-based mini-enzyme,null,null,null,null,null,electrochemical synthesis,null,stable in aqueous environments,CO₂ reduction,null,excellent oxygen tolerance,pubmed_11877352,,,0.5788129084
+mof_1,In,"NH2-BDC, TCPP",null,null,1107,null,null,one-pot synthesis using competitive nucleation of two organic linkers with indium nodes,null,null,CO2 reduction and water oxidation to produce HCOOH and H2O2,null,"high surface area, good light absorption, efficient charge transfer in heterostructures",pubmed_11911404,,,0.5579273247
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11842515,,,0.9373671282
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901613,,,0.9173833618
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899132,,,0.453377655
+Fe-PCL,Fe,pyridinic N-doped graphitic carbon,null,null,null,null,null,dopamine complexation followed by carbonization on CNT surface,null,protected against phase change to maintain catalytic activity,improved lithium-sulfur battery performance with higher energy and stability,null,protective layer inhibits metal sulfide formation,pubmed_11828906,,,0.1913807087
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11898878,,,0.1282776417
+Ru XLPH,Ruthenium (Ru),Carbazolyl terpyridine (CTP) and Terpyridyl phosphonate (TPP),null,null,null,null,null,Self-assembly of organometallic complex molecules on ITO substrates,null,null,"High-density data storage, in-situ encryption of stored information",null,null,pubmed_11868525,,,0.7903249974
+EC@N 6Fe 0.6-700,Fe (iron),"durian peel cellulose, urea",null,null,269.35,0.64,21.22,pyrolysis of durian peel with urea and ferric nitrate at 700°C,null,"stable in various pH conditions, low metal leaching (below 0.25 mg/L)",activating PMS for degradation of TEC and other pollutants,null,"high surface area, mesoporous structure, magnetic properties (saturation magnetization 39.23 emu/g)",pubmed_11901486,,,0.3734805624
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11890252,,,0.3871118906
+example_1,example_2,example_3,example_4,example_5,null,null,null,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11853841,,,0.5879208362
+UiO-66,zirconium (Zr⁴+),terephthalate,null,null,null,null,null,synthesized via solvothermal method,null,null,used as catalyst support in direct borohydride fuel cells,null,exhibits high thermal stability and tunable chemical properties,pubmed_11901833,,,0.8434634435
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11891996,,,0.6380784977
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858444,,,0.6773979117
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868630,,,0.2904774926
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11861559,,,0.5580411635
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11893957,,,0.453358467
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850124,,,0.6057781426
+Ni-3HITP2,Ni,HITP (hexaaminotriphenylene),hexagonal,null,111,0.18,null,solvothermal synthesis,thermal stability up to 300°C,stable in acidic and basic conditions,"supercapacitors, energy storage",pcu,"high conductivity, abundant active sites",pubmed_11886991,,,0.0720698624
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903938,,,0.0706434834
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857310,,,0.0055123107
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858323,,,0.6008354775
+IL-Ti3C2,Titanium (Ti),1-octyl-3-methylimidazolium chloride ([OMIM]+Cl−),null,null,30.68,null,null,Intercalation of ionic liquid into Ti3C2 MXene via ultrasonication,null,Exceptional stability in aqueous solution,Electrochemical sensing of tryptophan,null,High surface area and improved electrocatalytic performance due to ionic liquid intercalation,pubmed_11861633,,,0.2979822136
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11888939,,,0.892706342
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11859562,,,0.513707533
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11850698,,,0.5359317982
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11846615,,,0.3320629855
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11874145,,,0.4911843708
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897375,,,0.427587688
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851101,,,0.5205122265
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11856478,,,0.2257040581
+Ti3C2MXene,Titanium (Ti),null,null,null,22,null,null,Chemical oxidation with hydrogen peroxide,null,null,Sodium-ion battery anode material for fast-charging and high-capacity storage,null,"Porous structure with enlarged interlayer spacing, enhanced rate capability, long-term cycling stability",pubmed_11901979,,,0.7336196406
+Phthalocyanine-based MOF,Metal phthalocyanine,Phthalocyanine,null,null,null,null,null,Optical transduction method,null,null,Detection of CA-125 cancer biomarker,null,null,pubmed_11912004,,,0.0526990416
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11831914,,,0.1918349294
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11813179,,,0.2168124896
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902180,,,0.3312028646
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857650,,,0.0598177123
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903808,,,0.808313862
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855494,,,0.8461827983
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880836,,,0.5390004441
+CaO2@ZIF8:CUR@PAA,Zn²⁺,imidazole derivative,cubic,Pm3n,null,null,null,solvothermal synthesis using zinc nitrate and imidazole,null,stable under acidic conditions,"tumor therapy, drug delivery",pcu,double-layer protective shell with pH-responsive properties,pubmed_11830942,,,0.2877613122
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858944,,,0.0431453753
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11868487,,,0.7174164779
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11822892,,,0.5886736554
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11821885,,,0.416037227
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11860279,,,0.1414946639
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11860438,,,0.0184501652
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11872640,,,0.4000436859
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11836409,,,0.9808484695
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902667,,,0.5625470346
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859058,,,0.3294788653
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11862950,,,0.0934536369
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11808113,,,0.6201617562
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11832879,,,0.5907501057
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865196,,,0.4775463154
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899245,,,0.2686777944
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897237,,,0.7725883359
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11905173,,,0.0260597304
+example_organic_linker,example_metal_center,null,null,null,null,null,null,example_synthesis_method,null,null,null,null,null,pubmed_11878149,,,0.3083920933
+zip-8/ag,zinc (zn),2-methylimidazole,null,null,null,null,null,solvothermal method with polyvinylpyrrolidone (pvp) as a modulator,null,null,"sers nanoplatform for ultrasensitive detection of urea, methylene blue, congo red, 4-nitrophenol, and chloramphenicol in various solutions",null,"high porosity, selective adsorption of small molecules",pubmed_11823638,,,0.8365709628
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865586,,,0.7514745963
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855295,,,0.3783176783
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11823048,,,0.1466858184
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11911976,,,0.6700324544
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11883376,,,0.2156839948
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11910037,,,0.4194789506
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903806,,,0.221537916
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11873946,,,0.9081346148
+Au@Ni-MOF (Ni(CH3CO2)2),Nickel,"1,3,5-trimesic acid (H3BTC)",null,null,10.0816,null,null,In-situ growth methodology using solvothermal methods with ultrasonic treatment,null,null,Electrochemical detection of dopamine and uric acid,null,"High surface area, conductivity, catalytic activity",pubmed_11906810,,,0.857565325
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811174,,,0.5161767232
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902060,,,0.2704676157
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898167,,,0.8248081934
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11871910,,,0.4919597104
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891875,,,0.0054903582
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901425,,,0.6876923114
+tbo,Mg²⁺,"2,5-dioxido-1,4-benzenedicarboxylate (DOBDC)",null,null,null,null,null,Solvothermal synthesis,null,High thermal stability; susceptible to moisture-induced degradation,CO2 capture and separation in mixed matrix membranes (MMMs),null,null,pubmed_11833178,,,0.339254637
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902021,,,0.8666651002
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11823402,,,0.6470939766
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912554,,,0.5210731195
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11833443,,,0.9949500614
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857275,,,0.977972429
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11907635,,,0.8289107094
+CEA2PbBr4,Lead (Pb),2-chloroethylammonium (CEA+),Orthorhombic,Pmnm,null,null,null,Hydrothermal synthesis,315 K phase transition,null,"Optoelectronic applications, photoluminescence",null,Two-dimensional perovskite structure with ordered CEA+ cations and PbBr6 octahedra,pubmed_11898175,,,0.9093641033
+example_1,example_2,example_3,example_4,example_5,null,null,null,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11902386,,,0.5133436555
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887456,,,0.0672958444
+AFI-[Zn(Im) 1.68(bIm) 0.32],Zn,"imidazole (Im), benzimidazole (bIm)",null,null,1073,null,15.6,Solvothermal synthesis with DPF as SDA and mixed ligands,null,Generally stable but decomposes during melting,Gas separation membranes for CO₂ and CH₄ separation,AFI,null,pubmed_11825956,,,0.3789613103
+CD-MOF,γ-Cyclodextrin (γ-CD) with alkali metal salts,γ-Cyclodextrin,cubic,null,1075.3,1.7,1.7,"Prepared by mixing γ-CD with potassium hydroxide and methanol, followed by cross-linking with PEG20,000",null,Stable in water after stearic acid modification,Drug delivery for hair follicle targeting and treatment of androgenetic alopecia (AGA),null,"Enhanced hydrophobicity after stearic acid modification, good biocompatibility, effective drug encapsulation capability",pubmed_11834556,,,0.4205238246
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11872905,,,0.0898778711
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899302,,,0.3574461313
+IMA,"Zn²+, Mn²+","indole-3-carbaldehyde, 2,3-diaminomaleonitrile",null,null,null,null,null,"Schiff base condensation reaction between indole-3-carbaldehyde and 2,3-diaminomaleonitrile in ethanol with glacial acetic acid as catalyst",null,null,"detection of OCl⁻, Zn²+, Mn²+; practical applications including detection of bleaching powder and water analysis; bio-imaging studies",null,"selective dual-mode detection with high fluorescence enhancement for OCl⁻ (21-fold), Zn²+ (4-fold), and Mn²+ (3-fold); fast response kinetics (rate constant 3.237 s⁻¹)",pubmed_11869208,,,0.1084818107
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858536,,,0.0748949861
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11890744,,,0.5809451239
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11910018,,,0.3451068157
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11814225,,,0.3245884825
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11889143,,,0.6147869139
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858395,,,0.9076199816
+ferrocene-P1,Fe,dimethoxymethane,null,null,401,0.539,48,Friedel-Crafts reaction,null,chemically stable in aqueous environments,photocatalytic degradation of organic dyes,null,"high surface area, good adsorption capacity",pubmed_11883355,,,0.8082191818
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11900408,,,0.8054731388
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11906645,,,0.0400678883
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858567,,,0.6508770357
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11829644,,,0.1974928651
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899463,,,0.9704639388
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894603,,,0.9676320376
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858011,,,0.2847088717
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11872924,,,0.4261428742
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904649,,,0.385942806
+Ru-salen-Cl-CO,Ru(II),"salen, Cl⁻, CO",null,null,null,null,null,DFT calculations,null,null,photoCORMs/theranostics,null,null,pubmed_11901629,,,0.6844962356
+PSMA-617,null,null,null,null,null,null,null,solid-phase synthesis,null,null,prostate cancer targeted radionuclide therapy,null,null,pubmed_11865982,,,0.9742565623
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11869275,,,0.4326713316
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11870910,,,0.5565421609
+UiO-66-NH2,Zr,2-Amino Terephthalic Acid,null,null,null,null,null,Solvothermal synthesis,null,null,Targeted Drug Delivery,pcu,"High Surface Area, High Entrapment Efficiency",pubmed_11904574,,,0.7240514359
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904191,,,0.7893023363
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11886664,,,0.0756548387
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11857906,,,0.1776931107
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897339,,,0.4333089022
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902806,,,0.8166778751
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859436,,,0.9807926496
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11871908,,,0.6088716006
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11903855,,,0.5198893775
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11843644,,,0.8651386073
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11906833,,,0.0251848258
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904473,,,0.4509240475
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11872635,,,0.2763141864
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11906748,,,0.7333702638
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901544,,,0.655370377
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857201,,,0.4495161877
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901949,,,0.6970422638
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902720,,,0.3088668929
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11910638,,,0.7198665179
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894190,,,0.9513726656
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11889115,,,0.8772585979
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901586,,,0.8172927406
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11854964,,,0.3820603455
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901953,,,0.5226797988
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11854313,,,0.9766989863
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11808295,,,0.9797162889
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858112,,,0.748588688
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868026,,,0.1641637809
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11852424,,,0.2851487801
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11826413,,,0.2743143069
+ZnCo-MOF,"Zn(II), Co(II)","4,4'-bipyridine",null,null,null,null,null,Solution-based synthesis,null,null,Detection of metronidazole in pharmaceutical samples,null,null,pubmed_11833170,,,0.0634675103
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902436,,,0.5778259181
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11902153,,,0.7531460423
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858585,,,0.603976045
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11822766,,,0.8563462924
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904681,,,0.2294209755
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11836363,,,0.3728103321
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858023,,,0.3649256567
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11836438,,,0.4187120984
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902459,,,0.5966042147
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11852162,,,0.0735019795
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858498,,,0.3842582686
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11828777,,,0.1043650969
+Cu-ZIF-gis,Cu,2-nitroimidazole,tetragonal,null,null,null,2.4,solvothermal reaction between Cu(NO3)2·3H2O and 2-nitroimidazole in DMF,null,stable in air,hydrogen isotope separation,null,"lattice-driven gating, high thermal stability, efficient hydrogen isotope separation at elevated temperatures",pubmed_11868644,,,0.8501530234
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858378,,,0.7776674761
+MIL-125,Titanium (Ti),"Benzene-1,4-dicarboxylic acid (terephthalic acid)",Tetragonal,null,1452,0.61,10,"Solvothermal synthesis using DMF and MeOH as solvents, followed by heating and centrifugation",Up to 380 °C,Stable under tested conditions in DSSCs without degradation,Electrolyte additive in dye-sensitized solar cells (DSSCs) for enhanced stability and efficiency,null,"High porosity, large surface area, good chemical stability",pubmed_11836412,,,0.2239826235
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901854,,,0.3905441149
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11894331,,,0.6172278237
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11822117,,,0.5479424084
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11855028,,,0.2008707831
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858009,,,0.6040910073
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898197,,,0.2828895217
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11886759,,,0.5888378536
+COF-300,null,triformylbenzene,hexagonal,P6/mmm,null,null,null,solution assembly,null,null,gas separation,null,"high surface area, high porosity",pubmed_11912198,,,0.4001043399
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904030,,,0.8546588838
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902555,,,0.1397392421
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857889,,,0.8654671432
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11907393,,,0.1301010095
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857972,,,0.2056939623
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11910822,,,0.702440558
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891888,,,0.6430517882
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11811343,,,0.9898465162
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901924,,,0.4836309953
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865986,,,0.3262425023
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912349,,,0.2040234464
+Zn3[OAc]8[C2mim]2,Zinc (Zn),"1-ethyl-3-methylimidazolium (C2mim), Acetate (OAc)",null,null,null,null,null,Solvent-free synthesis via heating zinc acetate and [C2mim][OAc] at 90°C for 3 h,Up to approximately 185°C,null,SO2 sorption,null,Nanoporous structure with potential for gas sorption,pubmed_11865963,,,0.7042447219
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899758,,,0.3010229201
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873943,,,0.9619669747
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865458,,,0.430884419
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11897014,,,0.4254775627
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902144,,,0.4191513462
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11814237,,,0.6418243733
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11912130,,,0.0355960927
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901096,,,0.3692634103
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11819505,,,0.4367804208
+CuHCF,Copper (Cu),Hexacyanoferrate,null,null,null,null,null,Electrode material for selective NH4+ removal,null,null,"Selective ion separation, heavy metal removal",null,Enhanced NH4+ removal efficiency through coordination and electrocatalytic reduction,pubmed_11902163,,,0.7954787822
+CsPbF3,null,null,cubic,Pm3̅ m,null,null,null,first-principles calculations,null,null,"optoelectronics, photovoltaics",null,"wide band gap (3–5 eV), mechanical stability, pressure-induced phase transitions",pubmed_11904671,,,0.0735839994
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865435,,,0.3006485167
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11848434,,,0.0471106016
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11887204,,,0.2888053209
+Co-N-C Catalyst,"Li, Na, K (sacrificial), Co",Aniline,null,null,null,null,null,"Heat treatment of alkali metals, aniline, and oxidized carbon black followed by Co coordination",null,null,Oxygen reduction reaction in AEMFCs,null,CoN4 sites with single-atom Co coordinated to four N atoms,pubmed_11864188,,,0.9734797094
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11876182,,,0.2020608678
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11889140,,,0.9995598872
+example_1,AuNPs,null,null,null,null,null,null,synthesis using extracts with DESs,thermal stability up to 53°C,stable in biological environments,"drug delivery, antimicrobial activity",null,antioxidant capacity and enhanced antimicrobial activity against Escherichia coli and Bacillus subtilis,pubmed_11892449,,,0.3962883453
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11849500,,,0.378988829
+Cu-DBC,Cu,DBC (dihydroxybenzocoronene),hexagonal,null,479,0.88,null,solvothermal synthesis,thermal stability up to 300°C,stable in acidic and basic conditions,"supercapacitors, energy storage",dia,"high conductivity, redox-active ligands",pubmed_11886991,,,0.925584021
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901555,,,0.960943369
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903651,,,0.2342575141
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11881411,,,0.3879864463
+UPC-96,Zn,"1,2,4,5-tetrakis(4-carboxyphenyl)-3,6-dimethylbenzene (TCPB-Me)",monoclinic,P2₁/c,220.2,0.19,6,solvothermal reaction with solvent regulation of pH values,stable up to 400 °C,null,gas separation for C₂H₂/CO₂ and CO₂/CH₄ separation,sql,good cycling stability and high adsorption enthalpy,pubmed_11901866,,,0.4818564146
+Ni-decorated C12N12 nanoclusters,Ni,C12N12 framework,null,null,null,null,null,Ni-atom decoration on C12N12 clusters,null,Thermodynamically stable adsorption sites,Hydrogen storage,null,Up to eight H2 molecules per cluster,pubmed_11850393,,,0.2562521328
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11841621,,,0.0663752742
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857237,,,0.6887817299
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11827870,,,0.4769246972
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858466,,,0.8540764719
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903686,,,0.730638267
+CsCu2I3@UiO-66(CE)-NH2,"Copper(I), Cesium",2-Aminoterephthalic acid (BDC-NH2),null,null,200,0.07,9,In-situ growth within UiO-66(CE)-NH2 pores,Stable up to high temperatures,Exceptional thermal and chemical stability,Catalysis for three-component click reaction,null,"High surface area, good recyclability, size-selective catalysis",pubmed_11873247,,,0.7734073119
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857702,,,0.7258862751
+iCOF-Cl,null,"thieno[3,4-b]thiophene (TbT), 4,4′-bipyridinium dichloride",tetragonal,null,null,null,30.5,"Zincke-type polycondensation using 1,3,5-tris(4-aminophenyl)benzene and Zincke-ThBiPy in ethanol/water at 100°C for three days",Up to 900°C,null,Precursor for Ru/RuO2-embedded N/S-co-doped porous carbon composites for electrochemical nitrogen reduction reaction (eNRR),null,"Crystalline structure with AB-stacking, low band gap of 1.88 eV, high ionic conductivity",pubmed_11858955,,,0.072459921
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11828769,,,0.4527366913
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869937,,,0.3713522751
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901869,,,0.6941049693
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11848929,,,0.1419952158
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11866014,,,0.3601496834
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11852044,,,0.8270694632
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11851925,,,0.2307397681
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901998,,,0.6313171803
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901970,,,0.2669129577
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11808276,,,0.7654331143
+ZIF-8,Zinc,2-methylimidazole,null,null,1800,null,null,Precipitation method using zinc nitrate hexahydrate and 2-methylimidazole in methanol,null,Stable in aqueous and basic media,"Antibacterial activity, drug delivery",pcu,"High surface area, porosity, biodegradability, thermal stability",pubmed_11841006,,,0.2613672225
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11876289,,,0.9299482657
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850892,,,0.6358258759
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11865976,,,0.9047742658
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902262,,,0.6554023242
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899517,,,0.4402951994
+example_1,example_2,example_3,example_4,example_5,null,null,null,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11897134,,,0.3488979421
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11862073,,,0.4903680526
+PCN-222,zirconium-based,null,null,null,null,null,null,solvothermal synthesis,null,null,tumor-targeted chemo-photodynamic combination therapy,null,"PEG-coated, colloidal stability",pubmed_11858586,,,0.3038098984
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857668,,,0.9310949144
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891650,,,0.2827060283
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901934,,,0.5212977454
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857517,,,0.4957977859
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858195,,,0.1944656607
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11829950,,,0.4753908427
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11840099,,,0.8435374841
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901139,,,0.2541266289
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11848423,,,0.6714249407
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868592,,,0.2783039701
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11906781,,,0.0376414452
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11860084,,,0.0332433085
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11893688,,,0.6938244181
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11885302,,,0.816030008
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891653,,,0.5821443826
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11910557,,,0.4448783498
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891068,,,0.7755000091
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11889217,,,0.0411957642
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901533,,,0.5427587079
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11807932,,,0.9811560179
+BioHNS,Cu,null,null,null,51.39,null,null,Metabolic insertion of Cu NPs into diatom frustules,20-60 °C,Resistant to high pH and temperature,Uric acid detection in biomedical applications,null,"Hierarchical porous structure, high mechanical strength",pubmed_11897952,,,0.4402450374
+ZIF-8,zinc (Zn),imidazole,null,null,null,null,null,solvothermal synthesis,null,null,drug delivery carrier for tumor immunotherapy,null,nanoparticles with high porosity,pubmed_11859595,,,0.5360520885
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11898084,,,0.2000466739
+example_1,example_2,example_3,example_4,example_5,null,null,null,example_9,example_10,example_11,example_12,example_13,example_14,pubmed_11907292,,,0.1912512144
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11838004,,,0.7090614189
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901626,,,0.8654636357
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901447,,,0.7964247558
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901858,,,0.5174820831
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880738,,,0.0823059722
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11847603,,,0.9747140005
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858338,,,0.9823494218
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902119,,,0.3662080728
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11870830,,,0.8874159602
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11886669,,,0.6968081866
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11868957,,,0.0944593193
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857967,,,0.5813618309
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11876589,,,0.1252181728
+COF-1,null,null,cubic,Pm-3n,719,null,null,sonochemical synthesis,null,null,null,pcu,high BET surface area,pubmed_11912503,,,0.724505035
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902142,,,0.4722887992
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11856942,,,0.6246123041
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902147,,,0.9534408152
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11899016,,,0.8222622008
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11900089,,,0.5556947673
+Co4/ Mg2Al-LDH,Co(II/III),null,hexagonal,null,null,null,null,intercalation into Mg2Al-LDH,thermally stable up to 300°C,"stable in neutral media, degrades in strong alkali",water oxidation catalysis,null,"high surface area, confinement effects",pubmed_11863369,,,0.0694999185
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859495,,,0.3001115758
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11906688,,,0.4412344473
+Ni3HHTH2,Ni²+,hexahydroxytrithiatruxene (HHTH),null,null,960,null,21,solvothermal synthesis at 85°C with H2O and DMAc,up to 200°C,null,quantum qubits and spin arrays,null,"high crystallinity, persistent spin centers, fewer hydrogen atoms, nuclear spin-free oxygen and sulfur",pubmed_11912308,,,0.4293683167
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11898069,,,0.3848195674
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912543,,,0.9235760972
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11850385,,,0.1373525937
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11814081,,,0.5531232227
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869965,,,0.8505012114
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11829430,,,0.440275922
+Hf/TCPP NMOFs,Hf⁴+,tetrakis(4-carboxyphenyl) porphyrin (TCPP),null,null,null,null,null,Produced as described in a previous study [29],null,null,Enhancing radiotherapy efficacy by sensitizing HCC cells to low-dose X-ray radiation and preventing recurrence postresection via potentiating NK cell immunity,null,Ability to load tRF5-Gi and enhance RT-induced cytotoxicity,pubmed_11809039,,,0.8121941241
+BP/Hf 12-Ir,"Hf, Ir",DBB-ir-F,null,null,null,null,null,solvothermal,null,good chemical stability in physiological conditions,metabolic reprogramming and radiosensitization for cancer radiotherapy,null,"positively charged, mitochondria-targeted, releases BP under high phosphate conditions",pubmed_11843481,,,0.3616483004
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11853991,,,0.5136896162
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859521,,,0.0344086164
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11812260,,,0.4473605177
+Zn/Co-ZIF@CNTs,"Zn, Co",2-methylimidazole,cubic,null,null,null,null,Solvothermal synthesis,null,High thermal and chemical stability,"Dye removal (methyl orange, methylene blue)",pcu,"High porosity, large specific surface area, stable cubic crystal structure",pubmed_11815555,,,0.3568121993
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891905,,,0.4209655228
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858168,,,0.0508640509
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887050,,,0.1344085706
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11912348,,,0.0646424608
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11852758,,,0.6773298136
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11852203,,,0.9951166685
+4,Fe,Ph-BIAN,monoclinic,C2/c,null,null,null,Combination of Ph-BIAN and Fe(II) salt in methanol under N2,Stable up to 400 K,Stable under study conditions,"sensors, displays, actuators, electronics, spintronics",null,Undergoes thermal and light-induced valence tautomerism with concerted spin transition,pubmed_11878289,,,0.147305168
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11837997,,,0.9872718051
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11909208,,,0.2748216668
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11889273,,,0.0971986346
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11909164,,,0.3815264127
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11889517,,,0.9250662576
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869161,,,0.6509724599
+example_organoid_1,neural progenitor cells,undefined,undefined,undefined,null,null,null,undefined,undefined,undefined,undefined,undefined,undefined,pubmed_11869974,,,0.5960780366
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887429,,,0.3621119251
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11887059,,,0.6968424611
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11858130,,,0.2049853022
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901993,,,0.521829562
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11866930,,,0.132823956
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11865074,,,0.3199973367
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11907065,,,0.0572415539
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11874808,,,0.8959635596
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11881520,,,0.5546273405
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902770,,,0.8002583131
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11869180,,,0.5548361011
+ZnO-PAN Composite Membrane,Zinc Oxide (ZnO),Polyacrylonitrile (PAN),null,null,null,null,100,Hydrothermal synthesis of ZnO and electrospinning of PAN followed by physical vapor deposition of ZnO,null,Stable under electrocatalytic conditions,"Dye removal, wastewater treatment",null,"High flux, antifouling properties, mechanical stability",pubmed_11845763,,,0.5969818423
+pcu,Cu²⁺,"1,3,5-benzenetricarboxylate (BTC)",null,null,null,null,null,Solvothermal synthesis,null,Stable under dry conditions; susceptible to moisture-induced degradation,CO2 capture and separation in mixed matrix membranes (MMMs),null,null,pubmed_11833178,,,0.2424489148
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11891929,,,0.2174512015
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11869102,,,0.9450904045
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902586,,,0.0928145905
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901710,,,0.3727394217
+WO3,W,null,null,null,null,null,null,hydrothermal synthesis,null,null,"degradation of pharmaceutical compounds (diclofenac, amoxicillin, tetracycline)",null,high Faradaic efficiency for persulfate generation,pubmed_11886689,,,0.9483237988
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880236,,,0.13348331
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11825005,,,0.8351437657
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11844433,,,0.874019393
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11870027,,,0.349511246
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11854960,,,0.1697302405
+UiO-AZB-F_33%,Zr,"H2ABDA, H2ABDA(3,5-F)",cubic,Im-3m,2052,0.67,null,solvent-mediated synthesis with varying linker ratios,null,null,"drug delivery, on-demand drug release",pcu,"tunable pore environment, cooperative ligand binding",pubmed_11887053,,,0.1752665262
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11902073,,,0.1137907025
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859342,,,0.517683564
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11901726,,,0.4031874253
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880593,,,0.1442291758
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11880010,,,0.4523920212
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11866205,,,0.8589514422
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11859431,,,0.7548877965
+SNC,null,Sulfur and nitrogen,null,null,360.7,null,null,Template-assisted method,null,null,Bisphenol A removal via PMS activation,null,Sulfur–nitrogen co-doped porous carbon,pubmed_11808356,,,0.3043523422
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11903714,,,0.9804798299
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11876945,,,0.7244423835
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11850700,,,0.1039611686
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904076,,,0.4388684705
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11857416,,,0.7567979069
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11855841,,,0.7282344119
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11858448,,,0.449587459
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11904115,,,0.0817543885
+UiO-66,zirconium (Zr),terephthalic acid,null,null,null,null,null,solvothermal synthesis,null,null,drug delivery carrier for tumor immunotherapy,null,nanoparticles with high porosity,pubmed_11859595,,,0.5426837343
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,pubmed_11873738,,,0.0396486085
+failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,failed,pubmed_11901687,,,0.8074670783
