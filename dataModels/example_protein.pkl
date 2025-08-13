@@ -1,0 +1,13 @@
+1 - Type: 'str'
+1 - Name: 'organism'
+1 - Description: 'Source organism for the protein.'
+
+2 - Type: 'float'
+2 - Name: 'molecular_weight'
+2 - Description: 'Molecular weight in kDa.'
+2 - Min Value: 5
+2 - Max Value: 1000
+
+3 - Type: 'str'
+3 - Name: 'function'
+3 - Description: 'Brief description of the protein function.'

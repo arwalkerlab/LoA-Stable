@@ -1,0 +1,17 @@
+1 - Type: 'float'
+1 - Name: 'melting_point'
+1 - Description: 'Melting point in \u00b0C.'
+1 - Min Value: -200
+1 - Max Value: 3000
+
+2 - Type: 'float'
+2 - Name: 'boiling_point'
+2 - Description: 'Boiling point in \u00b0C.'
+2 - Min Value: -200
+2 - Max Value: 6000
+
+3 - Type: 'float'
+3 - Name: 'density'
+3 - Description: 'Density in g/mL.'
+3 - Min Value: 0
+3 - Max Value: 20

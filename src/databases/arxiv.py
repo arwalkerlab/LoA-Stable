@@ -1,7 +1,6 @@
 import os
 import requests
 import time
-import subprocess
 from bs4 import BeautifulSoup
 from src.extract import extract
 from src.utils import (doi_to_filename, is_file_processed, write_to_csv, begin_ollama_server)
@@ -142,6 +141,27 @@ def arxiv_search(job_settings: JobSettings, search_terms, repository):
                                     f.write(pdf_response.content)
                                 scraped_files.append(filename)
                                 print(f"Successfully downloaded PDF for {filename}.")
+
+                                if repository == 'chemrxiv':
+                                    supp_items = entry.get('item', {}).get('suppItems', [])
+                                    for idx, supp in enumerate(supp_items, start=1):
+                                        supp_url = supp.get('asset', {}).get('original', {}).get('url')
+                                        if not supp_url:
+                                            continue
+                                        si_ext = os.path.splitext(supp_url.split('?')[0])[1] or '.pdf'
+                                        si_filename = f"{repository}_{doi_to_filename(doi)}_SI_{idx}{si_ext}"
+                                        si_path = os.path.join(os.getcwd(), 'scraped_docs', si_filename)
+                                        if os.path.exists(si_path):
+                                            scraped_files.append(si_filename)
+                                            continue
+                                        try:
+                                            si_resp = requests.get(supp_url)
+                                            si_resp.raise_for_status()
+                                            with open(si_path, 'wb') as sif:
+                                                sif.write(si_resp.content)
+                                            scraped_files.append(si_filename)
+                                        except Exception as e:
+                                            print(f"Failed to download SI {supp_url}: {e}")
 
                                 if job_settings.concurrent:
                                     concurrent_tries = 0

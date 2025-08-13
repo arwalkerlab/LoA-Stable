@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "def_search_terms": [
+      "molecular weight",
+      "protein function"
+    ],
+    "maybe_search_terms": [""],
+    "model_name_version": "gemma3:4b-it-fp16",
+    "check_model_name_version": "gemma3:4b-it-fp16",
+    "concurrent": "y",
+    "use_hi_res": "y",
+    "use_multimodal": "y",
+    "use_decimer": "y",
+    "target_type": "protein",
+    "use_comments": "y",
+    "use_solvent": "y",
+    "assume_water": "y"
+  },
+  "files": {
+    "schema_file": "example_protein.pkl",
+    "results_csv": "./results/example_protein.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "n",
+    "unpaywall": "n",
+    "customdb": "n",
+    "retmax": 10,
+    "base_url": "",
+    "email": "youremail@example.com"
+  },
+  "extract": {
+    "user_instructions": "Extract organism, molecular weight, and function values for proteins. Provide sequences or common names in the first column.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

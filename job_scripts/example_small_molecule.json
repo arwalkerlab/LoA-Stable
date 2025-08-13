@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "def_search_terms": [
+      "melting point",
+      "boiling point"
+    ],
+    "maybe_search_terms": ["density"],
+  "model_name_version": "gemma3:4b-it-fp16",
+  "check_model_name_version": "gemma3:4b-it-fp16",
+  "use_openai": "n",
+  "api_key": "",
+    "concurrent": "y",
+    "use_hi_res": "y",
+    "use_multimodal": "y",
+    "use_decimer": "y",
+    "target_type": "small_molecule",
+    "use_comments": "y",
+    "use_solvent": "y",
+    "assume_water": "y"
+  },
+  "files": {
+    "schema_file": "example_small_molecule.pkl",
+    "results_csv": "./results/example_small_molecule.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "n",
+    "unpaywall": "n",
+    "customdb": "n",
+    "retmax": 10,
+    "base_url": "",
+    "email": "youremail@example.com"
+  },
+  "extract": {
+    "user_instructions": "Extract melting point, boiling point, and density values for small molecules. Only include data if a valid name or SMILES is present.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

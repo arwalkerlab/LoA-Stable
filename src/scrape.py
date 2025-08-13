@@ -63,7 +63,7 @@ def main_scrape_custom_db(job_settings: JobSettings):
 
             # Create the SQL query
             query = 'SELECT * FROM metadata WHERE '
-            query += ' AND '.join([f'title LIKE ?' for _ in chunk])
+            query += ' AND '.join(['title LIKE ?' for _ in chunk])
             query += ' ORDER BY title LIMIT ?'
 
             # Create the parameters for the SQL query

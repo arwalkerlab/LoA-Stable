@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "def_search_terms": ["local"],
+    "maybe_search_terms": ["none"],
+    "model_name_version": "gemma3:4b-it-fp16",
+    "check_model_name_version": "gemma3:4b-it-fp16",
+    "concurrent": "n",
+    "use_hi_res": "n",
+    "use_multimodal": "y",
+    "use_decimer": "y",
+    "target_type": "small_molecule",
+    "use_comments": "n",
+    "use_solvent": "y",
+    "assume_water": "y",
+    "skip_check": "y"
+  },
+  "files": {
+    "schema_file": "chromophore_quality.pkl",
+    "results_csv": "./results/chromophore_quality.csv"
+  },
+  "extract": {
+    "user_instructions": "Extract all photophysical properties reported for each chromophore in the paper. Use the exact column order from the schema. If a value is missing, write null. Only output CSV rows with no additional text.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

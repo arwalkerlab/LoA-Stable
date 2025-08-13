@@ -1,0 +1,47 @@
+1 - Type: 'float'
+1 - Name: 'Absorption max (nm)'
+1 - Description: 'Peak absorption wavelength in nanometers.'
+1 - Min Value: 200
+1 - Max Value: 1100
+
+2 - Type: 'float'
+2 - Name: 'Emission max (nm)'
+2 - Description: 'Peak emission wavelength in nanometers.'
+2 - Min Value: 200
+2 - Max Value: 1100
+
+3 - Type: 'float'
+3 - Name: 'Lifetime (ns)'
+3 - Description: 'Excited state lifetime in nanoseconds.'
+3 - Min Value: 0
+3 - Max Value: 100000
+
+4 - Type: 'float'
+4 - Name: 'Quantum yield'
+4 - Description: 'Fluorescence quantum yield as a decimal between 0 and 1.'
+4 - Min Value: 0
+4 - Max Value: 1
+
+5 - Type: 'float'
+5 - Name: 'log(e/mol-1 dm3 cm-1)'
+5 - Description: 'Logarithm of the molar absorptivity in L/(mol·cm).'
+
+6 - Type: 'float'
+6 - Name: 'abs FWHM (cm-1)'
+6 - Description: 'Full width at half maximum of absorption band in cm^-1.'
+
+7 - Type: 'float'
+7 - Name: 'emi FWHM (cm-1)'
+7 - Description: 'Full width at half maximum of emission band in cm^-1.'
+
+8 - Type: 'float'
+8 - Name: 'abs FWHM (nm)'
+8 - Description: 'Full width at half maximum of absorption band in nm.'
+
+9 - Type: 'float'
+9 - Name: 'emi FWHM (nm)'
+9 - Description: 'Full width at half maximum of emission band in nm.'
+
+10 - Type: 'float'
+10 - Name: 'Molecular weight (g mol-1)'
+10 - Description: 'Molecular weight of the chromophore.'

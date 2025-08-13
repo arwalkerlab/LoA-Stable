@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "def_search_terms": [
+      "synthesis scheme",
+      "reaction scheme"
+    ],
+    "maybe_search_terms": [
+      "chemical synthesis",
+      "synthetic route",
+      "reaction yield"
+    ],
+    "model_name_version": "gemma3:4b-it-fp16",
+    "check_model_name_version": "gemma3:4b-it-fp16",
+    "concurrent": "y",
+    "use_hi_res": "y",
+    "use_multimodal": "y",
+    "use_decimer": "y",
+    "target_type": "small_molecule",
+    "use_comments": "n",
+    "use_solvent": "n",
+    "assume_water": "y"
+  },
+  "files": {
+    "schema_file": "decimer_synthesis.pkl",
+    "results_csv": "./results/decimer_synthesis.csv"
+  },
+  "scrape": {
+    "pubmed": "y",
+    "arxiv": "y",
+    "scienceOpen": "n",
+    "unpaywall": "n",
+    "customdb": "n",
+    "retmax": 50,
+    "base_url": "",
+    "email": "youremail@example.com"
+  },
+  "extract": {
+    "user_instructions": "Extract yields and key reaction conditions for synthesized small molecules.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

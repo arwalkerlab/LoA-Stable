@@ -27,7 +27,7 @@ def create_schema_file(fields, key_columns, filename='./dataModels/default_schem
         print(f"Schema file has been written to {filename}")
         return True
 
-    except:
+    except Exception:
         return False
 
 def UI_schema_creator():
@@ -69,7 +69,9 @@ def UI_schema_creator():
         #     "6": "bool"
         # }
 
-        columnDescription = input(f"Please enter a brief description of the data to be stored in this column: ")
+        columnDescription = input(
+            "Please enter a brief description of the data to be stored in this column: "
+        )
 
         # Collect additional information based on the column type
         if columnType == "1":  # String

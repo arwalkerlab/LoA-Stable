@@ -1,7 +1,5 @@
 # LoA (Librarian of Alexandria)
 
-The unchanged version of LoA released along with the paper.
-
 ## Overview
 
 LoA (Librarian of Alexandria) is a comprehensive tool designed for researchers, data scientists, and information professionals. It automates the process of searching, scraping, and analyzing scientific papers from various preprint servers and databases. The tool combines web scraping, natural language processing, and data extraction to efficiently gather and process large volumes of academic literature.
@@ -27,9 +25,9 @@ LoA (Librarian of Alexandria) is a comprehensive tool designed for researchers, 
 
 2. Install required dependencies listen in install_commands.txt (will be creating requirements.txt soon, as well as a dockerized version)
 
-3. Simply run "python main.py"
+3. Install conda environment using DECIMER-GPU file if usage of DECIMER is desired
 
-Optionally, there is a jupyter/colab notebook provided which is able to run LoA, and provides some educational examples to get started.
+4. Simply run "python main.py"
 
 ## Usage
 
@@ -54,12 +52,40 @@ Follow the prompts to:
 Prepare a JSON configuration file with your desired settings, then run:
 
 ```
-python main.py -auto ./job_scripts/example.json
+python main.py -auto ./job_scripts/example_small_molecule.json
 ```
 
-Be sure to replace example.json with the actual file you want to use.
+Be sure to replace example_small_molecule.json with the actual file you want to use.
 
-Example json files for various kinds of jobs can be found in job_scripts.
+If the `def_search_terms` list contains only `"local"` and `maybe_search_terms`
+is set to `"none"`, LoA will skip the scraping step and instead process every
+file found in the `scraped_docs` directory. This mode is useful when you have
+already downloaded all the papers you want to analyze. Any directories inside
+`scraped_docs` are ignored.
+
+Example json files for small molecules, proteins, and peptides can be found in job_scripts.
+The decimer_synthesis.json configuration focuses on synthesis papers rich in
+chemical figures so DECIMER insertion can be tested easily.
+Each configuration can optionally include a `use_comments` setting (`"y"` or `"n"`) to control
+whether a trailing comments column is added automatically. A similar `use_solvent` setting
+(`"y"` or `"n"`) toggles a built-in solvent column that expects a SMILES string or common name.
+If `use_solvent` is enabled, you can also set `assume_water` (`"y"` or `"n"`). When `assume_water`
+is on and the model outputs `null` for the solvent column, the value will automatically be filled
+with the SMILES string for water (`O`) without further validation.
+Common solvents like water and ethanol are resolved through a built-in lookup
+table before any online database queries.
+The `use_decimer` option (`"y"` or `"n"`) controls whether images are processed
+with DECIMER to extract additional SMILES strings from figures. When enabled,
+any predicted SMILES are inserted back into the text at the location of the
+corresponding figure instead of being appended separately.
+`use_openai` can be set to `"y"` if you want to send prompts to the OpenAI API
+instead of using local Ollama models. Provide your API key with the `api_key`
+setting. You can list available models for your key using:
+```
+curl https://api.openai.com/v1/models \
+  -H "Authorization: Bearer $OPENAI_API_KEY"
+```
+When `use_openai` is enabled, model files are not downloaded through Ollama.
 
 ## Key Components
 
@@ -82,6 +108,17 @@ Example json files for various kinds of jobs can be found in job_scripts.
 2. Ensure you have the necessary permissions to access and use the papers you're downloading.
 3. Regularly update your NLP models to benefit from the latest improvements.
 4. For large-scale scraping, consider using a distributed system to avoid overloading single sources.
+
+## SMILES Extraction
+
+LoA can optionally extract SMILES strings from PDFs and images using the
+DECIMER project. Because DECIMER relies on a separate set of dependencies,
+the recommended approach is to install it in its own conda environment. The
+`install_commands.txt` file includes the commands to create an environment
+named `DECIMER` and install the required packages. LoA will invoke this
+environment via `conda run` whenever SMILES extraction is requested. SMILES
+strings predicted from figures are inserted directly into the extracted text
+where the corresponding images were located.
 
 ## Troubleshooting
 

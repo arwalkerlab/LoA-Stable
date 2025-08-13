@@ -4,7 +4,16 @@
     "maybe_search_terms": ["absorption wavelength", "emission wavelength","fluorescence quantum yield"],
     "auto": true,
     "model_name_version": "mistral:7b-instruct-v0.2-q8_0",
-    "concurrent":"n"
+    "check_model_name_version": "mistral:7b-instruct-v0.2-q8_0",
+    "concurrent":"n",
+    "use_hi_res": "y",
+    "use_multimodal": "n",
+    "use_thinking": "y",
+    "use_decimer": "y",
+    "target_type": "small_molecule",
+    "use_comments": "y",
+    "use_solvent": "y",
+    "assume_water": "y"
   },
   "files": {
     "schema_file": "chromophores.pkl",

@@ -1,0 +1,13 @@
+1 - Type: 'str'
+1 - Name: 'activity'
+1 - Description: 'Reported biological activity or target.'
+
+2 - Type: 'float'
+2 - Name: 'ic50'
+2 - Description: 'IC50 in nM.'
+2 - Min Value: 0
+2 - Max Value: 100000
+
+3 - Type: 'str'
+3 - Name: 'modifications'
+3 - Description: 'Any modifications or unusual residues.'

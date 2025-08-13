@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "def_search_terms": ["local"],
+    "maybe_search_terms": ["none"],
+    "model_name_version": "gpt-4o", 
+    "check_model_name_version": "gpt-4o", 
+    "use_openai": "y",
+    "api_key": "",
+    "concurrent": "n",
+    "use_hi_res": "n",
+    "use_multimodal": "y",
+    "use_decimer": "y",
+    "target_type": "small_molecule",
+    "use_comments": "n",
+    "use_solvent": "y",
+    "assume_water": "y",
+    "skip_check": "y"
+  },
+  "files": {
+    "schema_file": "chromophore_quality.pkl",
+    "results_csv": "./results/chromophore_quality_openai.csv"
+  },
+  "extract": {
+    "user_instructions": "Extract all photophysical properties reported for each chromophore in the paper. Use the exact column order from the schema. The chromophore, solvent, and reference columns are added automatically, so do not include them. Assume the solvent is water if none is mentioned. If a value is missing, write null. Capture SMILES from figures using DECIMER when needed. Only output CSV rows with no additional text.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

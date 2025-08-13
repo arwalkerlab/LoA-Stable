@@ -5,7 +5,14 @@
     "model_name_version": "deepseek-r1:8b",
     "check_model_name_version": "falcon3:10b",
     "concurrent":"y",
-    "use_hi_res":"y"
+    "use_hi_res":"y",
+    "use_multimodal": "n",
+    "use_decimer": "y",
+    "target_type": "small_molecule",
+    "use_thinking": "y",
+    "use_comments": "y",
+    "use_solvent": "y",
+    "assume_water": "y"
   },
   "files": {
     "schema_file": "chromophores.pkl",

@@ -1,11 +1,44 @@
 import os
 import requests
 import time
-import subprocess
 import xml.etree.ElementTree as ET
-from src.extract import extract
-from src.utils import (is_file_processed, write_to_csv, begin_ollama_server)
+
 from src.classes import JobSettings
+from src.extract import extract
+from src.utils import (
+    is_file_processed,
+    write_to_csv,
+    begin_ollama_server,
+)
+
+def download_pubmed_si(pmcid, root):
+    """Download supplementary files for a given PubMed Central article."""
+    si_files = []
+
+    hrefs = []
+    for elem in root.findall('.//supplementary-material') + root.findall('.//inline-supplementary-material'):
+        href = elem.attrib.get('{http://www.w3.org/1999/xlink}href') or elem.attrib.get('href')
+        if href:
+            hrefs.append(href)
+
+    for idx, href in enumerate(hrefs, start=1):
+        url = href if href.startswith('http') else f"https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/pdf/{href}"
+        ext = os.path.splitext(href.split('?')[0])[1] or '.pdf'
+        filename = f"pubmed_{pmcid}_SI_{idx}{ext}"
+        file_path = os.path.join(os.getcwd(), 'scraped_docs', filename)
+        if os.path.exists(file_path):
+            si_files.append(filename)
+            continue
+        try:
+            resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+            resp.raise_for_status()
+            with open(file_path, 'wb') as f:
+                f.write(resp.content)
+            si_files.append(filename)
+        except Exception as e:
+            print(f"Failed to download supplementary file {url}: {e}")
+
+    return si_files
 
 # Constants
 ESEARCH_URL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
@@ -97,6 +130,11 @@ def pubmed_search(job_settings: JobSettings, search_terms): # concurrent=False, 
                         f.write(xml_data)
                     num_downloaded += 1
                     scraped_files.append(filename)
+
+                    pmcid_elem = root.find(".//article-id[@pub-id-type='pmcid']")
+                    if pmcid_elem is not None and pmcid_elem.text:
+                        si_files = download_pubmed_si(pmcid_elem.text.strip(), root)
+                        scraped_files.extend(si_files)
 
                     if job_settings.concurrent:
                         concurrent_tries = 0

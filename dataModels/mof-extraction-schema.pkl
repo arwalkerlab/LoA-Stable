@@ -1,4 +1,3 @@
-Key Columns: 1,2,3
 
 1 - Type: 'str'
 1 - Name: 'mof_name'

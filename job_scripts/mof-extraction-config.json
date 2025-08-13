@@ -5,7 +5,15 @@
     "auto": true,
     "model_name_version": "deepseek-r1:32b",
     "check_model_name_version": "phi4:14b-q8_0",
-    "concurrent": "y"
+    "concurrent": "y",
+    "use_hi_res": "y",
+    "use_multimodal": "n",
+    "use_thinking": "y",
+    "use_decimer": "y",
+    "target_type": "small_molecule",
+    "use_comments": "y",
+    "use_solvent": "y",
+    "assume_water": "y"
   },
   "files": {
     "schema_file": "mof-extraction-schema.pkl",

@@ -1,0 +1,13 @@
+1 - Type: 'str'
+1 - Name: 'compound'
+1 - Description: 'Name or SMILES of the synthesized compound.'
+
+2 - Type: 'float'
+2 - Name: 'yield_percent'
+2 - Description: 'Yield of the reported synthesis step in percent.'
+2 - Min Value: 0
+2 - Max Value: 100
+
+3 - Type: 'str'
+3 - Name: 'conditions'
+3 - Description: 'Key reaction conditions such as reagents, catalysts, or temperature.'

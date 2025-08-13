@@ -21,3 +21,18 @@ pip install "unstructured[all-docs]"
 pip install "unstructured[local-inference]"
 pip install libmagic poppler-utils pytesseract
 conda install -y tesseract
+
+# Additional chemistry dependencies
+pip install git+https://github.com/Boehringer-Ingelheim/pyPept.git
+conda install rdkit -c conda-forge
+pip install cirpy
+pip install pubchempy
+
+# For using openai API (need install even if you aren't going to use openai)
+pip install openai
+
+# DECIMER segmentation and SMILES prediction
+
+# Set up a separate environment for DECIMER utilities
+conda env create --name DECIMER -y -f DECIMER-GPU.yml
+

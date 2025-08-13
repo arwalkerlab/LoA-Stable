@@ -44,11 +44,11 @@ def scrape_and_extract_concurrent(job_settings: JobSettings):
     # Ping ollama port to see if it is running
     try:
         response = requests.get("http://localhost:11434")
-    
-    except:
+
+    except Exception:
         try:
             response.status_code = 404
-        except:
+        except Exception:
             is_ollama_running = False
         
     # If so, cool, if not, start it!
@@ -57,7 +57,7 @@ def scrape_and_extract_concurrent(job_settings: JobSettings):
             is_ollama_running = True
         else:
             is_ollama_running = False
-    except:
+    except Exception:
         is_ollama_running = False
 
     # Check for Ollama binary and start server if not running
