@@ -1,0 +1,15 @@
+idx	SMILES	Solvent	Gen_DOI	Reason	#ref_matches
+26	None		10.1002/chem.201301903	invalid_smiles	0
+30	C#[N]c1c(cc(c2ccc(cc2)N(c3ccccc3)c4ccccc4)c(c5ccc(cc5)N(c6ccccc6)c7ccccc7)c1C#N)c8ccc(cc8)N(c9ccccc9)c%10ccccc%10	Cc1ccccc1	10.1039/c5cc00511f	invalid_smiles	0
+31	None		10.1021/acs.chemmater.7b03490	invalid_smiles	0
+52	COc1csc(c1)c2sc3ccc[sH]3c2C4=[CH2]=C(OC)C=CS4	CCCCCCCCCCCCCC	10.durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of	invalid_smiles	0
+53	COc1csc(c1)c2sc3ccc[sH]3c2C4=[CH2]=C(OC)C=CS4	CCC(C)C	10.durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of	invalid_smiles	0
+54	Cc1csc(c1)c2sc3ccc[sH]3c2C4=[CH2]=C(C)C=CS4	CCCCCCCCCCCCCC	10.durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of	invalid_smiles	0
+55	Cc1csc(c1)c2sc3ccc[sH]3c2C4=[CH2]=C(C)C=CS4	CCC(C)C	10.durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of	invalid_smiles	0
+56	CCCCCCCCCCc1csc(c1)c2sc3ccc[sH]3c2C4=[CH2]=C(CCCCCCCCCC)C=CS4	CCCCCCCCCCCCCC	10.durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of	invalid_smiles	0
+57	CCCCCCCCCCc1csc(c1)c2sc3ccc[sH]3c2C4=[CH2]=C(CCCCCCCCCC)C=CS4	CCC(C)C	10.durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of	invalid_smiles	0
+62	None		10.1016/j.dyepig.2012.12.031	invalid_smiles	0
+102	None		10.5494_1_online	invalid_smiles	0
+129	CCCCOc1c(\C=C\c2ccc(\C=C\C3=C(C#N)C(OC3(c4ccccc4)C(F)(F)F)=C(C#N)C#N)n2c5ccc(Br)cc5)cc6c7c1C(C)(C)CC=[N]7CCC6(C)C	ClC(Cl)Cl	10.1016/j.dyepig.2016.07.038	invalid_smiles	0
+135	None		10.1021/jo049621r	invalid_smiles	0
+140	None		10.1039/c5cc07999c	invalid_smiles	0

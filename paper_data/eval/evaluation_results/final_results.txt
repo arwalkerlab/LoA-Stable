@@ -1,0 +1,23 @@
+===== COVERAGE =====
+Average ratio (including zero-extractions): 0.014
+Average ratio (excluding zero-extractions): 0.913
+
+===== ACCURACY (per property) =====
+Absorption max (nm)                : acc= 99.91% | mean |%Δ|=  0.09% | missed=   5 | extra=   0
+Emission max (nm)                  : acc= 99.94% | mean |%Δ|=  0.06% | missed=   4 | extra=   2
+Lifetime (ns)                      : acc= 91.03% | mean |%Δ|=  8.97% | missed=   5 | extra=   3
+Quantum yield                      : acc= 69.53% | mean |%Δ|= 30.47% | missed=   0 | extra=   4
+log(e/mol-1 dm3 cm-1)              : acc= 99.72% | mean |%Δ|=  0.28% | missed=   0 | extra=   5
+abs FWHM (cm-1)                    : acc=100.00% | mean |%Δ|=  0.00% | missed=   0 | extra=   0
+emi FWHM (cm-1)                    : acc=   nan% | mean |%Δ|=   nan% | missed=   0 | extra=   0
+abs FWHM (nm)                      : acc=100.00% | mean |%Δ|=  0.00% | missed=  24 | extra=   0
+emi FWHM (nm)                      : acc=100.00% | mean |%Δ|=  0.00% | missed=  39 | extra=   0
+Molecular weight (g mol-1)         : acc= 98.20% | mean |%Δ|=  1.80% | missed=  29 | extra=   0
+
+===== OVERALL ACCURACY =====   95.37%
+
+No-match entries    → no_match_entries.txt
+Multi-match entries  → multi_match_entries.txt
+Invalid SMILES rows → invalid_smiles.txt
+
+Figures saved as PNG in the output directory.
