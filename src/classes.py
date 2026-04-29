@@ -14,6 +14,9 @@ from src.utils import (
     prepend_target_column,
     insert_solvent_column,
     append_comments_column,
+    normalize_target_type,
+    get_segmented_multimodal_images,
+    generate_double_check_prompt,
 )
 from src.document_reader import doc_to_elements
 
@@ -76,6 +79,7 @@ class FileSettings():
         self.json = "automatic.json"
         self.schema = "schema.pkl"
         self.csv = "results_output.csv"
+        self.source_csv = "results_output.csv"
         self.log = "LoA.log"
         self.search_info_file = "search_info.txt"
     def _parse_from_json(self,json):
@@ -86,22 +90,42 @@ class FileSettings():
                 self.log = str(val)
             elif key.lower() == "results_csv":
                 self.csv = str(val)
+            elif key.lower() == "source_csv":
+                self.source_csv = str(val)
             else:
                 print(f"Files setting '{key}' not recognized. \n")
+
+
+class DoubleCheckSettings():
+    def __init__(self):
+        self.max_retries = 2
+        self.ollama_url = "http://localhost:11434"
+
+    def _parse_from_json(self, json):
+        for key, val in json.items():
+            if key.lower() == "max_retries":
+                self.max_retries = int(val)
+            elif key.lower() == "ollama_url":
+                self.ollama_url = str(val)
+            else:
+                print(f"Double-check setting '{key}' not recognized. \n")
 
 class JobSettings(): ## Contains subsettings as well for each of the job types.
     def __init__(self):
         self.scrape = ScrapeSettings()
         self.extract = ExtractSettings()
+        self.double_check = DoubleCheckSettings()
         self.files = FileSettings()
         self.auto = False
         self.run_scrape = False
         self.run_extract= False
+        self.run_double_check = False
         self.concurrent = False
         self.use_hi_res = False
         self.use_multimodal = False
         self.use_thinking = False
         self.use_decimer = False
+        self.use_decimer_segmentation = False
         self.use_comments = True
         self.use_solvent = False
         self.assume_water = False
@@ -119,6 +143,7 @@ class JobSettings(): ## Contains subsettings as well for each of the job types.
         self.use_openai = False
         self.api_key = None
         self.check_prompt = ""
+        self.double_check_prompt = ""
 
 
     def _update_model_name_version(self, model_name_version):
@@ -176,6 +201,8 @@ class JobSettings(): ## Contains subsettings as well for each of the job types.
                 self.use_thinking = bool(val.lower() == "y")
             elif key.lower() == "use_decimer":
                 self.use_decimer = bool(val.lower() == "y")
+            elif key.lower() == "use_decimer_segmentation":
+                self.use_decimer_segmentation = bool(val.lower() == "y")
             elif key.lower() == "use_comments":
                 self.use_comments = bool(val.lower() == "y")
             elif key.lower() == "use_solvent":
@@ -189,28 +216,53 @@ class JobSettings(): ## Contains subsettings as well for each of the job types.
             elif key.lower() == "skip_check":
                 self.skip_check = bool(val.lower() == "y")
             elif key.lower() == "target_type":
-                self.target_type = val
+                # Accept: small_molecule (default), protein, peptide, polymer, reaction, general.
+                self.target_type = normalize_target_type(val)
             else:
                 print(f"JSON key '{key}' not recognized.")
     
     def _finalize(self):
+        if self.run_double_check and not self.run_extract:
+            # Double-check mode validates rows from an existing CSV.
+            # It does not require schema loading or extraction prompt generation.
+            if not hasattr(self.files, "source_csv") or not self.files.source_csv:
+                self.files.source_csv = self.files.csv
+            self.double_check_prompt = generate_double_check_prompt()
+            return
+
+        self.target_type = normalize_target_type(self.target_type)
         # Check for necessary file information, generate if missing.
         if any([self.files.csv == "results_output.csv",self.files.csv == "", self.files.csv is None]):
             self.files.csv = os.path.join(os.getcwd(), 'results', f"{self.model_name}_{self.model_version}_{os.path.splitext(self.files.schema)[0].split('/')[-1]}.csv")
         
         # Process Secondary extraction parameters.
         ## Set up extraction parameters
-        self.extract.schema_data, _ = load_schema_file(self.files.schema)
-        self.extract.schema_data = prepend_target_column(
-            self.extract.schema_data, self.target_type
-        )
+        self.extract.schema_data, schema_key_columns = load_schema_file(self.files.schema)
+        if self.target_type != "general":
+            prepend_count = 2 if self.target_type == "reaction" else 1
+            self.extract.schema_data = prepend_target_column(
+                self.extract.schema_data, self.target_type
+            )
+            if schema_key_columns:
+                schema_key_columns = [col + prepend_count for col in schema_key_columns]
         if self.use_solvent:
-            self.extract.schema_data = insert_solvent_column(self.extract.schema_data)
+            self.extract.schema_data = insert_solvent_column(
+                self.extract.schema_data, self.target_type
+            )
         if self.use_comments:
             self.extract.schema_data = append_comments_column(self.extract.schema_data)
-        self.extract.key_columns = [1]
-        if self.use_solvent:
-            self.extract.key_columns.append(2)
+        if self.target_type == "general":
+            self.extract.key_columns = schema_key_columns.copy() if schema_key_columns else []
+            if self.use_solvent and self.extract.key_columns:
+                self.extract.key_columns = [col + 1 for col in self.extract.key_columns]
+        elif self.target_type == "reaction":
+            self.extract.key_columns = [1, 2]
+            if self.use_solvent:
+                self.extract.key_columns.append(3)
+        else:
+            self.extract.key_columns = [1]
+            if self.use_solvent:
+                self.extract.key_columns.append(2)
         self.extract.num_columns = len(self.extract.schema_data)
         self.extract.headers = [self.extract.schema_data[column_number]['name'] for column_number in range(1, self.extract.num_columns + 1)] + ['paper']
         self.extract.prompt = generate_prompt(
@@ -219,13 +271,16 @@ class JobSettings(): ## Contains subsettings as well for each of the job types.
             self.extract.key_columns,
             self.target_type,
         )
-        self.extract.examples = generate_examples(self.extract.schema_data)
+        self.extract.examples = generate_examples(
+            self.extract.schema_data, target_type=self.target_type
+        )
         # Generate check prompt to reduce cost
         self.check_prompt = generate_check_prompt(
             self.extract.schema_data,
             self.extract.user_instructions,
             self.target_type,
         )
+        self.double_check_prompt = generate_double_check_prompt()
         
         # Generate output directory ID and query chunks
         output_directory_id, self.query_chunks = get_out_id(
@@ -256,7 +311,7 @@ class JobSettings(): ## Contains subsettings as well for each of the job types.
 
 
 class PromptData():
-    def __init__(self, model_name_version, check_model_name_version, use_openai=False, api_key=None, use_hi_res=False, use_multimodal=False, use_thinking=False):
+    def __init__(self, model_name_version, check_model_name_version, use_openai=False, api_key=None, use_hi_res=False, use_multimodal=False, use_thinking=False, use_decimer_segmentation=False):
         self.model = model_name_version
         self.check_model_name_version = check_model_name_version
         self.use_openai = use_openai  # Track if using OpenAI API
@@ -290,9 +345,12 @@ class PromptData():
         self.use_hi_res = use_hi_res
         self.use_multimodal = use_multimodal
         self.use_thinking = use_thinking
+        self.use_decimer_segmentation = use_decimer_segmentation
         self.first_print = True
         self.images = []
         self.si_images = []
+        self.segment_images = []
+        self.segment_notes = []
 
     def _load_images_from_dir(self, directory):
         imgs = []
@@ -322,6 +380,7 @@ class PromptData():
 
     def _refresh_paper_content(self, file, prompt, check_prompt, check_only=False):
         file_path = os.path.join(os.getcwd(), 'scraped_docs', file)
+        content_budget = max(1024, int(self.options["num_ctx"] * 0.75))
         
         """ Supposed to only go once, doesn't...
         if self.first_print:
@@ -335,7 +394,7 @@ class PromptData():
         try:
             self.paper_content = truncate_text(
                 doc_to_elements(file_path, self.use_hi_res, multimodal),
-                max_tokens=self.options["num_ctx"],
+                max_tokens=content_budget,
             )
         except Exception as err:
             print(f"Unable to process {file} into plaintext due to {err}")
@@ -346,6 +405,14 @@ class PromptData():
             main_img_dir = os.path.join(os.getcwd(), 'images', paper_id)
             self.images = self._load_images_from_dir(main_img_dir)
             print(f"Loaded {len(self.images)} images from {main_img_dir}")
+            self.segment_images = []
+            self.segment_notes = []
+            if self.use_decimer_segmentation:
+                seg_images, seg_notes = get_segmented_multimodal_images(main_img_dir)
+                self.segment_images.extend(seg_images)
+                self.segment_notes.extend(seg_notes)
+                if seg_images:
+                    print(f"Loaded {len(seg_images)} DECIMER segmented sub-images from {main_img_dir}")
 
             si_files = sorted(glob.glob(os.path.join(os.getcwd(), 'scraped_docs', f"{paper_id}_SI*")))
             self.si_images = []
@@ -358,11 +425,36 @@ class PromptData():
                 si_id = os.path.splitext(os.path.basename(si_file))[0]
                 si_dir = os.path.join(os.getcwd(), 'images', si_id)
                 self.si_images.extend(self._load_images_from_dir(si_dir))
+                if self.use_decimer_segmentation:
+                    seg_images, seg_notes = get_segmented_multimodal_images(si_dir)
+                    self.segment_images.extend(seg_images)
+                    self.segment_notes.extend(seg_notes)
             if si_files:
                 print(f"Loaded {len(self.si_images)} images from {len(si_files)} SI files")
+            if self.use_decimer_segmentation and self.segment_images:
+                print(f"Total segmented sub-images loaded: {len(self.segment_images)}")
         else:
             self.images = []
             self.si_images = []
+            self.segment_images = []
+            self.segment_notes = []
+        segment_note_block = ""
+        if self.segment_notes:
+            max_segment_notes = 200
+            notes = self.segment_notes[:max_segment_notes]
+            if len(self.segment_notes) > max_segment_notes:
+                notes.append(
+                    f"... ({len(self.segment_notes) - max_segment_notes} additional segment notes omitted)"
+                )
+            joined = "\n".join(f"- {note}" for note in notes)
+            segment_note_block = (
+                "\n\nSegment metadata for DECIMER sub-images (the sub-images are also included as multimodal inputs):\n"
+                f"{joined}"
+            )
+        paper_with_segment_notes = truncate_text(
+            f"{self.paper_content}{segment_note_block}",
+            max_tokens=content_budget,
+        )
         note = ""
         if check_only and self.use_multimodal and self.supports_vision:
             note = (
@@ -371,7 +463,7 @@ class PromptData():
                 "deciding if relevant information is present."
             )
         self.prompt = (
-            f"Paper Contents:\n{self.paper_content}\n\n{prompt}\n\nAgain, please make sure to respond only in the specified format exactly as described, or you will cause errors.\nResponse:"
+            f"Paper Contents:\n{paper_with_segment_notes}\n\n{prompt}\n\nAgain, please make sure to respond only in the specified format exactly as described, or you will cause errors.\nResponse:"
         )
         self.check_prompt = (
             f"Paper Contents:\n{self.paper_content}{note}\n\n{check_prompt}\n\nAgain, please only answer 'yes' or 'no' (without quotes) to let me know if we should extract information from this paper using the costly api call"
@@ -394,7 +486,7 @@ class PromptData():
             "prompt": self.prompt,
         }
         if self.use_multimodal and self.supports_vision:
-            data["images"] = self.images + self.si_images
+            data["images"] = self.images + self.si_images + self.segment_images
         return data
                 
     def __check__(self):
@@ -419,4 +511,3 @@ class PromptData():
         if self.use_multimodal and self.supports_vision:
             data["images"] = self.images
         return data
-

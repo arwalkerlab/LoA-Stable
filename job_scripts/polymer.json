@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "def_search_terms": ["local"],
+    "maybe_search_terms": ["none"],
+    "model_name_version": "gpt-5.4-mini",
+    "check_model_name_version": "gpt-5.4-mini",
+    "use_openai": "y",
+    "api_key": "",
+    "concurrent": "n",
+    "use_hi_res": "n",
+    "use_multimodal": "y",
+    "use_decimer": "y",
+    "target_type": "polymer",
+    "use_comments": "n",
+    "use_solvent": "n",
+    "assume_water": "n",
+    "skip_check": "y"
+  },
+  "files": {
+    "schema_file": "polymer.pkl",
+    "results_csv": "./results/polymer_big_only_decimer.csv"
+  },
+  "extract": {
+    "user_instructions": "Extract block copolymer data from the provided paper according to the schema column order exactly. Only extract the schema columns. Use null for missing values to ensure that the correct number of columns are present and the data can be properly parsed. Focus on experimentally reported polymer composition, phase behavior, and molecular characteristics. Capture values from text, tables, figure labels, captions, and supporting figure/table context when needed.\n\nGuidelines:\n\n1. Output one CSV row per distinct polymer sample or formulation described in the paper.\n\n2. The polymer identity should be provided as a BigSMILES string, which should be inferred from the description of the polymer in the paper, unless the BigSMILES is directly reported (rare).\n\n3. Populate only the schema columns, in the exact order given.\n\n4. Use null when a value is not reported.\n\n5. Preserve reported numeric values directly when possible. Do not infer missing numeric values unless the paper explicitly provides a calculation-ready expression and the value is unambiguous.\n\n6. phase1 and phase2 should be short text labels for the reported morphology or phases (for example lamellar, cylinders, gyroid, disordered, hexagonal, BCC, etc.) exactly as reported or in a lightly normalized form.\n\n7. phase_method should indicate the experimental method used to assign phase behavior when available (for example SAXS, TEM, GISAXS, AFM, etc.).\n\n8. T, T_meas, and T_alt should be temperatures in the units reported by the paper. If the schema expects numeric values only, store the numeric part only.\n\n9. Mn and Mw should be numeric molecular weights as reported for the polymer sample.\n\n10. D should be the dispersity value (Mw/Mn) when reported.\n\n11. N should be the degree of polymerization or total segment count only when explicitly reported.\n\n12. name1 and name2 should be the names of the first and second blocks/components as reported in the paper, using concise polymer/block naming.\n\n13. f1, f_tot1, w1, rho1, f2, f_tot2, w2, rho2 should be extracted only when explicitly reported in the paper or clearly given in a table.\n\n14. If a paper contains more than two blocks, do not extract that information, as we only have fields for name1 and name2. Report these components using polymer abbreviations where possible.\n\n15. Only output CSV rows, with no extra text."
+  ,
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

@@ -1,0 +1,21 @@
+Key Columns: 1,2
+1 - Type: 'str'
+1 - Name: 'enzyme'
+1 - Description: 'Protein/enzyme name or sequence associated with the experiment.'
+1 - Validation Mode: protein
+
+2 - Type: 'str'
+2 - Name: 'ligand'
+2 - Description: 'Small molecule ligand represented as SMILES or a resolvable name.'
+2 - Validation Mode: small_molecule
+
+3 - Type: 'float'
+3 - Name: 'ic50_nM'
+3 - Description: 'IC50 value in nM.'
+3 - Min Value: 0
+3 - Max Value: 100000000
+
+4 - Type: 'str'
+4 - Name: 'polymer_additive'
+4 - Description: 'Optional polymer additive, reported as BigSMILES when available.'
+4 - Validation Mode: polymer

@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "def_search_terms": ["local"],
+    "maybe_search_terms": ["none"],
+    "model_name_version": "medgemma:latest",
+    "check_model_name_version": "medgemma:latest",
+    "concurrent": "y",
+    "use_hi_res": "n",
+    "use_multimodal": "y",
+    "use_thinking": "y",
+    "use_decimer": "y",
+    "target_type": "reaction",
+    "use_comments": "n",
+    "use_solvent": "n",
+    "skip_check": "y",
+    "assume_water": "n",
+    "api_key": "",
+    "use_openai": "y"
+  },
+  "files": {
+    "schema_file": "rxn.pkl",
+    "results_csv": "./results/openchemie_reaxys_5_4.csv"
+  },
+  "scrape": {
+    "pubmed": "n",
+    "arxiv": "n",
+    "scienceOpen": "n",
+    "unpaywall": "n",
+    "customdb": "y",
+    "retmax": 10000,
+    "base_url": "",
+    "email": "gi1632@wayne.edu"
+  },
+  "extract": {
+    "user_instructions": "Extract document-level organic reactions from the provided research paper for comparison against a reaction-SMILES benchmark.\n\n1. Output one row per distinct reaction.\n\n2. Populate only two fields:\n   - reactants: dot-separated SMILES for the reactant side\n   - products: dot-separated SMILES for the product side\n\n3. Include only reactions that can be resolved into specific molecular structures with reasonable confidence(Represent real R groups in images with an asterisk *, but do not replace groups with an asterisk because you aren't confident)\n\n4. Use all available evidence from the paper, including schemes, figures, tables, captions, substrate scopes, and surrounding text.\n\n5. Prefer explicit molecular depictions and clearly associated labels over speculative inference.\n\n6. Resolve local paper labels such as 1a, 3b, or product A to actual structures whenever the paper defines them. Do not output unresolved local labels.\n\n7. Multiple molecules on one side of a reaction must be joined with '.'. Do not use '>>' in either field.\n\n8. Do not include solvents, catalysts, ligands, bases, acids, temperatures, times, or yields unless they are true stoichiometric reactants or true products represented in the benchmark reaction.\n\n9. Preserve stereochemistry when it is explicit and reliable from the paper or figure. Do not invent stereochemistry.\n\n10. Exclude partial, ambiguous, or underspecified reactions that cannot be converted into valid reactant and product SMILES.\n\n11. Deduplicate repeated mentions of the same reaction within a paper.\n\n12. Focus on small-molecule organic reactions represented as standard SMILES. Ignore polymers, proteins, materials, or entities that cannot be represented cleanly as ordinary molecular SMILES.\n\n13. For multistep papers, extract each distinct benchmark-style reaction separately rather than merging steps together unless the paper clearly presents them as a single reaction transformation.\n\n14. If a reaction is only inferable from multimodal context, combine text, scheme, and table evidence before deciding whether to extract it.\n\n15. Automated extraction of SMILES strings will be performed via DECIMER, and the resulting SMILES will be added to the paper body. However, this is not a perfect system and should be verified by manually checking the images to confirm things like stereochemistry, atom counts, etc.",
+    "max_retries": 1,
+    "ollama_url": "http://localhost:11434"
+  }
+}

@@ -1,9 +1,13 @@
 # Imports
 import itertools
+import glob
+import base64
 import os
 import re
 import hashlib
 import csv
+import tempfile
+import shutil
 import numpy as np
 from pdf2image import convert_from_path
 from PIL import Image
@@ -510,7 +514,59 @@ BUILTIN_TARGET_COLUMNS = {
             "Names will be resolved to sequences via PyPept, UniProt, and the PDB."
         ),
     },
+    "polymer": {
+        "type": "str",
+        "name": "polymer_bigsmiles",
+        "description": (
+            "BigSMILES representation of the polymer. "
+            "Infer and report BigSMILES from the paper's structures/text when needed."
+        ),
+    },
+    "reaction": [
+        {
+            "type": "str",
+            "name": "reactants",
+            "description": (
+                "Reactant SMILES string(s). Use '.' to separate multiple reactants "
+                "in the same reaction entry."
+            ),
+        },
+        {
+            "type": "str",
+            "name": "products",
+            "description": (
+                "Product SMILES string(s). Use '.' to separate multiple products "
+                "in the same reaction entry."
+            ),
+        },
+    ],
+    "general": [],
 }
+
+SUPPORTED_TARGET_TYPES = tuple(BUILTIN_TARGET_COLUMNS.keys())
+
+
+def normalize_target_type(target_type: str) -> str:
+    """Normalize and validate target type values."""
+    normalized = str(target_type).strip().lower()
+    if normalized not in SUPPORTED_TARGET_TYPES:
+        supported = ", ".join(SUPPORTED_TARGET_TYPES)
+        raise ValueError(
+            f"Unknown target_type '{target_type}'. Supported values are: {supported}."
+        )
+    return normalized
+
+
+def normalize_validation_mode(validation_mode: str) -> str:
+    """Normalize schema validation mode values."""
+    normalized = normalize_target_type(validation_mode)
+    if normalized == "general":
+        raise ValueError(
+            "Validation Mode 'general' is not supported for column validation."
+        )
+    if normalized == "reaction":
+        return "small_molecule"
+    return normalized
 
 # Column added to all schemas to capture additional notes
 COMMENTS_COLUMN = {
@@ -546,9 +602,15 @@ SOLVENT_SMILES_LOOKUP = {
 
 def _target_descriptor(target_type: str) -> str:
     """Return a simplified descriptor for the target type."""
-    t = target_type.lower()
+    t = normalize_target_type(target_type)
     if t in ["protein", "peptide"]:
         return t
+    if t == "polymer":
+        return "polymer"
+    if t == "reaction":
+        return "reactions"
+    if t == "general":
+        return "records"
     return "small molecule"
 
 
@@ -561,6 +623,17 @@ def _first_column_instruction(target_type: str, col_name: str) -> str:
             "Provide an amino acid sequence in one-letter code or a common name. "
             "Common names will be resolved to sequences."
         )
+    if descriptor == "polymer":
+        return (
+            f"The first column '{col_name}' uniquely identifies each polymer. "
+            "Always provide a BigSMILES string. "
+            "Do not return polymer/common names in this column."
+        )
+    if descriptor == "reactions":
+        return (
+            f"The first column '{col_name}' contains reaction reactant SMILES. "
+            "Always provide SMILES directly whenever available."
+        )
     return (
         f"The first column '{col_name}' uniquely identifies each {descriptor}. "
         "Always provide a SMILES string directly if it is available. "
@@ -571,10 +644,14 @@ def _first_column_instruction(target_type: str, col_name: str) -> str:
 
 def prepend_target_column(schema_data, target_type):
     """Prepend a built-in target column to the schema."""
-    info = BUILTIN_TARGET_COLUMNS.get(target_type.lower(), BUILTIN_TARGET_COLUMNS["small_molecule"])
-    new_schema = {1: info}
+    info = BUILTIN_TARGET_COLUMNS[normalize_target_type(target_type)]
+    info_list = info if isinstance(info, list) else [info]
+    new_schema = {}
+    for idx, column in enumerate(info_list, start=1):
+        new_schema[idx] = column
+    shift = len(info_list)
     for idx in sorted(schema_data.keys()):
-        new_schema[idx + 1] = schema_data[idx]
+        new_schema[idx + shift] = schema_data[idx]
     return new_schema
 
 
@@ -585,17 +662,22 @@ def append_comments_column(schema_data):
     return new_schema
 
 
-def insert_solvent_column(schema_data):
+def insert_solvent_column(schema_data, target_type="small_molecule"):
     """Insert the solvent column after the target column."""
+    t = normalize_target_type(target_type)
     if not schema_data:
         return {1: SOLVENT_COLUMN}
+    insertion_index = 1
+    if t == "reaction":
+        insertion_index = 2
+    elif t == "general":
+        insertion_index = 0
+
     new_schema = {}
-    inserted = False
     for idx in sorted(schema_data.keys()):
-        new_schema[idx + (1 if inserted and idx > 1 else 0)] = schema_data[idx]
-        if idx == 1 and not inserted:
-            new_schema[2] = SOLVENT_COLUMN
-            inserted = True
+        new_idx = idx + 1 if idx > insertion_index else idx
+        new_schema[new_idx] = schema_data[idx]
+    new_schema[insertion_index + 1] = SOLVENT_COLUMN
     return new_schema
 
 
@@ -625,6 +707,11 @@ def load_schema_file(schema_file):
     """
     with open(schema_file, 'r') as f:
         lines = f.readlines()
+
+    # Allow empty schema files (e.g., reaction-only extractions that rely only on
+    # built-in columns like reactants/products).
+    if not lines:
+        return {}, []
 
     key_columns = []
     if lines[0].startswith("Key Columns:"):
@@ -671,6 +758,8 @@ def load_schema_file(schema_file):
                 elif info_type == "Blacklisted Substrings":
                     schema_data[current_column]['blacklisted_substrings'] = [substring.strip() for substring in
                                                                              info_value.split(',') if substring.strip()]
+                elif info_type == "Validation Mode":
+                    schema_data[current_column]['validation_mode'] = normalize_validation_mode(info_value)
 
     # Fill in missing 'description' keys with empty strings
     for column_data in schema_data.values():
@@ -701,20 +790,64 @@ def generate_prompt(schema_data, user_instructions, key_columns=None, target_typ
 
     # Generate schema information and diagram
     for column_number, column_data in schema_data.items():
+        validation_info = ""
+        if column_data.get("validation_mode"):
+            validation_info = f" [validated as {column_data['validation_mode']}]"
         schema_info += f"Column {column_number}: {column_data['name']} ({column_data['type']})\n"
-        schema_info += f"Description: {column_data['description']}\n\n"
+        schema_info += f"Description: {column_data['description']}{validation_info}\n\n"
         schema_diagram += f"{column_data['name']}, "
     schema_diagram = schema_diagram[:-2]
 
     # Generate key column information
     key_column_names = [schema_data[int(column)]['name'] for column in key_columns]
-    first_col_instruction = _first_column_instruction(target_type, key_column_names[0]) if key_columns else ""
-    key_column_info = (
-        f"{first_col_instruction} Ensure that the values in this column are unique within each paper." if key_columns else ""
+    first_col_instruction = (
+        _first_column_instruction(target_type, key_column_names[0])
+        if key_columns and normalize_target_type(target_type) != "general"
+        else ""
     )
+    if key_columns:
+        uniqueness_instruction = (
+            "Duplicate target values are allowed when other extracted properties differ."
+            if normalize_target_type(target_type) in {"polymer", "reaction", "general"}
+            else "Ensure that the values in this column are unique within each paper."
+        )
+        key_column_info = f"{first_col_instruction} {uniqueness_instruction}"
+    else:
+        key_column_info = ""
 
     # Construct the prompt
-    descriptor = _target_descriptor(target_type)
+    normalized_target_type = normalize_target_type(target_type)
+    descriptor = _target_descriptor(normalized_target_type)
+    if normalized_target_type == "polymer":
+        target_output_instruction = (
+            "- For polymer targets, output BigSMILES exactly as written in the source text.\n"
+            "- Do not convert BigSMILES polymer notation to standard SMILES.\n"
+            "- Keep all brackets/braces/parentheses and bond descriptors (e.g., $, <, >) unchanged.\n"
+            "- If no valid BigSMILES-like target is present, use 'null' for the target column.\n"
+            "- If BigSMILES is not explicitly written, infer it from the paper's text/figures.\n"
+            "- Build BigSMILES from constitutional repeat unit(s), not full-chain drawings.\n"
+            "- Choose descriptors by connectivity: use [$] for equivalent AA-type links; use [<]/[>] for directional/complementary AB-type links.\n"
+            "- Mark repeat-unit continuation atoms with bonding descriptors and keep bond order consistent for matching descriptor patterns.\n"
+            "- Use the smallest repeat-unit set that captures architecture (homo/random/alternating/block/branched/graft).\n"
+            "- Use stochastic-object form { [left] repeat_unit_1,repeat_unit_2 ; optional_end_groups [right] } with [] terminals when outside connections are unspecified.\n"
+            "- Include descriptor IDs (e.g., [$1], [<1], [>1]) only when multiple orthogonal connection types are required.\n"
+            "- Encode only connectivity supported by the paper; do not invent unsupported stereochemistry/sequence statistics/end-group populations.\n"
+            "- Keep output format identical: comma-separated CSV rows only."
+        )
+    elif normalized_target_type == "reaction":
+        target_output_instruction = (
+            "- For reactions, both reactants and products columns must contain SMILES.\n"
+            "- Use '.' to separate multiple species within reactants or products."
+        )
+    elif normalized_target_type == "general":
+        target_output_instruction = (
+            "- Follow each schema column's description carefully.\n"
+            "- If a column has a validation mode, format values to satisfy that validator."
+        )
+    else:
+        target_output_instruction = (
+            "- Provide SMILES strings directly whenever possible. This has the highest priority over IUPAC or common names."
+        )
     prompt = f"""
 Using the research paper text provided above, extract information about {descriptor}s that fits into the following CSV schema:
 
@@ -730,7 +863,7 @@ Extraction Instructions:
 - Enclose all string values in double-quotes.
 - Never use natural language outside of a string enclosed in double-quotes.
 - For range values, use the format "min-max" when a range is explicitly expected.
-- Provide SMILES strings directly whenever possible. This has the highest priority over IUPAC or common names.
+{target_output_instruction}
 - Do not include headers, explanations, summaries, or any additional formatting.
 - Invalid responses will result in retries, causing significant time and money loss per paper.
 - Ignore any information in references that may be included at the end of the paper.
@@ -741,13 +874,13 @@ Example showing only the column names:
 {schema_diagram}
 
 Example where the paper contains a single piece of information:
-{generate_examples(schema_data, 1)}
+{generate_examples(schema_data, 1, normalized_target_type)}
 
 Example where the paper contains two pieces of information:
-{generate_examples(schema_data, 2)}
+{generate_examples(schema_data, 2, normalized_target_type)}
 
 Example where the paper contains three pieces of information:
-{generate_examples(schema_data, 3)}
+{generate_examples(schema_data, 3, normalized_target_type)}
 
 User Instructions:
 {user_instructions}
@@ -773,7 +906,19 @@ def generate_check_prompt(schema_data, user_instructions, target_type="small_mol
         schema_info += f"- {column_data['name']}: {column_data['description']}\n"
     
     # Construct the prompt
-    descriptor = _target_descriptor(target_type)
+    normalized_target_type = normalize_target_type(target_type)
+    descriptor = _target_descriptor(normalized_target_type)
+    polymer_check_instruction = ""
+    if normalized_target_type == "polymer":
+        polymer_check_instruction = (
+            "\nPolymer-specific checks:\n"
+            "- Consider BigSMILES extractable when polymer repeat-unit/connectivity information in text or figures is sufficient to construct it.\n"
+            "- Output BigSMILES exactly as written in source text when explicit notation is present.\n"
+            "- Otherwise infer BigSMILES from repeat units and connectivity shown in the paper.\n"
+            "- Do not convert polymer notation to standard SMILES.\n"
+            "- Keep brackets/braces/parentheses and bond descriptors unchanged.\n"
+            "- If no valid BigSMILES can be found or constructed from the available evidence, answer \"no\"."
+        )
     prompt = f"""
 Using the research paper text provided above, determine whether it contains information about {descriptor}s relevant to the following schema and instructions.
 
@@ -782,6 +927,7 @@ Schema:
 
 User Instructions:
 {user_instructions}
+{polymer_check_instruction}
 
 Answer "yes" if the paper contains enough information to fill out at least one row of the defined schema.
 Answer "no" if the required information is missing.
@@ -791,6 +937,33 @@ Your answer must be exactly "yes" or "no" with no additional text.
 Understand that answering "yes" will result in a costly extraction step, so please be certain.
 """
     return prompt
+
+
+def generate_double_check_prompt():
+    """
+    Generate a strict binary prompt for row-level verification.
+
+    Returns:
+    str: Prompt template that expects a single yes/no answer.
+    """
+    return """
+You are performing a strict binary classification task.
+
+You will be given:
+1) The full text of a scientific paper.
+2) The paper images (and segmented sub-images when available).
+3) A single CSV row that was previously extracted from this paper.
+
+Task:
+- Decide whether the provided row is supported by the paper contents and images.
+- Return "yes" only if the row clearly appears in or is directly supported by the paper.
+- If there is any uncertainty, inconsistency, or missing support, return "no".
+- Be strict: partial matches, guesses, or weak implications should be "no".
+
+Output requirements:
+- Respond with exactly one token: yes or no
+- Any answer other than exact "yes" is treated as "no"
+"""
     
 
 def parse_llm_response(response, num_columns):
@@ -1173,6 +1346,89 @@ def _smiles_from_string(value):
     return None
 
 
+def _reaction_side_from_string(value):
+    """Validate a dot-separated reaction side and canonicalize each component.
+
+    Accepts strings like ``A.B.C`` and validates each molecule token
+    independently using the standard small-molecule resolver.
+    """
+    if value is None:
+        return None
+    side = str(value).strip()
+    if not side:
+        return None
+
+    parts = [part.strip() for part in side.split(".")]
+    if not parts or any(not part for part in parts):
+        return None
+
+    canonical_parts = []
+    for part in parts:
+        canonical = _smiles_from_string(part)
+        if canonical is None:
+            return None
+        canonical_parts.append(canonical)
+    return ".".join(canonical_parts)
+
+
+def _bigsmiles_from_string(value):
+    """Validate and normalize a BigSMILES string using lightweight heuristics."""
+    if value is None:
+        return None
+    candidate = str(value).strip()
+    if not candidate:
+        return None
+
+    lowered = candidate.lower()
+    invalid_literals = {
+        "null",
+        "none",
+        "n/a",
+        "na",
+        "unknown",
+        "example",
+        "example_string",
+        "example_bigsmiles",
+        "polymer",
+        "bigsmiles",
+        "-",
+        "--",
+    }
+    if lowered in invalid_literals or lowered.startswith("example_"):
+        return None
+
+    def _balanced(text, opener, closer):
+        depth = 0
+        for ch in text:
+            if ch == opener:
+                depth += 1
+            elif ch == closer:
+                depth -= 1
+                if depth < 0:
+                    return False
+        return depth == 0
+
+    if not _balanced(candidate, "{", "}"):
+        return None
+    if not _balanced(candidate, "[", "]"):
+        return None
+    if not _balanced(candidate, "(", ")"):
+        return None
+
+    # BigSMILES-like structural heuristics:
+    # - stochastic object braces are expected
+    # - and either explicit descriptors ($, <, >) or repeat/connectivity hints
+    has_braces = "{" in candidate and "}" in candidate
+    has_descriptor = any(token in candidate for token in ("$", "<", ">"))
+    has_repeat_pattern = bool(re.search(r"\[[^\]]+\]", candidate))
+    if not has_braces:
+        return None
+    if not (has_descriptor or has_repeat_pattern):
+        return None
+
+    return candidate
+
+
 def _protein_sequence_from_string(value):
     """Resolve a protein name or sequence to a valid amino acid sequence."""
     seq = value.strip()
@@ -1219,12 +1475,46 @@ def _peptide_sequence_from_string(value):
 
 def validate_target_value(value, target_type):
     """Validate and normalize the first column based on the target type."""
-    t = target_type.lower()
+    t = normalize_target_type(target_type)
     if t == "protein":
         return _protein_sequence_from_string(value)
     if t == "peptide":
         return _peptide_sequence_from_string(value)
+    if t == "polymer":
+        return _bigsmiles_from_string(value)
+    if t == "reaction":
+        return _reaction_side_from_string(value)
     return _smiles_from_string(value)
+
+
+def _get_column_index_by_name(schema_data, column_name):
+    """Return 0-based index for a named column, or None if absent."""
+    for idx, col in schema_data.items():
+        if col.get("name") == column_name:
+            return idx - 1
+    return None
+
+
+def _build_validation_modes(schema_data, target_type, verify_target):
+    """Build a map of 0-based column indexes to validation modes."""
+    mode_map = {}
+    normalized_target_type = normalize_target_type(target_type)
+    if verify_target and normalized_target_type not in {"general"}:
+        if normalized_target_type == "reaction":
+            mode_map[0] = "small_molecule"
+            mode_map[1] = "small_molecule"
+        else:
+            mode_map[0] = normalized_target_type
+
+    solvent_idx = _get_column_index_by_name(schema_data, "solvent")
+    if solvent_idx is not None:
+        mode_map[solvent_idx] = "small_molecule"
+
+    for idx, col_data in schema_data.items():
+        validation_mode = col_data.get("validation_mode")
+        if validation_mode:
+            mode_map[idx - 1] = validation_mode
+    return mode_map
 
 
 def validate_result(parsed_result, schema_data, examples, key_columns=None, target_type="small_molecule", verify_target=True, assume_water=False):
@@ -1250,7 +1540,16 @@ def validate_result(parsed_result, schema_data, examples, key_columns=None, targ
     """
     num_columns = len(schema_data)
     validated_result = []
-    example_rows = examples.split('\n')
+    # Parse examples using csv reader so comparisons match parsed_result rows even
+    # when quote characters differ from the raw prompt text.
+    example_rows = []
+    for ex_row in csv.reader(examples.splitlines(), quotechar='"', skipinitialspace=True):
+        if len(ex_row) == num_columns:
+            example_rows.append(tuple(cell.strip() for cell in ex_row))
+    example_rows = set(example_rows)
+
+    validation_modes = _build_validation_modes(schema_data, target_type, verify_target)
+    solvent_idx = _get_column_index_by_name(schema_data, "solvent")
 
     # Check if headers are present in the parsed result
     headers_present = False
@@ -1272,7 +1571,8 @@ def validate_result(parsed_result, schema_data, examples, key_columns=None, targ
             continue
 
         # Skip rows that match example data
-        if any(example_row == ','.join(row) for example_row in example_rows):
+        normalized_row = tuple(cell.strip() for cell in row)
+        if normalized_row in example_rows:
             print(f"Skipping row containing example strings: {row}")
             continue
 
@@ -1296,50 +1596,52 @@ def validate_result(parsed_result, schema_data, examples, key_columns=None, targ
             else:
                 validated_row.append('null')
 
-        # Check if at least one key column has a non-null value, but only if the row is not all nulls
+        # Check if at least one key column has a non-null value, but only if the row is not all nulls.
+        # This guards against empty rows; deduplication (if any) happens in extract.py.
         if row_valid and key_columns and not all_null:
             key_values = [validated_row[i-1] for i in key_columns]
             if all(value.lower() == 'null' for value in key_values):
                 print(f"Skipping row with all null key columns: {row}")
                 row_valid = False
 
-        if row_valid and verify_target:
-            if validated_row[0].lower() == 'null':
-                row_valid = False
-            else:
-                canonical = validate_target_value(validated_row[0], target_type)
-                if canonical is None:
-                    print(
-                        f"Warning: Unable to resolve '{validated_row[0]}' to a valid {target_type}."
-                    )
+        if row_valid:
+            for idx, mode in sorted(validation_modes.items()):
+                if idx >= len(validated_row):
+                    continue
+                value = validated_row[idx]
+                if str(value).lower() == "null":
+                    if solvent_idx == idx:
+                        if assume_water:
+                            validated_row[idx] = SOLVENT_SMILES_LOOKUP.get('water', 'O')
+                        continue
                     row_valid = False
+                    break
                 else:
-                    validated_row[0] = canonical
-
-        if row_valid and has_solvent_column(schema_data):
-            solvent_val = validated_row[1]
-            if solvent_val.lower() == 'null':
-                if assume_water:
-                    validated_row[1] = SOLVENT_SMILES_LOOKUP.get('water', 'O')
-            else:
-                canonical_solvent = validate_target_value(solvent_val, "small_molecule")
-                if canonical_solvent is None:
-                    print(
-                        f"Warning: Unable to resolve solvent '{solvent_val}' to a valid small_molecule."
-                    )
-                    row_valid = False
-                else:
-                    validated_row[1] = canonical_solvent
+                    canonical = validate_target_value(value, mode)
+                    if canonical is None:
+                        print(
+                            f"Warning: Unable to resolve '{value}' to a valid {mode}."
+                        )
+                        row_valid = False
+                        break
+                    validated_row[idx] = canonical
 
         # Require at least one data field (excluding comments) when a target is present
         if row_valid:
-            start_idx = 1 + int(has_solvent_column(schema_data))
+            normalized_target_type = normalize_target_type(target_type)
+            start_idx = 0
+            if normalized_target_type in {"small_molecule", "protein", "peptide", "polymer"}:
+                start_idx = 1
+            elif normalized_target_type == "reaction":
+                start_idx = 2
+            if has_solvent_column(schema_data):
+                start_idx += 1
             if has_comments_column(schema_data):
                 end_idx = -1
             else:
                 end_idx = None
             data_fields = validated_row[start_idx:end_idx] if end_idx is not None else validated_row[start_idx:]
-            if all(str(v).lower() == 'null' for v in data_fields):
+            if data_fields and all(str(v).lower() == 'null' for v in data_fields):
                 print(f"Skipping row with no data fields: {row}")
                 row_valid = False
 
@@ -1387,7 +1689,7 @@ def write_to_csv(data, headers, filename="extracted_data.csv"):
         writer.writerows(data)
 
 
-def generate_examples(schema_data, num_examples=3):
+def generate_examples(schema_data, num_examples=3, target_type="small_molecule"):
     """
     Generate example data based on the provided schema.
 
@@ -1401,14 +1703,33 @@ def generate_examples(schema_data, num_examples=3):
     Returns:
     str: A string containing the generated examples, with each row separated by a newline.
     """
+    normalized_target_type = normalize_target_type(target_type)
     examples = []
+    polymer_targets = [
+        '"{[$]CC[$]}"',
+        '"{[>][<]CCO[>][<]}"',
+        '"{[$]CC(c1ccccc1)[$]}"',
+    ]
+    reaction_examples = ['"CCO.CC(=O)O"', '"CC(=O)O"', '"CCN.CCO"']
     for _ in range(num_examples):
         example_row = []
         for column_number, column_data in schema_data.items():
             column_type = column_data['type']
             allowed_values = column_data.get('allowed_values', [])
 
-            if allowed_values:
+            if (
+                normalized_target_type == "polymer"
+                and column_number == 1
+                and column_type == 'str'
+            ):
+                example_value = polymer_targets[(_ + column_number) % len(polymer_targets)]
+            elif (
+                normalized_target_type == "reaction"
+                and column_number in {1, 2}
+                and column_type == "str"
+            ):
+                example_value = reaction_examples[(_ + column_number) % len(reaction_examples)]
+            elif allowed_values:
                 example_value = random.choice(allowed_values)
             elif column_type == 'str':
                 example_value = f'"example_string_{column_number}"'
@@ -1937,13 +2258,35 @@ def check_openai_model(model_name, api_key=None):
         return True
 
 
-def _run_decimer(path):
-    """Execute DECIMER extraction in a separate conda environment."""
-    script = os.path.join(os.path.dirname(__file__), "decimer_runner.py")
-    # Ensure the path is absolute so DECIMER can locate the file
+def _run_decimer_segmentation(path):
+    """Execute DECIMER image segmentation in dedicated decimer-seg env."""
+    script = os.path.join(os.path.dirname(__file__), "decimer_segment_runner.py")
     abs_path = path if os.path.isabs(path) else os.path.join(os.getcwd(), 'scraped_docs', path)
-    cmd = ["conda", "run", "-n", "DECIMER", "python", script, abs_path]
+    segment_dir = os.path.join(
+        os.path.dirname(abs_path),
+        os.path.splitext(os.path.basename(abs_path))[0],
+    )
+    if os.path.isdir(segment_dir):
+        shutil.rmtree(segment_dir, ignore_errors=True)
+    os.makedirs(segment_dir, exist_ok=True)
+    metadata_path = None
+    cmd = [
+        "conda",
+        "run",
+        "-n",
+        "decimer-seg",
+        "python",
+        script,
+        abs_path,
+        "--output-dir",
+        segment_dir,
+        "--metadata-out",
+        "",  # filled below
+    ]
     try:
+        with tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False) as tf:
+            metadata_path = tf.name
+        cmd[-1] = metadata_path
         result = subprocess.run(
             cmd,
             capture_output=True,
@@ -1951,11 +2294,72 @@ def _run_decimer(path):
             check=False,
         )
     except Exception as err:
-        print(f"Failed to invoke DECIMER: {err}")
+        print(f"Failed to invoke DECIMER segmentation: {err}")
         return []
+    finally:
+        pass
 
     if result.returncode != 0:
-        print(f"DECIMER error: {result.stderr}")
+        print(f"DECIMER segmentation error: {result.stderr}")
+        return []
+
+    try:
+        if metadata_path and os.path.exists(metadata_path):
+            with open(metadata_path, "r") as f:
+                data = json.load(f)
+            if isinstance(data, list):
+                return data
+    except Exception:
+        print(f"Could not decode DECIMER segmentation output: {result.stdout}")
+    finally:
+        if metadata_path and os.path.exists(metadata_path):
+            try:
+                os.remove(metadata_path)
+            except Exception:
+                pass
+    return []
+
+
+def _run_decimer_smiles_for_segments(segment_paths):
+    """Predict SMILES for a list of segment image file paths in decimer-gpu env."""
+    if not segment_paths:
+        return []
+
+    script = os.path.join(os.path.dirname(__file__), "decimer_smiles_runner.py")
+    tmp_path = None
+    try:
+        with tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False) as tf:
+            json.dump(segment_paths, tf)
+            tmp_path = tf.name
+
+        cmd = [
+            "conda",
+            "run",
+            "-n",
+            "decimer-gpu",
+            "python",
+            script,
+            "--segment-paths-json",
+            tmp_path,
+        ]
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except Exception as err:
+        print(f"Failed to invoke DECIMER SMILES runner: {err}")
+        return []
+    finally:
+        if tmp_path and os.path.exists(tmp_path):
+            try:
+                os.remove(tmp_path)
+            except Exception:
+                pass
+
+    if result.returncode != 0:
+        print(f"DECIMER SMILES error: {result.stderr}")
         return []
 
     try:
@@ -1963,8 +2367,57 @@ def _run_decimer(path):
         if isinstance(data, list):
             return data
     except json.JSONDecodeError:
-        print(f"Could not decode DECIMER output: {result.stdout}")
+        print(f"Could not decode DECIMER SMILES output: {result.stdout}")
     return []
+
+
+def _run_decimer_segments(path, predict_smiles=True):
+    """Run DECIMER segmentation and optionally augment with SMILES predictions."""
+    data = _run_decimer_segmentation(path)
+    if not isinstance(data, list) or not data:
+        return []
+    if predict_smiles:
+        segment_paths = [row.get("segment_path") for row in data if row.get("segment_path")]
+        smiles_predictions = _run_decimer_smiles_for_segments(segment_paths)
+        for idx, smi in enumerate(smiles_predictions):
+            if idx < len(data) and smi:
+                data[idx]["smiles"] = smi
+    return data
+
+
+def get_segmented_multimodal_images(images_dir):
+    """Return DECIMER-segmented image crops and location metadata for prompts."""
+    if not os.path.isdir(images_dir):
+        return [], []
+
+    segment_images = []
+    segment_notes = []
+    for img_path in sorted(glob.glob(os.path.join(images_dir, "*"))):
+        if not os.path.isfile(img_path):
+            continue
+        records = _run_decimer_segments(img_path, predict_smiles=False)
+        image_name = os.path.basename(img_path)
+        for rec in records:
+            seg_path = rec.get("segment_path")
+            bbox = rec.get("bbox")
+            rel = rec.get("bbox_relative")
+            seg_idx = rec.get("segment_index")
+            if not seg_path or not os.path.exists(seg_path):
+                continue
+            with open(seg_path, "rb") as seg_f:
+                segment_images.append(base64.b64encode(seg_f.read()).decode("utf-8"))
+            bbox_str = bbox if bbox else "unavailable"
+            rel_str = [round(float(x), 4) for x in rel] if rel else "unavailable"
+            segment_notes.append(
+                "source_image={name}, segment={seg}, bbox(y0,x0,y1,x1)={bbox}, "
+                "relative_bbox={rel}".format(
+                    name=image_name,
+                    seg=seg_idx,
+                    bbox=bbox_str,
+                    rel=rel_str,
+                )
+            )
+    return segment_images, segment_notes
 
 
 def _rms_diff(arr1, arr2):
@@ -2014,80 +2467,7 @@ def extract_smiles_for_paper(file_path, text, match_tolerance=0.1):
     if not text:
         return text, []
 
-    abs_path = file_path if os.path.isabs(file_path) else os.path.join(os.getcwd(), 'scraped_docs', file_path)
-    ext = os.path.splitext(abs_path)[1].lower()
     paper_id = os.path.splitext(os.path.basename(file_path))[0]
-
-    if ext == '.pdf':
-        extra_results = _run_decimer(abs_path)
-        if not extra_results:
-            return text, []
-
-        page_images = _load_pdf_pages(abs_path, dpi=300)
-        images_dir = os.path.join(os.getcwd(), 'images', paper_id)
-        placeholders = {
-            os.path.basename(p): os.path.join(images_dir, p)
-            for p in os.listdir(images_dir) if os.path.isfile(os.path.join(images_dir, p))
-        } if os.path.isdir(images_dir) else {}
-
-        match_map = {}
-        leftovers = []
-        for item in extra_results:
-            smi = item.get('smiles')
-            page = item.get('page')
-            bbox = item.get('bbox')
-            if not smi:
-                continue
-            if page and bbox and placeholders:
-                try:
-                    arr = page_images[page - 1]
-                    y0, x0, y1, x1 = bbox
-                    crop = arr[y0:y1, x0:x1]
-                except Exception:
-                    leftovers.append(smi)
-                    continue
-                best_name = None
-                best_diff = 1.0
-                for name, path in placeholders.items():
-                    try:
-                        img_arr = np.array(Image.open(path).convert('RGB'))
-                    except Exception:
-                        continue
-                    diff = _rms_diff(crop, img_arr)
-                    if diff < best_diff:
-                        best_diff = diff
-                        best_name = name
-                if best_name and best_diff <= match_tolerance:
-                    match_map[best_name] = smi
-                else:
-                    leftovers.append(smi)
-            else:
-                leftovers.append(smi)
-
-        pattern = re.compile(r"\[([^\[\]]+\.(?:png|jpg|jpeg|gif|tif|tiff))\]")
-        updated_text = text
-        offset = 0
-        locations = []
-        for match in pattern.finditer(text):
-            img_name = os.path.basename(match.group(1))
-            smi = match_map.get(img_name)
-            if smi:
-                start, end = match.span()
-                start += offset
-                end += offset
-                updated_text = updated_text[:start] + smi + updated_text[end:]
-                offset += len(smi) - (end - start)
-                snippet = updated_text[max(0, start - 30):min(len(updated_text), start + len(smi) + 30)]
-                locations.append((smi, snippet))
-
-        if leftovers:
-            append = (
-                "\n\n[We ran automated code to extract SMILES from figures in the paper but could not "
-                "confidently determine where some should be placed. Please deduce which molecules these "
-                "SMILES refer to: " + ", ".join(leftovers) + "]\n"
-            )
-            updated_text += append
-        return updated_text, locations
 
     images_dir = os.path.join(os.getcwd(), 'images', paper_id)
     pattern = re.compile(r"\[([^\[\]]+\.(?:png|jpg|jpeg|gif|tif|tiff))\]")
@@ -2098,17 +2478,23 @@ def extract_smiles_for_paper(file_path, text, match_tolerance=0.1):
             continue
         img_path = os.path.join(images_dir, img_name)
         if os.path.exists(img_path):
-            preds = _run_decimer(img_path)
-            if preds:
-                smiles_cache[img_name] = preds[0].get('smiles')
+            preds = _run_decimer_segments(img_path, predict_smiles=True)
+            smiles = []
+            for pred in preds:
+                smi = pred.get("smiles")
+                if smi and smi not in smiles:
+                    smiles.append(smi)
+            if smiles:
+                smiles_cache[img_name] = smiles
 
     updated_text = text
     offset = 0
     locations = []
     for match in pattern.finditer(text):
         img_name = os.path.basename(match.group(1))
-        smi = smiles_cache.get(img_name)
-        if smi:
+        smiles = smiles_cache.get(img_name)
+        if smiles:
+            smi = ", ".join(smiles)
             start, end = match.span()
             start += offset
             end += offset

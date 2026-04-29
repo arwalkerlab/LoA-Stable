@@ -1,21 +1,21 @@
 {
   "settings": {
-    "def_search_terms": ["peptide activity", "IC50"],
-    "maybe_search_terms": ["none"],
+    "def_search_terms": ["bioconjugate", "inhibitor"],
+    "maybe_search_terms": ["binding assay"],
     "model_name_version": "gemma3:4b-it-fp16",
     "check_model_name_version": "gemma3:4b-it-fp16",
     "concurrent": "y",
     "use_hi_res": "y",
     "use_multimodal": "y",
     "use_decimer": "n",
-    "target_type": "peptide",
+    "target_type": "general",
     "use_comments": "y",
     "use_solvent": "n",
     "assume_water": "n"
   },
   "files": {
-    "schema_file": "example_peptide.pkl",
-    "results_csv": "./results/example_peptide.csv"
+    "schema_file": "example_general.pkl",
+    "results_csv": "./results/example_general.csv"
   },
   "scrape": {
     "pubmed": "y",
@@ -23,12 +23,12 @@
     "scienceOpen": "n",
     "unpaywall": "n",
     "customdb": "n",
-    "retmax": 10,
+    "retmax": 20,
     "base_url": "",
     "email": "youremail@example.com"
   },
   "extract": {
-    "user_instructions": "Extract activity, IC50, and reported modifications for peptides. Provide sequences or common names in the first column.",
+    "user_instructions": "Extract mixed biochemical records. Respect column-level validation modes from the schema and write null when values are not available.",
     "max_retries": 1,
     "ollama_url": "http://localhost:11434"
   }

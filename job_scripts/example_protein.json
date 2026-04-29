@@ -1,20 +1,17 @@
 {
   "settings": {
-    "def_search_terms": [
-      "molecular weight",
-      "protein function"
-    ],
-    "maybe_search_terms": [""],
+    "def_search_terms": ["molecular weight", "protein function"],
+    "maybe_search_terms": ["none"],
     "model_name_version": "gemma3:4b-it-fp16",
     "check_model_name_version": "gemma3:4b-it-fp16",
     "concurrent": "y",
     "use_hi_res": "y",
     "use_multimodal": "y",
-    "use_decimer": "y",
+    "use_decimer": "n",
     "target_type": "protein",
     "use_comments": "y",
-    "use_solvent": "y",
-    "assume_water": "y"
+    "use_solvent": "n",
+    "assume_water": "n"
   },
   "files": {
     "schema_file": "example_protein.pkl",

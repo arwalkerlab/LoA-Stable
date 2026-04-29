@@ -1,0 +1,14 @@
+name: decimer-seg
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - setuptools
+  - wheel
+  - pip:
+      - decimer-segmentation @ git+https://github.com/Kohulan/DECIMER-Image-Segmentation.git@master
+      - tensorflow==2.15.1
+      - numpy==1.26.4
+      - pillow==11.2.1
+      - pdf2image==1.17.0

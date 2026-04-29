@@ -219,6 +219,11 @@ def print_all_settings(job_settings: JobSettings):
     print("#   Using OpenAI: " + str(job_settings.use_openai))
     if job_settings.use_openai:
         print("#   API Key Present: " + str(bool(job_settings.api_key)))
+    if job_settings.run_double_check:
+        print("# Double-Check Settings:")
+        print("#   Source CSV: " + str(job_settings.files.source_csv))
+        print("#   Output CSV: " + str(job_settings.files.csv))
+        print("#   Maximum retries: " + str(job_settings.double_check.max_retries))
     print("######################################################")
     
 #################################### BEGIN MAIN ######################################
@@ -259,6 +264,9 @@ def main():
         elif task_name == "extract":
             job_settings.extract._parse_from_json(task_params)
             job_settings.run_extract = True
+        elif task_name == "double_check":
+            job_settings.double_check._parse_from_json(task_params)
+            job_settings.run_double_check = True
         else:
             print(f"Unrecognized JSON section: {task_name}. Job will not continue.\n")
             AUTO_EPICFAIL = True
@@ -300,8 +308,11 @@ def main():
     if not os.path.exists(job_settings.files.json):
         print(f"JSON file {job_settings.files.json} not found.  Exiting program.\n")
         AUTO_EPICFAIL = True
-    if not os.path.exists(job_settings.files.schema):
+    if job_settings.run_extract and not os.path.exists(job_settings.files.schema):
         print(f"SCHEMA file {job_settings.files.schema} not found.")
+        AUTO_EPICFAIL = True
+    if job_settings.run_double_check and not os.path.exists(job_settings.files.source_csv):
+        print(f"SOURCE CSV file {job_settings.files.source_csv} not found.")
         AUTO_EPICFAIL = True
     if job_settings.auto and AUTO_EPICFAIL:
         print("Error(s) encountered.  Please review logfile. Terminating program (unable to switch to interactive mode).\n")
@@ -326,6 +337,9 @@ def main():
             # Initialize ollama server if necessary?
             from src.extract import batch_extract
             batch_extract(job_settings)
+        if job_settings.run_double_check:
+            from src.extract import batch_double_check
+            batch_double_check(job_settings)
 
 if __name__ == '__main__':
     main()

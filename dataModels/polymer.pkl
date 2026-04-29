@@ -1,0 +1,119 @@
+1 - Type: 'str'
+1 - Name: 'phase1'
+1 - Description: 'Primary reported phase or morphology label for the polymer sample, such as lamellar, cylindrical, gyroid, disordered, hexagonal, or BCC.'
+1 - Min Length: 1
+1 - Max Length: 100
+
+2 - Type: 'str'
+2 - Name: 'phase2'
+2 - Description: 'Secondary reported phase or morphology label if a second phase is reported; otherwise null.'
+2 - Min Length: 1
+2 - Max Length: 100
+
+3 - Type: 'str'
+3 - Name: 'phase_method'
+3 - Description: 'Experimental method used to determine the phase or morphology, such as SAXS, TEM, GISAXS, AFM, or related characterization.'
+3 - Min Length: 1
+3 - Max Length: 100
+
+4 - Type: 'float'
+4 - Name: 'T'
+4 - Description: 'Primary reported temperature associated with the sample, phase behavior, annealing, or transition, using the numeric value only.'
+4 - Min Value: -273.15
+4 - Max Value: 5000
+
+5 - Type: 'float'
+5 - Name: 'T_meas'
+5 - Description: 'Measurement temperature, using the numeric value only.'
+5 - Min Value: -273.15
+5 - Max Value: 5000
+
+6 - Type: 'float'
+6 - Name: 'T_alt'
+6 - Description: 'Alternative or secondary reported temperature for the sample, using the numeric value only.'
+6 - Min Value: -273.15
+6 - Max Value: 5000
+
+7 - Type: 'float'
+7 - Name: 'Mn'
+7 - Description: 'Number-average molecular weight of the polymer sample.'
+7 - Min Value: 0
+7 - Max Value: 1000000000
+
+8 - Type: 'float'
+8 - Name: 'Mw'
+8 - Description: 'Weight-average molecular weight of the polymer sample.'
+8 - Min Value: 0
+8 - Max Value: 1000000000
+
+9 - Type: 'float'
+9 - Name: 'D'
+9 - Description: 'Dispersity, typically Mw divided by Mn.'
+9 - Min Value: 0
+9 - Max Value: 1000
+
+10 - Type: 'float'
+10 - Name: 'N'
+10 - Description: 'Degree of polymerization or total segment count when explicitly reported.'
+10 - Min Value: 0
+10 - Max Value: 1000000000
+
+11 - Type: 'str'
+11 - Name: 'name1'
+11 - Description: 'Name of the first polymer block or component.'
+11 - Min Length: 1
+11 - Max Length: 300
+
+12 - Type: 'float'
+12 - Name: 'f1'
+12 - Description: 'Reported fraction for the first block or component.'
+12 - Min Value: 0
+12 - Max Value: 1
+
+13 - Type: 'float'
+13 - Name: 'f_tot1'
+13 - Description: 'Reported total fraction associated with the first block or component.'
+13 - Min Value: 0
+13 - Max Value: 1
+
+14 - Type: 'float'
+14 - Name: 'w1'
+14 - Description: 'Reported weight fraction for the first block or component.'
+14 - Min Value: 0
+14 - Max Value: 1
+
+15 - Type: 'float'
+15 - Name: 'rho1'
+15 - Description: 'Reported density for the first block or component.'
+15 - Min Value: 0
+15 - Max Value: 100
+
+16 - Type: 'str'
+16 - Name: 'name2'
+16 - Description: 'Name of the second polymer block or component.'
+16 - Min Length: 1
+16 - Max Length: 300
+
+17 - Type: 'float'
+17 - Name: 'f2'
+17 - Description: 'Reported fraction for the second block or component.'
+17 - Min Value: 0
+17 - Max Value: 1
+
+18 - Type: 'float'
+18 - Name: 'f_tot2'
+18 - Description: 'Reported total fraction associated with the second block or component.'
+18 - Min Value: 0
+18 - Max Value: 1
+
+19 - Type: 'float'
+19 - Name: 'w2'
+19 - Description: 'Reported weight fraction for the second block or component.'
+19 - Min Value: 0
+19 - Max Value: 1
+
+20 - Type: 'float'
+20 - Name: 'rho2'
+20 - Description: 'Reported density for the second block or component.'
+20 - Min Value: 0
+20 - Max Value: 100

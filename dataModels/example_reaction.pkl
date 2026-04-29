@@ -1,0 +1,13 @@
+1 - Type: 'float'
+1 - Name: 'yield_percent'
+1 - Description: 'Isolated or reported reaction yield in percent.'
+1 - Min Value: 0
+1 - Max Value: 100
+
+2 - Type: 'str'
+2 - Name: 'conditions'
+2 - Description: 'Key reaction conditions such as catalyst, base, and temperature.'
+
+3 - Type: 'str'
+3 - Name: 'reference_label'
+3 - Description: 'Any reaction label used in the paper (e.g., Scheme 2, Entry 5).'

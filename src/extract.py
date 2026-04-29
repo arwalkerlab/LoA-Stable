@@ -16,6 +16,150 @@ from src.classes import JobSettings,PromptData
 from openai import OpenAI
 
 
+def _is_skippable_row(row, paper_col):
+    row_values = [str(v).strip() for k, v in row.items() if k != paper_col and k != "double_check"]
+    if not row_values:
+        return True
+    lowered = [v.lower() for v in row_values]
+    all_null = all(v in {"null", "", "none"} for v in lowered)
+    has_failed = any(v == "failed" for v in lowered)
+    return all_null or has_failed
+
+
+def batch_double_check(job_settings: JobSettings):
+    def resolve_paper_filename(paper_id):
+        candidates = [f"{paper_id}.pdf", f"{paper_id}.txt", f"{paper_id}.xml", paper_id]
+        for cand in candidates:
+            if os.path.isfile(os.path.join(os.getcwd(), "scraped_docs", cand)):
+                return cand
+        return f"{paper_id}.pdf"
+
+    if not job_settings.use_openai:
+        begin_ollama_server()
+
+    data = PromptData(
+        model_name_version=job_settings.model_name_version,
+        check_model_name_version=job_settings.check_model_name_version,
+        use_openai=job_settings.use_openai,
+        api_key=job_settings.api_key,
+        use_hi_res=job_settings.use_hi_res,
+        use_multimodal=job_settings.use_multimodal,
+        use_thinking=False,
+        use_decimer_segmentation=job_settings.use_decimer_segmentation,
+    )
+
+    with open(job_settings.files.source_csv, "r", newline="", encoding="utf-8") as src_f:
+        reader = csv.DictReader(src_f)
+        headers = list(reader.fieldnames or [])
+        if not headers:
+            raise ValueError(f"No headers found in source CSV: {job_settings.files.source_csv}")
+        paper_col = "paper" if "paper" in headers else headers[-1]
+        output_headers = headers.copy()
+        if "double_check" not in output_headers:
+            output_headers.append("double_check")
+        rows = list(reader)
+
+    output_rows = []
+    cached_paper = None
+    for idx, row in enumerate(rows, start=1):
+        base_row = {h: row.get(h, "") for h in headers}
+        print(f"Double-checking row {idx}/{len(rows)} for paper '{base_row.get(paper_col, '')}'")
+        if _is_skippable_row(base_row, paper_col):
+            base_row["double_check"] = "no"
+            output_rows.append(base_row)
+            continue
+
+        paper_id = str(base_row.get(paper_col, "")).strip()
+        if not paper_id:
+            base_row["double_check"] = "no"
+            output_rows.append(base_row)
+            continue
+
+        paper_file = resolve_paper_filename(paper_id)
+        if paper_id != cached_paper:
+            if data._refresh_paper_content(
+                paper_file,
+                job_settings.extract.prompt if job_settings.run_extract else "",
+                job_settings.check_prompt if job_settings.run_extract else "",
+                check_only=False,
+            ):
+                base_row["double_check"] = "no"
+                output_rows.append(base_row)
+                continue
+            if job_settings.use_decimer:
+                new_text, _ = extract_smiles_for_paper(paper_file, data.paper_content)
+                data.paper_content = new_text
+            cached_paper = paper_id
+
+        row_repr = ", ".join(
+            [f'{h}="{str(base_row.get(h, "")).strip()}"' for h in headers if h not in {"double_check"}]
+        )
+        prompt = (
+            f"Paper Contents:\n{data.paper_content}\n\n"
+            f"{job_settings.double_check_prompt}\n\n"
+            f"Candidate row to verify:\n{row_repr}\n\n"
+            "Does this row exist in the paper? Respond with exactly yes or no.\nResponse:"
+        )
+
+        retry_count = 0
+        decision = "no"
+        while retry_count < job_settings.double_check.max_retries:
+            try:
+                if job_settings.use_openai:
+                    client = OpenAI()
+                    parts = [{"type": "input_text", "text": prompt}]
+                    if job_settings.use_multimodal:
+                        for img in data.images + data.si_images + data.segment_images:
+                            parts.append(
+                                {"type": "input_image", "image_url": f"data:image/png;base64,{img}"}
+                            )
+                    try:
+                        resp = client.responses.create(
+                            model=job_settings.check_model_name,
+                            input=[{"role": "user", "content": parts}],
+                        )
+                        model_answer = resp.output_text
+                    except Exception:
+                        content_parts = [{"type": "text", "text": prompt}]
+                        if job_settings.use_multimodal:
+                            for img in data.images + data.si_images + data.segment_images:
+                                content_parts.append(
+                                    {
+                                        "type": "image_url",
+                                        "image_url": {"url": f"data:image/png;base64,{img}"},
+                                    }
+                                )
+                        completion = client.chat.completions.create(
+                            model=job_settings.check_model_name,
+                            messages=[{"role": "user", "content": content_parts}],
+                        )
+                        model_answer = completion.choices[0].message.content
+                else:
+                    payload = data.__check__()
+                    payload["prompt"] = prompt
+                    payload["images"] = data.images + data.si_images + data.segment_images
+                    response = requests.post(
+                        f"{job_settings.double_check.ollama_url}/api/generate",
+                        json=payload,
+                    )
+                    response.raise_for_status()
+                    model_answer = response.json()["response"]
+
+                decision = "yes" if str(model_answer).strip().lower() == "yes" else "no"
+                break
+            except Exception as err:
+                retry_count += 1
+                print(f"Double-check retry {retry_count}/{job_settings.double_check.max_retries}: {err}")
+
+        base_row["double_check"] = decision
+        output_rows.append(base_row)
+
+    with open(job_settings.files.csv, "w", newline="", encoding="utf-8") as out_f:
+        writer = csv.DictWriter(out_f, fieldnames=output_headers)
+        writer.writeheader()
+        writer.writerows(output_rows)
+
+
 def get_files_to_process(job_settings:JobSettings):
     ## Process "search_info_file" to get list of files to process
     if job_settings.files.search_info_file == 'All':
@@ -68,6 +212,7 @@ def batch_extract(job_settings: JobSettings):
         use_hi_res=job_settings.use_hi_res,
         use_multimodal=job_settings.use_multimodal,
         use_thinking=job_settings.use_thinking,
+        use_decimer_segmentation=job_settings.use_decimer_segmentation,
     )
 
     # Determine which files to process
@@ -227,8 +372,10 @@ def batch_extract(job_settings: JobSettings):
 
                     paper_filename = os.path.splitext(os.path.basename(file))[0]
 
-                    # Filter results based on key columns
-                    if job_settings.extract.key_columns:
+                    # Filter results based on key columns.
+                    # Polymer identity depends on the full row (not just target column),
+                    # so skip key-based deduplication in polymer mode.
+                    if job_settings.extract.key_columns and job_settings.target_type != "polymer":
                         key_values = set()
                         filtered_result = []
                         for row in validated_result:
@@ -293,6 +440,7 @@ def extract(file_path, job_settings:JobSettings):
         use_hi_res=job_settings.use_hi_res,
         use_multimodal=job_settings.use_multimodal,
         use_thinking=job_settings.use_thinking,
+        use_decimer_segmentation=job_settings.use_decimer_segmentation,
     )
 
     # Prepare prompt data
@@ -456,8 +604,10 @@ def single_file_extract(job_settings: JobSettings, data: PromptData, file_path):
                 continue
 
             if validated_result:
-                # Filter results based on key columns
-                if job_settings.extract.key_columns:
+                # Filter results based on key columns.
+                # Polymer identity depends on the full row (not just target column),
+                # so skip key-based deduplication in polymer mode.
+                if job_settings.extract.key_columns and job_settings.target_type != "polymer":
                     key_values = set()
                     filtered_result = []
                     for row in validated_result:
@@ -482,3 +632,14 @@ def single_file_extract(job_settings: JobSettings, data: PromptData, file_path):
             retry_count += 1
             print(f"Retrying ({retry_count}/{job_settings.extract.max_retries})...")
     return None
+    def resolve_paper_filename(paper_id):
+        candidates = [
+            f"{paper_id}.pdf",
+            f"{paper_id}.txt",
+            f"{paper_id}.xml",
+            paper_id,
+        ]
+        for cand in candidates:
+            if os.path.isfile(os.path.join(os.getcwd(), "scraped_docs", cand)):
+                return cand
+        return f"{paper_id}.pdf"

@@ -25,13 +25,16 @@ LoA (Librarian of Alexandria) is a comprehensive tool designed for researchers, 
 
 2. Install required dependencies listen in install_commands.txt (will be creating requirements.txt soon, as well as a dockerized version)
 
-3. Install conda environment using DECIMER-GPU file if usage of DECIMER is desired
+3. Install conda environments for DECIMER SMILES and DECIMER segmentation if
+   DECIMER features are desired (`DECIMER-GPU.yml` and `DECIMER-SEG.yml`)
 
 4. Simply run "python main.py"
 
 ## Usage
 
-LoA can be used in two modes: Interactive (UI) mode and Automatic mode. 
+LoA can be used in two run styles:
+- **Interactive mode** (`python main.py`) for prompt-driven setup.
+- **Automatic mode** (`python main.py -auto <job.json>`) for reproducible jobs.
 
 ### Interactive Mode
 
@@ -63,9 +66,21 @@ file found in the `scraped_docs` directory. This mode is useful when you have
 already downloaded all the papers you want to analyze. Any directories inside
 `scraped_docs` are ignored.
 
-Example json files for small molecules, proteins, and peptides can be found in job_scripts.
+Example json files for common workflows can be found in `job_scripts/`.
+Recommended starter templates:
+- `example_small_molecule.json` + `example_small_molecule.pkl`
+- `example_protein.json` + `example_protein.pkl`
+- `example_peptide.json` + `example_peptide.pkl`
+- `example_reaction.json` + `example_reaction.pkl`
+- `example_general.json` + `example_general.pkl`
+
+The `example_general` pair demonstrates schema-level `Validation Mode` usage
+for mixed-type extraction in a single schema.
 The decimer_synthesis.json configuration focuses on synthesis papers rich in
 chemical figures so DECIMER insertion can be tested easily.
+The `example_double_check.json` configuration runs a strict row-level
+verification pass over an existing extraction CSV and writes a new CSV with an
+additional `double_check` yes/no column.
 Each configuration can optionally include a `use_comments` setting (`"y"` or `"n"`) to control
 whether a trailing comments column is added automatically. A similar `use_solvent` setting
 (`"y"` or `"n"`) toggles a built-in solvent column that expects a SMILES string or common name.
@@ -78,6 +93,19 @@ The `use_decimer` option (`"y"` or `"n"`) controls whether images are processed
 with DECIMER to extract additional SMILES strings from figures. When enabled,
 any predicted SMILES are inserted back into the text at the location of the
 corresponding figure instead of being appended separately.
+The `use_decimer_segmentation` option (`"y"` or `"n"`) controls whether figure
+images are first segmented with DECIMER image segmentation into sub-images.
+When enabled, LoA will:
+- run DECIMER SMILES prediction at the segmented sub-image level (instead of on
+  whole extracted figure images),
+- still include the original extracted figures as multimodal inputs, and
+- also attach all segmented sub-images as additional multimodal inputs.
+The prompt additionally includes each sub-image's source figure filename and
+bounding-box metadata (absolute pixel coordinates and normalized relative
+coordinates) so reaction flow can be inferred in context.
+This uses a separate segmentation environment (`decimer-seg`) plus a SMILES
+environment (`decimer-gpu`) so segmentation and SMILES inference can be tuned
+independently (`DECIMER-SEG.yml` and `DECIMER-GPU.yml`).
 `use_openai` can be set to `"y"` if you want to send prompts to the OpenAI API
 instead of using local Ollama models. Provide your API key with the `api_key`
 setting. You can list available models for your key using:
@@ -86,6 +114,55 @@ curl https://api.openai.com/v1/models \
   -H "Authorization: Bearer $OPENAI_API_KEY"
 ```
 When `use_openai` is enabled, model files are not downloaded through Ollama.
+
+## Target Modes and Column Injection
+
+The `target_type` setting controls which built-in leading columns are injected
+before your schema columns.
+
+- `small_molecule` *(default)*: prepends `molecule_name`, validated as SMILES/name.
+- `protein`: prepends `protein_name`, validated as sequence/name.
+- `peptide`: prepends `peptide_name`, validated as sequence/name.
+- `polymer`: prepends `polymer_bigsmiles`, validated as BigSMILES.
+- `reaction`: prepends **two** columns:
+  1. `reactants` (validated as SMILES)
+  2. `products` (validated as SMILES)
+  - You can use an empty schema file if you only want these two built-in columns.
+- `general`: **no built-in target columns are injected**.
+
+Optional columns:
+- `use_solvent: "y"` inserts a solvent column after built-in target columns
+  (for `reaction`, it is inserted after `products`).
+- `use_comments: "y"` appends a trailing `comments` column.
+
+## Per-Column Validation in General Mode (and Any Mode)
+
+LoA now supports schema-level column validation via an optional
+`Validation Mode` field inside schema files. This lets you validate specific
+columns with different validators, regardless of the selected `target_type`.
+
+Supported validation modes:
+- `small_molecule`
+- `protein`
+- `peptide`
+- `polymer`
+- `reaction` (treated as small-molecule SMILES validation per column)
+
+### Example schema fragment
+
+```
+1 - Type: str
+1 - Name: catalyst
+1 - Description: catalyst identity
+1 - Validation Mode: small_molecule
+2 - Type: str
+2 - Name: enzyme
+2 - Description: enzyme used
+2 - Validation Mode: protein
+```
+
+With `target_type: "general"`, these two columns stay exactly where you define
+them and are validated using their respective modes.
 
 ## Key Components
 
@@ -142,6 +219,3 @@ Unstructured
 Ollama
 
 For more detailed information on each module and function, please refer to the inline documentation in the source code.
-
-
-
