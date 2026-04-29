@@ -1,0 +1,1 @@
+idx	SMILES_or_compound	Solvent	Gen_DOI	Reason	#ref_matches

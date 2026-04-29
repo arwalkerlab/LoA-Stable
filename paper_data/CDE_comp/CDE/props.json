@@ -1,0 +1,14 @@
+{
+  "props": [
+    "Absorption max (nm)",
+    "Emission max (nm)",
+    "Lifetime (ns)",
+    "Quantum yield",
+    "log(e/mol-1 dm3 cm-1)",
+    "abs FWHM (cm-1)",
+    "emi FWHM (cm-1)",
+    "abs FWHM (nm)",
+    "emi FWHM (nm)",
+    "Molecular weight (g mol-1)"
+  ]
+}

@@ -1,0 +1,1522 @@
+idx	SMILES_or_compound	Solvent	Gen_DOI	Reason	#ref_matches
+91	Cyclohexane		10.1016/S1010-6030(00)00230-7	no_reference_doi	0
+93	H		10.1016/S1010-6030(00)00230-9	no_reference_doi	0
+95	HFIP		10.1016/S0009-2614(02)00784-5	no_reference_doi	0
+98	methyl		10.1023/B:JOFL.0000014660.59105.31	no_reference_doi	0
+100	acetonitrile		10.1023/B:JOFL.0000014660.59105.31	no_reference_doi	0
+101	benzene		10.1023/B:JOFL.0000014660.59105.31	no_reference_doi	0
+138	ethoxy		10.A_1025037832286	no_reference_doi	0
+141	5-MeOSA		10.A_1025037832286	no_reference_doi	0
+142	Methoxy		10.A_1025037832286	no_reference_doi	0
+144	5-ASA		10.A_1025037832286	no_reference_doi	0
+145	4-ASA		10.A_1025037832286	no_reference_doi	0
+147	OH		10.A_1025037832286	no_reference_doi	0
+276	1,2-dichloroisobutane		10.1002/adma.200900634	no_reference_doi	0
+545	NADH		10.References	no_reference_doi	0
+546	NaOH		10.References	no_reference_doi	0
+547	p-Terphenyl		10.References	no_reference_doi	0
+549	PPO		10.References	no_reference_doi	0
+550	POPOP		10.References	no_reference_doi	0
+551	Dimethyl-POPOP		10.References	no_reference_doi	0
+552	L-Tyrosine		10.References	no_reference_doi	0
+553	Anthranilic Acid		10.References	no_reference_doi	0
+554	Indole		10.References	no_reference_doi	0
+555	Fluorescein		10.References	no_reference_doi	0
+556	Rhodamine B		10.References	no_reference_doi	0
+559	DCS		10.References	no_reference_doi	0
+561	Cyclohexane		10.References	no_reference_doi	0
+562	Cresyl Violet		10.References	no_reference_doi	0
+563	Quinine Sulfate		10.References	no_reference_doi	0
+564	Rhodamine		10.References	no_reference_doi	0
+565	Tryptophan		10.References	no_reference_doi	0
+566	Tyrosine		10.References	no_reference_doi	0
+567	Calcium		10.References	no_reference_doi	0
+568	Fura-2		10.References	no_reference_doi	0
+569	Indo-1		10.References	no_reference_doi	0
+570	Ca		10.References	no_reference_doi	0
+572	Magnesium		10.References	no_reference_doi	0
+574	Mg		10.References	no_reference_doi	0
+575	Potassium		10.References	no_reference_doi	0
+576	Sodium		10.References	no_reference_doi	0
+577	Sodium Green		10.References	no_reference_doi	0
+578	Carboxy		10.References	no_reference_doi	0
+579	Resorufin		10.References	no_reference_doi	0
+582	Cyanine		10.References	no_reference_doi	0
+584	Methanol		10.References	no_reference_doi	0
+585	Ethanol		10.References	no_reference_doi	0
+586	Rhodamine 6G		10.References	no_reference_doi	0
+2	cyclohexane		10.1021/ol025972l	unresolved_identity_match	0
+3	fluorescein		10.1021/ol0162264	unresolved_identity_match	0
+7	perylene		10.1021/ol0268687	unresolved_identity_match	0
+10	quartz		10.1021/ol0268687	unresolved_identity_match	0
+12	ethanol		10.1021/ol0268687	unresolved_identity_match	0
+13	biphenyl		10.1021/ol0268687	unresolved_identity_match	0
+14	CH3CN		10.1021/ol0268687	unresolved_identity_match	0
+16	hydrogen		10.1016/S1010-6030(99)00246-4	unresolved_identity_match	0
+19	-4a		10.1021/jo010267w	unresolved_identity_match	0
+20	THF		10.1021/jo010267w	unresolved_identity_match	0
+22	n-hexane		10.1021/jo010267w	unresolved_identity_match	0
+23	hexane		10.1021/jo010267w	unresolved_identity_match	0
+24	2,4,5-Triphenylimidazole		10.1021/jo010267w	unresolved_identity_match	0
+25	perfluorocyclopentene		10.1021/jo010267w	unresolved_identity_match	0
+26	cyclohexane		10.1021/jo010267w	unresolved_identity_match	0
+30	C60		10.1021/jp992495o	unresolved_identity_match	0
+33	cyclohexane		10.1021/jp992495o	unresolved_identity_match	0
+34	quartz		10.1021/jp992495o	unresolved_identity_match	0
+35	methylcyclohexane		10.1021/jp992495o	unresolved_identity_match	0
+37	benzophenone		10.1021/jp992495o	unresolved_identity_match	0
+39	Oxygen		10.1021/jp992495o	unresolved_identity_match	0
+41	Chloroform		10.1021/jp051349h	unresolved_identity_match	0
+42	rhodamine B		10.1021/jp051349h	unresolved_identity_match	0
+43	quartz		10.1021/jp051349h	unresolved_identity_match	0
+46	HEX		10.1021/jp000658z	unresolved_identity_match	0
+53	chloroform		10.1021/ja077756j	unresolved_identity_match	0
+55	KFL		10.1021/ja077756j	unresolved_identity_match	0
+56	methanol		10.1021/ja077756j	unresolved_identity_match	0
+57	toluene		10.1021/ja077756j	unresolved_identity_match	0
+59	hexane		10.1021/ol061827m	unresolved_identity_match	0
+60	2,3-dichloropyrazine		10.1021/ol061827m	unresolved_identity_match	0
+61	n-hexane		10.1021/ol061827m	unresolved_identity_match	0
+62	dansyl		10.1021/ol061827m	unresolved_identity_match	0
+67	BODIPY		10.1021/jo061567m	unresolved_identity_match	0
+69	cyclohexane		10.1007/s10895-005-2525-3	unresolved_identity_match	0
+71	TFE		10.1007/s10895-005-2525-3	unresolved_identity_match	0
+72	dioxane		10.1007/s10895-005-2525-3	unresolved_identity_match	0
+73	benzene		10.1007/s10895-005-2525-3	unresolved_identity_match	0
+74	Acetonitrile		10.1007/s10895-005-2525-3	unresolved_identity_match	0
+75	Cyclohexane		10.1007/s10895-005-2525-3	unresolved_identity_match	0
+81	silicon		10.1021/ol702215m	unresolved_identity_match	0
+82	Silicon		10.1021/ol702215m	unresolved_identity_match	0
+83	Ethyl Acetate		10.1021/jo026718+	unresolved_identity_match	0
+87	Aminofluorenone		10.1021/jp980158u	unresolved_identity_match	0
+94	hydrogen		10.1016/S0009-2614(02)00784-4	unresolved_identity_match	0
+103	dichloromethane		10.1021/jo000807+	unresolved_identity_match	0
+106	phenyl		10.1021/jo000807+	unresolved_identity_match	0
+114	Benzanthrone		10.1021/jp035610a	unresolved_identity_match	0
+116	butyl ether		10.1021/jp035610a	unresolved_identity_match	0
+119	MeTHF		10.1021/jp035610a	unresolved_identity_match	0
+120	perylene		10.1021/jp035610a	unresolved_identity_match	0
+123	toluene		10.1021/jp711950z	unresolved_identity_match	0
+124	methanol		10.1021/jp711950z	unresolved_identity_match	0
+126	quartz		10.1021/jp711950z	unresolved_identity_match	0
+127	CH2Cl2		10.1021/jp711950z	unresolved_identity_match	0
+128	Sn		10.1021/jp711950z	unresolved_identity_match	0
+134	Quinine sulfate		10.1016/S1386-1425(99)00200-0	unresolved_identity_match	0
+135	imidazonaphthyridine		10.1016/S1386-1425(99)00200-0	unresolved_identity_match	0
+151	Boc		10.1021/jo049192x	unresolved_identity_match	0
+152	benzene		10.1021/jo049192x	unresolved_identity_match	0
+153	B		10.1021/jo049192x	unresolved_identity_match	0
+154	ethyl acetate		10.1021/jo049192x	unresolved_identity_match	0
+155	, coumarin 480		10.1021/jo049192x	unresolved_identity_match	0
+156	Methanol		10.1021/jo049192x	unresolved_identity_match	0
+157	quartz		10.1021/jo049192x	unresolved_identity_match	0
+158	THF		10.1021/jp992275a	unresolved_identity_match	0
+159	AcCN		10.1021/jp992275a	unresolved_identity_match	0
+165	Methanol-Ethanol		10.1021/jp992275a	unresolved_identity_match	0
+166	benzene		10.1021/jo990206m	unresolved_identity_match	0
+172	oxygen		10.1016/j.molstruc.2003.10.028	unresolved_identity_match	0
+179	CH3CN		10.1021/ol036399o	unresolved_identity_match	0
+181	PhC		10.1016/S0022-2313(97)00315-3	unresolved_identity_match	0
+183	(---) PhC		10.1016/S0022-2313(97)00315-3	unresolved_identity_match	0
+185	ethanol		10.1016/S0022-2313(97)00315-3	unresolved_identity_match	0
+186	Anthracene		10.1016/j.jphotochem.2004.01.020	unresolved_identity_match	0
+187	9,10-diphenylanthracene		10.1016/j.jphotochem.2004.01.020	unresolved_identity_match	0
+189	ethanol		10.1016/j.jphotochem.2004.01.020	unresolved_identity_match	0
+193	glycerol		10.1016/j.jphotochem.2004.01.020	unresolved_identity_match	0
+194	oxygen		10.1016/j.jphotochem.2004.01.020	unresolved_identity_match	0
+197	1,4-diiodobenzene		10.1021/ol017150e	unresolved_identity_match	0
+198	fluorescein		10.1021/ol017150e	unresolved_identity_match	0
+199	4,4¢-diethynylbiphenyl		10.1021/ol017150e	unresolved_identity_match	0
+203	AMD		10.1021/jp011168p	unresolved_identity_match	0
+207	EtOH		10.1021/ol035327u	unresolved_identity_match	0
+208	phenyl		10.1021/ol035532+	unresolved_identity_match	0
+209	chloroform		10.1021/ol035532+	unresolved_identity_match	0
+211	phenyl		10.1021/ja016416+	unresolved_identity_match	0
+213	hexane		10.1021/ja016416+	unresolved_identity_match	0
+214	ethylene		10.1021/ja016416+	unresolved_identity_match	0
+215	PDF		10.1021/ja016416+	unresolved_identity_match	0
+217	DMSO		10.1021/ac980018g	unresolved_identity_match	0
+218	methanol		10.1021/ac980018g	unresolved_identity_match	0
+220	Acrylamide		10.1021/ac980018g	unresolved_identity_match	0
+222	acrylamide		10.1021/ac980018g	unresolved_identity_match	0
+224	Toluene		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+227	ethanol		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+228	Oxygen		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+229	ms		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+232	N-acetyl anthranilic acid		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+233	quartz		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+234	Ethanol		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+236	2-aminopyridine		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+237	quinine bisulfate		10.1016/S1011-1344(01)00197-X	unresolved_identity_match	0
+241	DMSO		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	unresolved_identity_match	0
+242	DMSO-D6		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	unresolved_identity_match	0
+244	methanol		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	unresolved_identity_match	0
+247	Acetonitrile		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	unresolved_identity_match	0
+250	ﬂash		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	unresolved_identity_match	0
+251	Methanol		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	unresolved_identity_match	0
+252	phenyl		10.1016/S1010-6030(99)00218-X	unresolved_identity_match	0
+253	ethanol		10.1016/S1010-6030(99)00218-X	unresolved_identity_match	0
+257	9PA		10.1016/S1010-6030(99)00218-X	unresolved_identity_match	0
+259	pyridinium		10.1016/S1010-6030(99)00218-X	unresolved_identity_match	0
+260	cyclohexane		10.1016/S1010-6030(99)00218-X	unresolved_identity_match	0
+264	quartz		10.1021/jp9901085	unresolved_identity_match	0
+265	nitrogen		10.1021/jp9901085	unresolved_identity_match	0
+266	isopentane		10.1021/jp9901085	unresolved_identity_match	0
+267	n-tetradecane		10.1021/jp9901085	unresolved_identity_match	0
+268	n-Tetradecane		10.1021/jp9901085	unresolved_identity_match	0
+269	Isopentane		10.1021/jp9901085	unresolved_identity_match	0
+272	hexane		10.1021/ol0478180	unresolved_identity_match	0
+280	CH2Cl2		10.1021/jp052337z	unresolved_identity_match	0
+284	acetonitrile		10.1021/jp052337z	unresolved_identity_match	0
+288	quartz		10.1016/j.cplett.2006.08.058	unresolved_identity_match	0
+289	BBO		10.1016/j.cplett.2006.08.058	unresolved_identity_match	0
+294	aceto-nitrile		10.1016/j.cplett.2006.08.058	unresolved_identity_match	0
+296	Acetonitrile		10.1016/j.cplett.2006.08.058	unresolved_identity_match	0
+300	CIPA		10.1021/jp0710739	unresolved_identity_match	0
+303	tryptophan		10.1021/jp0710739	unresolved_identity_match	0
+304	nitrogen		10.1021/jp0710739	unresolved_identity_match	0
+307	POPOP		10.1021/jp0710739	unresolved_identity_match	0
+308	ethanol		10.1021/jp0710739	unresolved_identity_match	0
+311	Acetonitrile		10.1021/jp0710739	unresolved_identity_match	0
+312	PPO		10.1021/jp0710739	unresolved_identity_match	0
+313	H2SO4		10.1016/j.cplett.2006.03.073	unresolved_identity_match	0
+316	Ethanol		10.1016/S1386-1425(99)00059-1	unresolved_identity_match	0
+323	cyclohexane		10.1021/ac062160k	unresolved_identity_match	0
+324	POPOP		10.1021/ac062160k	unresolved_identity_match	0
+325	carbazole		10.1016/S0301-0104(01)00575-4	unresolved_identity_match	0
+328	cyclohexane		10.1016/S0301-0104(01)00575-4	unresolved_identity_match	0
+332	ﬂuo		10.1016/j.chemosphere.2005.04.095	unresolved_identity_match	0
+334	Methanol		10.1016/j.chemosphere.2005.04.095	unresolved_identity_match	0
+335	CTAB		10.1016/j.chemosphere.2005.04.095	unresolved_identity_match	0
+336	Pyrylium		10.1016/S1010-6030(99)00135-5	unresolved_identity_match	0
+337	dichloromethane		10.1016/S1010-6030(99)00135-5	unresolved_identity_match	0
+339	BP		10.1016/S1010-6030(99)00135-5	unresolved_identity_match	0
+342	benzophenone		10.1016/S1010-6030(99)00135-5	unresolved_identity_match	0
+352	selenium		10.1021/ol062615s	unresolved_identity_match	0
+356	Perinaphthenone		10.1016/j.jphotochem.2004.08.022	unresolved_identity_match	0
+359	oxygen		10.1016/j.jphotochem.2004.08.022	unresolved_identity_match	0
+361	Ti		10.1016/j.jphotochem.2004.08.022	unresolved_identity_match	0
+366	CH2Cl2		10.1016/S0143-7208(03)00028-7	unresolved_identity_match	0
+367	coumarin		10.1016/S0143-7208(03)00028-7	unresolved_identity_match	0
+369	3-phenylcoumarin		10.1016/S0143-7208(03)00028-7	unresolved_identity_match	0
+370	coumarins		10.1016/S0143-7208(03)00028-7	unresolved_identity_match	0
+373	oxygen		10.1016/S1386-1425(02)00164-6	unresolved_identity_match	0
+374	carbon tetrachloride		10.1016/S1386-1425(02)00164-6	unresolved_identity_match	0
+376	ketocoumarin		10.1016/S1386-1425(02)00164-6	unresolved_identity_match	0
+377	N		10.1016/j.cplett.2005.08.056	unresolved_identity_match	0
+378	ﬂash		10.1016/j.cplett.2005.08.056	unresolved_identity_match	0
+379	oxygen		10.1016/j.cplett.2005.08.056	unresolved_identity_match	0
+380	pyrene		10.1021/ol7023136	unresolved_identity_match	0
+384	O		10.1016/S0143-7208(00)00078-4	unresolved_identity_match	0
+386	acetonitrile		10.1021/ol702963w	unresolved_identity_match	0
+387	methanol		10.1021/ol702963w	unresolved_identity_match	0
+389	methyl		10.1016/j.theochem.2005.09.005	unresolved_identity_match	0
+397	ethanol		10.1016/j.cplett.2005.01.096	unresolved_identity_match	0
+400	phenolate		10.1021/ol061520n	unresolved_identity_match	0
+402	ethanol		10.1021/jo702265x	unresolved_identity_match	0
+403	dichloromethane		10.1021/jo702265x	unresolved_identity_match	0
+404	2-pyridylaldehyde		10.1021/jo702265x	unresolved_identity_match	0
+407	CDCl3		10.1016/S1386-1425(01)00616-3	unresolved_identity_match	0
+410	Coumarin 540		10.1016/S1386-1425(01)00616-3	unresolved_identity_match	0
+411	benzene		10.1016/S1386-1425(01)00616-3	unresolved_identity_match	0
+412	acetonitrile		10.1016/S1386-1425(01)00616-3	unresolved_identity_match	0
+417	quartz		10.1039/b204780m	unresolved_identity_match	0
+419	O2		10.1039/b204780m	unresolved_identity_match	0
+421	AN		10.1039/b204780m	unresolved_identity_match	0
+422	7-aminocoumarin		10.1016/j.chemphys.2005.04.018	unresolved_identity_match	0
+424	CH3		10.1016/j.chemphys.2005.04.018	unresolved_identity_match	0
+425	quinine sulphate		10.1016/j.saa.2004.06.035	unresolved_identity_match	0
+426	propylene carbonate		10.1016/j.saa.2004.06.035	unresolved_identity_match	0
+428	iso-octane		10.1016/j.saa.2004.06.035	unresolved_identity_match	0
+433	acetonitrile		10.1016/S1010-6030(02)00317-9	unresolved_identity_match	0
+435	Phenazine		10.1016/S1010-6030(02)00317-9	unresolved_identity_match	0
+436	CHCl3		10.1016/S1010-6030(02)00317-9	unresolved_identity_match	0
+439	benzocoumarin		10.1016/S1010-6030(02)00317-9	unresolved_identity_match	0
+440	anthracene		10.1016/S1010-6030(02)00317-9	unresolved_identity_match	0
+443	phenazine		10.1016/S1010-6030(02)00317-9	unresolved_identity_match	0
+446	nitrogen		10.1016/S1010-6030(00)00308-7	unresolved_identity_match	0
+448	ﬁrst		10.1016/j.saa.2005.05.008	unresolved_identity_match	0
+449	ethanol		10.1016/j.saa.2005.05.008	unresolved_identity_match	0
+450	ﬁne		10.1016/j.saa.2005.05.008	unresolved_identity_match	0
+451	isooctane		10.1016/j.saa.2005.05.008	unresolved_identity_match	0
+452	Isooctane		10.1016/j.saa.2005.05.008	unresolved_identity_match	0
+453	porphyrin		10.1021/jo049621r	unresolved_identity_match	0
+456	CH2Cl2		10.1021/jo049621r	unresolved_identity_match	0
+459	cyano		10.1021/ol034246v	unresolved_identity_match	0
+465	1H		10.1016/j.cclet.2011.05.045	unresolved_identity_match	0
+468	Cyclohexane		10.1016/S0022-2860(98)00375-5	unresolved_identity_match	0
+473	Cyclohexane		10.1016/S1386-1425(02)00207-X	unresolved_identity_match	0
+474	Ti		10.1016/S1386-1425(02)00207-X	unresolved_identity_match	0
+476	hydrogen		10.1016/S0301-0104(98)00215-8	unresolved_identity_match	0
+477	methanol		10.1016/S0301-0104(98)00215-8	unresolved_identity_match	0
+479	rhodamine 6G		10.1016/S0301-0104(98)00215-8	unresolved_identity_match	0
+480	cyclohexane		10.1016/S0301-0104(98)00215-8	unresolved_identity_match	0
+481	quartz		10.1016/S0301-0104(98)00215-8	unresolved_identity_match	0
+482	2,2,2-trifluoro-ethanol		10.1016/S0301-0104(98)00215-8	unresolved_identity_match	0
+485	iminocoumarin		10.1016/j.dyepig.2006.01.001	unresolved_identity_match	0
+486	coumarin		10.1016/j.dyepig.2006.01.001	unresolved_identity_match	0
+488	PTCDI		10.1021/jo062150j	unresolved_identity_match	0
+489	phenoxy		10.1021/jo062150j	unresolved_identity_match	0
+494	chloroform		10.1021/jo062150j	unresolved_identity_match	0
+499	anthracene		10.1021/jp9638696	unresolved_identity_match	0
+501	nitrogen		10.1021/jp9638696	unresolved_identity_match	0
+502	acetonitrile		10.1021/jp9638696	unresolved_identity_match	0
+503	glycerol		10.1021/jp9638696	unresolved_identity_match	0
+505	quinine sulfate		10.1021/jp9638696	unresolved_identity_match	0
+506	cyclohexane		10.1021/jp9638696	unresolved_identity_match	0
+507	hydrogen		10.1021/jp9638696	unresolved_identity_match	0
+508	Sucrose		10.1021/jp9638696	unresolved_identity_match	0
+509	pyridine		10.1016/S1010-6030(01)00471-3	unresolved_identity_match	0
+510	methanol		10.1016/S1010-6030(01)00471-3	unresolved_identity_match	0
+513	aceto-nitrile		10.1016/S1010-6030(01)00471-3	unresolved_identity_match	0
+515	DPH		10.1016/S1010-6030(01)00471-3	unresolved_identity_match	0
+518	stilbene		10.1016/S1010-6030(01)00471-3	unresolved_identity_match	0
+527	1H		10.1021/jo0613939	unresolved_identity_match	0
+528	Tetraindenopyrene		10.1021/jo0613939	unresolved_identity_match	0
+530	anthracene		10.1021/jo0613939	unresolved_identity_match	0
+532	CH2Cl2		10.1021/jo0601314	unresolved_identity_match	0
+533	… F		10.1021/jo0601314	unresolved_identity_match	0
+535	argon		10.1021/jo0601314	unresolved_identity_match	0
+536	AcOH		10.1021/jo0601314	unresolved_identity_match	0
+537	fluorene		10.1021/jo0601314	unresolved_identity_match	0
+540	quartz		10.1016/j.cplett.2006.04.104	unresolved_identity_match	0
+542	TBCA		10.1016/j.cplett.2006.04.104	unresolved_identity_match	0
+543	2-methyltetrahydrofuran		10.1016/j.cplett.2006.04.104	unresolved_identity_match	0
+588	phosphate		10.1002/poc.1222	unresolved_identity_match	0
+589	hydrogen		10.1002/poc.1222	unresolved_identity_match	0
+592	quartz		10.1021/jp076026v	unresolved_identity_match	0
+593	xenon		10.1021/jp076026v	unresolved_identity_match	0
+594	Methanol		10.1021/jp076026v	unresolved_identity_match	0
+595	Glycerol		10.1021/jp076026v	unresolved_identity_match	0
+596	phenol		10.1021/jp076026v	unresolved_identity_match	0
+598	H2SO4		10.1021/jp076026v	unresolved_identity_match	0
+599	Ethanol		10.1021/jp076026v	unresolved_identity_match	0
+600	hydrogen		10.1021/jp076026v	unresolved_identity_match	0
+602	methanol		10.1021/jp076026v	unresolved_identity_match	0
+604	Rhodamine B		10.1021/jp076026v	unresolved_identity_match	0
+605	glycerol		10.1021/jp076026v	unresolved_identity_match	0
+607	Ethylene Glycol		10.1021/jp076026v	unresolved_identity_match	0
+608	hexane		10.1021/jp076026v	unresolved_identity_match	0
+610	phosphate		10.1021/jp044530j	unresolved_identity_match	0
+613	quinine sulfate		10.1021/jp044530j	unresolved_identity_match	0
+619	nitrogen		10.1021/jp044530j	unresolved_identity_match	0
+621	oxygen		10.1021/jp044530j	unresolved_identity_match	0
+623	N2O		10.1021/jp044530j	unresolved_identity_match	0
+628	ethanol		10.1021/jp044530j	unresolved_identity_match	0
+630	Chlorine		10.1021/jp044530j	unresolved_identity_match	0
+632	thiolactone		10.1016/j.tet.2012.12.057	unresolved_identity_match	0
+633	quinine sulfate		10.1016/j.tet.2012.12.057	unresolved_identity_match	0
+634	Hg		10.1016/j.tet.2012.12.057	unresolved_identity_match	0
+635	hydrogen		10.1016/j.tet.2012.12.057	unresolved_identity_match	0
+637	toluene		10.1021/jp064937j	unresolved_identity_match	0
+638	nitrogen		10.1021/jp064937j	unresolved_identity_match	0
+639	methanol		10.1021/jp064937j	unresolved_identity_match	0
+642	p-nitrophenyl		10.1021/jp064937j	unresolved_identity_match	0
+645	Mo		10.1021/jp064937j	unresolved_identity_match	0
+657	butenolide		10.1016/j.tetlet.2004.06.072	unresolved_identity_match	0
+660	Nitrogen		10.1016/j.chemphys.2005.12.032	unresolved_identity_match	0
+662	hydrogen		10.1016/j.chemphys.2005.12.032	unresolved_identity_match	0
+663	cyclohexane		10.1016/j.chemphys.2005.12.032	unresolved_identity_match	0
+664	DMABN		10.1016/j.chemphys.2005.12.032	unresolved_identity_match	0
+665	H +		10.1016/j.chemphys.2005.12.032	unresolved_identity_match	0
+666	Cyclohexane		10.1016/j.chemphys.2005.12.032	unresolved_identity_match	0
+671	N2		10.1021/jp963263h	unresolved_identity_match	0
+672	9-ACA		10.1021/jp963263h	unresolved_identity_match	0
+674	acridinium		10.1021/jp963263h	unresolved_identity_match	0
+677	Acridine		10.1021/jp963263h	unresolved_identity_match	0
+680	methyl		10.1016/j.saa.2006.12.057	unresolved_identity_match	0
+681	Hexane		10.1016/j.saa.2006.12.057	unresolved_identity_match	0
+683	CH2Cl2		10.1002/hc.21058	unresolved_identity_match	0
+684	Quinoline		10.1002/hc.21058	unresolved_identity_match	0
+687	nitrogen		10.1016/j.optmat.2004.02.022	unresolved_identity_match	0
+690	toluene		10.1016/j.optmat.2004.02.022	unresolved_identity_match	0
+692	Toluene		10.1016/j.optmat.2004.02.022	unresolved_identity_match	0
+695	Zn(II)		10.1021/jp051035u	unresolved_identity_match	0
+696	N-BIM		10.1021/jp051035u	unresolved_identity_match	0
+699	EtOH		10.1021/jp051035u	unresolved_identity_match	0
+700	Sn		10.1021/jp051035u	unresolved_identity_match	0
+701	acetonitrile		10.1021/jp051035u	unresolved_identity_match	0
+702	titanium		10.1021/jp051035u	unresolved_identity_match	0
+705	dichloromethane		10.1021/jo0703911	unresolved_identity_match	0
+706	1,4-diethynylbenzene		10.1021/jo0703911	unresolved_identity_match	0
+709	… F		10.1021/jo0703911	unresolved_identity_match	0
+711	Dichloromethane		10.1021/jo0703911	unresolved_identity_match	0
+713	acetonitrile		10.1021/jo0703911	unresolved_identity_match	0
+714	9,10-diphenylanthracene		10.1021/jo0703911	unresolved_identity_match	0
+715	1,3-diethynylbenzene		10.1021/jo0703911	unresolved_identity_match	0
+717	chlorine		10.1016/j.dyepig.2008.12.009	unresolved_identity_match	0
+718	THF		10.1021/jo801549u	unresolved_identity_match	0
+728	cyano		10.1016/j.jphotochem.2005.04.024	unresolved_identity_match	0
+729	THF		10.1016/j.jphotochem.2005.04.024	unresolved_identity_match	0
+731	EtOH		10.1016/j.mencom.2018.01.002	unresolved_identity_match	0
+735	tungsten		10.1021/jp037132+	unresolved_identity_match	0
+736	BBO		10.1021/jp037132+	unresolved_identity_match	0
+739	acetonitrile		10.1021/jp037132+	unresolved_identity_match	0
+741	phenyl		10.1021/jp037132+	unresolved_identity_match	0
+742	benzene		10.1021/jp037132+	unresolved_identity_match	0
+744	cyclohexane		10.1021/jp037132+	unresolved_identity_match	0
+745	methanol		10.1021/jp037132+	unresolved_identity_match	0
+746	butanol		10.1021/jp037132+	unresolved_identity_match	0
+747	DMSO		10.1021/jp037132+	unresolved_identity_match	0
+749	1-butanol		10.1021/jp037132+	unresolved_identity_match	0
+750	decanol		10.1021/jp037132+	unresolved_identity_match	0
+755	Indocyanine Green		10.1021/ol4034622	unresolved_identity_match	0
+756	chloroform		10.1021/ol4034622	unresolved_identity_match	0
+759	palladium		10.1021/jp073547+	unresolved_identity_match	0
+760	toluene		10.1021/jp073547+	unresolved_identity_match	0
+761	methanol		10.1021/jp073547+	unresolved_identity_match	0
+769	chlorine		10.1021/jp073547+	unresolved_identity_match	0
+770	cyclohexane		10.1021/jp073547+	unresolved_identity_match	0
+772	O2		10.1021/jp073547+	unresolved_identity_match	0
+774	amine		10.1021/jp054878u	unresolved_identity_match	0
+776	THF		10.1021/jp054878u	unresolved_identity_match	0
+777	1-butanol		10.1021/jp054878u	unresolved_identity_match	0
+778	HCl		10.1021/jp054878u	unresolved_identity_match	0
+779	ammonium		10.1021/jp054878u	unresolved_identity_match	0
+780	H +		10.1021/jp054878u	unresolved_identity_match	0
+782	Acetonitrile		10.1021/jp054878u	unresolved_identity_match	0
+783	CDCl3		10.1021/jp054878u	unresolved_identity_match	0
+784	H		10.1021/jp054878u	unresolved_identity_match	0
+786	methanol		10.1021/jp054878u	unresolved_identity_match	0
+788	cyclohexane		10.1021/jp054878u	unresolved_identity_match	0
+789	methylcyclohexane		10.1021/jp054878u	unresolved_identity_match	0
+792	DMSO		10.1021/jp3106869	unresolved_identity_match	0
+793	cyclohexane		10.1021/jp3106869	unresolved_identity_match	0
+795	acetone		10.1021/jp3106869	unresolved_identity_match	0
+796	H2O		10.1021/jp3106869	unresolved_identity_match	0
+798	DMSO		10.1016/j.jphotochem.2007.02.008	unresolved_identity_match	0
+799	benzil		10.1016/j.jphotochem.2007.02.008	unresolved_identity_match	0
+800	phenanthrenequinone		10.1016/j.jphotochem.2007.02.008	unresolved_identity_match	0
+803	coumarin 307		10.1016/j.jphotochem.2007.02.008	unresolved_identity_match	0
+804	1,2-bis(pyridylphenyl)ethene		10.1002/ajoc.201402024	unresolved_identity_match	0
+807	CH2Cl2		10.1002/ajoc.201402024	unresolved_identity_match	0
+809	methyl		10.1002/ajoc.201402024	unresolved_identity_match	0
+811	cyano		10.1016/j.tetlet.2011.08.111	unresolved_identity_match	0
+812	nitro		10.1016/j.tetlet.2011.08.111	unresolved_identity_match	0
+814	naphthalene		10.1016/j.tetlet.2011.08.111	unresolved_identity_match	0
+816	TBAF		10.1016/j.dyepig.2008.10.009	unresolved_identity_match	0
+819	CH3CN		10.1016/j.tetlet.2013.01.096	unresolved_identity_match	0
+821	quartz		10.1016/j.dyepig.2004.05.003	unresolved_identity_match	0
+822	Ethyl		10.1016/j.dyepig.2004.05.003	unresolved_identity_match	0
+824	vinylene		10.1016/j.jphotochem.2005.11.004	unresolved_identity_match	0
+825	DMSO		10.1016/j.jphotochem.2005.11.004	unresolved_identity_match	0
+828	n-Heptane		10.1016/j.dyepig.2007.11.003	unresolved_identity_match	0
+829	quinine sulphate		10.1016/j.dyepig.2007.11.003	unresolved_identity_match	0
+832	methanol		10.1021/jp044669u	unresolved_identity_match	0
+838	n-hexane		10.1021/jp044669u	unresolved_identity_match	0
+839	CH2Cl2		10.1021/jp044669u	unresolved_identity_match	0
+841	TPBI		10.1021/jp044669u	unresolved_identity_match	0
+844	NaOH		10.1021/jp044669u	unresolved_identity_match	0
+845	anhydride		10.1021/jp044669u	unresolved_identity_match	0
+850	CH2Cl2		10.1021/ol801464k	unresolved_identity_match	0
+851	CH3		10.1021/ol801464k	unresolved_identity_match	0
+853	Br		10.1021/ol801464k	unresolved_identity_match	0
+854	pentacene		10.1021/ol801464k	unresolved_identity_match	0
+856	benzene		10.1021/ol801464k	unresolved_identity_match	0
+859	Pentacene		10.1021/ol801464k	unresolved_identity_match	0
+861	triene		10.1016/j.jphotochem.2012.04.011	unresolved_identity_match	0
+867	CH2Cl2		10.1021/jo500029f	unresolved_identity_match	0
+870	Si		10.1021/jo500029f	unresolved_identity_match	0
+873	TFA		10.1016/j.cplett.2008.09.030	unresolved_identity_match	0
+875	benzophenone		10.1016/j.cplett.2008.09.030	unresolved_identity_match	0
+883	tetra-n-butylammonium hexaﬂuorophosphate		10.1016/j.tetlet.2011.09.077	unresolved_identity_match	0
+884	cyclohexane		10.1016/j.tetlet.2011.09.077	unresolved_identity_match	0
+886	CH3CN		10.1021/jo048914h	unresolved_identity_match	0
+888	aluminum		10.1021/jo048914h	unresolved_identity_match	0
+890	TMS		10.1021/jo048914h	unresolved_identity_match	0
+893	phenanthrene		10.1021/jo0706574	unresolved_identity_match	0
+894	cyclohexane		10.1021/jo0706574	unresolved_identity_match	0
+901	ethynyl		10.1021/jo0706574	unresolved_identity_match	0
+902	4,4¢-bipyridine		10.1021/jo0706574	unresolved_identity_match	0
+905	CdC		10.1021/jo0706574	unresolved_identity_match	0
+906	pyrene		10.1021/jo0706574	unresolved_identity_match	0
+907	CH2Cl2		10.1021/jo0706574	unresolved_identity_match	0
+908	Et2O		10.1021/jo0706574	unresolved_identity_match	0
+910	indolium		10.1016/j.crci.2012.01.009	unresolved_identity_match	0
+913	EtOH		10.1016/j.crci.2012.01.009	unresolved_identity_match	0
+914	dimethylsulfoxide		10.1016/j.crci.2012.01.009	unresolved_identity_match	0
+915	phenyl		10.1016/j.tet.2013.01.037	unresolved_identity_match	0
+917	C44H28		10.1016/j.tet.2013.01.037	unresolved_identity_match	0
+918	quartz		10.1016/j.tet.2013.01.037	unresolved_identity_match	0
+921	Ethanol		10.1016/S1010-6030(00)00359-2	unresolved_identity_match	0
+922	CMPT		10.1016/S1010-6030(00)00359-2	unresolved_identity_match	0
+923	acetonitrile		10.1016/S1010-6030(00)00359-2	unresolved_identity_match	0
+925	ethanol		10.1016/S1010-6030(00)00359-2	unresolved_identity_match	0
+926	O2		10.1016/S1010-6030(00)00359-2	unresolved_identity_match	0
+930	xenon		10.1002/bio.2400	unresolved_identity_match	0
+931	Cyclohexane		10.1002/bio.2400	unresolved_identity_match	0
+932	Fluorescein		10.1021/acs.joc.5b00242	unresolved_identity_match	0
+934	DMSO		10.1021/acs.joc.5b00242	unresolved_identity_match	0
+935	phosphate		10.1021/acs.joc.5b00242	unresolved_identity_match	0
+938	FITC		10.1021/acs.joc.5b00242	unresolved_identity_match	0
+945	graphite		10.1021/jo049452a	unresolved_identity_match	0
+946	ﬂash		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+949	oxygen		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+951	Phenalenone		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+952	TFE		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+954	MeCN		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+957	acetonitrile		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+958	EtOH		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+959	Acetonitrile		10.1016/j.jphotochem.2005.04.035	unresolved_identity_match	0
+962	ﬁrst		10.1016/j.saa.2009.03.026	unresolved_identity_match	0
+963	DMSO		10.1016/j.saa.2009.03.026	unresolved_identity_match	0
+964	SMe		10.1016/j.saa.2009.03.026	unresolved_identity_match	0
+965	THF		10.1016/j.saa.2009.03.026	unresolved_identity_match	0
+969	H		10.1016/j.saa.2009.03.026	unresolved_identity_match	0
+970	Pro		10.1016/j.saa.2009.03.026	unresolved_identity_match	0
+971	quartz		10.1016/j.molliq.2011.09.014	unresolved_identity_match	0
+974	Quinoline		10.1016/j.molliq.2011.09.014	unresolved_identity_match	0
+978	Methanol		10.1016/j.jphotochem.2006.02.028	unresolved_identity_match	0
+982	ethanol		10.1016/j.saa.2007.03.018	unresolved_identity_match	0
+984	phosphate		10.1016/j.dyepig.2012.12.031	unresolved_identity_match	0
+987	H2SO4		10.1016/j.dyepig.2012.12.031	unresolved_identity_match	0
+988	Zinc		10.1016/j.dyepig.2012.12.031	unresolved_identity_match	0
+989	hydrazine		10.1016/j.dyepig.2012.12.031	unresolved_identity_match	0
+997	silica		10.1016/j.jlumin.2010.07.004	unresolved_identity_match	0
+1005	DCB		10.1016/j.cplett.2004.10.154	unresolved_identity_match	0
+1007	cyclohexane		10.1021/bi00581a025	unresolved_identity_match	0
+1008	Propylene glycol		10.1021/bi00581a025	unresolved_identity_match	0
+1011	ethanol		10.1021/bi00581a025	unresolved_identity_match	0
+1012	acetonitrile		10.1021/bi00581a025	unresolved_identity_match	0
+1013	Chloroform		10.1021/jo500520x	unresolved_identity_match	0
+1014	octanol		10.1021/jo500520x	unresolved_identity_match	0
+1020	oxygen		10.1016/j.jphotochem.2008.06.014	unresolved_identity_match	0
+1022	ethanol		10.1016/j.jphotochem.2008.06.014	unresolved_identity_match	0
+1024	quinoxalinone		10.1016/j.jphotochem.2008.06.014	unresolved_identity_match	0
+1026	hexane		10.1016/j.jphotochem.2008.06.014	unresolved_identity_match	0
+1028	benzene		10.1016/j.jphotochem.2008.06.014	unresolved_identity_match	0
+1029	Nd		10.1016/j.jphotochem.2008.06.014	unresolved_identity_match	0
+1030	coumarins		10.1016/j.jphotochem.2008.06.014	unresolved_identity_match	0
+1031	acetonitrile		10.1016/j.tet.2011.07.018	unresolved_identity_match	0
+1032	methanol		10.1016/j.tet.2011.07.018	unresolved_identity_match	0
+1039	nitrogen		10.1021/acs.joc.9b02523	unresolved_identity_match	0
+1040	chloroform		10.1021/acs.joc.9b02523	unresolved_identity_match	0
+1042	Quinine sulfate		10.1021/jp9526509	unresolved_identity_match	0
+1044	DMOC		10.1039/c3tc31936a	unresolved_identity_match	0
+1046	DPEPO		10.1039/c3tc31936a	unresolved_identity_match	0
+1048	quartz		10.1016/j.cplett.2012.03.108	unresolved_identity_match	0
+1049	1La		10.1016/j.cplett.2012.03.108	unresolved_identity_match	0
+1050	cyclohexane		10.1016/j.cplett.2012.03.108	unresolved_identity_match	0
+1053	toluene		10.1016/j.tetlet.2012.01.116	unresolved_identity_match	0
+1055	dichloromethane		10.1021/ol901584g	unresolved_identity_match	0
+1056	oxygen		10.1016/j.jphotobiol.2008.12.008	unresolved_identity_match	0
+1059	biphenyl		10.1016/j.jphotobiol.2008.12.008	unresolved_identity_match	0
+1060	Methanol		10.1016/0584-8539(94)E0121-P	unresolved_identity_match	0
+1061	acetonitrile		10.1016/0584-8539(94)E0121-P	unresolved_identity_match	0
+1063	cyclohexane		10.1016/0584-8539(94)E0121-P	unresolved_identity_match	0
+1064	quinine sulfate		10.1021/jp047557b	unresolved_identity_match	0
+1065	THF		10.1021/jp047557b	unresolved_identity_match	0
+1066	N		10.1021/jp047557b	unresolved_identity_match	0
+1068	2,4-dinitrobenzene		10.1021/jp047557b	unresolved_identity_match	0
+1069	Zn(II)		10.1021/jp047557b	unresolved_identity_match	0
+1071	Co(II)		10.1021/jp047557b	unresolved_identity_match	0
+1073	hexane		10.1021/jp047557b	unresolved_identity_match	0
+1076	phenanthrene		10.1021/acs.joc.9b00800	unresolved_identity_match	0
+1077	nitrogen		10.1021/acs.joc.9b00800	unresolved_identity_match	0
+1079	9,10-diphenylanthracene		10.1021/acs.joc.9b00800	unresolved_identity_match	0
+1081	boron		10.1021/acs.joc.9b00800	unresolved_identity_match	0
+1085	hydroxide		10.1021/j100558a015	unresolved_identity_match	0
+1086	Cyclohexane		10.1021/j100558a015	unresolved_identity_match	0
+1092	CH2Cl2		10.1021/jo402429q	unresolved_identity_match	0
+1093	chrysene		10.1021/jo402429q	unresolved_identity_match	0
+1095	coumarin-1		10.1021/jo402429q	unresolved_identity_match	0
+1096	Aniline		10.1021/jo301652j	unresolved_identity_match	0
+1097	NaOH		10.1021/jo301652j	unresolved_identity_match	0
+1098	H2SO4		10.1021/jo301652j	unresolved_identity_match	0
+1104	cm−1		10.1016/j.jphotochem.2004.08.015	unresolved_identity_match	0
+1107	disodium		10.1016/j.molliq.2014.02.029	unresolved_identity_match	0
+1108	chromene		10.1016/j.molliq.2014.02.029	unresolved_identity_match	0
+1113	imine		10.1016/j.molliq.2014.02.029	unresolved_identity_match	0
+1116	DMSO		10.1016/j.molliq.2014.02.029	unresolved_identity_match	0
+1117	Acetonitrile		10.1016/j.molliq.2014.02.029	unresolved_identity_match	0
+1118	Chloroform		10.1016/j.molliq.2014.02.029	unresolved_identity_match	0
+1122	quartz		10.1016/j.dyepig.2010.06.009	unresolved_identity_match	0
+1124	toluene		10.1016/j.dyepig.2010.06.009	unresolved_identity_match	0
+1126	perylene		10.1016/j.dyepig.2010.06.009	unresolved_identity_match	0
+1127	ethynylene		10.1016/j.dyepig.2010.06.009	unresolved_identity_match	0
+1129	Toluene		10.1016/j.dyepig.2010.06.009	unresolved_identity_match	0
+1132	Pyrylium		10.1016/S1010-6030(96)04410-3	unresolved_identity_match	0
+1134	acetonitrile		10.1016/S1010-6030(96)04410-3	unresolved_identity_match	0
+1135	Methyl		10.1016/j.dyepig.2010.07.006	unresolved_identity_match	0
+1137	ﬂuoro		10.1016/j.dyepig.2010.07.006	unresolved_identity_match	0
+1140	methanol		10.1021/acs.joc.6b00981	unresolved_identity_match	0
+1141	pyridine		10.1021/acs.joc.6b00981	unresolved_identity_match	0
+1144	diphenylanthracene		10.1021/jo202062f	unresolved_identity_match	0
+1145	anthracene		10.1021/jo202062f	unresolved_identity_match	0
+1148	ethanol		10.1021/jo202062f	unresolved_identity_match	0
+1149	methylene		10.1021/acs.orglett.5b02604	unresolved_identity_match	0
+1150	benzo[c]ﬂuorene		10.1021/acs.orglett.5b02604	unresolved_identity_match	0
+1151	boron		10.1021/acs.orglett.5b02604	unresolved_identity_match	0
+1152	1-phenylnaphthalene		10.1021/acs.orglett.5b02604	unresolved_identity_match	0
+1153	Boron		10.1021/acs.orglett.5b02604	unresolved_identity_match	0
+1154	carbon		10.1021/acs.orglett.5b02604	unresolved_identity_match	0
+1155	phenyl		10.1021/acs.orglett.5b02604	unresolved_identity_match	0
+1156	acetonitrile		10.1016/1010-6030(94)03924-J	unresolved_identity_match	0
+1159	quartz		10.1016/1010-6030(94)03924-J	unresolved_identity_match	0
+1161	hydrogen		10.1016/1010-6030(94)03924-J	unresolved_identity_match	0
+1162	sodium hydroxide		10.1016/0022-2313(94)90073-6	unresolved_identity_match	0
+1163	benzene		10.1016/j.tet.2007.01.075	unresolved_identity_match	0
+1164	b		10.1016/j.tet.2007.01.075	unresolved_identity_match	0
+1165	ribonucleoside		10.1016/j.tet.2007.01.075	unresolved_identity_match	0
+1166	Nucleosides		10.1016/j.tet.2007.01.075	unresolved_identity_match	0
+1167	tryptophan		10.1016/j.tet.2007.01.075	unresolved_identity_match	0
+1175	BODIPY		10.1016/j.bmcl.2015.10.091	unresolved_identity_match	0
+1180	hexane		10.1016/j.dyepig.2004.02.011	unresolved_identity_match	0
+1182	n-hexane		10.1016/j.dyepig.2004.02.011	unresolved_identity_match	0
+1187	benzene		10.1016/j.dyepig.2004.02.011	unresolved_identity_match	0
+1188	TBAP		10.1016/j.dyepig.2004.02.011	unresolved_identity_match	0
+1191	THF		10.1016/j.chemphys.2006.05.019	unresolved_identity_match	0
+1192	THF		10.1016/j.tetlet.2011.02.088	unresolved_identity_match	0
+1193	methanol		10.1016/j.tetlet.2011.02.088	unresolved_identity_match	0
+1194	Methanol		10.1016/j.tetlet.2011.02.088	unresolved_identity_match	0
+1196	naphthalene		10.1016/j.tetlet.2011.02.088	unresolved_identity_match	0
+1200	tert-butyl		10.1016/j.jlumin.2012.10.021	unresolved_identity_match	0
+1201	biphenyl		10.1016/j.jlumin.2012.10.021	unresolved_identity_match	0
+1205	MBBA		10.1016/j.saa.2009.02.029	unresolved_identity_match	0
+1206	ace-tonitrile		10.1016/j.saa.2009.02.029	unresolved_identity_match	0
+1207	DMSO		10.1016/j.saa.2009.02.029	unresolved_identity_match	0
+1208	Toluene		10.1016/j.snb.2011.03.020	unresolved_identity_match	0
+1209	THF		10.1016/j.snb.2011.03.020	unresolved_identity_match	0
+1210	methanol		10.1016/j.snb.2011.03.020	unresolved_identity_match	0
+1212	acetonitrile		10.1016/j.snb.2011.03.020	unresolved_identity_match	0
+1213	Acetone		10.1016/j.snb.2011.03.020	unresolved_identity_match	0
+1214	hydrogen		10.1016/j.snb.2011.03.020	unresolved_identity_match	0
+1215	THF		10.1021/jp073767n	unresolved_identity_match	0
+1216	9,9-dibutyl-2,7-diethynyl-9H-fluorene		10.1021/jp073767n	unresolved_identity_match	0
+1217	biphenyl		10.1021/jp073767n	unresolved_identity_match	0
+1218	2,7-diethynylfluorene		10.1021/jp073767n	unresolved_identity_match	0
+1221	CH2Cl2		10.1021/acs.orglett.5b03205	unresolved_identity_match	0
+1222	CH3CN		10.1021/acs.orglett.5b03205	unresolved_identity_match	0
+1225	quartz		10.1016/j.jphotochem.2008.09.008	unresolved_identity_match	0
+1234	1,4-dioxane		10.1021/ma802532b	unresolved_identity_match	0
+1238	4Br		10.1016/j.cclet.2019.02.016	unresolved_identity_match	0
+1240	DPBF		10.1016/j.cclet.2019.02.016	unresolved_identity_match	0
+1242	BODIPY		10.1016/j.cclet.2019.02.016	unresolved_identity_match	0
+1244	nucleosides		10.1016/j.tetlet.2010.11.053	unresolved_identity_match	0
+1253	DNPA		10.1016/j.dyepig.2004.05.011	unresolved_identity_match	0
+1254	anthracene		10.1016/j.dyepig.2004.05.011	unresolved_identity_match	0
+1256	CH2Cl2		10.1016/j.dyepig.2004.05.011	unresolved_identity_match	0
+1258	CHCl3		10.1016/j.dyepig.2004.05.011	unresolved_identity_match	0
+1259	2-methoxyethanol		10.1016/j.dyepig.2004.05.011	unresolved_identity_match	0
+1263	DMSO		10.1016/j.cplett.2016.10.020	unresolved_identity_match	0
+1264	Toluene		10.1016/j.cplett.2016.10.020	unresolved_identity_match	0
+1265	quartz		10.1016/j.jlumin.2011.05.048	unresolved_identity_match	0
+1266	oxygen		10.1016/j.jlumin.2011.05.048	unresolved_identity_match	0
+1267	cyclohexane		10.1016/j.jlumin.2011.05.048	unresolved_identity_match	0
+1268	EtOH		10.1016/j.jlumin.2011.05.048	unresolved_identity_match	0
+1269	DMF		10.1016/j.jlumin.2011.05.048	unresolved_identity_match	0
+1274	silica		10.1016/j.saa.2009.01.001	unresolved_identity_match	0
+1275	Cyclohexane		10.1016/j.saa.2009.01.001	unresolved_identity_match	0
+1276	Ethylene glycol		10.1016/j.saa.2009.01.001	unresolved_identity_match	0
+1279	Coumarin 307		10.1016/j.dyepig.2009.11.009	unresolved_identity_match	0
+1280	carbazole		10.1016/j.dyepig.2009.11.009	unresolved_identity_match	0
+1281	indolocarbazole		10.1016/j.dyepig.2009.11.009	unresolved_identity_match	0
+1287	DMSO		10.1021/acs.joc.9b02857	unresolved_identity_match	0
+1288	L-Alanine		10.1021/acs.joc.9b02857	unresolved_identity_match	0
+1292	B1		10.1021/jo071064w	unresolved_identity_match	0
+1294	N3		10.1021/jo071064w	unresolved_identity_match	0
+1300	N2		10.1021/jo071064w	unresolved_identity_match	0
+1303	coumarin 307		10.1021/jo071064w	unresolved_identity_match	0
+1306	oxazole		10.1016/j.saa.2012.10.005	unresolved_identity_match	0
+1309	C60		10.1016/j.saa.2012.10.005	unresolved_identity_match	0
+1311	n-Hexane		10.1016/j.saa.2012.10.005	unresolved_identity_match	0
+1312	2-phenyloxazole		10.1016/j.saa.2012.10.005	unresolved_identity_match	0
+1313	Carbazole		10.1021/acsami.5b05648	unresolved_identity_match	0
+1319	nitrogen		10.1063/1.1675715	unresolved_identity_match	0
+1323	DPBF		10.1016/j.bioorg.2017.02.015	unresolved_identity_match	0
+1330	methanol		10.1021/j100535a016	unresolved_identity_match	0
+1331	Methanol		10.1021/j100535a016	unresolved_identity_match	0
+1334	THF		10.1016/j.saa.2012.08.008	unresolved_identity_match	0
+1335	2-ethynylthiophene		10.1016/j.saa.2012.08.008	unresolved_identity_match	0
+1336	acetonitrile		10.1021/jo070100o	unresolved_identity_match	0
+1337	Acetonitrile		10.1021/jo070100o	unresolved_identity_match	0
+1338	bithiophene		10.1021/jo070100o	unresolved_identity_match	0
+1340	azomethine		10.1021/jo070100o	unresolved_identity_match	0
+1341	xanthone		10.1021/jo070100o	unresolved_identity_match	0
+1344	Carbazole		10.1021/acs.chemmater.8b01207	unresolved_identity_match	0
+1346	hexane		10.1021/acs.chemmater.8b01207	unresolved_identity_match	0
+1347	TCzTrz		10.1021/acs.chemmater.8b01207	unresolved_identity_match	0
+1349	C12		10.1016/1010-6030(94)03949-U	unresolved_identity_match	0
+1351	Br 2		10.1016/1010-6030(94)03949-U	unresolved_identity_match	0
+1353	BrCI		10.1016/1010-6030(94)03949-U	unresolved_identity_match	0
+1358	argon		10.1126/sciadv.aao6910	unresolved_identity_match	0
+1359	silicon		10.1016/j.jorganchem.2003.12.038	unresolved_identity_match	0
+1362	argon		10.1016/j.jorganchem.2003.12.038	unresolved_identity_match	0
+1363	Au		10.1016/j.jorganchem.2003.12.038	unresolved_identity_match	0
+1366	rhodamine B		10.1021/ja209292b	unresolved_identity_match	0
+1367	rhodamine 6G		10.1021/ja209292b	unresolved_identity_match	0
+1368	rhodamine 101		10.1021/ja209292b	unresolved_identity_match	0
+1369	hypochlorous acid		10.1021/ja209292b	unresolved_identity_match	0
+1371	CS1−6		10.1021/ja209292b	unresolved_identity_match	0
+1372	CS1		10.1021/ja209292b	unresolved_identity_match	0
+1375	CH3CN		10.1021/ja209292b	unresolved_identity_match	0
+1376	HClO		10.1021/ja209292b	unresolved_identity_match	0
+1377	CH3OH		10.1021/ja209292b	unresolved_identity_match	0
+1378	HOCl		10.1021/ja209292b	unresolved_identity_match	0
+1380	CS4		10.1021/ja209292b	unresolved_identity_match	0
+1381	acetyl		10.1021/ja209292b	unresolved_identity_match	0
+1384	CH2Cl2		10.1021/ol1007263	unresolved_identity_match	0
+1390	quartz		10.1016/j.saa.2011.02.003	unresolved_identity_match	0
+1393	anthraquinone		10.1016/j.saa.2011.02.003	unresolved_identity_match	0
+1394	Anthraquinone		10.1016/j.saa.2011.02.003	unresolved_identity_match	0
+1399	Triptycene		10.1021/acs.chemmater.7b03490	unresolved_identity_match	0
+1400	toluene		10.1021/acs.chemmater.7b03490	unresolved_identity_match	0
+1403	Quinine bisulphate		10.1016/1010-6030(88)80035-2	unresolved_identity_match	0
+1404	phenyl		10.1016/1010-6030(88)80035-2	unresolved_identity_match	0
+1408	CHCl3		10.1016/j.molstruc.2010.08.016	unresolved_identity_match	0
+1412	PFs		10.1016/j.tetlet.2009.10.118	unresolved_identity_match	0
+1413	TMS		10.1016/j.tetlet.2009.10.118	unresolved_identity_match	0
+1414	1H		10.1016/j.tetlet.2009.10.118	unresolved_identity_match	0
+1415	DMF		10.1016/j.tetlet.2009.10.118	unresolved_identity_match	0
+1416	1,4-dioxane		10.1016/j.tet.2009.08.027	unresolved_identity_match	0
+1418	1-Butanol		10.1016/j.tet.2009.08.027	unresolved_identity_match	0
+1420	1,4-Dioxane		10.1016/j.tet.2009.08.027	unresolved_identity_match	0
+1421	morpholine		10.1016/j.tet.2009.08.027	unresolved_identity_match	0
+1426	sulfur		10.1021/jo500499g	unresolved_identity_match	0
+1427	Sulfur		10.1021/jo500499g	unresolved_identity_match	0
+1428	BODIPY		10.1021/jp052626n	unresolved_identity_match	0
+1429	NaOH		10.1021/jp052626n	unresolved_identity_match	0
+1430	acetonitrile		10.1021/jp052626n	unresolved_identity_match	0
+1431	toluene		10.1021/jp052626n	unresolved_identity_match	0
+1432	aniline		10.1021/jp052626n	unresolved_identity_match	0
+1433	hydrogen		10.1021/jp052626n	unresolved_identity_match	0
+1434	H +		10.1021/jp052626n	unresolved_identity_match	0
+1436	ammonium		10.1021/jp052626n	unresolved_identity_match	0
+1439	cyclohexane		10.1021/jp052626n	unresolved_identity_match	0
+1445	H		10.1021/jp052626n	unresolved_identity_match	0
+1448	CH2Cl2		10.1021/jo701740n	unresolved_identity_match	0
+1450	fluorescein		10.1021/jo701740n	unresolved_identity_match	0
+1454	phenyl		10.1016/j.dyepig.2012.09.011	unresolved_identity_match	0
+1455	Nitrobenzaldehyde		10.1016/j.dyepig.2012.09.011	unresolved_identity_match	0
+1457	Porphyrin		10.1016/j.dyepig.2012.09.011	unresolved_identity_match	0
+1459	phenyl		10.1016/j.tetlet.2016.03.011	unresolved_identity_match	0
+1465	chloroform		10.1016/j.tetlet.2018.10.003	unresolved_identity_match	0
+1467	BODIPY		10.1016/j.tetlet.2018.10.003	unresolved_identity_match	0
+1470	N-methylphthalimide		10.1016/j.snb.2019.01.102	unresolved_identity_match	0
+1471	Toluene		10.1016/j.snb.2019.01.102	unresolved_identity_match	0
+1476	methanol		10.1016/j.snb.2019.01.102	unresolved_identity_match	0
+1481	Si		10.1021/acsami.9b08729	unresolved_identity_match	0
+1483	Methanol		10.1016/j.jlumin.2011.04.008	unresolved_identity_match	0
+1485	acetonitrile		10.1016/j.jlumin.2011.04.008	unresolved_identity_match	0
+1493	toluene		10.1038/nature11687	unresolved_identity_match	0
+1495	quartz		10.1038/nature11687	unresolved_identity_match	0
+1496	Ethyl acetate		10.1016/j.dyepig.2011.08.018	unresolved_identity_match	0
+1503	tetramethylrhodamine		10.1021/acs.orglett.8b01786	unresolved_identity_match	0
+1504	Azasiline		10.1021/acs.orglett.8b01786	unresolved_identity_match	0
+1509	quartz		10.1016/j.tet.2012.05.072	unresolved_identity_match	0
+1510	Aldehyde		10.1016/j.tet.2012.05.072	unresolved_identity_match	0
+1517	EtOAc		10.1021/ja803954e	unresolved_identity_match	0
+1518	RNI		10.1021/jacs.9b09220	unresolved_identity_match	0
+1519	rhodamine 6G		10.1021/jacs.9b09220	unresolved_identity_match	0
+1520	oxygen		10.1021/jacs.9b09220	unresolved_identity_match	0
+1523	fluorine		10.1021/acs.joc.5b01339	unresolved_identity_match	0
+1525	ethanol		10.1021/acs.joc.5b01339	unresolved_identity_match	0
+1526	C14H12F2N4		10.1021/acs.joc.5b01339	unresolved_identity_match	0
+1528	C14H12Br2N4		10.1021/acs.joc.5b01339	unresolved_identity_match	0
+1530	imine		10.1016/j.tetlet.2018.02.075	unresolved_identity_match	0
+1531	Imine		10.1016/j.tetlet.2018.02.075	unresolved_identity_match	0
+1534	ClO4		10.1016/j.snb.2008.03.006	unresolved_identity_match	0
+1535	ﬂuoride		10.1016/j.snb.2008.03.006	unresolved_identity_match	0
+1537	n-Hexane		10.1016/j.saa.2012.04.077	unresolved_identity_match	0
+1545	benzimidazole		10.1016/1010-6030(94)03831-7	unresolved_identity_match	0
+1547	[5]helicene		10.1016/j.jphotochem.2017.07.026	unresolved_identity_match	0
+1548	ethyl		10.1016/j.jphotochem.2017.07.026	unresolved_identity_match	0
+1551	dichloromethane		10.1016/j.jphotochem.2017.07.026	unresolved_identity_match	0
+1554	toluene		10.1021/acs.joc.5b00541	unresolved_identity_match	0
+1555	ﬁrst		10.1021/acs.joc.5b00541	unresolved_identity_match	0
+1556	CH2Cl2		10.1021/acs.joc.5b00541	unresolved_identity_match	0
+1563	EDAC		10.1016/j.saa.2009.03.004	unresolved_identity_match	0
+1565	Cyclohexane		10.1016/j.saa.2009.03.004	unresolved_identity_match	0
+1567	Acetonitrile		10.1016/j.saa.2009.03.004	unresolved_identity_match	0
+1570	Benzene		10.1016/j.cap.2008.07.009	unresolved_identity_match	0
+1571	Isophorone		10.1016/j.cap.2008.07.009	unresolved_identity_match	0
+1577	toluene		10.1021/acs.joc.5b01496	unresolved_identity_match	0
+1578	2-methyltetrahydrofuran		10.1021/acs.joc.5b01496	unresolved_identity_match	0
+1579	silyl		10.3390/molecules17055108	unresolved_identity_match	0
+1580	9,10-dicyanoanthracene		10.3390/molecules17055108	unresolved_identity_match	0
+1584	HCl		10.3390/molecules17055108	unresolved_identity_match	0
+1585	PrOH		10.3390/molecules17055108	unresolved_identity_match	0
+1586	benzene		10.3390/molecules17055108	unresolved_identity_match	0
+1588	1,4-Bis(dimethylsilyl)naphthalene		10.3390/molecules17055108	unresolved_identity_match	0
+1590	Quinoline		10.1016/j.jlumin.2018.12.059	unresolved_identity_match	0
+1591	EtOAc		10.1016/j.jlumin.2018.12.059	unresolved_identity_match	0
+1598	EtOH		10.1016/j.jlumin.2018.12.059	unresolved_identity_match	0
+1600	Spirobifluorene		10.1021/acs.joc.7b03008	unresolved_identity_match	0
+1601	chrysene		10.1021/acs.joc.7b03008	unresolved_identity_match	0
+1602	Chrysene		10.1021/acs.joc.7b03008	unresolved_identity_match	0
+1603	toluene		10.1021/acs.joc.7b03008	unresolved_identity_match	0
+1604	TPTP		10.1021/acs.joc.7b03008	unresolved_identity_match	0
+1	unknown		10.1021/ol025972l	compound_not_resolved	0
+5	CHCl3 H2O H2O		10.1021/ol0200403	compound_not_resolved	0
+6	DsRed		10.1021/ol0200403	compound_not_resolved	0
+8	diaza-perylene		10.1021/ol0268687	compound_not_resolved	0
+9	unknown		10.1021/ol0268687	compound_not_resolved	0
+11	2,8-dimethoxy-		10.1021/ol0268687	compound_not_resolved	0
+15	ﬂuorescence		10.1016/S1010-6030(99)00246-4	compound_not_resolved	0
+17	unknown		10.1016/S1010-6030(99)00246-4	compound_not_resolved	0
+21	diarylethene		10.1021/jo010267w	compound_not_resolved	0
+27	2-thienyl		10.1021/jo010267w	compound_not_resolved	0
+28	di-thienylethenes		10.1021/jo010267w	compound_not_resolved	0
+29	3,7-dibromo-dibenzosuberenone		10.1021/ja070822x	compound_not_resolved	0
+31	unknown		10.1021/jp992495o	compound_not_resolved	0
+32	C70		10.1021/jp992495o	compound_not_resolved	0
+36	C70.23		10.1021/jp992495o	compound_not_resolved	0
+38	Methyl[70]fullerepimarate		10.1021/jp992495o	compound_not_resolved	0
+40	HBAB		10.1016/S1386-1425(00)00350-4	compound_not_resolved	0
+44	PCP		10.1021/jp051349h	compound_not_resolved	0
+45	phenylene vinylene		10.1021/jp051349h	compound_not_resolved	0
+47	6.4 8.0 8.1 8.1 8.2 7.6 12.7 9.8 27.4		10.1021/jp000658z	compound_not_resolved	0
+49	ﬂuorescence		10.1016/j.jphotochem.2004.08.001	compound_not_resolved	0
+50	-(diphenylamino)biphenyl-4		10.1016/j.jphotochem.2004.08.001	compound_not_resolved	0
+51	BDP		10.1021/ja077756j	compound_not_resolved	0
+52	cyanines		10.1021/ja077756j	compound_not_resolved	0
+54	KFL-4		10.1021/ja077756j	compound_not_resolved	0
+58	TM-BDP		10.1021/ja077756j	compound_not_resolved	0
+63	BODIPY 1		10.1021/jo061567m	compound_not_resolved	0
+64	cm-1		10.1021/jo061567m	compound_not_resolved	0
+65	,		10.1021/jo061567m	compound_not_resolved	0
+66	unknown		10.1021/jo061567m	compound_not_resolved	0
+68	alcohols		10.1021/jo061567m	compound_not_resolved	0
+70	amino acids		10.1007/s10895-005-2525-3	compound_not_resolved	0
+76	Table		10.1007/s10895-005-2525-3	compound_not_resolved	0
+77	ﬂuorescence		10.1007/s10895-005-2525-3	compound_not_resolved	0
+78	unknown		10.1007/s10895-005-2525-3	compound_not_resolved	0
+79	F¨orster		10.1007/s10895-005-2525-3	compound_not_resolved	0
+80	o-Abz		10.1007/s10895-005-2525-3	compound_not_resolved	0
+84	1,3,5-Tris(2,2-dibromovinyl)benzene		10.1021/jo026718+	compound_not_resolved	0
+85	Bis-1,4-[2,2-bis(4-dodecyloxyphenyl ethynyl)ethenyl]-benzene		10.1021/jo026718+	compound_not_resolved	0
+86	unknown		10.1021/jp021141l	compound_not_resolved	0
+88	1AF		10.1021/jp980158u	compound_not_resolved	0
+89	2-Substituted aminofluorenones		10.1021/jp980158u	compound_not_resolved	0
+90	ﬂuorescence		10.1016/S1010-6030(00)00230-6	compound_not_resolved	0
+92	2(2-Phenylethenyl)-benzoxazoles		10.1016/S1010-6030(00)00230-8	compound_not_resolved	0
+97	Isoalloxazines		10.1023/B:JOFL.0000014660.59105.31	compound_not_resolved	0
+99	lumiﬂavins		10.1023/B:JOFL.0000014660.59105.31	compound_not_resolved	0
+102	ﬂuorescence		10.1023/B:JOFL.0000014660.59105.31	compound_not_resolved	0
+104	CN		10.1021/jo000807+	compound_not_resolved	0
+105	Dicyano-1-aza-2,6-cyclohexadieno[1,7]isoquinolines		10.1021/jo000807+	compound_not_resolved	0
+107	betaines		10.1021/jo000807+	compound_not_resolved	0
+108	4,7-di(2-thienyl)-1,2,5-oxadiaz-olo[3,4-c]pyridine		10.1016/S0009-2614(02)00147-1	compound_not_resolved	0
+109	ﬂuorescence		10.1016/S0009-2614(02)00147-1	compound_not_resolved	0
+110	unknown		10.1016/S0009-2614(02)00147-1	compound_not_resolved	0
+111	4,7-bis(2-thienyl)-1,2,5-oxadiazolo[3,4-c]pyridine		10.1016/S0009-2614(02)00147-1	compound_not_resolved	0
+112	3-substituted benzanthrone		10.1021/jp035610a	compound_not_resolved	0
+113	ABaAc		10.1021/jp035610a	compound_not_resolved	0
+115	unknown		10.1021/jp035610a	compound_not_resolved	0
+117	Fidler		10.1021/jp035610a	compound_not_resolved	0
+118	2MeTHF		10.1021/jp035610a	compound_not_resolved	0
+121	fluorenyl		10.1021/jp711950z	compound_not_resolved	0
+122	Fo¨rster		10.1021/jp711950z	compound_not_resolved	0
+125	unknown		10.1021/jp711950z	compound_not_resolved	0
+129	fluorenylperylene diimide		10.1021/jp711950z	compound_not_resolved	0
+130	CH2-Cl2		10.1021/jp711950z	compound_not_resolved	0
+131	perylene diimide		10.1021/jp711950z	compound_not_resolved	0
+133	Ti-Saphire		10.1016/S1386-1425(99)00200-0	compound_not_resolved	0
+136	ﬂuorescence		10.1016/S1386-1425(99)00200-0	compound_not_resolved	0
+137	Imidazonaphthyridines		10.1016/S1386-1425(99)00200-0	compound_not_resolved	0
+139	Ti:Sapphire		10.A_1025037832286	compound_not_resolved	0
+140	4-MeOSA		10.A_1025037832286	compound_not_resolved	0
+143	Amino		10.A_1025037832286	compound_not_resolved	0
+146	4-MeSA		10.A_1025037832286	compound_not_resolved	0
+148	Table		10.A_1025037832286	compound_not_resolved	0
+149	5-MeSA		10.A_1025037832286	compound_not_resolved	0
+160	Dienes		10.1021/jp992275a	compound_not_resolved	0
+161	nitro-substituted dienes		10.1021/jp992275a	compound_not_resolved	0
+162	Diene		10.1021/jp992275a	compound_not_resolved	0
+163	dienes		10.1021/jp992275a	compound_not_resolved	0
+164	SDS		10.1021/jp992275a	compound_not_resolved	0
+167	azoalkane		10.1021/jo990206m	compound_not_resolved	0
+168	Ph-DBO		10.1021/jo990206m	compound_not_resolved	0
+169	Azoalkanes		10.1021/jo990206m	compound_not_resolved	0
+170	azo		10.1021/jo990206m	compound_not_resolved	0
+171	unknown		10.1021/jo990206m	compound_not_resolved	0
+175	ﬂuorescence		10.1016/j.molstruc.2003.10.028	compound_not_resolved	0
+176	unknown		10.1016/j.molstruc.2003.10.028	compound_not_resolved	0
+177	O2(1Dg)		10.1016/j.molstruc.2003.10.028	compound_not_resolved	0
+178	unknown		10.1021/ol036399o	compound_not_resolved	0
+180	1		10.1021/ol036399o	compound_not_resolved	0
+182	PhF		10.1016/S0022-2313(97)00315-3	compound_not_resolved	0
+184	(---)		10.1016/S0022-2313(97)00315-3	compound_not_resolved	0
+188	PMA		10.1016/j.jphotochem.2004.01.020	compound_not_resolved	0
+190	9-phenyl-10-methoxy anthracene		10.1016/j.jphotochem.2004.01.020	compound_not_resolved	0
+191	conﬁrmed		10.1016/j.jphotochem.2004.01.020	compound_not_resolved	0
+192	ﬂuorescence		10.1016/j.jphotochem.2004.01.020	compound_not_resolved	0
+196	ﬂuorescence		10.1021/jo801060p	compound_not_resolved	0
+200	dipyrrinone		10.1021/jo040183y	compound_not_resolved	0
+201	(		10.1021/jo040183y	compound_not_resolved	0
+202	C(9)CO2H		10.1021/jo040183y	compound_not_resolved	0
+204	nm		10.1021/jp011168p	compound_not_resolved	0
+205	7 - aminoactinomycin D		10.1021/jp011168p	compound_not_resolved	0
+206	unknown		10.1021/jp011168p	compound_not_resolved	0
+210	12, 13 ,		10.1021/ol035532+	compound_not_resolved	0
+212	N-phenyl substituted stilbenes		10.1021/ja016416+	compound_not_resolved	0
+216	isothiocyanate		10.1021/ac980018g	compound_not_resolved	0
+219	halogen		10.1021/ac980018g	compound_not_resolved	0
+221	Fo¨rster		10.1021/ac980018g	compound_not_resolved	0
+223	,		10.1021/ac980018g	compound_not_resolved	0
+225	ﬂuorescence		10.1016/S1011-1344(01)00197-X	compound_not_resolved	0
+226	diethyl ether–iso-pentane–ethanol		10.1016/S1011-1344(01)00197-X	compound_not_resolved	0
+230	ﬂuorescent		10.1016/S1011-1344(01)00197-X	compound_not_resolved	0
+231	efﬁciently		10.1016/S1011-1344(01)00197-X	compound_not_resolved	0
+235	Anthranilate esters		10.1016/S1011-1344(01)00197-X	compound_not_resolved	0
+240	TX-100		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	compound_not_resolved	0
+243	ﬂuorescence		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	compound_not_resolved	0
+246	phenoxyl		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	compound_not_resolved	0
+248	ﬂuorophore		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	compound_not_resolved	0
+249	benzo-phenone		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	compound_not_resolved	0
+254	TPP		10.1016/S1010-6030(99)00218-X	compound_not_resolved	0
+255	unknown		10.1016/S1010-6030(99)00218-X	compound_not_resolved	0
+256	ﬂuorescence		10.1016/S1010-6030(99)00218-X	compound_not_resolved	0
+258	9PXANT		10.1016/S1010-6030(99)00218-X	compound_not_resolved	0
+261	inﬂuence		10.1016/S1010-6030(99)00218-X	compound_not_resolved	0
+262	4-phenyl-3,5-di-methyl-pyridinium		10.1016/S1010-6030(99)00218-X	compound_not_resolved	0
+263	3DMABN		10.1016/S1010-6030(99)00218-X	compound_not_resolved	0
+270	oligothiophenes		10.1021/jp9901085	compound_not_resolved	0
+271	thienyl		10.1021/ol0478180	compound_not_resolved	0
+273	p-doping		10.1021/ol0478180	compound_not_resolved	0
+274	PVK		10.1021/ol0478180	compound_not_resolved	0
+277	3-phenyl		10.1002/adma.200900634	compound_not_resolved	0
+278	ﬂuorescence		10.1002/adma.200900634	compound_not_resolved	0
+279	9,10-di-2-naphthylanthracene-butyl-9,10-di-2-naphthylanthracene		10.1021/jp052337z	compound_not_resolved	0
+281	4,10-Disubstituted and 4,6,10,12-tetrasubstituted anthanthrenes		10.1021/jp052337z	compound_not_resolved	0
+282	30)		10.1021/jp052337z	compound_not_resolved	0
+283	244)F		10.1021/jp052337z	compound_not_resolved	0
+285	4,10-di-p-tert-butylphenylanthanthrene		10.1021/jp052337z	compound_not_resolved	0
+286	4,9-dibromoanthanthrone		10.1021/jp052337z	compound_not_resolved	0
+287	2-tert-butyl-9,10-di-2-naphthylanthracene		10.1021/jp052337z	compound_not_resolved	0
+291	1,3 - dimethyluracil		10.1016/j.cplett.2006.08.058	compound_not_resolved	0
+293	6 - methyluracil		10.1016/j.cplett.2006.08.058	compound_not_resolved	0
+295	uracils		10.1016/j.cplett.2006.08.058	compound_not_resolved	0
+298	IPA		10.1021/jp0710739	compound_not_resolved	0
+299	DIPA		10.1021/jp0710739	compound_not_resolved	0
+301	IDB		10.1021/jp0710739	compound_not_resolved	0
+302	5-[3-(Dimethylamino)propyl]-10,11-dihydro-5H-dibenz[b, f]azepine hydrochloride		10.1021/jp0710739	compound_not_resolved	0
+305	DBCH		10.1021/jp0710739	compound_not_resolved	0
+306	unknown		10.1021/jp0710739	compound_not_resolved	0
+309	ISB		10.1021/jp0710739	compound_not_resolved	0
+310	DBCH.51		10.1021/jp0710739	compound_not_resolved	0
+314	unknown		10.1016/j.cplett.2006.03.073	compound_not_resolved	0
+315	ﬂuorescence		10.1016/j.cplett.2006.03.073	compound_not_resolved	0
+317	ﬂuorescence		10.1016/S1386-1425(99)00059-1	compound_not_resolved	0
+318	dibutoxy–divinylbenzene		10.1016/S0040-4039(00)01039-X	compound_not_resolved	0
+319	5a, 5b		10.1016/S0040-4039(00)01039-X	compound_not_resolved	0
+320	dibutoxy–divinylnaphthalene		10.1016/S0040-4039(00)01039-X	compound_not_resolved	0
+321	1,4-dibutoxy substituted bispyrrole		10.1016/S0040-4039(00)01039-X	compound_not_resolved	0
+322	unknown		10.1021/ac062160k	compound_not_resolved	0
+326	ﬂuorescence		10.1016/S0301-0104(01)00575-4	compound_not_resolved	0
+327	d-C		10.1016/S0301-0104(01)00575-4	compound_not_resolved	0
+329	unknown		10.1016/j.chemosphere.2005.04.095	compound_not_resolved	0
+330	ﬂuorescence		10.1016/j.chemosphere.2005.04.095	compound_not_resolved	0
+331	4 - hydroxy - coumarin		10.1016/j.chemosphere.2005.04.095	compound_not_resolved	0
+333	b-CD		10.1016/j.chemosphere.2005.04.095	compound_not_resolved	0
+338	BP(cid:15)C		10.1016/S1010-6030(99)00135-5	compound_not_resolved	0
+340	pyranyl		10.1016/S1010-6030(99)00135-5	compound_not_resolved	0
+341	15)C		10.1016/S1010-6030(99)00135-5	compound_not_resolved	0
+343	2		10.1016/j.cplett.2005.12.092	compound_not_resolved	0
+344	unknown		10.1016/j.cplett.2005.12.092	compound_not_resolved	0
+345	diﬀerent		10.1016/j.cplett.2005.12.092	compound_not_resolved	0
+346	ﬂuorescence		10.1016/j.cplett.2005.12.092	compound_not_resolved	0
+347	1-NACZ Cyclohexane Toluene		10.1016/j.cplett.2005.12.092	compound_not_resolved	0
+350	unknown		10.1021/ol062615s	compound_not_resolved	0
+351	distyrylbenzenes		10.1021/ol062615s	compound_not_resolved	0
+353	disilaindacene		10.1021/ol062615s	compound_not_resolved	0
+355	3-Ethyl-lumiﬂavin		10.1016/j.jphotochem.2004.08.022	compound_not_resolved	0
+357	3-ethyl-lumiﬂavin		10.1016/j.jphotochem.2004.08.022	compound_not_resolved	0
+358	3-Methyl-lumiﬂavin 3-Ethyl-lumiﬂavin		10.1016/j.jphotochem.2004.08.022	compound_not_resolved	0
+360	ﬂavins		10.1016/j.jphotochem.2004.08.022	compound_not_resolved	0
+362	2,20-di(4-(2-(1,4-dihydro-1-anthracene)-1-ethenyl)phenoxy)-1,10-binaphthyl		10.1016/j.jlumin.2006.01.257	compound_not_resolved	0
+363	2,20-di(4-(2-(1,4-dihydro-4-biphenyl)-1-ethenyl)phenoxy)-1,10-binaphthyl		10.1016/j.jlumin.2006.01.257	compound_not_resolved	0
+364	2,20-di(4-(2-(1,4-dihydro-1-naphthyl)-1-ethenyl)phenoxy)-1,10-binaphthyl		10.1016/j.jlumin.2006.01.257	compound_not_resolved	0
+365	,		10.1016/S0143-7208(03)00028-7	compound_not_resolved	0
+368	ﬂuorescence		10.1016/S0143-7208(03)00028-7	compound_not_resolved	0
+371	meta-phenylenediacetonitrile		10.1016/S0143-7208(03)00028-7	compound_not_resolved	0
+375	ethylenic		10.1016/S1386-1425(02)00164-6	compound_not_resolved	0
+381	unknown		10.1021/ol7023136	compound_not_resolved	0
+382	Fo¨rster		10.1021/ol7023136	compound_not_resolved	0
+385	,		10.1016/S0143-7208(00)00078-4	compound_not_resolved	0
+388	BODIPYs		10.1021/ol702963w	compound_not_resolved	0
+390	6,9-dimethylalloxazine		10.1016/j.theochem.2005.09.005	compound_not_resolved	0
+391	iso alloxazines		10.1016/j.theochem.2005.09.005	compound_not_resolved	0
+393	ﬂuorescence		10.1016/S1386-1425(01)00550-9	compound_not_resolved	0
+394	1)-CD		10.1016/S1386-1425(01)00550-9	compound_not_resolved	0
+395	ﬂuorescence		10.1016/j.cplett.2005.01.096	compound_not_resolved	0
+396	DTPY		10.1016/j.cplett.2005.01.096	compound_not_resolved	0
+399	C17H12N2O4		10.1021/ol061520n	compound_not_resolved	0
+406	1,6-Naphthyridines		10.1016/S1386-1425(01)00616-3	compound_not_resolved	0
+408	naphthyridi-nes		10.1016/S1386-1425(01)00616-3	compound_not_resolved	0
+409	chalcone A		10.1016/S1386-1425(01)00616-3	compound_not_resolved	0
+413	2-phenyl		10.1016/S1386-1425(01)00616-3	compound_not_resolved	0
+414	t-n-AQE		10.1039/b204780m	compound_not_resolved	0
+415	methylcy-clohexane		10.1039/b204780m	compound_not_resolved	0
+416	MCH		10.1039/b204780m	compound_not_resolved	0
+418	t-n-ANE		10.1039/b204780m	compound_not_resolved	0
+420	O2/N2		10.1039/b204780m	compound_not_resolved	0
+423	C152		10.1016/j.chemphys.2005.04.018	compound_not_resolved	0
+427	ﬂuorescence		10.1016/j.saa.2004.06.035	compound_not_resolved	0
+429	Chapter 1		10.1016/j.saa.2004.06.035	compound_not_resolved	0
+430	AcOEt/petroleum ether		10.1016/j.saa.2004.06.035	compound_not_resolved	0
+431	IBH		10.1016/j.saa.2004.06.035	compound_not_resolved	0
+432	ns		10.1016/j.saa.2004.06.035	compound_not_resolved	0
+434	[TBA][PF6]		10.1016/S1010-6030(02)00317-9	compound_not_resolved	0
+437	1)-terpinene		10.1016/S1010-6030(02)00317-9	compound_not_resolved	0
+438	ﬂuorescence		10.1016/S1010-6030(02)00317-9	compound_not_resolved	0
+441	Benzochromone		10.1016/S1010-6030(02)00317-9	compound_not_resolved	0
+442	4-Methyl-8-hydroxy-benzo(6,7)coumarin		10.1016/S1010-6030(02)00317-9	compound_not_resolved	0
+444	benzocoumarin I		10.1016/S1010-6030(02)00317-9	compound_not_resolved	0
+445	ﬂuorescence		10.1016/S1010-6030(00)00308-7	compound_not_resolved	0
+447	4-methoxy-1,8-N-methyl-naphthalimide		10.1016/j.saa.2005.05.008	compound_not_resolved	0
+454	5,10,15,20-tetrakis(4-bromophenyl)N-confused porphyrin		10.1021/jo049621r	compound_not_resolved	0
+455	H2TPP		10.1021/jo049621r	compound_not_resolved	0
+457	phenylenevinylene		10.1021/ol034246v	compound_not_resolved	0
+458	new oligo(phenylenevinylene)OPV deriva-tives		10.1021/ol034246v	compound_not_resolved	0
+460	Bu4NPF6		10.1021/ol034246v	compound_not_resolved	0
+461	Oligo(arylenevinylene)		10.1021/ol034246v	compound_not_resolved	0
+462	Mg-Ag		10.1021/ol034246v	compound_not_resolved	0
+463	SPEF		10.1016/j.cclet.2011.05.045	compound_not_resolved	0
+464	diphenylamino		10.1016/j.cclet.2011.05.045	compound_not_resolved	0
+466	Ti:sapphire		10.1016/j.cclet.2011.05.045	compound_not_resolved	0
+467	unknown		10.1016/S0022-2860(98)00375-5	compound_not_resolved	0
+469	ﬂuorescence		10.1016/S0022-2860(98)00375-5	compound_not_resolved	0
+471	9,10-diphenylan-thracene		10.1016/S1386-1425(02)00207-X	compound_not_resolved	0
+472	unknown		10.1016/S1386-1425(02)00207-X	compound_not_resolved	0
+475	unknown		10.1016/S0301-0104(98)00215-8	compound_not_resolved	0
+478	PM567		10.1016/S0301-0104(98)00215-8	compound_not_resolved	0
+483	,		10.1016/j.dyepig.2006.01.001	compound_not_resolved	0
+484	ﬂuorescence		10.1016/j.dyepig.2006.01.001	compound_not_resolved	0
+487	iminocoumarins		10.1016/j.dyepig.2006.01.001	compound_not_resolved	0
+490	thiophenyl		10.1021/jo062150j	compound_not_resolved	0
+491	alkylamino		10.1021/jo062150j	compound_not_resolved	0
+492	alkoxy		10.1021/jo062150j	compound_not_resolved	0
+493	alkythio		10.1021/jo062150j	compound_not_resolved	0
+495	,		10.1021/jo062150j	compound_not_resolved	0
+496	alkylthio		10.1021/jo062150j	compound_not_resolved	0
+497	9,-10-tetracarboxydiimide		10.1021/jo062150j	compound_not_resolved	0
+498	amino		10.1021/jo062150j	compound_not_resolved	0
+500	9-DMA		10.1021/jp9638696	compound_not_resolved	0
+504	(cid:231)-CDx		10.1021/jp9638696	compound_not_resolved	0
+511	p-- nitrodiphenylhexa-1,3,5-triene		10.1016/S1010-6030(01)00471-3	compound_not_resolved	0
+512	3)		10.1016/S1010-6030(01)00471-3	compound_not_resolved	0
+514	DPB		10.1016/S1010-6030(01)00471-3	compound_not_resolved	0
+516	DSTBA		10.1016/S1010-6030(01)00471-3	compound_not_resolved	0
+517	ps		10.1016/S1010-6030(01)00471-3	compound_not_resolved	0
+519	unknown		10.1016/S1010-6030(01)00471-3	compound_not_resolved	0
+520	diindeno[1,2,3-cd:1¢, 2¢, 3¢-jk]pyrene		10.1021/jo0613939	compound_not_resolved	0
+521	diindeno[1,2,3-cd:1¢, 2¢, 3¢-fg]-pyrene		10.1021/jo0613939	compound_not_resolved	0
+522	2,7,11-tri-tert-butyltriindeno[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢ ¢-jk]pyrene		10.1021/jo0613939	compound_not_resolved	0
+523	2,7,11,16-tetra-tert-butyltetraindeno-¢, 2¢, 2¢[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢-mn]pyrene		10.1021/jo0613939	compound_not_resolved	0
+524	2,7,-11,16-tetra-tert-butyltetraindeno[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢-mn]pyrene		10.1021/jo0613939	compound_not_resolved	0
+525	indenopyrenes		10.1021/jo0613939	compound_not_resolved	0
+526	unknown		10.1021/jo0613939	compound_not_resolved	0
+529	alkanes		10.1021/jo0613939	compound_not_resolved	0
+531	2,7,11,16-tetra-tert-butyltetraindeno[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢-mn]pyrene		10.1021/jo0613939	compound_not_resolved	0
+534	…		10.1021/jo0601314	compound_not_resolved	0
+538	Dihydroheptacenes		10.1021/jo0601314	compound_not_resolved	0
+541	Nd3 +		10.1016/j.cplett.2006.04.104	compound_not_resolved	0
+544	ﬂuorescence		10.1016/j.cplett.2006.04.104	compound_not_resolved	0
+548	PPD		10.References	compound_not_resolved	0
+557	DMS		10.References	compound_not_resolved	0
+558	DBS		10.References	compound_not_resolved	0
+560	1, 4-bis(5-phenyloxazole-2-yl)benzene		10.References	compound_not_resolved	0
+571	Quin		10.References	compound_not_resolved	0
+573	Mg-Quin		10.References	compound_not_resolved	0
+580	unknown		10.References	compound_not_resolved	0
+581	Editor		10.References	compound_not_resolved	0
+583	CY3		10.References	compound_not_resolved	0
+587	ﬂuorescent		10.1002/poc.1222	compound_not_resolved	0
+590	ﬂuorescence		10.1002/poc.1222	compound_not_resolved	0
+591	unknown		10.1021/jp076026v	compound_not_resolved	0
+597	aliphatic alcohols		10.1021/jp076026v	compound_not_resolved	0
+601	stilbene azobenzene		10.1021/jp076026v	compound_not_resolved	0
+603	RhB		10.1021/jp076026v	compound_not_resolved	0
+606	alcohols		10.1021/jp076026v	compound_not_resolved	0
+609	acetonitrile,7		10.1021/jp076026v	compound_not_resolved	0
+614	MC540		10.1021/jp044530j	compound_not_resolved	0
+615	phenothiazines		10.1021/jp044530j	compound_not_resolved	0
+616	TFMP		10.1021/jp044530j	compound_not_resolved	0
+617	2-sulfur		10.1021/jp044530j	compound_not_resolved	0
+618	2-trifuoromethylpromazine hydrochloride		10.1021/jp044530j	compound_not_resolved	0
+622	1.27 0.67		10.1021/jp044530j	compound_not_resolved	0
+624	promazines		10.1021/jp044530j	compound_not_resolved	0
+625	10-alkylated phenothiazines		10.1021/jp044530j	compound_not_resolved	0
+626	10-Alkylated Phenothiazines		10.1021/jp044530j	compound_not_resolved	0
+627	2-CF3		10.1021/jp044530j	compound_not_resolved	0
+629	ref 23		10.1021/jp044530j	compound_not_resolved	0
+636	(E, E, E)-1-(4-Ethoxyphenyl)-6-(4-nitrophenyl)-1,3,5-hex-atriene		10.1021/jp064937j	compound_not_resolved	0
+640	13C		10.1021/jp064937j	compound_not_resolved	0
+641	1a-d		10.1021/jp064937j	compound_not_resolved	0
+643	1a-d 1bb		10.1021/jp064937j	compound_not_resolved	0
+644	1a, 1c ,		10.1021/jp064937j	compound_not_resolved	0
+646	3-coumarin		10.1021/jo0493424	compound_not_resolved	0
+647	N, N-dimethyl-anilino		10.1021/jo0493424	compound_not_resolved	0
+648	cou-marin		10.1021/jo0493424	compound_not_resolved	0
+649	benzo[c]phosphole		10.1021/ol800841v	compound_not_resolved	0
+650	benzophosphole oxides		10.1021/ol800841v	compound_not_resolved	0
+651	benzo-phosphole		10.1021/ol800841v	compound_not_resolved	0
+654	ﬂuorescence		10.1016/j.cplett.2004.10.101	compound_not_resolved	0
+656	tyrosine.4		10.1016/j.tetlet.2004.06.072	compound_not_resolved	0
+658	ﬂuorescence.4		10.1016/j.tetlet.2004.06.072	compound_not_resolved	0
+659	ﬂuorescence		10.1016/j.tetlet.2004.06.072	compound_not_resolved	0
+661	trans-3-(4-monomethyla)-acrylonitrile		10.1016/j.chemphys.2005.12.032	compound_not_resolved	0
+667	MMAPA		10.1016/j.chemphys.2005.12.032	compound_not_resolved	0
+669	enediyne		10.1021/ja0349148	compound_not_resolved	0
+670	1,1-Dibromo-1-alkenes		10.1021/ja0349148	compound_not_resolved	0
+673	neutral		10.1021/jp963263h	compound_not_resolved	0
+675	Methyl Ester		10.1021/jp963263h	compound_not_resolved	0
+676	9-MCA		10.1021/jp963263h	compound_not_resolved	0
+678	acridine.30,31		10.1021/jp963263h	compound_not_resolved	0
+679	hydro-gen		10.1021/jp963263h	compound_not_resolved	0
+682	NMe2		10.1016/j.saa.2006.12.057	compound_not_resolved	0
+685	SPEF		10.1016/j.optmat.2004.02.022	compound_not_resolved	0
+686	BCSBT		10.1016/j.optmat.2004.02.022	compound_not_resolved	0
+688	ns		10.1016/j.optmat.2004.02.022	compound_not_resolved	0
+689	5,50-bis(p-N-carbazoylstyryl)-2,20-bithio-phene		10.1016/j.optmat.2004.02.022	compound_not_resolved	0
+691	5,50-bis(p-N, N-dimethylaminostyryl)-2,20-bi-thiophene		10.1016/j.optmat.2004.02.022	compound_not_resolved	0
+694	Chex, cyclohexane		10.1021/jp051035u	compound_not_resolved	0
+697	BIM		10.1021/jp051035u	compound_not_resolved	0
+698	TEA		10.1021/jp051035u	compound_not_resolved	0
+703	unknown		10.1021/jp051035u	compound_not_resolved	0
+707	diphenyanthracene		10.1021/jo0703911	compound_not_resolved	0
+708	…		10.1021/jo0703911	compound_not_resolved	0
+710	PMMA		10.1021/jo0703911	compound_not_resolved	0
+712	unknown		10.1021/jo0703911	compound_not_resolved	0
+716	N-triazinyl		10.1016/j.dyepig.2008.12.009	compound_not_resolved	0
+719	dipyridopyrazole		10.1021/jo801549u	compound_not_resolved	0
+720	pyridopyrazolopyrazines		10.1021/jo801549u	compound_not_resolved	0
+721	unknown		10.1021/jo801549u	compound_not_resolved	0
+723	ﬂuorescence		10.1016/j.jphotochem.2005.04.024	compound_not_resolved	0
+724	mono-oxacorrole		10.1016/j.jphotochem.2005.04.024	compound_not_resolved	0
+725	unknown		10.1016/j.jphotochem.2005.04.024	compound_not_resolved	0
+726	para-cyano		10.1016/j.jphotochem.2005.04.024	compound_not_resolved	0
+727	tetraphenyl porphyrin		10.1016/j.jphotochem.2005.04.024	compound_not_resolved	0
+732	4-morholino		10.1016/j.mencom.2018.01.002	compound_not_resolved	0
+733	2-thienylquinazoline		10.1016/j.mencom.2018.01.002	compound_not_resolved	0
+734	H2O/D2O		10.1021/jp037132+	compound_not_resolved	0
+737	30)		10.1021/jp037132+	compound_not_resolved	0
+738	DMABP		10.1021/jp037132+	compound_not_resolved	0
+740	unknown		10.1021/jp037132+	compound_not_resolved	0
+743	alcohols		10.1021/jp037132+	compound_not_resolved	0
+748	DMABP.53		10.1021/jp037132+	compound_not_resolved	0
+751	aza-BDTPs		10.1021/ol4034622	compound_not_resolved	0
+752	aza-BDTP		10.1021/ol4034622	compound_not_resolved	0
+753	ol4034622		10.1021/ol4034622	compound_not_resolved	0
+754	ﬂuorescence		10.1021/ol4034622	compound_not_resolved	0
+757	styryl		10.1021/jp073547+	compound_not_resolved	0
+758	4,4-difluoro-4-bora-3a,-4a-diaza-s-indacene		10.1021/jp073547+	compound_not_resolved	0
+762	3,5-diethynylphenyl		10.1021/jp073547+	compound_not_resolved	0
+763	borondipyrromethene		10.1021/jp073547+	compound_not_resolved	0
+764	3,5-diaryl-4,4-difluoro-4-bora-3a,4a-diaza-s-indacene		10.1021/jp073547+	compound_not_resolved	0
+765	BODIPY,8,14-18		10.1021/jp073547+	compound_not_resolved	0
+766	3,5-diarylBODIPY 6		10.1021/jp073547+	compound_not_resolved	0
+767	dichloroBODIPY		10.1021/jp073547+	compound_not_resolved	0
+768	3,5-diethynylaryl		10.1021/jp073547+	compound_not_resolved	0
+771	,		10.1021/jp073547+	compound_not_resolved	0
+773	dichloromethane.3		10.1021/jp073547+	compound_not_resolved	0
+775	unknown		10.1021/jp054878u	compound_not_resolved	0
+781	1		10.1021/jp054878u	compound_not_resolved	0
+785	p-N, N-dimethylaminobenzaldehyde		10.1021/jp054878u	compound_not_resolved	0
+787	chloroform/hexane		10.1021/jp054878u	compound_not_resolved	0
+790	BMH +		10.1021/jp3106869	compound_not_resolved	0
+791	HNEP +		10.1021/jp3106869	compound_not_resolved	0
+794	HNEP		10.1021/jp3106869	compound_not_resolved	0
+797	eﬀect		10.1021/jp3106869	compound_not_resolved	0
+801	ﬂuorescence		10.1016/j.jphotochem.2007.02.008	compound_not_resolved	0
+802	, φf = 0.78		10.1016/j.jphotochem.2007.02.008	compound_not_resolved	0
+805	unknown		10.1002/ajoc.201402024	compound_not_resolved	0
+806	,		10.1002/ajoc.201402024	compound_not_resolved	0
+808	1,2-bis(pyridylphe-nyl)ethenes		10.1002/ajoc.201402024	compound_not_resolved	0
+810	1H-pyrazolo[1,2-b]phthalazine-5,10-diones		10.1016/j.tetlet.2011.08.111	compound_not_resolved	0
+813	ﬂuorescent		10.1016/j.tetlet.2011.08.111	compound_not_resolved	0
+815	B2N		10.1016/j.dyepig.2008.10.009	compound_not_resolved	0
+818	ﬂuorescence		10.1016/j.tetlet.2013.01.096	compound_not_resolved	0
+820	dioxo		10.1016/j.dyepig.2004.05.003	compound_not_resolved	0
+823	ﬂuorescence		10.1016/j.jphotochem.2005.11.004	compound_not_resolved	0
+826	Eox1		10.1016/j.jphotochem.2005.11.004	compound_not_resolved	0
+827	cyclo-hexaneeethyl acetate		10.1016/j.dyepig.2007.11.003	compound_not_resolved	0
+830	ANA		10.1021/jp044669u	compound_not_resolved	0
+831	arylamino		10.1021/jp044669u	compound_not_resolved	0
+833	HOMO		10.1021/jp044669u	compound_not_resolved	0
+834	pyrenyl		10.1021/jp044669u	compound_not_resolved	0
+835	anthracenyl		10.1021/jp044669u	compound_not_resolved	0
+836	naphthyl		10.1021/jp044669u	compound_not_resolved	0
+837	unknown		10.1021/jp044669u	compound_not_resolved	0
+840	CH2-Cl2		10.1021/jp044669u	compound_not_resolved	0
+842	4-(Phenyl pyren-1-yl)amino-1,8-naphthalic Anhydride		10.1021/jp044669u	compound_not_resolved	0
+843	ANA-1-3		10.1021/jp044669u	compound_not_resolved	0
+846	pentacenes		10.1021/ol801464k	compound_not_resolved	0
+847	6,13-bis(triisopropylsilyl-ethynyl)pentacene		10.1021/ol801464k	compound_not_resolved	0
+848	6,13-diarylpentacene		10.1021/ol801464k	compound_not_resolved	0
+849	alkoxy		10.1021/ol801464k	compound_not_resolved	0
+852	CF3		10.1021/ol801464k	compound_not_resolved	0
+855	TIPS-ethynyl		10.1021/ol801464k	compound_not_resolved	0
+857	lithium acetylide		10.1021/ol801464k	compound_not_resolved	0
+858	6,13-bis(trialkylsilylethynyl)pentacenes		10.1021/ol801464k	compound_not_resolved	0
+860	unknown		10.1021/ol801464k	compound_not_resolved	0
+862	amino		10.1016/j.jphotochem.2012.04.011	compound_not_resolved	0
+863	unknown		10.1021/ol400605x	compound_not_resolved	0
+864	PQBD		10.1021/ol400605x	compound_not_resolved	0
+865	PQBD 1		10.1021/ol400605x	compound_not_resolved	0
+866	5,5 ′-Bis(tris(trimethylsilyl)silyl)-2,2 ′-bithiophene		10.1021/jo500029f	compound_not_resolved	0
+868	Si-T2		10.1021/jo500029f	compound_not_resolved	0
+869	Si-T4		10.1021/jo500029f	compound_not_resolved	0
+871	2,6-Bis(1,1,1,3,3,3-hexamethyl-2-(trimethylsilyl)trisilan-2-yl)-dithieno[3,2-b:2 ′,3 ′-d]thiophene		10.1021/jo500029f	compound_not_resolved	0
+872	Ti:Sap-phire		10.1016/j.cplett.2008.09.030	compound_not_resolved	0
+874	Schiff bases		10.1016/j.cplett.2008.09.030	compound_not_resolved	0
+876	alcohols		10.1016/j.cplett.2008.09.030	compound_not_resolved	0
+877	ﬂuorescence		10.1016/j.cplett.2008.09.030	compound_not_resolved	0
+882	unmodiﬁed		10.1016/j.tetlet.2011.09.077	compound_not_resolved	0
+887	unknown		10.1021/jo048914h	compound_not_resolved	0
+889	,		10.1021/jo048914h	compound_not_resolved	0
+891	2,5-Bis(phenylethynyl)pyrimidine		10.1021/jo048914h	compound_not_resolved	0
+892	He-Cd		10.1021/jo048914h	compound_not_resolved	0
+895	Ph		10.1021/jo0706574	compound_not_resolved	0
+896	4,4¢-n-Bu		10.1021/jo0706574	compound_not_resolved	0
+897	n-Bu-phenanthrene		10.1021/jo0706574	compound_not_resolved	0
+898	2,2¢-n-Bu		10.1021/jo0706574	compound_not_resolved	0
+899	n-Bu		10.1021/jo0706574	compound_not_resolved	0
+900	unknown		10.1021/jo0706574	compound_not_resolved	0
+903	CD2-Cl2		10.1021/jo0706574	compound_not_resolved	0
+904	5-12a UV-visb		10.1021/jo0706574	compound_not_resolved	0
+911	,		10.1016/j.crci.2012.01.009	compound_not_resolved	0
+912	ﬂuorescence		10.1016/j.crci.2012.01.009	compound_not_resolved	0
+916	ﬂuorescence		10.1016/j.tet.2013.01.037	compound_not_resolved	0
+924	ﬂuorescence		10.1016/S1010-6030(00)00359-2	compound_not_resolved	0
+927	CPPSH		10.1016/S1010-6030(00)00359-2	compound_not_resolved	0
+928	proﬁle		10.1016/S1010-6030(00)00359-2	compound_not_resolved	0
+929	BCzPCz		10.1002/bio.2400	compound_not_resolved	0
+933	Benzo[c]cinnolinium		10.1021/acs.joc.5b00242	compound_not_resolved	0
+936	aBCL3		10.1021/acs.joc.5b00242	compound_not_resolved	0
+937	aBCL3(C)		10.1021/acs.joc.5b00242	compound_not_resolved	0
+939	9-aminobenzo[c]cinnoliniums		10.1021/acs.joc.5b00242	compound_not_resolved	0
+940	aBCL2		10.1021/acs.joc.5b00242	compound_not_resolved	0
+941	600 Wavelength		10.1021/acs.joc.5b00242	compound_not_resolved	0
+942	HeLa		10.1021/acs.joc.5b00242	compound_not_resolved	0
+943	unknown		10.1021/jo049452a	compound_not_resolved	0
+944	C90H36		10.1021/jo049452a	compound_not_resolved	0
+947	acetoni-trile		10.1016/j.jphotochem.2005.04.035	compound_not_resolved	0
+948	1)-DMA		10.1016/j.jphotochem.2005.04.035	compound_not_resolved	0
+950	6,5		10.1016/j.jphotochem.2005.04.035	compound_not_resolved	0
+953	methylan-gelicins		10.1016/j.jphotochem.2005.04.035	compound_not_resolved	0
+955	Angelicins		10.1016/j.jphotochem.2005.04.035	compound_not_resolved	0
+956	O2(1		10.1016/j.jphotochem.2005.04.035	compound_not_resolved	0
+960	6,8-Dimethyl-2H-furo[2,3-h]chromen-2-one		10.1016/j.jphotochem.2005.04.035	compound_not_resolved	0
+961	ﬂuorescence		10.1016/j.saa.2009.03.026	compound_not_resolved	0
+966	carbonyl		10.1016/j.saa.2009.03.026	compound_not_resolved	0
+967	ﬁve		10.1016/j.saa.2009.03.026	compound_not_resolved	0
+968	1e ,		10.1016/j.saa.2009.03.026	compound_not_resolved	0
+972	ﬂuorescence		10.1016/j.molliq.2011.09.014	compound_not_resolved	0
+973	5-AQ		10.1016/j.molliq.2011.09.014	compound_not_resolved	0
+975	ACN		10.1016/j.molliq.2011.09.014	compound_not_resolved	0
+976	imino		10.1016/j.molliq.2011.09.014	compound_not_resolved	0
+977	ﬂuorescent		10.1016/j.jphotochem.2006.02.028	compound_not_resolved	0
+979	(1)n-heptane		10.1016/j.jphotochem.2006.02.028	compound_not_resolved	0
+980	ns		10.1016/j.jphotochem.2006.02.028	compound_not_resolved	0
+981	ﬂuorescence		10.1016/j.jphotochem.2006.02.028	compound_not_resolved	0
+983	ﬂuorescence		10.1016/j.saa.2007.03.018	compound_not_resolved	0
+985	ﬂuorescence		10.1016/j.dyepig.2012.12.031	compound_not_resolved	0
+986	heptamethine		10.1016/j.dyepig.2012.12.031	compound_not_resolved	0
+990	indolenine		10.1016/j.dyepig.2012.12.031	compound_not_resolved	0
+991	N-sulfophenyl		10.1016/j.dyepig.2012.12.031	compound_not_resolved	0
+992	N-(4-sulfophenyl)		10.1016/j.dyepig.2012.12.031	compound_not_resolved	0
+993	Tricarbo-cyanine cholesteryl		10.1016/j.dyepig.2012.12.031	compound_not_resolved	0
+995	unknown		10.1016/j.jqsrt.2010.09.001	compound_not_resolved	0
+996	molecules		10.1016/j.jqsrt.2010.09.001	compound_not_resolved	0
+998	#VALUE!		10.1016/j.cclet.2019.04.058	compound_not_resolved	0
+999	N1		10.1016/j.cclet.2019.04.058	compound_not_resolved	0
+1000	HeLa		10.1016/j.cclet.2019.04.058	compound_not_resolved	0
+1001	BF2bdk		10.1016/j.cclet.2019.04.058	compound_not_resolved	0
+1002	Ti-Sapphire		10.1016/j.cplett.2004.10.154	compound_not_resolved	0
+1003	Wavelength		10.1016/j.cplett.2004.10.154	compound_not_resolved	0
+1004	CH 3		10.1016/j.cplett.2004.10.154	compound_not_resolved	0
+1006	DMDCB		10.1016/j.cplett.2004.10.154	compound_not_resolved	0
+1010	unknown		10.1021/bi00581a025	compound_not_resolved	0
+1015	N-Phenyl-6-((1E,3E)-4-phenylbuta-1,3-dienyl)quinazolin-4-amine		10.1021/jo500520x	compound_not_resolved	0
+1016	ﬂuorescence		10.1021/jo500520x	compound_not_resolved	0
+1017	2-propanol/ethyl acetate		10.1021/jo500520x	compound_not_resolved	0
+1019	coefﬁcient		10.1016/j.jphotochem.2008.06.014	compound_not_resolved	0
+1021	7-amino		10.1016/j.jphotochem.2008.06.014	compound_not_resolved	0
+1023	amino		10.1016/j.jphotochem.2008.06.014	compound_not_resolved	0
+1025	2-Phenyl-9-N, N-dimethylamino-3H-naphtho[2,1-b][1,4]-oxazin-3-one		10.1016/j.jphotochem.2008.06.014	compound_not_resolved	0
+1027	2-methyl		10.1016/j.jphotochem.2008.06.014	compound_not_resolved	0
+1033	3-methoxy		10.1016/j.tet.2011.07.018	compound_not_resolved	0
+1034	,		10.1016/j.tet.2011.07.018	compound_not_resolved	0
+1035	efﬁcient		10.1016/j.tet.2011.07.018	compound_not_resolved	0
+1036	dimethoxy		10.1016/j.tet.2011.07.018	compound_not_resolved	0
+1037	etheremethanol		10.1016/j.tet.2011.07.018	compound_not_resolved	0
+1043	DMOC-DPS		10.1039/c3tc31936a	compound_not_resolved	0
+1045	3,6-di-tert-butyl-carbazole		10.1039/c3tc31936a	compound_not_resolved	0
+1047	ﬂuorescence		10.1016/j.cplett.2012.03.108	compound_not_resolved	0
+1051	TPA-TPP1/TPA-TPP2		10.1016/j.tetlet.2012.01.116	compound_not_resolved	0
+1052	TPA-TPP1		10.1016/j.tetlet.2012.01.116	compound_not_resolved	0
+1054	2,6-diphenyl-4-(4-vinylphe-nyl)pyridine		10.1016/j.tetlet.2012.01.116	compound_not_resolved	0
+1058	1-Cl-Pannerine		10.1016/j.jphotobiol.2008.12.008	compound_not_resolved	0
+1062	unknown		10.1016/0584-8539(94)E0121-P	compound_not_resolved	0
+1067	30)F		10.1021/jp047557b	compound_not_resolved	0
+1070	Cu(II)		10.1021/jp047557b	compound_not_resolved	0
+1072	5H		10.1021/jp047557b	compound_not_resolved	0
+1075	BN-phenanthrenes		10.1021/acs.joc.9b00800	compound_not_resolved	0
+1078	alkynyl		10.1021/acs.joc.9b00800	compound_not_resolved	0
+1080	3,4-dihydro-4-aza-3-boraphenanthrene		10.1021/acs.joc.9b00800	compound_not_resolved	0
+1082	unknown		10.1021/acs.joc.9b00800	compound_not_resolved	0
+1084	a		10.1021/j100558a015	compound_not_resolved	0
+1088	chrysenes		10.1021/jo402429q	compound_not_resolved	0
+1089	chrysene 4		10.1021/jo402429q	compound_not_resolved	0
+1091	N - diphenylamino ) phenyl ] benzidine		10.1021/jo402429q	compound_not_resolved	0
+1094	, 322 296, 351 300 303 349 308, 372, 394 329, 396, 416 299, 370		10.1021/jo402429q	compound_not_resolved	0
+1099	quinine sul-phate		10.1016/j.jphotochem.2004.08.015	compound_not_resolved	0
+1100	MeOH HCONHMe		10.1016/j.jphotochem.2004.08.015	compound_not_resolved	0
+1101	Chapter 1		10.1016/j.jphotochem.2004.08.015	compound_not_resolved	0
+1102	Ti:Sapphire		10.1016/j.jphotochem.2004.08.015	compound_not_resolved	0
+1103	unknown		10.1016/j.jphotochem.2004.08.015	compound_not_resolved	0
+1105	iPrOH-6F		10.1016/j.jphotochem.2004.08.015	compound_not_resolved	0
+1109	unknown		10.1016/j.molliq.2014.02.029	compound_not_resolved	0
+1110	2-imino-2H-chromene-3-carbonitrile3a		10.1016/j.molliq.2014.02.029	compound_not_resolved	0
+1111	Slope S2 NSlope		10.1016/j.molliq.2014.02.029	compound_not_resolved	0
+1112	carbonitrile		10.1016/j.molliq.2014.02.029	compound_not_resolved	0
+1115	Gas phase		10.1016/j.molliq.2014.02.029	compound_not_resolved	0
+1119	Thieno-[3,4]-pyrazine		10.1016/j.dyepig.2012.08.028	compound_not_resolved	0
+1120	thieno-[3,4-b]-pyrazine		10.1016/j.dyepig.2012.08.028	compound_not_resolved	0
+1121	T-		10.1016/j.dyepig.2012.08.028	compound_not_resolved	0
+1123	dime-thoxy		10.1016/j.dyepig.2010.06.009	compound_not_resolved	0
+1125	perylenes		10.1016/j.dyepig.2010.06.009	compound_not_resolved	0
+1128	ﬂuorescence		10.1016/j.dyepig.2010.06.009	compound_not_resolved	0
+1130	unknown		10.1016/S1010-6030(96)04410-3	compound_not_resolved	0
+1131	,		10.1016/S1010-6030(96)04410-3	compound_not_resolved	0
+1133	2-and 6-phenyl		10.1016/S1010-6030(96)04410-3	compound_not_resolved	0
+1136	Terphenyl		10.1016/j.dyepig.2010.07.006	compound_not_resolved	0
+1138	C–N		10.1021/acs.joc.6b00981	compound_not_resolved	0
+1139	CV		10.1021/acs.joc.6b00981	compound_not_resolved	0
+1142	M-1 cm-1		10.1021/acs.joc.6b00981	compound_not_resolved	0
+1143	Thioxanthones		10.1021/jo202062f	compound_not_resolved	0
+1146	Diphenylan-thracene		10.1021/jo202062f	compound_not_resolved	0
+1147	diverse fluorinated fluorophores		10.1021/jo202062f	compound_not_resolved	0
+1157	#NAME?		10.1016/1010-6030(94)03924-J	compound_not_resolved	0
+1158	alcohols		10.1016/1010-6030(94)03924-J	compound_not_resolved	0
+1160	#NAME?		10.1016/1010-6030(94)03924-J	compound_not_resolved	0
+1168	C-nucleoside		10.1016/j.tet.2007.01.075	compound_not_resolved	0
+1169	2-picolinoyl-pyrrole		10.1016/j.cplett.2007.01.001	compound_not_resolved	0
+1170	diﬂuoroboron		10.1016/j.cplett.2007.01.001	compound_not_resolved	0
+1171	BOPPY		10.1016/j.cplett.2007.01.001	compound_not_resolved	0
+1172	ﬂuorescence		10.1016/j.cplett.2007.01.001	compound_not_resolved	0
+1174	BODIPYs		10.1016/j.bmcl.2015.10.091	compound_not_resolved	0
+1176	BODIPY–anthracene		10.1016/j.bmcl.2015.10.091	compound_not_resolved	0
+1177	BODIPY 1		10.1016/j.bmcl.2015.10.091	compound_not_resolved	0
+1179	N-dimethylamino		10.1016/j.dyepig.2004.02.011	compound_not_resolved	0
+1181	Ti-sapphire		10.1016/j.dyepig.2004.02.011	compound_not_resolved	0
+1183	hex-adecyl		10.1016/j.dyepig.2004.02.011	compound_not_resolved	0
+1184	ﬂuorescence		10.1016/j.dyepig.2004.02.011	compound_not_resolved	0
+1185	hemicyanine		10.1016/j.dyepig.2004.02.011	compound_not_resolved	0
+1186	,		10.1016/j.dyepig.2004.02.011	compound_not_resolved	0
+1189	Ti-sapphire		10.1016/j.chemphys.2006.05.019	compound_not_resolved	0
+1190	ﬂuorescence		10.1016/j.chemphys.2006.05.019	compound_not_resolved	0
+1195	ﬂuorescence		10.1016/j.tetlet.2011.02.088	compound_not_resolved	0
+1197	TCPO		10.1016/j.jlumin.2012.10.021	compound_not_resolved	0
+1198	FFL		10.1016/j.jlumin.2012.10.021	compound_not_resolved	0
+1199	9		10.1016/j.jlumin.2012.10.021	compound_not_resolved	0
+1202	ﬂuorophores		10.1016/j.jlumin.2012.10.021	compound_not_resolved	0
+1203	4-acetyl-4 ′-(dimethylamino)biphenyl		10.1016/j.saa.2015.11.034	compound_not_resolved	0
+1204	BCP		10.1016/j.saa.2015.11.034	compound_not_resolved	0
+1211	signiﬁcantly		10.1016/j.snb.2011.03.020	compound_not_resolved	0
+1219	dibenzocycloheptatrienyls		10.1021/jp073767n	compound_not_resolved	0
+1220	tolan 12		10.1021/acs.orglett.5b03205	compound_not_resolved	0
+1223	11		10.1021/acs.orglett.5b03205	compound_not_resolved	0
+1224	ﬂuorescence		10.1021/acs.orglett.5b03205	compound_not_resolved	0
+1226	unknown		10.1016/j.jphotochem.2008.09.008	compound_not_resolved	0
+1227	ﬂuorescent		10.1016/j.jphotochem.2008.09.008	compound_not_resolved	0
+1228	meso-chlorine		10.1016/j.jphotochem.2008.09.008	compound_not_resolved	0
+1229	heptamethine		10.1016/j.jphotochem.2008.09.008	compound_not_resolved	0
+1230	C(Me)		10.1016/j.jphotochem.2008.09.008	compound_not_resolved	0
+1231	PMMA		10.1021/ma802532b	compound_not_resolved	0
+1232	PSt(ε)2.5)13		10.1021/ma802532b	compound_not_resolved	0
+1233	P(St-co-2)signiﬁcantly		10.1021/ma802532b	compound_not_resolved	0
+1235	P(St-co-2)		10.1021/ma802532b	compound_not_resolved	0
+1236	P(AN-co-2)		10.1021/ma802532b	compound_not_resolved	0
+1237	PSt		10.1021/ma802532b	compound_not_resolved	0
+1239	aza 4H		10.1016/j.cclet.2019.02.016	compound_not_resolved	0
+1241	aza-BODIPYs		10.1016/j.cclet.2019.02.016	compound_not_resolved	0
+1243	unknown		10.1016/j.cclet.2019.02.016	compound_not_resolved	0
+1245	ABG		10.1016/j.tetlet.2010.11.053	compound_not_resolved	0
+1246	unknown		10.1016/j.tetlet.2010.11.053	compound_not_resolved	0
+1247	ﬂuorescence		10.1016/j.tetlet.2010.11.053	compound_not_resolved	0
+1248	Perylenes		10.1021/jo8012622	compound_not_resolved	0
+1250	Perylene bisimides		10.1021/jo8012622	compound_not_resolved	0
+1252	6-piperidin-1-yl-benzo[de]isoquinoline-1,3-dione		10.1016/j.dyepig.2004.05.011	compound_not_resolved	0
+1255	DNPOA		10.1016/j.dyepig.2004.05.011	compound_not_resolved	0
+1257	naphtha-limide		10.1016/j.dyepig.2004.05.011	compound_not_resolved	0
+1260	unknown		10.1016/j.cplett.2016.10.020	compound_not_resolved	0
+1261	Signiﬁcant		10.1016/j.cplett.2016.10.020	compound_not_resolved	0
+1262	ﬂuorescence		10.1016/j.cplett.2016.10.020	compound_not_resolved	0
+1271	ﬂuorescence		10.1016/j.jlumin.2011.05.048	compound_not_resolved	0
+1272	pyridinium.13		10.1016/j.tetlet.2007.08.086	compound_not_resolved	0
+1273	1D		10.1016/j.tetlet.2007.08.086	compound_not_resolved	0
+1277	ﬂuorescence		10.1016/j.saa.2009.01.001	compound_not_resolved	0
+1278	amines		10.1016/j.dyepig.2009.11.009	compound_not_resolved	0
+1282	2,8-yl		10.1016/j.dyepig.2009.11.009	compound_not_resolved	0
+1284	3,3,3-trifluoroprop-1-		10.1021/acs.joc.9b02857	compound_not_resolved	0
+1285	(E)-2-(3,3,3-Trifluoroprop-1-enyl)aniline		10.1021/acs.joc.9b02857	compound_not_resolved	0
+1286	2-TFPE-aniline		10.1021/acs.joc.9b02857	compound_not_resolved	0
+1289	3-PhQAD		10.1021/acsami.8b19635	compound_not_resolved	0
+1290	unknown		10.1021/acsami.8b19635	compound_not_resolved	0
+1291	7-PhQAD		10.1021/acsami.8b19635	compound_not_resolved	0
+1293	B3(N3)		10.1021/jo071064w	compound_not_resolved	0
+1295	B3		10.1021/jo071064w	compound_not_resolved	0
+1296	BN2		10.1021/jo071064w	compound_not_resolved	0
+1297	B2N		10.1021/jo071064w	compound_not_resolved	0
+1298	6DMN-GlyOMe		10.1021/jo071064w	compound_not_resolved	0
+1299	2-Dimesitylboryl-7,12-di(N, N-diphenylamino)-5,5¢, 10,10¢, 15,15¢-hexaethyltruxene		10.1021/jo071064w	compound_not_resolved	0
+1301	2,7-Di(dimesitylboryl)-12-(N, N-diphenylamino)-5,5¢, 10,10¢, 15,15¢-hexaethyltruxene		10.1021/jo071064w	compound_not_resolved	0
+1302	N1		10.1021/jo071064w	compound_not_resolved	0
+1305	unknown		10.1016/j.saa.2012.10.005	compound_not_resolved	0
+1307	MDPA-PAO		10.1016/j.saa.2012.10.005	compound_not_resolved	0
+1308	MDPAPAO		10.1016/j.saa.2012.10.005	compound_not_resolved	0
+1310	MDMAPAO		10.1016/j.saa.2012.10.005	compound_not_resolved	0
+1314	unknown		10.1021/acsami.5b05648	compound_not_resolved	0
+1315	Time		10.1021/acsami.5b05648	compound_not_resolved	0
+1317	TADF		10.1021/acsami.5b05648	compound_not_resolved	0
+1320	TABLE		10.1063/1.1675715	compound_not_resolved	0
+1321	0		10.1016/j.bioorg.2017.02.015	compound_not_resolved	0
+1322	3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-		10.1016/j.bioorg.2017.02.015	compound_not_resolved	0
+1324	unknown		10.1016/j.bioorg.2017.02.015	compound_not_resolved	0
+1325	Hoechst		10.1016/j.bioorg.2017.02.015	compound_not_resolved	0
+1326	M2		10.1016/j.bioorg.2017.02.015	compound_not_resolved	0
+1327	R6G		10.1021/j100535a016	compound_not_resolved	0
+1328	unknown		10.1021/j100535a016	compound_not_resolved	0
+1329	R6G-ethanol		10.1021/j100535a016	compound_not_resolved	0
+1332	PzCz		10.1039/c3mh00079f	compound_not_resolved	0
+1333	CzTPN		10.1039/c3mh00079f	compound_not_resolved	0
+1339	azomethines		10.1021/jo070100o	compound_not_resolved	0
+1345	CzCP		10.1021/acs.chemmater.8b01207	compound_not_resolved	0
+1348	unknown		10.1021/acs.chemmater.8b01207	compound_not_resolved	0
+1352	BrC1		10.1016/1010-6030(94)03949-U	compound_not_resolved	0
+1354	Br2-Br2		10.1016/1010-6030(94)03949-U	compound_not_resolved	0
+1355	unknown		10.1016/1010-6030(94)03949-U	compound_not_resolved	0
+1356	3Cz2DMeCzBN		10.1126/sciadv.aao6910	compound_not_resolved	0
+1357	3Cz2DPhCzBN		10.1126/sciadv.aao6910	compound_not_resolved	0
+1360	anthryl		10.1016/j.jorganchem.2003.12.038	compound_not_resolved	0
+1361	naphthyl		10.1016/j.jorganchem.2003.12.038	compound_not_resolved	0
+1364	diﬀerential		10.1016/j.jorganchem.2003.12.038	compound_not_resolved	0
+1365	Carboxylic-Acid		10.1021/ja209292b	compound_not_resolved	0
+1370	merocyanine A		10.1021/ja209292b	compound_not_resolved	0
+1373	CS 1		10.1021/ja209292b	compound_not_resolved	0
+1374	unknown		10.1021/ja209292b	compound_not_resolved	0
+1379	CS6		10.1021/ja209292b	compound_not_resolved	0
+1382	SOPV6		10.1021/ol1007263	compound_not_resolved	0
+1383	SOPV4		10.1021/ol1007263	compound_not_resolved	0
+1386	2,4,6-trimethylphenyl		10.1021/acs.joc.6b02981	compound_not_resolved	0
+1387	BODIPYs.16c,19 BODIPY 4		10.1021/acs.joc.6b02981	compound_not_resolved	0
+1388	C9N2B		10.1021/acs.joc.6b02981	compound_not_resolved	0
+1391	unknown		10.1016/j.saa.2011.02.003	compound_not_resolved	0
+1392	1		10.1016/j.saa.2011.02.003	compound_not_resolved	0
+1395	NH(C7H7)		10.1016/j.saa.2011.02.003	compound_not_resolved	0
+1396	ﬂuorescence		10.1016/j.saa.2011.09.038	compound_not_resolved	0
+1398	phenyl pyrroles		10.1016/j.chemphys.2009.02.008	compound_not_resolved	0
+1401	unknown		10.1021/acs.chemmater.7b03490	compound_not_resolved	0
+1402	CZ		10.1021/acs.chemmater.7b03490	compound_not_resolved	0
+1405	w-bis(oxazol-2)-p-oligophenylenes		10.1016/1010-6030(88)80035-2	compound_not_resolved	0
+1406	w, w ’-bis(oxazol-2-yl)-p-oligophenylenes		10.1016/1010-6030(88)80035-2	compound_not_resolved	0
+1407	ﬂuorescence		10.1016/j.molstruc.2010.08.016	compound_not_resolved	0
+1409	N, N ’-dimethyl-formamide		10.1016/j.tetlet.2009.10.118	compound_not_resolved	0
+1410	ﬂuorescence		10.1016/j.tetlet.2009.10.118	compound_not_resolved	0
+1411	ﬂuorescent		10.1016/j.tetlet.2009.10.118	compound_not_resolved	0
+1417	ﬂuorophore		10.1016/j.tet.2009.08.027	compound_not_resolved	0
+1419	clariﬁed		10.1016/j.tet.2009.08.027	compound_not_resolved	0
+1422	ﬂuorescence		10.1016/j.tet.2009.08.027	compound_not_resolved	0
+1424	N, N-Dimethyl-2,4-diphenyl-5-selenazolamine		10.1021/jo500499g	compound_not_resolved	0
+1425	N, N-Dimethyl-2-(4-methoxyphenyl)-4-phenyl-5-selenazolamine		10.1021/jo500499g	compound_not_resolved	0
+1435	5-(4-N, N-Dimethylphenyl)-1,9-dimethyldipyrromethene		10.1021/jp052626n	compound_not_resolved	0
+1437	BODIPY6-8		10.1021/jp052626n	compound_not_resolved	0
+1438	difluoroboron		10.1021/jp052626n	compound_not_resolved	0
+1440	4,4-Difluoro-3,5-dimethyl-8-(4-carbomethoxyphenyl)-4-bora-3a,4a-diaza-s-indacene		10.1021/jp052626n	compound_not_resolved	0
+1441	aromatic amines.18		10.1021/jp052626n	compound_not_resolved	0
+1442	compounds 1		10.1021/jp052626n	compound_not_resolved	0
+1443	5		10.1021/jp052626n	compound_not_resolved	0
+1444	tertiary amine		10.1021/jp052626n	compound_not_resolved	0
+1446	5-(4-Cyanophenyl)-1,9-dimethyldipyrromethene		10.1021/jp052626n	compound_not_resolved	0
+1447	nitrophenyl		10.1021/jo701740n	compound_not_resolved	0
+1449	CH2-Cl2		10.1021/jo701740n	compound_not_resolved	0
+1451	ﬂuorescence		10.1016/j.dyepig.2012.09.011	compound_not_resolved	0
+1452	H2TPP		10.1016/j.dyepig.2012.09.011	compound_not_resolved	0
+1453	Porphyrins		10.1016/j.dyepig.2012.09.011	compound_not_resolved	0
+1456	unknown		10.1016/j.dyepig.2012.09.011	compound_not_resolved	0
+1460	ﬂuorescence		10.1016/j.tetlet.2016.03.011	compound_not_resolved	0
+1461	ACN		10.1016/j.tetlet.2016.03.011	compound_not_resolved	0
+1462	unknown		10.1016/j.tetlet.2016.03.011	compound_not_resolved	0
+1463	BODIPYs		10.1016/j.tetlet.2018.10.003	compound_not_resolved	0
+1464	pyrenyl		10.1016/j.tetlet.2018.10.003	compound_not_resolved	0
+1466	BODIPYs 1a –		10.1016/j.tetlet.2018.10.003	compound_not_resolved	0
+1468	4-Amino-N-adamantylphthalimide		10.1016/j.snb.2019.01.102	compound_not_resolved	0
+1469	4-aminophthalimides		10.1016/j.snb.2019.01.102	compound_not_resolved	0
+1472	4-amino-N-adamantylphthalimide		10.1016/j.snb.2019.01.102	compound_not_resolved	0
+1473	1-[4-(Trimethylamino)phenyl]-6-		10.1016/j.snb.2019.01.102	compound_not_resolved	0
+1474	unknown		10.1016/j.snb.2019.01.102	compound_not_resolved	0
+1475	Scheme 1		10.1016/j.snb.2019.01.102	compound_not_resolved	0
+1477	butylphenyl)dibenzo[a, c]phenazine-3,6-diyl)bis(10H-phenoxazine)		10.1021/acsami.9b08729	compound_not_resolved	0
+1478	3,6-di(10H-phenoxazin-10-		10.1021/acsami.9b08729	compound_not_resolved	0
+1479	DBPZ		10.1021/acsami.9b08729	compound_not_resolved	0
+1480	DPXZ		10.1021/acsami.9b08729	compound_not_resolved	0
+1482	unknown		10.1016/j.jlumin.2011.04.008	compound_not_resolved	0
+1484	ﬂuorescence		10.1016/j.jlumin.2011.04.008	compound_not_resolved	0
+1486	Mg(ClO4)2		10.1016/j.jlumin.2011.04.008	compound_not_resolved	0
+1487	b-CD		10.1016/j.jlumin.2011.04.008	compound_not_resolved	0
+1488	SDS		10.1016/j.jlumin.2011.04.008	compound_not_resolved	0
+1489	nm		10.1016/j.jphotochem.2019.04.011	compound_not_resolved	0
+1490	CHEX		10.1016/j.jphotochem.2019.04.011	compound_not_resolved	0
+1491	1,3-substituted B-OXD		10.1016/j.jphotochem.2019.04.011	compound_not_resolved	0
+1494	carbazolyl		10.1038/nature11687	compound_not_resolved	0
+1497	N-(4,6-dichloro-1,3,5-triazin-2-yl)-1-aminopyrene		10.1016/j.dyepig.2011.08.018	compound_not_resolved	0
+1498	ﬂuorescence		10.1016/j.bmcl.2011.01.105	compound_not_resolved	0
+1499	ﬂuores		10.1016/j.bmcl.2011.01.105	compound_not_resolved	0
+1502	ﬂuorophores		10.1021/acs.orglett.8b01786	compound_not_resolved	0
+1505	cyanines		10.1021/acs.orglett.8b01786	compound_not_resolved	0
+1506	3-bromo-N, N-dimethylaniline		10.1021/acs.orglett.8b01786	compound_not_resolved	0
+1507	Anzalone		10.1021/acs.orglett.8b01786	compound_not_resolved	0
+1508	Tween-20		10.1021/acs.orglett.8b01786	compound_not_resolved	0
+1511	Ketone		10.1016/j.tet.2012.05.072	compound_not_resolved	0
+1512	Carboxylic acid		10.1016/j.tet.2012.05.072	compound_not_resolved	0
+1513	OB		10.1016/j.tet.2012.05.072	compound_not_resolved	0
+1514	ﬂuorescence		10.1016/j.tet.2012.05.072	compound_not_resolved	0
+1515	]-[		10.1016/j.tet.2012.05.072	compound_not_resolved	0
+1516	C6H4–p-NPh2		10.1021/ja803954e	compound_not_resolved	0
+1521	RNI-O		10.1021/jacs.9b09220	compound_not_resolved	0
+1522	unknown		10.1021/acs.joc.5b01339	compound_not_resolved	0
+1524	C15H12F2N4		10.1021/acs.joc.5b01339	compound_not_resolved	0
+1527	C14H12Cl2N4		10.1021/acs.joc.5b01339	compound_not_resolved	0
+1529	2,2-dicyanoethenyl		10.1016/j.tetlet.2018.02.075	compound_not_resolved	0
+1532	unknown		10.1016/j.snb.2008.03.006	compound_not_resolved	0
+1533	ﬂuorescence		10.1016/j.snb.2008.03.006	compound_not_resolved	0
+1536	4-(p-N, N-dimethyl-aminophenylmethylene-2-phe-nyl-5-oxazolone		10.1016/j.saa.2012.04.077	compound_not_resolved	0
+1538	DPO		10.1016/j.saa.2012.04.077	compound_not_resolved	0
+1539	[b-CD		10.1016/j.saa.2012.04.077	compound_not_resolved	0
+1540	rhoda-mine 6G		10.1016/j.saa.2012.04.077	compound_not_resolved	0
+1541	ﬂuorescence		10.1016/j.saa.2012.04.077	compound_not_resolved	0
+1542	4-(p-N, N-dimethyl-aminophenylmethylene)-2-phe-nyl-5-oxazolone		10.1016/j.saa.2012.04.077	compound_not_resolved	0
+1543	DPOH		10.1016/j.saa.2012.04.077	compound_not_resolved	0
+1546	unknown		10.1016/1010-6030(94)03831-7	compound_not_resolved	0
+1549	unknown		10.1016/j.jphotochem.2017.07.026	compound_not_resolved	0
+1550	dibromo-substituted[5]helicene		10.1016/j.jphotochem.2017.07.026	compound_not_resolved	0
+1552	M-1 cm-1		10.1016/j.jphotochem.2017.07.026	compound_not_resolved	0
+1553	dinaphtho[2,1-e:1 ',2 '-g]isoindole-1,3(2H)-dione		10.1016/j.jphotochem.2017.07.026	compound_not_resolved	0
+1557	naphtho[2,3-b]phosphole		10.1021/acs.joc.5b00541	compound_not_resolved	0
+1558	OMe		10.1021/acs.joc.5b00541	compound_not_resolved	0
+1559	thioxo		10.1021/acs.joc.5b00541	compound_not_resolved	0
+1560	unknown		10.1021/acs.joc.5b00541	compound_not_resolved	0
+1561	Ti:sapphire		10.1021/acs.joc.5b00541	compound_not_resolved	0
+1562	Ti:Sa		10.1016/j.saa.2009.03.004	compound_not_resolved	0
+1564	DMACA		10.1016/j.saa.2009.03.004	compound_not_resolved	0
+1568	ﬂuorescence		10.1016/j.saa.2009.03.004	compound_not_resolved	0
+1569	unknown		10.1016/j.saa.2009.03.004	compound_not_resolved	0
+1572	unknown		10.1016/j.cap.2008.07.009	compound_not_resolved	0
+1573	ﬂuorescence		10.1016/j.cap.2008.07.009	compound_not_resolved	0
+1574	ben-zene		10.1016/j.cap.2008.07.009	compound_not_resolved	0
+1575	ﬂuorescent		10.1016/j.cap.2008.07.009	compound_not_resolved	0
+1581	1,4-bis-(trimethylsilylethynyl)		10.3390/molecules17055108	compound_not_resolved	0
+1582	naphthalenes		10.3390/molecules17055108	compound_not_resolved	0
+1589	unknown		10.1016/j.dyepig.2014.05.030	compound_not_resolved	0
+1592	eﬀects		10.1016/j.jlumin.2018.12.059	compound_not_resolved	0
+1593	N-aryl-2-aminoquinolines		10.1016/j.jlumin.2018.12.059	compound_not_resolved	0
+1594	ﬂuorophore		10.1016/j.jlumin.2018.12.059	compound_not_resolved	0
+1595	ﬂuorescence		10.1016/j.jlumin.2018.12.059	compound_not_resolved	0
+1596	pyrido[2 ′, 1 ′:2, 3]imidazo[4, 5-b]quinoline-12-yl cyanides		10.1016/j.jlumin.2018.12.059	compound_not_resolved	0
+1597	8-Hydroxyquinoline benzoates		10.1016/j.jlumin.2018.12.059	compound_not_resolved	0
+1599	quinolinyl		10.1016/j.jlumin.2018.12.059	compound_not_resolved	0
+1605	CS-TPTP		10.1021/acs.joc.7b03008	compound_not_resolved	0
+1607	H3O ~		10.1016/0022-2313(91)90052-W	compound_not_resolved	0

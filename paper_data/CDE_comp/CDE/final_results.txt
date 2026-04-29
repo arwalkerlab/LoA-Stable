@@ -1,0 +1,27 @@
+===== MODE =====
+Matching mode: doi_numeric
+
+===== COVERAGE =====
+Average ratio (including zero-extractions): 0.118
+Average ratio (excluding zero-extractions): 0.769
+
+===== ACCURACY (per property) =====
+Absorption max (nm)                : acc= 48.21% | mean |%Δ|= 51.79% | missed= 426 | extra=  11
+Emission max (nm)                  : acc=-280.42% | mean |%Δ|=380.42% | missed= 547 | extra=   8
+Lifetime (ns)                      : acc=-5126.64% | mean |%Δ|=5226.64% | missed= 394 | extra=   7
+Quantum yield                      : acc=-834117.82% | mean |%Δ|=834217.82% | missed= 475 | extra=  18
+log(e/mol-1 dm3 cm-1)              : acc=-207.56% | mean |%Δ|=307.56% | missed= 369 | extra=   8
+abs FWHM (cm-1)                    : acc=   nan% | mean |%Δ|=   nan% | missed=  67 | extra=   0
+emi FWHM (cm-1)                    : acc=   nan% | mean |%Δ|=   nan% | missed=  49 | extra=   0
+abs FWHM (nm)                      : acc=   nan% | mean |%Δ|=   nan% | missed= 212 | extra=   0
+emi FWHM (nm)                      : acc=   nan% | mean |%Δ|=   nan% | missed= 316 | extra=   0
+Molecular weight (g mol-1)         : acc=   nan% | mean |%Δ|=   nan% | missed= 916 | extra=   0
+
+===== OVERALL ACCURACY =====  -167936.85%
+
+No-match entries      → no_match_entries.txt
+Multi-match entries   → multi_match_entries.txt
+Invalid SMILES rows   → invalid_smiles.txt
+
+Figures saved as PNG in the output directory.
+Publication figure    → publication_figure.png

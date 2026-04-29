@@ -1,0 +1,23 @@
+{
+  "openchemie_reported_accuracy": 0.643,
+  "n_matched_rows": 231,
+  "row_exact_names_phases_count": 130,
+  "row_relaxed_correct_count": 64,
+  "row_strict_correct_count": 49,
+  "row_exact_names_phases_accuracy_vs_extracted": 0.52,
+  "row_exact_names_phases_accuracy_vs_reference": 0.025540275049115914,
+  "row_relaxed_accuracy_vs_extracted": 0.256,
+  "row_relaxed_accuracy_vs_reference": 0.012573673870333988,
+  "row_strict_accuracy_vs_extracted": 0.196,
+  "row_strict_accuracy_vs_reference": 0.00962671905697446,
+  "row_relaxed_precision": 0.27705627705627706,
+  "row_relaxed_recall": 0.012573673870333988,
+  "row_relaxed_f1": 0.02405562864123285,
+  "row_strict_precision": 0.21212121212121213,
+  "row_strict_recall": 0.00962671905697446,
+  "row_strict_f1": 0.018417590678443903,
+  "delta_vs_openchemie_relaxed_extracted": -0.387,
+  "delta_vs_openchemie_relaxed_reference": -0.630426326129666,
+  "delta_vs_openchemie_strict_extracted": -0.447,
+  "delta_vs_openchemie_exact_names_phases_extracted": -0.123
+}

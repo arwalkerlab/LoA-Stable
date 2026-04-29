@@ -1,0 +1,14 @@
+{
+  "n_reference_rows": 5090,
+  "n_extracted_rows": 250,
+  "n_matched_rows": 231,
+  "match_rate_vs_extracted": 1.0,
+  "mean_match_score": 8.989538147406908,
+  "median_match_score": 7.333333333333335,
+  "composition_pairs_with_data": 214,
+  "composition_abs_error_mean": 0.020385573162184506,
+  "composition_abs_error_median": 0.0040000000000000036,
+  "mn_pairs_with_data": 149,
+  "mn_rel_error_mean": 0.42245468231574473,
+  "mn_rel_error_median": 0.20618556701030927
+}

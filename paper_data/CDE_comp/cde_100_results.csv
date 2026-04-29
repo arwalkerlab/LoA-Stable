@@ -1,0 +1,1609 @@
+paper,doi,compound,absorption_max,absorption_max_flag,emission_max,emission_max_flag,quantum_yield,quantum_yield_flag,lifetime,lifetime_flag,molar_absorptivity,molar_absorptivity_flag,status
+1016.j.tet.2015.07.074.pdf,,,,missing,,missing,,missing,,missing,,missing,error: Unable to read document
+1021.ol025972l.pdf,10.1021/ol025972l,unknown,329-334,range_value,,,,,,,,,extracted
+1021.ol025972l.pdf,10.1021/ol025972l,cyclohexane,,,,,73-78,invalid_format,,,,,extracted
+hwang-et-al-2001-novel-fluorophores-efficient-synthesis-and-photophysical-study.pdf,10.1021/ol0162264,fluorescein,,,,,244,out_of_range(244.0),244,valid,,,extracted
+1016.S1010-6030(01)00597-4.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.ol0200403.pdf,10.1021/ol0200403,CHCl3 H2O H2O,,,,,30,out_of_range(30.0),,,,,extracted
+1021.ol0200403.pdf,10.1021/ol0200403,DsRed,482,valid,565,valid,,,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,perylene,375,valid,,,0.92,valid,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,diaza-perylene,375,valid,,,,,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,unknown,17-20,range_value,17-20,range_value,,,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,quartz,0.1,out_of_range(0.1),,,,,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,"2,8-dimethoxy-",555,valid,555,valid,,,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,ethanol,,,,,1,valid,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,biphenyl,,,,,0.81,valid,,,,,extracted
+1021.ol0268687.pdf,10.1021/ol0268687,CH3CN,,,,,0.81,valid,,,,,extracted
+1016.S1010-6030(99)00246-4.pdf,,ﬂuorescence,,,,,30,out_of_range(30.0),,,,,extracted
+1016.S1010-6030(99)00246-4.pdf,,hydrogen,,,,,30,out_of_range(30.0),,,,,extracted
+1016.S1010-6030(99)00246-4.pdf,,unknown,,,,,4,out_of_range(4.0),,,,,extracted
+1021.jo0110505.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (540) must match the size of 
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,-4a,366,valid,,,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,THF,556,valid,420,valid,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,diarylethene,234,valid,,,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,n-hexane,400,valid,366,valid,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,hexane,366,valid,420,valid,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,"2,4,5-Triphenylimidazole",366,valid,366,valid,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,perfluorocyclopentene,366,valid,,,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,cyclohexane,366,valid,,,,,,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,2-thienyl,366,valid,,,9.1,out_of_range(9.1),,,,,extracted
+yagi-et-al-2001-synthesis-of-fluorescent-diarylethenes-having-a-2-4-5-triphenylimidazole-chromophore.pdf,10.1021/jo010267w,di-thienylethenes,,,,,2,out_of_range(2.0),,,,,extracted
+1021.ja070822x.pdf,,"3,7-dibromo-dibenzosuberenone",454-483,range_value,454-483,range_value,,,,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,C60,,,,,,,1.1,valid,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,unknown,18,out_of_range(18.0),700,valid,6,out_of_range(6.0),6,valid,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,C70,590,valid,,,10-100,invalid_format,,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,cyclohexane,,,,,7,out_of_range(7.0),,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,quartz,,,,,30,out_of_range(30.0),,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,methylcyclohexane,460,valid,460,valid,,,,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,C70.23,740,valid,,,,,,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,benzophenone,460,valid,27,out_of_range(27.0),,,,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,Methyl[70]fullerepimarate,50,out_of_range(50.0),50,out_of_range(50.0),,,,,,,extracted
+foley-et-al-1999-photophysical-properties-of-pseudo-dihydro-derivatives-of-c70.pdf,10.1021/jp992495o,Oxygen,,,1270,out_of_range(1270.0),,,,,,,extracted
+1016.S1386-1425(00)00350-4.pdf,,HBAB,334,valid,,,,,,,,,extracted
+leclerc-et-al-2005-a-theoretical-spectroscopic-and-photophysical-study-of-2-7-carbazolenevinylene-based-conjugated.pdf,10.1021/jp051349h,Chloroform,1,out_of_range(1.0),,,,,,,,,extracted
+leclerc-et-al-2005-a-theoretical-spectroscopic-and-photophysical-study-of-2-7-carbazolenevinylene-based-conjugated.pdf,10.1021/jp051349h,rhodamine B,2.6,out_of_range(2.6),1.9,out_of_range(1.9),,,,,,,extracted
+leclerc-et-al-2005-a-theoretical-spectroscopic-and-photophysical-study-of-2-7-carbazolenevinylene-based-conjugated.pdf,10.1021/jp051349h,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+leclerc-et-al-2005-a-theoretical-spectroscopic-and-photophysical-study-of-2-7-carbazolenevinylene-based-conjugated.pdf,10.1021/jp051349h,PCP,400-450,range_value,,,,,,,,,extracted
+leclerc-et-al-2005-a-theoretical-spectroscopic-and-photophysical-study-of-2-7-carbazolenevinylene-based-conjugated.pdf,10.1021/jp051349h,phenylene vinylene,,,,,30,out_of_range(30.0),,,,,extracted
+soujanya-et-al-2000-tunable-photophysical-properties-of-two-2-2-bipyridine-substituted-pyrene-derivatives.pdf,10.1021/jp000658z,HEX,,,340,valid,,,,,,,extracted
+soujanya-et-al-2000-tunable-photophysical-properties-of-two-2-2-bipyridine-substituted-pyrene-derivatives.pdf,10.1021/jp000658z,6.4 8.0 8.1 8.1 8.2 7.6 12.7 9.8 27.4,-1,range_value,,,,,,,25,valid,extracted
+tamao-et-al-1998-synthesis-structures-photophysical-properties-and-dynamic-stereochemistry-of-tri-9-anthrylsilane.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (564) must match the size of 
+1016.j.jphotochem.2004.08.001.pdf,10.1016/j.jphotochem.2004.08.001,ﬂuorescence,337,valid,2.5,out_of_range(2.5),,,,,,,extracted
+1016.j.jphotochem.2004.08.001.pdf,10.1016/j.jphotochem.2004.08.001,-(diphenylamino)biphenyl-4,,,,,,,,,−1,invalid_format,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,BDP,500,valid,583,valid,,,,,,,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,cyanines,,,500,valid,,,,,,,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,chloroform,,,738,valid,,,,,,,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,KFL-4,,,221,valid,,,,,,,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,KFL,,,596,valid,,,,,,,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,methanol,,,74,out_of_range(74.0),,,,,,,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,toluene,,,,,30,out_of_range(30.0),,,,,extracted
+1021.ja077756j.pdf,10.1021/ja077756j,TM-BDP,,,,,,,,,202,valid,extracted
+1021.ol061827m.pdf,10.1021/ol061827m,hexane,419,valid,,,,,,,,,extracted
+1021.ol061827m.pdf,10.1021/ol061827m,"2,3-dichloropyrazine",,,470,valid,,,,,,,extracted
+1021.ol061827m.pdf,10.1021/ol061827m,n-hexane,,,416,valid,,,,,,,extracted
+1021.ol061827m.pdf,10.1021/ol061827m,dansyl,,,,,3,out_of_range(3.0),,,,,extracted
+duportail-et-al-2006-convenient-method-to-access-new-4-4-dialkoxy-and-4-4-diaryloxy-diaza-s-indacene-dyes-synthesis-and.pdf,10.1021/jo061567m,BODIPY 1,,,,,30,out_of_range(30.0),,,30,valid,extracted
+duportail-et-al-2006-convenient-method-to-access-new-4-4-dialkoxy-and-4-4-diaryloxy-diaza-s-indacene-dyes-synthesis-and.pdf,10.1021/jo061567m,cm-1,,,,,30,out_of_range(30.0),,,,,extracted
+duportail-et-al-2006-convenient-method-to-access-new-4-4-dialkoxy-and-4-4-diaryloxy-diaza-s-indacene-dyes-synthesis-and.pdf,10.1021/jo061567m,",",,,,,5,out_of_range(5.0),,,,,extracted
+duportail-et-al-2006-convenient-method-to-access-new-4-4-dialkoxy-and-4-4-diaryloxy-diaza-s-indacene-dyes-synthesis-and.pdf,10.1021/jo061567m,unknown,,,,,10,out_of_range(10.0),,,,,extracted
+duportail-et-al-2006-convenient-method-to-access-new-4-4-dialkoxy-and-4-4-diaryloxy-diaza-s-indacene-dyes-synthesis-and.pdf,10.1021/jo061567m,BODIPY,,,,,30,out_of_range(30.0),,,,,extracted
+duportail-et-al-2006-convenient-method-to-access-new-4-4-dialkoxy-and-4-4-diaryloxy-diaza-s-indacene-dyes-synthesis-and.pdf,10.1021/jo061567m,alcohols,504-510,range_value,,,,,,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,cyclohexane,340,valid,,,,,,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,amino acids,315,valid,415–420,range_value,,,,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,TFE,,,430,valid,,,,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,dioxane,,,397,valid,,,,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,benzene,,,397,valid,,,,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,Acetonitrile,,,397,valid,,,,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,Cyclohexane,,,,,,,,,5,valid,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,Table,,,,,0.59,valid,5,valid,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,ﬂuorescence,,,,,5,out_of_range(5.0),,,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,unknown,,,,,,,5,valid,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,F¨orster,,,,,,,4,valid,,,extracted
+1007.s10895-005-2525-3.pdf,10.1007/s10895-005-2525-3,o-Abz,,,,,,,20,valid,,,extracted
+1021.ol702215m.pdf,10.1021/ol702215m,silicon,322-334,range_value,20,out_of_range(20.0),,,,,,,extracted
+1021.ol702215m.pdf,10.1021/ol702215m,Silicon,,,,,240,out_of_range(240.0),,,,,extracted
+neckers-et-al-2003-synthesis-of-highly-fluorescent-y-enyne-dendrimers-with-four-and-six-arms.pdf,,Ethyl Acetate,,,347,valid,10,out_of_range(10.0),,,,,extracted
+neckers-et-al-2003-synthesis-of-highly-fluorescent-y-enyne-dendrimers-with-four-and-six-arms.pdf,,"1,3,5-Tris(2,2-dibromovinyl)benzene",,,,,30,out_of_range(30.0),,,,,extracted
+neckers-et-al-2003-synthesis-of-highly-fluorescent-y-enyne-dendrimers-with-four-and-six-arms.pdf,,"Bis-1,4-[2,2-bis(4-dodecyloxyphenyl ethynyl)ethenyl]-benzene",,,347,valid,,,,,,,extracted
+1021.jp021141l.pdf,10.1021/jp021141l,unknown,,,,,,,0.2,valid,,,extracted
+1021.jp980158u.pdf,,Aminofluorenone,,,420,valid,,,-2,out_of_range(-2.0),,,extracted
+1021.jp980158u.pdf,,1AF,1,out_of_range(1.0),2,out_of_range(2.0),236,out_of_range(236.0),236,valid,236,valid,extracted
+1021.jp980158u.pdf,,2-Substituted aminofluorenones,,,,,,,,,3,valid,extracted
+1016.S1010-6030(00)00230-6.pdf,,ﬂuorescence,,,,,2,out_of_range(2.0),,,,,extracted
+1016.S1010-6030(00)00230-6.pdf,,Cyclohexane,,,,,25,out_of_range(25.0),,,,,extracted
+1016.S1010-6030(00)00230-6.pdf,,2(2-Phenylethenyl)-benzoxazoles,,,,,300,out_of_range(300.0),,,,,extracted
+1016.S1010-6030(00)00230-6.pdf,,H,250–500,range_value,,,,,,,,,extracted
+1016.S0009-2614(02)00784-4.pdf,,hydrogen,,,400,valid,,,,,,,extracted
+1016.S0009-2614(02)00784-4.pdf,,HFIP,543,valid,,,,,,,,,extracted
+1351.PAC-REP-10-09-31.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+B_JOFL.0000014660.59105.31.pdf,,Isoalloxazines,340,valid,,,,,,,,,extracted
+B_JOFL.0000014660.59105.31.pdf,,methyl,342,valid,,,,,,,,,extracted
+B_JOFL.0000014660.59105.31.pdf,,lumiﬂavins,443,valid,,,"3,10",multiple_values,,,,,extracted
+B_JOFL.0000014660.59105.31.pdf,,acetonitrile,,,380,valid,,,,,,,extracted
+B_JOFL.0000014660.59105.31.pdf,,benzene,,,,,8,out_of_range(8.0),,,,,extracted
+B_JOFL.0000014660.59105.31.pdf,,ﬂuorescence,,,,,"6,9",multiple_values,,,,,extracted
+wintgens-et-al-2001-a-new-photochromic-8π-system-based-on-an-azaheptatriene-tetrahydroazepinoisoquinoline.pdf,,dichloromethane,347.5,valid,,,,,,,,,extracted
+wintgens-et-al-2001-a-new-photochromic-8π-system-based-on-an-azaheptatriene-tetrahydroazepinoisoquinoline.pdf,,CN,500,valid,,,,,,,,,extracted
+wintgens-et-al-2001-a-new-photochromic-8π-system-based-on-an-azaheptatriene-tetrahydroazepinoisoquinoline.pdf,,"Dicyano-1-aza-2,6-cyclohexadieno[1,7]isoquinolines",780,valid,,,,,,,,,extracted
+wintgens-et-al-2001-a-new-photochromic-8π-system-based-on-an-azaheptatriene-tetrahydroazepinoisoquinoline.pdf,,phenyl,,,445,valid,,,,,,,extracted
+wintgens-et-al-2001-a-new-photochromic-8π-system-based-on-an-azaheptatriene-tetrahydroazepinoisoquinoline.pdf,,betaines,,,500,valid,,,,,,,extracted
+1016.S0009-2614(02)00147-1.pdf,,"4,7-di(2-thienyl)-1,2,5-oxadiaz-olo[3,4-c]pyridine",458,valid,,,,,,,,,extracted
+1016.S0009-2614(02)00147-1.pdf,,ﬂuorescence,590,valid,,,14,out_of_range(14.0),14,valid,,,extracted
+1016.S0009-2614(02)00147-1.pdf,,unknown,,,,,,,2,valid,,,extracted
+1016.S0009-2614(02)00147-1.pdf,,"4,7-bis(2-thienyl)-1,2,5-oxadiazolo[3,4-c]pyridine",,,,,,,610,valid,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,3-substituted benzanthrone,,,,,6,out_of_range(6.0),,,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,ABaAc,,,,,240,out_of_range(240.0),,,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,Benzanthrone,,,,,244,out_of_range(244.0),244,valid,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,unknown,,,,,244,out_of_range(244.0),,,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,butyl ether,,,,,4,out_of_range(4.0),,,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,Fidler,,,,,466,out_of_range(466.0),,,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,2MeTHF,510,valid,510,valid,,,,,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,MeTHF,405,valid,405,valid,,,,,,,extracted
+zimmt-et-al-2003-photophysics-of-3-substituted-benzanthrones-substituent-and-solvent-control-of-intersystem-crossing.pdf,10.1021/jp035610a,perylene,1,out_of_range(1.0),1,out_of_range(1.0),,,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,fluorenyl,,,,,1,valid,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,Fo¨rster,340-360,range_value,,,24,out_of_range(24.0),,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,toluene,,,,,15,out_of_range(15.0),,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,methanol,640,valid,,,25,out_of_range(25.0),,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,unknown,,,,,1,valid,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,quartz,0.1,out_of_range(0.1),10,out_of_range(10.0),,,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,CH2Cl2,660,valid,,,,,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,Sn,440-540,range_value,,,,,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,fluorenylperylene diimide,340-360,range_value,,,,,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,CH2-Cl2,580,valid,,,,,,,,,extracted
+bondar-et-al-2008-photophysical-characterization-two-photon-absorption-and-optical-power-limiting-of-two.pdf,10.1021/jp711950z,perylene diimide,640,valid,,,,,,,,,extracted
+1021.jo001484k.pdf,10.1021/jo001484k,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.S1386-1425(99)00200-0.pdf,,Ti-Saphire,,,360,valid,,,82,valid,,,extracted
+1016.S1386-1425(99)00200-0.pdf,,Quinine sulfate,,,,,0.546,valid,,,,,extracted
+1016.S1386-1425(99)00200-0.pdf,,imidazonaphthyridine,,,,,2,out_of_range(2.0),,,,,extracted
+1016.S1386-1425(99)00200-0.pdf,,ﬂuorescence,,,,,2,out_of_range(2.0),,,,,extracted
+1016.S1386-1425(99)00200-0.pdf,,Imidazonaphthyridines,360,valid,,,,,,,,,extracted
+A_1025037832286.pdf,,ethoxy,340,valid,,,,,,,,,extracted
+A_1025037832286.pdf,,Ti:Sapphire,295,valid,,,5–10,invalid_format,,,,,extracted
+A_1025037832286.pdf,,4-MeOSA,250,valid,250,valid,,,,,,,extracted
+A_1025037832286.pdf,,5-MeOSA,300,valid,40,out_of_range(40.0),,,,,,,extracted
+A_1025037832286.pdf,,Methoxy,300,valid,300,valid,,,,,,,extracted
+A_1025037832286.pdf,,Amino,298,valid,494,valid,10,out_of_range(10.0),,,,,extracted
+A_1025037832286.pdf,,5-ASA,494,valid,300,valid,5,out_of_range(5.0),,,,,extracted
+A_1025037832286.pdf,,4-ASA,300,valid,300,valid,,,,,,,extracted
+A_1025037832286.pdf,,4-MeSA,298,valid,,,,,,,,,extracted
+A_1025037832286.pdf,,OH,331,valid,,,,,,,,,extracted
+A_1025037832286.pdf,,Table,,,,,10,out_of_range(10.0),,,,,extracted
+A_1025037832286.pdf,,5-MeSA,,,,,5,out_of_range(5.0),,,,,extracted
+1016.j.molstruc.2004.04.005.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.jo049192x.pdf,,Boc,50,out_of_range(50.0),100,out_of_range(100.0),,,5,valid,,,extracted
+1021.jo049192x.pdf,,benzene,220-700,range_value,,,,,,,5,valid,extracted
+1021.jo049192x.pdf,,B,,,510,valid,,,,,,,extracted
+1021.jo049192x.pdf,,ethyl acetate,,,710,valid,,,,,,,extracted
+1021.jo049192x.pdf,,", coumarin 480",,,,,0.93,valid,,,,,extracted
+1021.jo049192x.pdf,,Methanol,,,,,0.43,valid,,,,,extracted
+1021.jo049192x.pdf,,quartz,,,,,365,out_of_range(365.0),,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,THF,343,valid,,,,,,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,AcCN,350,valid,390,valid,,,,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,Dienes,331,valid,,,,,,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,nitro-substituted dienes,5,out_of_range(5.0),,,,,,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,Diene,5,out_of_range(5.0),,,,,,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,dienes,9,out_of_range(9.0),469,valid,,,,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,SDS,,,16,out_of_range(16.0),,,,,,,extracted
+1021.jp992275a.pdf,10.1021/jp992275a,Methanol-Ethanol,,,630,valid,,,,,,,extracted
+1021.jo990206m.pdf,10.1021/jo990206m,benzene,,,,,10,out_of_range(10.0),,,,,extracted
+1021.jo990206m.pdf,10.1021/jo990206m,azoalkane,,,,,10,out_of_range(10.0),5,valid,,,extracted
+1021.jo990206m.pdf,10.1021/jo990206m,Ph-DBO,,,,,1,valid,,,,,extracted
+1021.jo990206m.pdf,10.1021/jo990206m,Azoalkanes,,,,,1,valid,,,,,extracted
+1021.jo990206m.pdf,10.1021/jo990206m,azo,,,,,,,166,valid,,,extracted
+1021.jo990206m.pdf,10.1021/jo990206m,unknown,,,,,,,10,valid,,,extracted
+1016.j.molstruc.2003.10.028.pdf,10.1016/j.molstruc.2003.10.028,oxygen,355,valid,1270,out_of_range(1270.0),,,3,valid,,,extracted
+1016.j.molstruc.2003.10.028.pdf,10.1016/j.molstruc.2003.10.028,9-Methylalloxazine,333,valid,,,,,,,,,extracted
+1016.j.molstruc.2003.10.028.pdf,10.1016/j.molstruc.2003.10.028,9-methylalloxazine,7,out_of_range(7.0),,,,,,,,,extracted
+1016.j.molstruc.2003.10.028.pdf,10.1016/j.molstruc.2003.10.028,ﬂuorescence,,,,,1,valid,,,,,extracted
+1016.j.molstruc.2003.10.028.pdf,10.1016/j.molstruc.2003.10.028,unknown,,,1270,out_of_range(1270.0),,,,,,,extracted
+1016.j.molstruc.2003.10.028.pdf,10.1016/j.molstruc.2003.10.028,O2(1Dg),,,1270,out_of_range(1270.0),,,,,,,extracted
+amengual-et-al-2004-novel-fluorophores-efficient-synthesis-and-photophysical-properties.pdf,10.1021/ol036399o,unknown,,,,,10,out_of_range(10.0),,,,,extracted
+amengual-et-al-2004-novel-fluorophores-efficient-synthesis-and-photophysical-properties.pdf,10.1021/ol036399o,CH3CN,330,valid,330,valid,,,,,,,extracted
+amengual-et-al-2004-novel-fluorophores-efficient-synthesis-and-photophysical-properties.pdf,10.1021/ol036399o,1,,,355,valid,,,,,,,extracted
+1016.S0022-2313(97)00315-3.pdf,,PhC,220—800,invalid_format,2,out_of_range(2.0),,,,,,,extracted
+1016.S0022-2313(97)00315-3.pdf,,PhF,220—800,invalid_format,,,,,,,,,extracted
+1016.S0022-2313(97)00315-3.pdf,,(---) PhC,,,330,valid,,,,,,,extracted
+1016.S0022-2313(97)00315-3.pdf,,(---),,,290,valid,,,,,,,extracted
+1016.S0022-2313(97)00315-3.pdf,,ethanol,,,6,out_of_range(6.0),,,,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,Anthracene,5,out_of_range(5.0),,,1,valid,,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,"9,10-diphenylanthracene",,,,,12,out_of_range(12.0),,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,PMA,,,365,valid,365,out_of_range(365.0),,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,ethanol,,,,,0.9,valid,,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,9-phenyl-10-methoxy anthracene,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,conﬁrmed,,,,,0.71,valid,7.53,valid,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,ﬂuorescence,,,,,0.2,valid,,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,glycerol,,,,,0.71,valid,,,,,extracted
+1016.j.jphotochem.2004.01.020.pdf,10.1016/j.jphotochem.2004.01.020,oxygen,,,,,,,365,valid,,,extracted
+1021.ol0528991.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (674) must match the size of 
+1021.jo801060p.pdf,10.1021/jo801060p,ﬂuorescence,,,,,0.25-0.50,invalid_format,,,,,extracted
+blanchard-desce-et-al-2002-synthesis-and-photophysical-properties-of-new-conjugated-fluorophores-designed-for-two.pdf,10.1021/ol017150e,"1,4-diiodobenzene",,,,,25-40,invalid_format,,,,,extracted
+blanchard-desce-et-al-2002-synthesis-and-photophysical-properties-of-new-conjugated-fluorophores-designed-for-two.pdf,10.1021/ol017150e,fluorescein,740,valid,740,valid,,,,,,,extracted
+blanchard-desce-et-al-2002-synthesis-and-photophysical-properties-of-new-conjugated-fluorophores-designed-for-two.pdf,10.1021/ol017150e,"4,4¢-diethynylbiphenyl",,,,,,,244,valid,,,extracted
+1021.jo040183y.pdf,10.1021/jo040183y,dipyrrinone,,,,,30,out_of_range(30.0),,,,,extracted
+1021.jo040183y.pdf,10.1021/jo040183y,(,,,,,"9,10",multiple_values,,,,,extracted
+1021.jo040183y.pdf,10.1021/jo040183y,C(9)CO2H,392-399,range_value,435,valid,,,,,,,extracted
+vekshin-et-al-2001-solvatochromism-of-the-excitation-and-emission-spectra-of-7-aminoactinomycin-d-implications-for-drug.pdf,10.1021/jp011168p,AMD,,,,,1,valid,,,,,extracted
+vekshin-et-al-2001-solvatochromism-of-the-excitation-and-emission-spectra-of-7-aminoactinomycin-d-implications-for-drug.pdf,10.1021/jp011168p,nm,,,,,1,valid,,,,,extracted
+vekshin-et-al-2001-solvatochromism-of-the-excitation-and-emission-spectra-of-7-aminoactinomycin-d-implications-for-drug.pdf,10.1021/jp011168p,7 - aminoactinomycin D,,,750,valid,,,0.4,valid,,,extracted
+vekshin-et-al-2001-solvatochromism-of-the-excitation-and-emission-spectra-of-7-aminoactinomycin-d-implications-for-drug.pdf,10.1021/jp011168p,unknown,505,valid,,,,,,,,,extracted
+1021.ol035327u.pdf,10.1021/ol035327u,EtOH,,,532-616,range_value,,,,,,,extracted
+bunz-et-al-2003-conformational-and-electronic-engineering-of-twisted-diphenylacetylenes.pdf,10.1021/ol035532+,phenyl,,,,,45,out_of_range(45.0),,,,,extracted
+bunz-et-al-2003-conformational-and-electronic-engineering-of-twisted-diphenylacetylenes.pdf,10.1021/ol035532+,chloroform,,,,,12,out_of_range(12.0),,,,,extracted
+bunz-et-al-2003-conformational-and-electronic-engineering-of-twisted-diphenylacetylenes.pdf,10.1021/ol035532+,"12, 13 ,",,,,,13,out_of_range(13.0),,,,,extracted
+chiou-et-al-2002-fluorescence-enhancement-of-trans-4-aminostilbene-by-n-phenyl-substitutions-the-amino-conjugation.pdf,10.1021/ja016416+,phenyl,300,valid,300,valid,,,,,,,extracted
+chiou-et-al-2002-fluorescence-enhancement-of-trans-4-aminostilbene-by-n-phenyl-substitutions-the-amino-conjugation.pdf,10.1021/ja016416+,N-phenyl substituted stilbenes,,,2,out_of_range(2.0),,,,,,,extracted
+chiou-et-al-2002-fluorescence-enhancement-of-trans-4-aminostilbene-by-n-phenyl-substitutions-the-amino-conjugation.pdf,10.1021/ja016416+,hexane,,,296,valid,6,out_of_range(6.0),,,,,extracted
+chiou-et-al-2002-fluorescence-enhancement-of-trans-4-aminostilbene-by-n-phenyl-substitutions-the-amino-conjugation.pdf,10.1021/ja016416+,ethylene,,,308,valid,,,,,,,extracted
+chiou-et-al-2002-fluorescence-enhancement-of-trans-4-aminostilbene-by-n-phenyl-substitutions-the-amino-conjugation.pdf,10.1021/ja016416+,PDF,,,,,236,out_of_range(236.0),,,,,extracted
+1021.ac980018g.pdf,,isothiocyanate,,,765-768,range_value,,,,,,,extracted
+1021.ac980018g.pdf,,DMSO,,,750,valid,,,,,,,extracted
+1021.ac980018g.pdf,,methanol,710,valid,710,valid,,,,,,,extracted
+1021.ac980018g.pdf,,halogen,765-768,range_value,794-798,range_value,-29,out_of_range(-29.0),,,,,extracted
+1021.ac980018g.pdf,,Acrylamide,,,6,out_of_range(6.0),,,,,,,extracted
+1021.ac980018g.pdf,,Fo¨rster,488,valid,,,,,,,,,extracted
+1021.ac980018g.pdf,,acrylamide,765,valid,,,,,2,valid,,,extracted
+1021.ac980018g.pdf,,",",,,,,8-11,invalid_format,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,Toluene,320–400,range_value,363–370,range_value,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,ﬂuorescence,,,367,valid,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,diethyl ether–iso-pentane–ethanol,420,valid,420,valid,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,ethanol,1,out_of_range(1.0),370,valid,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,Oxygen,266,valid,420,valid,0.2060.02,invalid_format,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,ms,,,330,valid,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,ﬂuorescent,,,362–370,range_value,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,efﬁciently,450,valid,,,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,N-acetyl anthranilic acid,21305,out_of_range(21305.0),,,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,Ethanol,54003,out_of_range(54003.0),,,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,Anthranilate esters,310,valid,,,,,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,2-aminopyridine,,,,,0.05,valid,,,,,extracted
+1016.S1011-1344(01)00197-X.pdf,,quinine bisulfate,,,,,0.5,valid,,,,,extracted
+1016.j.tetlet.2005.05.031.pdf,10.1016/j.tetlet.2005.05.031,,,missing,,missing,,missing,,missing,,missing,no_records
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,curcumin,500,valid,400–600,range_value,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,TX-100,355,valid,,,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,DMSO,355,valid,,,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,DMSO-D6,443,valid,443,valid,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,ﬂuorescence,460–600,range_value,300–500,range_value,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,methanol,600–700,range_value,,,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,Curcumin,400–600,range_value,,,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,phenoxyl,600–900,range_value,,,,,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,Acetonitrile,,,,,102,out_of_range(102.0),,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,ﬂuorophore,,,,,0.022,valid,,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,benzo-phenone,,,,,700,out_of_range(700.0),,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,ﬂash,,,,,102,out_of_range(102.0),,,,,extracted
+1562.0031-8655(2000)0720625EOSOTE2.0.CO2.pdf,,Methanol,,,550,valid,,,,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,phenyl,340,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,ethanol,420,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,TPP,330,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,unknown,20,out_of_range(20.0),,,,,,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,ﬂuorescence,350,valid,,,4,out_of_range(4.0),,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,9PA,420,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,9PXANT,240,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,pyridinium,420,valid,,,,,1,valid,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,cyclohexane,,,,,9,out_of_range(9.0),,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,inﬂuence,,,,,4,out_of_range(4.0),,,,,extracted
+1016.S1010-6030(99)00218-X.pdf,,"4-phenyl-3,5-di-methyl-pyridinium",,,,,,,28,valid,,,extracted
+1016.S0009-2614(99)00316-4.pdf,,3DMABN,,,,,4,out_of_range(4.0),,,,,extracted
+durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of.pdf,10.1021/jp9901085,quartz,1,out_of_range(1.0),1,out_of_range(1.0),,,,,,,extracted
+durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of.pdf,10.1021/jp9901085,nitrogen,0.34,out_of_range(0.34),1.1,out_of_range(1.1),,,,,,,extracted
+durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of.pdf,10.1021/jp9901085,isopentane,500,valid,400,valid,,,,,,,extracted
+durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of.pdf,10.1021/jp9901085,n-tetradecane,600,valid,,,,,,,,,extracted
+durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of.pdf,10.1021/jp9901085,n-Tetradecane,500,valid,,,,,,,,,extracted
+durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of.pdf,10.1021/jp9901085,Isopentane,,,375,valid,,,,,,,extracted
+durocher-et-al-1999-intermolecular-interactions-in-conjugated-oligothiophenes-3-optical-and-photophysical-properties-of.pdf,10.1021/jp9901085,oligothiophenes,,,,,30,out_of_range(30.0),,,,,extracted
+1021.ol0478180.pdf,10.1021/ol0478180,thienyl,6,out_of_range(6.0),,,,,,,,,extracted
+1021.ol0478180.pdf,10.1021/ol0478180,hexane,,,55,out_of_range(55.0),,,,,,,extracted
+1021.ol0478180.pdf,10.1021/ol0478180,p-doping,,,406,valid,,,,,,,extracted
+1021.ol0478180.pdf,10.1021/ol0478180,PVK,,,496,valid,,,,,,,extracted
+nad-pal-2001-unusual-photophysical-properties-of-coumarin-151.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (556) must match the size of 
+ilies-et-al-2009-synthesis-of-benzo-b-siloles-via-kh-promoted-cyclization-of-(2-alkynylphenyl)silanes.pdf,10.1002/adma.200900634,"1,2-dichloroisobutane",,,,,0.26,valid,,,,,extracted
+ilies-et-al-2009-synthesis-of-benzo-b-siloles-via-kh-promoted-cyclization-of-(2-alkynylphenyl)silanes.pdf,10.1002/adma.200900634,3-phenyl,,,,,"2,3",multiple_values,,,,,extracted
+ilies-et-al-2009-synthesis-of-benzo-b-siloles-via-kh-promoted-cyclization-of-(2-alkynylphenyl)silanes.pdf,10.1002/adma.200900634,ﬂuorescence,330-350,range_value,390-414,range_value,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,"9,10-di-2-naphthylanthracene-butyl-9,10-di-2-naphthylanthracene",,,437-467,range_value,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,CH2Cl2,330,valid,5,out_of_range(5.0),1,valid,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,"4,10-Disubstituted and 4,6,10,12-tetrasubstituted anthanthrenes",,,437-467,range_value,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,30),330,valid,,,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,244)F,330,valid,,,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,acetonitrile,330,valid,,,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,"4,10-di-p-tert-butylphenylanthanthrene",330,valid,,,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,"4,9-dibromoanthanthrone",330,valid,,,,,,,,,extracted
+shah-et-al-2005-photophysical-properties-of-anthanthrene-based-tunable-blue-emitters.pdf,10.1021/jp052337z,"2-tert-butyl-9,10-di-2-naphthylanthracene",,,,,,,244,valid,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,BBO,267,valid,350,valid,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,Thymine,255,valid,330,valid,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,"1,3 - dimethyluracil",255,valid,,,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,5-ﬂuoro-uracil,255,valid,,,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,6 - methyluracil,255,valid,,,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,aceto-nitrile,255,valid,,,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,uracils,267,valid,330,valid,,,,,,,extracted
+1016.j.cplett.2006.08.058.pdf,10.1016/j.cplett.2006.08.058,Acetonitrile,,,365,valid,,,,,,,extracted
+1016.j.saa.2003.12.020.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,IPA,275,valid,266,valid,,,700,valid,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,DIPA,,,266,valid,,,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,CIPA,,,266,valid,,,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,IDB,290,valid,250-320,range_value,,,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,"5-[3-(Dimethylamino)propyl]-10,11-dihydro-5H-dibenz[b, f]azepine hydrochloride",,,,,230,out_of_range(230.0),,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,tryptophan,280,valid,,,230,out_of_range(230.0),,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,nitrogen,700,valid,,,5,out_of_range(5.0),,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,DBCH,,,,,"0.86.20,39,46",multiple_values,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,unknown,520,valid,,,0.3627,valid,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,POPOP,370,valid,,,,,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,ethanol,300,valid,,,,,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,ISB,259,valid,,,,,,,240,valid,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,DBCH.51,266,valid,,,,,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,Acetonitrile,400 and 600,invalid_format,,,,,,,,,extracted
+oyola-et-al-2007-photophysics-and-photochemistry-of-imipramine-desimipramine-and-clomipramine-in-several-solvents-a.pdf,10.1021/jp0710739,PPO,,,,,,,0.86(48),invalid_format,,,extracted
+1016.j.cplett.2006.03.073.pdf,10.1016/j.cplett.2006.03.073,H2SO4,,,,,1,valid,,,,,extracted
+1016.j.cplett.2006.03.073.pdf,10.1016/j.cplett.2006.03.073,unknown,2,out_of_range(2.0),,,,,,,,,extracted
+1016.j.cplett.2006.03.073.pdf,10.1016/j.cplett.2006.03.073,ﬂuorescence,,,,,,,19,valid,,,extracted
+1016.S1386-1425(99)00059-1.pdf,,Ethanol,,,460,valid,,,,,,,extracted
+1016.S1386-1425(99)00059-1.pdf,,ﬂuorescence,,,430,valid,,,,,,,extracted
+1016.S0040-4039(00)01039-X.pdf,,dibutoxy–divinylbenzene,,,470,valid,,,,,,,extracted
+1016.S0040-4039(00)01039-X.pdf,,"5a, 5b",,,471,valid,,,,,,,extracted
+1016.S0040-4039(00)01039-X.pdf,,dibutoxy–divinylnaphthalene,,,490,valid,,,,,,,extracted
+1016.S0040-4039(00)01039-X.pdf,,"1,4-dibutoxy substituted bispyrrole",,,620,valid,,,,,,,extracted
+phillips-et-al-2007-fluorescence-lifetime-standards-for-time-and-frequency-domain-fluorescence-spectroscopy.pdf,10.1021/ac062160k,unknown,575,valid,630,valid,,,244,valid,,,extracted
+phillips-et-al-2007-fluorescence-lifetime-standards-for-time-and-frequency-domain-fluorescence-spectroscopy.pdf,10.1021/ac062160k,cyclohexane,290,valid,,,,,,,,,extracted
+phillips-et-al-2007-fluorescence-lifetime-standards-for-time-and-frequency-domain-fluorescence-spectroscopy.pdf,10.1021/ac062160k,POPOP,,,450,valid,,,,,,,extracted
+1016.S0301-0104(01)00575-4.pdf,,carbazole,,,,,17,out_of_range(17.0),,,,,extracted
+1016.S0301-0104(01)00575-4.pdf,,ﬂuorescence,1,out_of_range(1.0),260,valid,,,,,,,extracted
+1016.S0301-0104(01)00575-4.pdf,,d-C,530,valid,350,valid,,,,,,,extracted
+1016.S0301-0104(01)00575-4.pdf,,cyclohexane,325,valid,,,,,,,,,extracted
+1016.j.chemosphere.2005.04.095.pdf,10.1016/j.chemosphere.2005.04.095,unknown,310,valid,300–600,range_value,,,,,,,extracted
+1016.j.chemosphere.2005.04.095.pdf,10.1016/j.chemosphere.2005.04.095,ﬂuorescence,310,valid,,,2002,out_of_range(2002.0),,,,,extracted
+1016.j.chemosphere.2005.04.095.pdf,10.1016/j.chemosphere.2005.04.095,4 - hydroxy - coumarin,270,valid,370,valid,,,,,,,extracted
+1016.j.chemosphere.2005.04.095.pdf,10.1016/j.chemosphere.2005.04.095,ﬂuo,310,valid,,,,,,,,,extracted
+1016.j.chemosphere.2005.04.095.pdf,10.1016/j.chemosphere.2005.04.095,b-CD,,,310,valid,,,,,,,extracted
+1016.j.chemosphere.2005.04.095.pdf,10.1016/j.chemosphere.2005.04.095,Methanol,,,,,1,valid,,,,,extracted
+1016.j.chemosphere.2005.04.095.pdf,10.1016/j.chemosphere.2005.04.095,CTAB,,,,,,,,,2003,valid,extracted
+1016.S1010-6030(99)00135-5.pdf,,Pyrylium,300–450,range_value,,,,,,,,,extracted
+1016.S1010-6030(99)00135-5.pdf,,dichloromethane,355,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00135-5.pdf,,BP(cid:15)C,350–450,range_value,,,,,,,,,extracted
+1016.S1010-6030(99)00135-5.pdf,,BP,355,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00135-5.pdf,,pyranyl,350,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00135-5.pdf,,15)C,680,valid,,,,,,,,,extracted
+1016.S1010-6030(99)00135-5.pdf,,benzophenone,460,valid,,,,,,,,,extracted
+1016.j.cplett.2005.12.092.pdf,10.1016/j.cplett.2005.12.092,2,2.5,out_of_range(2.5),2.5,out_of_range(2.5),,,,,,,extracted
+1016.j.cplett.2005.12.092.pdf,10.1016/j.cplett.2005.12.092,unknown,1,out_of_range(1.0),1,out_of_range(1.0),,,,,,,extracted
+1016.j.cplett.2005.12.092.pdf,10.1016/j.cplett.2005.12.092,diﬀerent,1000,valid,,,,,,,,,extracted
+1016.j.cplett.2005.12.092.pdf,10.1016/j.cplett.2005.12.092,ﬂuorescence,,,375,valid,,,,,,,extracted
+1016.j.cplett.2005.12.092.pdf,10.1016/j.cplett.2005.12.092,1-NACZ Cyclohexane Toluene,,,1000,valid,,,,,,,extracted
+1016.j.cplett.2005.03.070.pdf,10.1016/j.cplett.2005.03.070,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.j.jphotochem.2004.06.003.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.ol062615s.pdf,10.1021/ol062615s,unknown,441,valid,441,valid,,,,,,,extracted
+1021.ol062615s.pdf,10.1021/ol062615s,distyrylbenzenes,401,valid,408,valid,,,,,,,extracted
+1021.ol062615s.pdf,10.1021/ol062615s,selenium,,,420,valid,0.02,valid,,,,,extracted
+1021.ol062615s.pdf,10.1021/ol062615s,disilaindacene,,,100,out_of_range(100.0),,,,,,,extracted
+1016.0022-2860(86)85086-4.pdf,,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.j.jphotochem.2004.08.022.pdf,10.1016/j.jphotochem.2004.08.022,3-Ethyl-lumiﬂavin,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.jphotochem.2004.08.022.pdf,10.1016/j.jphotochem.2004.08.022,Perinaphthenone,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.jphotochem.2004.08.022.pdf,10.1016/j.jphotochem.2004.08.022,3-ethyl-lumiﬂavin,,,355,valid,3,out_of_range(3.0),3,valid,,,extracted
+1016.j.jphotochem.2004.08.022.pdf,10.1016/j.jphotochem.2004.08.022,3-Methyl-lumiﬂavin 3-Ethyl-lumiﬂavin,,,,,3,out_of_range(3.0),3,valid,,,extracted
+1016.j.jphotochem.2004.08.022.pdf,10.1016/j.jphotochem.2004.08.022,oxygen,355,valid,1270,out_of_range(1270.0),,,,,,,extracted
+1016.j.jphotochem.2004.08.022.pdf,10.1016/j.jphotochem.2004.08.022,ﬂavins,352,valid,,,,,,,,,extracted
+1016.j.jphotochem.2004.08.022.pdf,10.1016/j.jphotochem.2004.08.022,Ti,×10−3,invalid_format,,,,,,,,,extracted
+1016.j.jlumin.2006.01.257.pdf,10.1016/j.jlumin.2006.01.257,"2,20-di(4-(2-(1,4-dihydro-1-anthracene)-1-ethenyl)phenoxy)-1,10-binaphthyl",,,496,valid,,,,,,,extracted
+1016.j.jlumin.2006.01.257.pdf,10.1016/j.jlumin.2006.01.257,"2,20-di(4-(2-(1,4-dihydro-4-biphenyl)-1-ethenyl)phenoxy)-1,10-binaphthyl",400,valid,,,,,,,,,extracted
+1016.j.jlumin.2006.01.257.pdf,10.1016/j.jlumin.2006.01.257,"2,20-di(4-(2-(1,4-dihydro-1-naphthyl)-1-ethenyl)phenoxy)-1,10-binaphthyl",400,valid,,,,,,,,,extracted
+1016.S0143-7208(03)00028-7.pdf,10.1016/S0143-7208(03)00028-7,",",318,valid,318,valid,,,,,,,extracted
+1016.S0143-7208(03)00028-7.pdf,10.1016/S0143-7208(03)00028-7,CH2Cl2,,,500,valid,,,,,,,extracted
+1016.S0143-7208(03)00028-7.pdf,10.1016/S0143-7208(03)00028-7,coumarin,,,,,3,out_of_range(3.0),,,,,extracted
+1016.S0143-7208(03)00028-7.pdf,10.1016/S0143-7208(03)00028-7,ﬂuorescence,,,,,1,valid,,,,,extracted
+1016.S0143-7208(03)00028-7.pdf,10.1016/S0143-7208(03)00028-7,3-phenylcoumarin,,,,,27,out_of_range(27.0),,,,,extracted
+1016.S0143-7208(03)00028-7.pdf,10.1016/S0143-7208(03)00028-7,coumarins,,,,,3,out_of_range(3.0),,,,,extracted
+1016.S0143-7208(03)00028-7.pdf,10.1016/S0143-7208(03)00028-7,meta-phenylenediacetonitrile,,,,,1–2,invalid_format,,,,,extracted
+1016.j.molstruc.2005.06.010.pdf,10.1016/j.molstruc.2005.06.010,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.S1386-1425(02)00164-6.pdf,,oxygen,,,,,3,out_of_range(3.0),,,,,extracted
+1016.S1386-1425(02)00164-6.pdf,,carbon tetrachloride,,,,,"9,23",multiple_values,,,,,extracted
+1016.S1386-1425(02)00164-6.pdf,,ethylenic,206,valid,,,,,,,,,extracted
+1016.S1386-1425(02)00164-6.pdf,,ketocoumarin,352,valid,352,valid,,,,,,,extracted
+1016.j.cplett.2005.08.056.pdf,10.1016/j.cplett.2005.08.056,N,307,valid,,,,,,,,,extracted
+1016.j.cplett.2005.08.056.pdf,10.1016/j.cplett.2005.08.056,ﬂash,266,valid,,,,,,,,,extracted
+1016.j.cplett.2005.08.056.pdf,10.1016/j.cplett.2005.08.056,oxygen,330,valid,,,,,,,,,extracted
+1021.ol7023136.pdf,10.1021/ol7023136,pyrene,289,valid,,,,,,,,,extracted
+1021.ol7023136.pdf,10.1021/ol7023136,unknown,367,valid,,,,,,,,,extracted
+1021.ol7023136.pdf,10.1021/ol7023136,Fo¨rster,,,450,valid,1-3,invalid_format,,,,,extracted
+1016.S0009-2614(98)00264-4.pdf,,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.S0143-7208(00)00078-4.pdf,,O,800,valid,,,,,,,,,extracted
+1016.S0143-7208(00)00078-4.pdf,,",",362,valid,,,,,,,,,extracted
+1021.ol702963w.pdf,10.1021/ol702963w,acetonitrile,,,620,valid,,,,,,,extracted
+1021.ol702963w.pdf,10.1021/ol702963w,methanol,,,56,out_of_range(56.0),,,,,,,extracted
+1021.ol702963w.pdf,10.1021/ol702963w,BODIPYs,,,595,valid,,,,,,,extracted
+1016.j.theochem.2005.09.005.pdf,10.1016/j.theochem.2005.09.005,methyl,,,,,6,out_of_range(6.0),,,,,extracted
+1016.j.theochem.2005.09.005.pdf,10.1016/j.theochem.2005.09.005,"6,9-dimethylalloxazine",,,,,0.08,valid,,,,,extracted
+1016.j.theochem.2005.09.005.pdf,10.1016/j.theochem.2005.09.005,iso alloxazines,342,valid,,,,,,,,,extracted
+1039.b909695g.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1016.S1386-1425(01)00550-9.pdf,,ﬂuorescence,,,347,valid,1,valid,,,,,extracted
+1016.S1386-1425(01)00550-9.pdf,,1)-CD,288,valid,,,,,,,,,extracted
+1016.j.cplett.2005.01.096.pdf,10.1016/j.cplett.2005.01.096,ﬂuorescence,,,,,25,out_of_range(25.0),,,,,extracted
+1016.j.cplett.2005.01.096.pdf,10.1016/j.cplett.2005.01.096,DTPY,,,,,1,valid,,,,,extracted
+1016.j.cplett.2005.01.096.pdf,10.1016/j.cplett.2005.01.096,ethanol,410,valid,,,,,,,,,extracted
+1016.j.jphotochem.2004.07.011.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.ol061520n.pdf,10.1021/ol061520n,C17H12N2O4,1.54178,out_of_range(1.54178),,,,,,,,,extracted
+1021.ol061520n.pdf,10.1021/ol061520n,phenolate,,,498,valid,,,,,,,extracted
+1016.j.cplett.2009.04.028.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.jo702265x.pdf,10.1021/jo702265x,ethanol,,,365,valid,,,,,,,extracted
+1021.jo702265x.pdf,10.1021/jo702265x,dichloromethane,395,valid,454,valid,,,,,,,extracted
+1021.jo702265x.pdf,10.1021/jo702265x,2-pyridylaldehyde,,,479,valid,,,,,,,extracted
+lemp-et-al-2008-photophysics-and-photochemistry-of-naphthoxazinone-derivatives.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1016.S1386-1425(01)00616-3.pdf,,"1,6-Naphthyridines",1064,valid,,,,,,,,,extracted
+1016.S1386-1425(01)00616-3.pdf,,CDCl3,458,valid,,,,,,,,,extracted
+1016.S1386-1425(01)00616-3.pdf,,naphthyridi-nes,500–530,range_value,500–530,range_value,,,,,,,extracted
+1016.S1386-1425(01)00616-3.pdf,,chalcone A,,,,,1,valid,,,,,extracted
+1016.S1386-1425(01)00616-3.pdf,,Coumarin 540,,,,,4,out_of_range(4.0),,,,,extracted
+1016.S1386-1425(01)00616-3.pdf,,benzene,,,,,0.05,valid,,,,,extracted
+1016.S1386-1425(01)00616-3.pdf,,acetonitrile,,,,,0.1,valid,,,,,extracted
+1016.S1386-1425(01)00616-3.pdf,,2-phenyl,,,,,4,out_of_range(4.0),,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,t-n-AQE,750,valid,,,,,,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,methylcy-clohexane,360,valid,,,,,,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,MCH,380,valid,380,valid,,,,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,quartz,355,valid,,,,,,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,t-n-ANE,,,,,1,valid,,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,O2,,,,,1,valid,,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,O2/N2,,,,,3,out_of_range(3.0),,,,,extracted
+1039.b204780m.pdf,10.1039/b204780m,AN,,,500,valid,,,,,,,extracted
+1016.j.chemphys.2005.04.018.pdf,10.1016/j.chemphys.2005.04.018,7-aminocoumarin,,,,,1–11,invalid_format,,,,,extracted
+1016.j.chemphys.2005.04.018.pdf,10.1016/j.chemphys.2005.04.018,C152,,,,,24,out_of_range(24.0),,,,,extracted
+1016.j.chemphys.2005.04.018.pdf,10.1016/j.chemphys.2005.04.018,CH3,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,quinine sulphate,,,,,0.5,valid,,,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,propylene carbonate,,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,ﬂuorescence,,,,,1,valid,,,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,iso-octane,,,,,0.99,valid,,,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,Chapter 1,,,,,1,valid,,,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,AcOEt/petroleum ether,,,,,−0.40,invalid_format,3.25,valid,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,IBH,370,valid,12,out_of_range(12.0),,,,,,,extracted
+1016.j.saa.2004.06.035.pdf,10.1016/j.saa.2004.06.035,ns,,,,,,,11,valid,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,acetonitrile,,,,,0.16,valid,107,valid,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,[TBA][PF6],,,,,5,out_of_range(5.0),,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,Phenazine,,,,,5,out_of_range(5.0),,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,CHCl3,,,,,5,out_of_range(5.0),,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,1)-terpinene,,,,,5,out_of_range(5.0),,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,ﬂuorescence,,,,,5,out_of_range(5.0),,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,benzocoumarin,,,430–450,range_value,5,out_of_range(5.0),2,valid,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,anthracene,,,339,valid,5,out_of_range(5.0),−339,invalid_format,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,Benzochromone,,,430–450,range_value,,,,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,"4-Methyl-8-hydroxy-benzo(6,7)coumarin",,,450,valid,,,,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,phenazine,,,450,valid,,,,,,,extracted
+1016.S1010-6030(02)00317-9.pdf,,benzocoumarin I,450,valid,343,valid,,,,,,,extracted
+1016.S1010-6030(00)00308-7.pdf,,ﬂuorescence,,,,,30,out_of_range(30.0),,,,,extracted
+1016.S1010-6030(00)00308-7.pdf,,nitrogen,,,,,5,out_of_range(5.0),,,,,extracted
+1016.j.saa.2005.05.008.pdf,10.1016/j.saa.2005.05.008,"4-methoxy-1,8-N-methyl-naphthalimide",353,valid,353,valid,,,,,,,extracted
+1016.j.saa.2005.05.008.pdf,10.1016/j.saa.2005.05.008,ﬁrst,15,out_of_range(15.0),,,,,,,,,extracted
+1016.j.saa.2005.05.008.pdf,10.1016/j.saa.2005.05.008,ethanol,294,valid,,,,,,,,,extracted
+1016.j.saa.2005.05.008.pdf,10.1016/j.saa.2005.05.008,ﬁne,350,valid,,,,,,,,,extracted
+1016.j.saa.2005.05.008.pdf,10.1016/j.saa.2005.05.008,isooctane,22,out_of_range(22.0),,,,,,,,,extracted
+1016.j.saa.2005.05.008.pdf,10.1016/j.saa.2005.05.008,Isooctane,,,60,out_of_range(60.0),,,,,,,extracted
+1021.jo049621r.pdf,10.1021/jo049621r,porphyrin,,,,,2,out_of_range(2.0),,,,,extracted
+1021.jo049621r.pdf,10.1021/jo049621r,"5,10,15,20-tetrakis(4-bromophenyl)N-confused porphyrin",441,valid,,,2,out_of_range(2.0),,,,,extracted
+1021.jo049621r.pdf,10.1021/jo049621r,H2TPP,,,,,2,out_of_range(2.0),,,,,extracted
+1021.jo049621r.pdf,10.1021/jo049621r,CH2Cl2,,,741-744,range_value,,,,,,,extracted
+1021.ol034246v.pdf,10.1021/ol034246v,phenylenevinylene,,,536,valid,,,,,,,extracted
+1021.ol034246v.pdf,10.1021/ol034246v,new oligo(phenylenevinylene)OPV deriva-tives,,,550,valid,,,,,,,extracted
+1021.ol034246v.pdf,10.1021/ol034246v,cyano,,,475-615,range_value,,,,,,,extracted
+1021.ol034246v.pdf,10.1021/ol034246v,Bu4NPF6,,,30,out_of_range(30.0),,,,,,,extracted
+1021.ol034246v.pdf,10.1021/ol034246v,Oligo(arylenevinylene),,,472-615,range_value,,,,,,,extracted
+1021.ol034246v.pdf,10.1021/ol034246v,Mg-Ag,,,460,valid,,,,,,,extracted
+1016.j.cclet.2011.05.045.pdf,10.1016/j.cclet.2011.05.045,SPEF,550,valid,,,,,,,,,extracted
+1016.j.cclet.2011.05.045.pdf,10.1016/j.cclet.2011.05.045,diphenylamino,800,valid,,,,,,,,,extracted
+1016.j.cclet.2011.05.045.pdf,10.1016/j.cclet.2011.05.045,1H,550,valid,,,,,,,,,extracted
+1016.j.cclet.2011.05.045.pdf,10.1016/j.cclet.2011.05.045,Ti:sapphire,800,valid,,,,,,,,,extracted
+1016.S0022-2860(98)00375-5.pdf,,unknown,325,valid,,,2,out_of_range(2.0),,,,,extracted
+1016.S0022-2860(98)00375-5.pdf,,Cyclohexane,400,valid,,,,,,,,,extracted
+1016.S0022-2860(98)00375-5.pdf,,ﬂuorescence,,,400,valid,,,136,valid,,,extracted
+1016.S1386-1425(02)00207-X.pdf,,naphthalene,,,,,"2,3,5",multiple_values,,,,,extracted
+1016.S1386-1425(02)00207-X.pdf,,"9,10-diphenylan-thracene",,,,,11,out_of_range(11.0),,,,,extracted
+1016.S1386-1425(02)00207-X.pdf,,unknown,0.5,out_of_range(0.5),,,12,out_of_range(12.0),,,,,extracted
+1016.S1386-1425(02)00207-X.pdf,,Cyclohexane,,,9/60,invalid_format,9/10,invalid_format,,,,,extracted
+1016.S1386-1425(02)00207-X.pdf,,Ti,,,,,0,valid,,,,,extracted
+1016.S0301-0104(98)00215-8.pdf,,unknown,485,valid,485,valid,,,,,,,extracted
+1016.S0301-0104(98)00215-8.pdf,,hydrogen,340,valid,530,valid,,,,,,,extracted
+1016.S0301-0104(98)00215-8.pdf,,methanol,1,out_of_range(1.0),,,,,,,,,extracted
+1016.S0301-0104(98)00215-8.pdf,,PM567,-400,range_value,-400,range_value,,,6.1,valid,2,valid,extracted
+1016.S0301-0104(98)00215-8.pdf,,rhodamine 6G,0.01,out_of_range(0.01),0.01,out_of_range(0.01),1,valid,,,,,extracted
+1016.S0301-0104(98)00215-8.pdf,,cyclohexane,-10,range_value,,,,,,,,,extracted
+1016.S0301-0104(98)00215-8.pdf,,quartz,,,0.01,out_of_range(0.01),,,,,,,extracted
+1016.S0301-0104(98)00215-8.pdf,,"2,2,2-trifluoro-ethanol",,,-10,range_value,,,,,,,extracted
+1016.j.dyepig.2006.01.001.pdf,10.1016/j.dyepig.2006.01.001,",",24,out_of_range(24.0),27,out_of_range(27.0),,,,,,,extracted
+1016.j.dyepig.2006.01.001.pdf,10.1016/j.dyepig.2006.01.001,ﬂuorescence,337,valid,,,0.84,valid,,,,,extracted
+1016.j.dyepig.2006.01.001.pdf,10.1016/j.dyepig.2006.01.001,iminocoumarin,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.dyepig.2006.01.001.pdf,10.1016/j.dyepig.2006.01.001,coumarin,,,,,1,valid,,,,,extracted
+1016.j.dyepig.2006.01.001.pdf,10.1016/j.dyepig.2006.01.001,iminocoumarins,,,,,3,out_of_range(3.0),,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,PTCDI,525,valid,410,valid,1,valid,3-12,invalid_format,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,phenoxy,570,valid,,,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,thiophenyl,556,valid,,,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,alkylamino,606,valid,410,valid,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,alkoxy,400-800,range_value,,,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,alkythio,400-800,range_value,,,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,chloroform,410,valid,410,valid,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,",",,,410,valid,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,alkylthio,,,410,valid,,,,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,"9,-10-tetracarboxydiimide",,,,,6,out_of_range(6.0),,,,,extracted
+1021.jo062150j.pdf,10.1021/jo062150j,amino,,,,,,,6,valid,,,extracted
+1021.jp9638696.pdf,,anthracene,338,valid,420,valid,,,,,,,extracted
+1021.jp9638696.pdf,,9-DMA,5,out_of_range(5.0),3.4,out_of_range(3.4),9,out_of_range(9.0),244,valid,,,extracted
+1021.jp9638696.pdf,,nitrogen,1,out_of_range(1.0),,,,,,,,,extracted
+1021.jp9638696.pdf,,acetonitrile,550,valid,550,valid,,,,,,,extracted
+1021.jp9638696.pdf,,glycerol,420,valid,,,,,,,,,extracted
+1021.jp9638696.pdf,,(cid:231)-CDx,250,valid,,,,,,,,,extracted
+1021.jp9638696.pdf,,quinine sulfate,,,350,valid,,,,,,,extracted
+1021.jp9638696.pdf,,cyclohexane,,,,,9,out_of_range(9.0),,,,,extracted
+1021.jp9638696.pdf,,hydrogen,,,,,244,out_of_range(244.0),,,,,extracted
+1021.jp9638696.pdf,,Sucrose,,,,,,,9,valid,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,pyridine,∼370,invalid_format,420,valid,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,methanol,368,valid,,,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,"p-- nitrodiphenylhexa-1,3,5-triene",390,valid,,,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,3),452,valid,,,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,aceto-nitrile,452,valid,,,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,DPB,330,valid,,,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,DPH,330,valid,,,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,DSTBA,346,valid,368,valid,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,ps,,,370,valid,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,stilbene,,,390,valid,,,,,,,extracted
+1016.S1010-6030(01)00471-3.pdf,,unknown,,,,,,,1,valid,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,"diindeno[1,2,3-cd:1¢, 2¢, 3¢-jk]pyrene",307,valid,,,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,"diindeno[1,2,3-cd:1¢, 2¢, 3¢-fg]-pyrene",273,valid,,,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,"2,7,11-tri-tert-butyltriindeno[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢ ¢-jk]pyrene",276,valid,,,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,"2,7,11,16-tetra-tert-butyltetraindeno-¢, 2¢, 2¢[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢-mn]pyrene",545,valid,,,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,"2,7,-11,16-tetra-tert-butyltetraindeno[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢-mn]pyrene",550,valid,550,valid,,,244,valid,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,indenopyrenes,600,valid,,,,,244,valid,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,unknown,298,valid,,,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,1H,7.29,out_of_range(7.29),,,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,Tetraindenopyrene,,,679,valid,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,alkanes,,,296,valid,,,,,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,anthracene,,,,,,,244,valid,,,extracted
+zachariasse-et-al-2006-oligoindenopyrenes-a-new-class-of-polycyclic-aromatics.pdf,10.1021/jo0613939,"2,7,11,16-tetra-tert-butyltetraindeno[1,2,3-cd:1¢, 2¢, 3¢-fg:1¢-mn]pyrene",,,,,0.0037,valid,,,,,extracted
+mondal-et-al-2006-synthesis-and-photophysical-properties-of-dihydroheptacenes-new-blue-emitting-materials.pdf,10.1021/jo0601314,CH2Cl2,372,valid,420-426,range_value,,,,,,,extracted
+mondal-et-al-2006-synthesis-and-photophysical-properties-of-dihydroheptacenes-new-blue-emitting-materials.pdf,10.1021/jo0601314,… F,372,valid,,,,,,,,,extracted
+mondal-et-al-2006-synthesis-and-photophysical-properties-of-dihydroheptacenes-new-blue-emitting-materials.pdf,10.1021/jo0601314,…,372,valid,,,,,,,,,extracted
+mondal-et-al-2006-synthesis-and-photophysical-properties-of-dihydroheptacenes-new-blue-emitting-materials.pdf,10.1021/jo0601314,argon,372,valid,,,,,,,,,extracted
+mondal-et-al-2006-synthesis-and-photophysical-properties-of-dihydroheptacenes-new-blue-emitting-materials.pdf,10.1021/jo0601314,AcOH,,,,,2,out_of_range(2.0),,,,,extracted
+mondal-et-al-2006-synthesis-and-photophysical-properties-of-dihydroheptacenes-new-blue-emitting-materials.pdf,10.1021/jo0601314,fluorene,,,,,0.44,valid,,,,,extracted
+mondal-et-al-2006-synthesis-and-photophysical-properties-of-dihydroheptacenes-new-blue-emitting-materials.pdf,10.1021/jo0601314,Dihydroheptacenes,,,,,,,244,valid,,,extracted
+1016.S1386-1425(01)00599-6.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (630) must match the size of 
+1016.j.cplett.2006.04.104.pdf,10.1016/j.cplett.2006.04.104,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.cplett.2006.04.104.pdf,10.1016/j.cplett.2006.04.104,Nd3 +,266,valid,,,,,,,,,extracted
+1016.j.cplett.2006.04.104.pdf,10.1016/j.cplett.2006.04.104,TBCA,266,valid,,,,,,,,,extracted
+1016.j.cplett.2006.04.104.pdf,10.1016/j.cplett.2006.04.104,2-methyltetrahydrofuran,450–600,range_value,,,,,,,,,extracted
+1016.j.cplett.2006.04.104.pdf,10.1016/j.cplett.2006.04.104,ﬂuorescence,,,,,0.19,valid,-900,out_of_range(-900.0),,,extracted
+References _ ISS.html,,NADH,330-370,range_value,400-600,range_value,,,,,,,extracted
+References _ ISS.html,,NaOH,275,valid,310-400,range_value,0.1,valid,,,,,extracted
+References _ ISS.html,,p-Terphenyl,280-340,range_value,310-412,range_value,,,,,,,extracted
+References _ ISS.html,,PPD,240-340,range_value,310-440,range_value,,,,,,,extracted
+References _ ISS.html,,PPO,280-350,range_value,330-480,range_value,,,,,,,extracted
+References _ ISS.html,,POPOP,280-390,range_value,370-540,range_value,2,out_of_range(2.0),,,,,extracted
+References _ ISS.html,,Dimethyl-POPOP,300-400,range_value,390-560,range_value,,,,,,,extracted
+References _ ISS.html,,L-Tyrosine,285,valid,300,valid,,,,,,,extracted
+References _ ISS.html,,Anthranilic Acid,290,valid,400,valid,,,,,,,extracted
+References _ ISS.html,,Indole,290,valid,360,valid,,,,,,,extracted
+References _ ISS.html,,Fluorescein,400,valid,490-520,range_value,95 ± 3,invalid_format,,,,,extracted
+References _ ISS.html,,Rhodamine B,400,valid,583,valid,4,out_of_range(4.0),,,,,extracted
+References _ ISS.html,,DMS,280-375,range_value,375-475,range_value,,,,,,,extracted
+References _ ISS.html,,DBS,280-385,range_value,375-475,range_value,,,,,,,extracted
+References _ ISS.html,,DCS,280-420,range_value,300-500,range_value,,,,,,,extracted
+References _ ISS.html,,"1, 4-bis(5-phenyloxazole-2-yl)benzene",575,valid,375-450,range_value,,,,,,,extracted
+References _ ISS.html,,Cyclohexane,540,valid,,,540,out_of_range(540.0),,,,,extracted
+References _ ISS.html,,Cresyl Violet,540-640,range_value,,,540-640,invalid_format,,,,,extracted
+References _ ISS.html,,Quinine Sulfate,350,valid,,,57.7,out_of_range(57.7),,,,,extracted
+References _ ISS.html,,Rhodamine,450-465,range_value,,,100,out_of_range(100.0),,,,,extracted
+References _ ISS.html,,Tryptophan,280,valid,,,13 ± 1,invalid_format,,,,,extracted
+References _ ISS.html,,Tyrosine,275,valid,,,14 ± 1,invalid_format,,,,,extracted
+References _ ISS.html,,Calcium,350,valid,500,valid,,,,,,,extracted
+References _ ISS.html,,Fura-2,362,valid,500,valid,,,,,,,extracted
+References _ ISS.html,,Indo-1,349,valid,482,valid,,,,,,,extracted
+References _ ISS.html,,Ca,506,valid,534,valid,,,,,,,extracted
+References _ ISS.html,,Quin,356,valid,,,,,,,,,extracted
+References _ ISS.html,,Magnesium,503,valid,500,valid,,,,,,,extracted
+References _ ISS.html,,Mg-Quin,353,valid,487,valid,,,,,,,extracted
+References _ ISS.html,,Mg,506,valid,532,valid,,,,,,,extracted
+References _ ISS.html,,Potassium,350,valid,546,valid,,,,,,,extracted
+References _ ISS.html,,Sodium,350,valid,546,valid,,,,,,,extracted
+References _ ISS.html,,Sodium Green,507,valid,532,valid,,,,,,,extracted
+References _ ISS.html,,Carboxy,540,valid,543,valid,,,,,,,extracted
+References _ ISS.html,,Resorufin,571,valid,587,valid,,,,,,,extracted
+References _ ISS.html,,unknown,670,valid,,,,,,,,,extracted
+References _ ISS.html,,Editor,,,528,valid,,,,,31000,invalid_format,extracted
+References _ ISS.html,,Cyanine,,,,,4,out_of_range(4.0),,,,,extracted
+References _ ISS.html,,CY3,,,,,1,valid,,,,,extracted
+References _ ISS.html,,Methanol,,,,,22,out_of_range(22.0),,,,,extracted
+References _ ISS.html,,Ethanol,,,,,101,out_of_range(101.0),,,,,extracted
+References _ ISS.html,,Rhodamine 6G,,,,,94,out_of_range(94.0),,,,,extracted
+1002.poc.1222.pdf,10.1002/poc.1222,ﬂuorescent,,,,,0.002,valid,,,,,extracted
+1002.poc.1222.pdf,10.1002/poc.1222,phosphate,,,453,valid,1,valid,,,,,extracted
+1002.poc.1222.pdf,10.1002/poc.1222,hydrogen,,,,,1–3,invalid_format,,,,,extracted
+1002.poc.1222.pdf,10.1002/poc.1222,ﬂuorescence,280,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,unknown,,,532,valid,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,quartz,1,out_of_range(1.0),1,out_of_range(1.0),,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,xenon,2000,out_of_range(2000.0),2000,out_of_range(2000.0),,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,Methanol,532,valid,532,valid,,,,,238,valid,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,Glycerol,,,450,valid,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,phenol,430,valid,440,valid,,,,,525,valid,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,aliphatic alcohols,532,valid,,,10-3,invalid_format,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,H2SO4,,,,,0.1,valid,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,Ethanol,,,,,0.7,valid,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,hydrogen,532,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,stilbene azobenzene,260 and 310,invalid_format,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,methanol,487,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,RhB,580,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,Rhodamine B,532,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,glycerol,416,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,alcohols,540,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,Ethylene Glycol,480,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,hexane,446,valid,,,,,,,,,extracted
+de-boni-et-al-2007-fluorescence-emission-of-disperse-red-1-in-solution-at-room-temperature.pdf,10.1021/jp076026v,"acetonitrile,7",487,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,phosphate,,,,,5,out_of_range(5.0),,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,CPZ,,,,,0.9,valid,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,Phenothiazine,,,,,30,out_of_range(30.0),,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,quinine sulfate,320-350,range_value,320-350,range_value,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,MC540,460,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,phenothiazines,300-320,range_value,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,TFMP,470,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,2-sulfur,270,valid,,,,,,,15,valid,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,2-trifuoromethylpromazine hydrochloride,355,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,nitrogen,470,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,Promazine,355,valid,,,,,43,valid,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,oxygen,460,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,1.27 0.67,355,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,N2O,470,valid,,,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,promazines,,,350,valid,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,10-alkylated phenothiazines,,,440,valid,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,10-Alkylated Phenothiazines,,,470,valid,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,2-CF3,,,25,out_of_range(25.0),,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,ethanol,,,350,valid,,,,,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,ref 23,,,,,,,244,valid,,,extracted
+arce-et-al-2005-substitution-and-solvent-effects-on-the-photophysical-properties-of-several-series-of-10-alkylated.pdf,10.1021/jp044530j,Chlorine,,,,,,,2,valid,,,extracted
+1016.j.dyepig.2006.09.010.pdf,10.1016/j.dyepig.2006.09.010,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.j.tet.2012.12.057.pdf,,thiolactone,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.tet.2012.12.057.pdf,,quinine sulfate,360,valid,,,360,out_of_range(360.0),,,,,extracted
+1016.j.tet.2012.12.057.pdf,,Hg,,,407,valid,,,,,,,extracted
+1016.j.tet.2012.12.057.pdf,,hydrogen,,,505,valid,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,"(E, E, E)-1-(4-Ethoxyphenyl)-6-(4-nitrophenyl)-1,3,5-hex-atriene",,,635-650,range_value,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,toluene,420,valid,420,valid,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,nitrogen,,,337,valid,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,methanol,337,valid,50,out_of_range(50.0),,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,13C,412,valid,,,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,1a-d,411-429,range_value,,,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,p-nitrophenyl,415,valid,,,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,1a-d 1bb,480,valid,,,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,"1a, 1c ,",20-30,range_value,,,,,,,,,extracted
+1021.jp064937j.pdf,10.1021/jp064937j,Mo,,,,,30,out_of_range(30.0),,,,,extracted
+1021.jo0493424.pdf,10.1021/jo0493424,3-coumarin,330-340,range_value,,,7,out_of_range(7.0),,,,,extracted
+1021.jo0493424.pdf,10.1021/jo0493424,"N, N-dimethyl-anilino",,,,,1,valid,,,,,extracted
+1021.jo0493424.pdf,10.1021/jo0493424,cou-marin,,,428,valid,,,,,,,extracted
+1021.ol800841v.pdf,10.1021/ol800841v,benzo[c]phosphole,,,,,,,,,-1,out_of_range(-1.0),extracted
+1021.ol800841v.pdf,10.1021/ol800841v,benzophosphole oxides,350-370,range_value,431,valid,23-65,invalid_format,,,,,extracted
+1021.ol800841v.pdf,10.1021/ol800841v,benzo-phosphole,396,valid,450,valid,,,,,,,extracted
+jiang-et-al-2002-reversal-of-the-intramolecular-charge-transfer-in-p-dimethylaminobenzanilides-by-amido-anilino.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (516) must match the size of 
+1016.j.jphotochem.2006.04.036.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1016.j.cplett.2004.10.101.pdf,10.1016/j.cplett.2004.10.101,ﬂuorescence,,,,,0.21,valid,,,,,extracted
+1016.j.jlumin.2009.05.003.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.tetlet.2004.06.072.pdf,10.1016/j.tetlet.2004.06.072,tyrosine.4,475,valid,,,,,,,,,extracted
+1016.j.tetlet.2004.06.072.pdf,10.1016/j.tetlet.2004.06.072,butenolide,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.tetlet.2004.06.072.pdf,10.1016/j.tetlet.2004.06.072,ﬂuorescence.4,,,,,0,valid,,,,,extracted
+1016.j.tetlet.2004.06.072.pdf,10.1016/j.tetlet.2004.06.072,ﬂuorescence,,,531,valid,0.45,valid,,,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,Nitrogen,,,,,,,26,valid,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,trans-3-(4-monomethyla)-acrylonitrile,3,out_of_range(3.0),,,,,,,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,hydrogen,318,valid,,,,,,,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,cyclohexane,368,valid,368,valid,,,,,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,DMABN,,,400–460,range_value,,,,,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,H +,,,375,valid,,,,,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,Cyclohexane,,,390,valid,,,,,,,extracted
+1016.j.chemphys.2005.12.032.pdf,10.1016/j.chemphys.2005.12.032,MMAPA,,,330,valid,,,,,,,extracted
+1016.j.jphotochem.2004.12.008.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.ja0349148.pdf,10.1021/ja0349148,enediyne,,,,,240,out_of_range(240.0),,,,,extracted
+1021.ja0349148.pdf,10.1021/ja0349148,"1,1-Dibromo-1-alkenes",10,out_of_range(10.0),,,,,,,,,extracted
+1021.jp963263h.pdf,,N2,,,358,valid,,,,,,,extracted
+1021.jp963263h.pdf,,9-ACA,,,440,valid,244,out_of_range(244.0),244,valid,236,valid,extracted
+1021.jp963263h.pdf,,neutral,,,475,valid,,,,,,,extracted
+1021.jp963263h.pdf,,acridinium,387,valid,475,valid,,,,,,,extracted
+1021.jp963263h.pdf,,Methyl Ester,,,475,valid,,,,,,,extracted
+1021.jp963263h.pdf,,9-MCA,,,508,valid,244,out_of_range(244.0),244,valid,236,valid,extracted
+1021.jp963263h.pdf,,Acridine,250,valid,,,9,out_of_range(9.0),,,,,extracted
+1021.jp963263h.pdf,,"acridine.30,31",,,,,,,9,valid,,,extracted
+1021.jp963263h.pdf,,hydro-gen,,,,,9,out_of_range(9.0),,,,,extracted
+1016.j.saa.2006.12.057.pdf,10.1016/j.saa.2006.12.057,methyl,354–365,range_value,,,,,,,,,extracted
+1016.j.saa.2006.12.057.pdf,10.1016/j.saa.2006.12.057,Hexane,33,out_of_range(33.0),,,,,,,,,extracted
+1016.j.saa.2006.12.057.pdf,10.1016/j.saa.2006.12.057,NMe2,55,out_of_range(55.0),,,,,,,,,extracted
+1002.hc.21058.pdf,10.1002/hc.21058,CH2Cl2,370 and 446,invalid_format,370 and 446,invalid_format,,,,,,,extracted
+1002.hc.21058.pdf,10.1002/hc.21058,Quinoline,,,370–446,range_value,,,,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,SPEF,,,,,20,out_of_range(20.0),,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,BCSBT,454,valid,,,,,,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,nitrogen,2,out_of_range(2.0),,,,,,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,ns,1000,valid,,,,,,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,"5,50-bis(p-N-carbazoylstyryl)-2,20-bithio-phene",437,valid,,,,,,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,toluene,499,valid,499,valid,,,,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,"5,50-bis(p-N, N-dimethylaminostyryl)-2,20-bi-thiophene",,,554,valid,,,,,,,extracted
+1016.j.optmat.2004.02.022.pdf,10.1016/j.optmat.2004.02.022,Toluene,,,532,valid,,,,,,,extracted
+1016.j.cplett.2010.01.058.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,"Chex, cyclohexane",,,,,,,,,-1,out_of_range(-1.0),extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,Zn(II),444,valid,,,,,,,3,valid,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,N-BIM,446-470,range_value,,,,,,,,,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,BIM,380,valid,380,valid,1,valid,,,,,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,TEA,402,valid,,,,,,,,,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,EtOH,324,valid,,,,,,,,,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,Sn,740,valid,,,10,out_of_range(10.0),,,,,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,acetonitrile,415,valid,,,,,,,,,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,titanium,575,valid,,,,,,,,,extracted
+fanti-et-al-2005-unexpected-photophysical-properties-of-symmetric-indolylmaleimide-derivatives.pdf,10.1021/jp051035u,unknown,,,500,valid,,,,,,,extracted
+1021.jp9053988.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1021.jo0703911.pdf,10.1021/jo0703911,dichloromethane,328-353,range_value,390,valid,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,"1,4-diethynylbenzene",340,valid,,,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,diphenyanthracene,329,valid,,,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,…,340,valid,,,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,… F,340,valid,,,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,PMMA,340,valid,350,valid,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,Dichloromethane,,,386-437,range_value,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,unknown,,,385-422,range_value,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,acetonitrile,,,394,valid,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,"9,10-diphenylanthracene",,,437,valid,,,,,,,extracted
+1021.jo0703911.pdf,10.1021/jo0703911,"1,3-diethynylbenzene",,,,,,,244,valid,,,extracted
+1016.j.dyepig.2008.12.009.pdf,10.1016/j.dyepig.2008.12.009,N-triazinyl,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.dyepig.2008.12.009.pdf,10.1016/j.dyepig.2008.12.009,chlorine,1,out_of_range(1.0),,,,,,,,,extracted
+1021.jo801549u.pdf,10.1021/jo801549u,THF,280-500,range_value,,,,,25,valid,,,extracted
+1021.jo801549u.pdf,10.1021/jo801549u,dipyridopyrazole,,,432,valid,,,,,,,extracted
+1021.jo801549u.pdf,10.1021/jo801549u,pyridopyrazolopyrazines,,,,,,,6,valid,,,extracted
+1021.jo801549u.pdf,10.1021/jo801549u,unknown,,,,,,,10-9,invalid_format,,,extracted
+1016.0022-2313(92)90006-U.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.jphotochem.2005.04.024.pdf,10.1016/j.jphotochem.2005.04.024,ﬂuorescence,,,440,valid,,,440,valid,,,extracted
+1016.j.jphotochem.2005.04.024.pdf,10.1016/j.jphotochem.2005.04.024,mono-oxacorrole,,,447,valid,,,,,,,extracted
+1016.j.jphotochem.2005.04.024.pdf,10.1016/j.jphotochem.2005.04.024,unknown,440–455,range_value,,,,,,,,,extracted
+1016.j.jphotochem.2005.04.024.pdf,10.1016/j.jphotochem.2005.04.024,para-cyano,550–750,range_value,,,,,,,,,extracted
+1016.j.jphotochem.2005.04.024.pdf,10.1016/j.jphotochem.2005.04.024,tetraphenyl porphyrin,,,,,0.11,valid,,,,,extracted
+1016.j.jphotochem.2005.04.024.pdf,10.1016/j.jphotochem.2005.04.024,cyano,,,,,15,out_of_range(15.0),,,,,extracted
+1016.j.jphotochem.2005.04.024.pdf,10.1016/j.jphotochem.2005.04.024,THF,,,,,14,out_of_range(14.0),,,,,extracted
+1016.j.cplett.2007.10.005.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (552) must match the size of 
+1016.j.mencom.2018.01.002.pdf,10.1016/j.mencom.2018.01.002,EtOH,400,valid,,,3,out_of_range(3.0),,,,,extracted
+1016.j.mencom.2018.01.002.pdf,10.1016/j.mencom.2018.01.002,4-morholino,397–410,range_value,,,,,,,,,extracted
+1016.j.mencom.2018.01.002.pdf,10.1016/j.mencom.2018.01.002,2-thienylquinazoline,397–410,range_value,,,10,out_of_range(10.0),,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,H2O/D2O,400-950,range_value,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,tungsten,350-800,range_value,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,BBO,470-1000,range_value,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,30),355,valid,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,DMABP,750,valid,3,out_of_range(3.0),,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,acetonitrile,880,valid,610,valid,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,unknown,500,valid,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,phenyl,600-900,range_value,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,benzene,600-930,range_value,,,30,out_of_range(30.0),,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,alcohols,800-1000,range_value,600,valid,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,cyclohexane,900,valid,,,,,1,valid,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,methanol,670,valid,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,butanol,670,valid,490,valid,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,DMSO,900,valid,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,DMABP.53,400,valid,670,valid,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,1-butanol,670,valid,,,,,,,,,extracted
+ramakrishna-et-al-2004-photophysics-and-ultrafast-relaxation-dynamics-of-the-excited-states-of-dimethylaminobenzophenone.pdf,10.1021/jp037132+,decanol,,,490,valid,,,,,,,extracted
+1021.ol4034622.pdf,10.1021/ol4034622,aza-BDTPs,800,valid,800,valid,,,1,valid,,,extracted
+1021.ol4034622.pdf,10.1021/ol4034622,aza-BDTP,788,valid,40,out_of_range(40.0),,,,,170,valid,extracted
+1021.ol4034622.pdf,10.1021/ol4034622,ol4034622,,,,,,,,,170000,valid,extracted
+1021.ol4034622.pdf,10.1021/ol4034622,ﬂuorescence,,,,,,,1.18,valid,,,extracted
+1021.ol4034622.pdf,10.1021/ol4034622,Indocyanine Green,,,,,0.12,valid,,,,,extracted
+1021.ol4034622.pdf,10.1021/ol4034622,chloroform,,,,,0.1,valid,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,styryl,,,60,out_of_range(60.0),,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,"4,4-difluoro-4-bora-3a,-4a-diaza-s-indacene",500,valid,500,valid,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,palladium,,,488,valid,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,toluene,10,out_of_range(10.0),577,valid,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,methanol,530,valid,530,valid,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,"3,5-diethynylphenyl",50,out_of_range(50.0),50,out_of_range(50.0),,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,borondipyrromethene,10,out_of_range(10.0),10,out_of_range(10.0),,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,"3,5-diaryl-4,4-difluoro-4-bora-3a,4a-diaza-s-indacene",,,640-650,range_value,30,out_of_range(30.0),,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,"BODIPY,8,14-18",523-534,range_value,523-534,range_value,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,"3,5-diarylBODIPY 6",20,out_of_range(20.0),586,valid,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,dichloroBODIPY,20,out_of_range(20.0),30,out_of_range(30.0),1-7,invalid_format,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,"3,5-diethynylaryl",,,,,24,out_of_range(24.0),,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,chlorine,,,,,30,out_of_range(30.0),,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,cyclohexane,566,valid,,,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,",",50-60,range_value,,,,,,,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,O2,,,,,,,244,valid,,,extracted
+clifford-et-al-2007-boron-dipyrromethene-analogs-with-phenyl-styryl-and-ethynylphenyl-substituents-synthesis.pdf,10.1021/jp073547+,dichloromethane.3,,,,,,,2,valid,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,amine,600,valid,600,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,unknown,593,valid,560,valid,30,out_of_range(30.0),,,530,valid,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,THF,375,valid,,,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,1-butanol,530,valid,730,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,HCl,597,valid,,,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,ammonium,40,out_of_range(40.0),,,30,out_of_range(30.0),,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,H +,660,valid,660,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,1,600,valid,,,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,Acetonitrile,552,valid,562,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,CDCl3,553,valid,553,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,H,660,valid,10,out_of_range(10.0),,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,"p-N, N-dimethylaminobenzaldehyde",108,out_of_range(108.0),108,out_of_range(108.0),,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,methanol,530,valid,530,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,chloroform/hexane,530,valid,560,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,cyclohexane,,,612,valid,,,,,,,extracted
+hofkens-et-al-2006-solvent-and-ph-dependent-fluorescent-properties-of-a-dimethylaminostyryl-borondipyrromethene-dye-in.pdf,10.1021/jp054878u,methylcyclohexane,,,612,valid,,,,,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,BMH +,,,,,0.01,valid,,,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,HNEP +,390,valid,570,valid,0.16,valid,0.01,valid,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,DMSO,,,,,0.05,valid,,,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,cyclohexane,,,370,valid,,,,,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,HNEP,,,570,valid,,,,,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,acetone,585,valid,,,,,,,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,H2O,448,valid,,,,,,,,,extracted
+1021.jp3106869.pdf,10.1021/jp3106869,eﬀect,448,valid,,,,,,,,,extracted
+1016.j.jphotochem.2007.02.008.pdf,10.1016/j.jphotochem.2007.02.008,DMSO,700,valid,740,valid,,,,,3.2×104,invalid_format,extracted
+1016.j.jphotochem.2007.02.008.pdf,10.1016/j.jphotochem.2007.02.008,benzil,380,valid,,,,,,,,,extracted
+1016.j.jphotochem.2007.02.008.pdf,10.1016/j.jphotochem.2007.02.008,phenanthrenequinone,410,valid,,,,,,,3.5×104,invalid_format,extracted
+1016.j.jphotochem.2007.02.008.pdf,10.1016/j.jphotochem.2007.02.008,ﬂuorescence,350–560,range_value,,,,,,,,,extracted
+1016.j.jphotochem.2007.02.008.pdf,10.1016/j.jphotochem.2007.02.008,", φf = 0.78",,,440,valid,,,,,,,extracted
+1016.j.jphotochem.2007.02.008.pdf,10.1016/j.jphotochem.2007.02.008,coumarin 307,,,,,4,out_of_range(4.0),,,,,extracted
+1002.ajoc.201402024.pdf,10.1002/ajoc.201402024,"1,2-bis(pyridylphenyl)ethene",,,,,97,out_of_range(97.0),,,,,extracted
+1002.ajoc.201402024.pdf,10.1002/ajoc.201402024,unknown,,,387,valid,97,out_of_range(97.0),,,,,extracted
+1002.ajoc.201402024.pdf,10.1002/ajoc.201402024,",",318,valid,,,1,valid,,,,,extracted
+1002.ajoc.201402024.pdf,10.1002/ajoc.201402024,CH2Cl2,354,valid,354,valid,1.1,out_of_range(1.1),,,,,extracted
+1002.ajoc.201402024.pdf,10.1002/ajoc.201402024,"1,2-bis(pyridylphe-nyl)ethenes",,,350,valid,,,,,,,extracted
+1002.ajoc.201402024.pdf,10.1002/ajoc.201402024,methyl,,,,,,,4,valid,,,extracted
+1016.j.tetlet.2011.08.111.pdf,10.1016/j.tetlet.2011.08.111,"1H-pyrazolo[1,2-b]phthalazine-5,10-diones",4,out_of_range(4.0),446,valid,,,,,,,extracted
+1016.j.tetlet.2011.08.111.pdf,10.1016/j.tetlet.2011.08.111,cyano,364,valid,4,out_of_range(4.0),2,out_of_range(2.0),,,,,extracted
+1016.j.tetlet.2011.08.111.pdf,10.1016/j.tetlet.2011.08.111,nitro,,,575,valid,,,,,,,extracted
+1016.j.tetlet.2011.08.111.pdf,10.1016/j.tetlet.2011.08.111,ﬂuorescent,,,516,valid,,,,,,,extracted
+1016.j.tetlet.2011.08.111.pdf,10.1016/j.tetlet.2011.08.111,naphthalene,,,355,valid,,,,,,,extracted
+1016.j.dyepig.2008.10.009.pdf,10.1016/j.dyepig.2008.10.009,B2N,,,445,valid,,,,,,,extracted
+1016.j.dyepig.2008.10.009.pdf,10.1016/j.dyepig.2008.10.009,TBAF,350,valid,,,,,,,,,extracted
+1016.j.saa.2012.10.013.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.tetlet.2013.01.096.pdf,10.1016/j.tetlet.2013.01.096,ﬂuorescence,,,,,0.01,valid,,,,,extracted
+1016.j.tetlet.2013.01.096.pdf,10.1016/j.tetlet.2013.01.096,CH3CN,20,out_of_range(20.0),,,0.11,valid,,,,,extracted
+1016.j.dyepig.2004.05.003.pdf,10.1016/j.dyepig.2004.05.003,dioxo,1744,out_of_range(1744.0),,,,,,,,,extracted
+1016.j.dyepig.2004.05.003.pdf,10.1016/j.dyepig.2004.05.003,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.dyepig.2004.05.003.pdf,10.1016/j.dyepig.2004.05.003,Ethyl,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.jphotochem.2005.11.004.pdf,10.1016/j.jphotochem.2005.11.004,ﬂuorescence,700–900,range_value,,,,,,,,,extracted
+1016.j.jphotochem.2005.11.004.pdf,10.1016/j.jphotochem.2005.11.004,vinylene,100,out_of_range(100.0),100,out_of_range(100.0),,,,,,,extracted
+1016.j.jphotochem.2005.11.004.pdf,10.1016/j.jphotochem.2005.11.004,DMSO,,,,,0.13,valid,,,,,extracted
+1016.j.jphotochem.2005.11.004.pdf,10.1016/j.jphotochem.2005.11.004,Eox1,,,,,17,out_of_range(17.0),,,,,extracted
+1016.j.dyepig.2007.11.003.pdf,10.1016/j.dyepig.2007.11.003,cyclo-hexaneeethyl acetate,4,out_of_range(4.0),,,,,,,,,extracted
+1016.j.dyepig.2007.11.003.pdf,10.1016/j.dyepig.2007.11.003,n-Heptane,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.dyepig.2007.11.003.pdf,10.1016/j.dyepig.2007.11.003,quinine sulphate,,,,,0.54,valid,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,ANA,450,valid,514-536,range_value,6,out_of_range(6.0),,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,arylamino,400-500,range_value,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,methanol,514-536,range_value,514-536,range_value,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,HOMO,393,valid,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,pyrenyl,400,valid,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,anthracenyl,400,valid,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,naphthyl,400,valid,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,unknown,486,valid,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,n-hexane,375,valid,580,valid,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,CH2Cl2,467,valid,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,CH2-Cl2,469,valid,,,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,TPBI,,,603,valid,,,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,"4-(Phenyl pyren-1-yl)amino-1,8-naphthalic Anhydride",,,,,30,out_of_range(30.0),,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,ANA-1-3,,,,,244,out_of_range(244.0),,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,NaOH,,,,,0.93,valid,,,,,extracted
+1021.jp044669u.pdf,10.1021/jp044669u,anhydride,,,,,,,-1-3,invalid_format,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,pentacenes,475-725,range_value,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,"6,13-bis(triisopropylsilyl-ethynyl)pentacene",643,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,"6,13-diarylpentacene",652,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,alkoxy,656,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,CH2Cl2,655,valid,651,valid,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,CH3,654,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,CF3,654,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,Br,654,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,pentacene,651,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,TIPS-ethynyl,659,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,benzene,655,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,lithium acetylide,662,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,"6,13-bis(trialkylsilylethynyl)pentacenes",643,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,Pentacene,576,valid,,,,,,,,,extracted
+1021.ol801464k.pdf,10.1021/ol801464k,unknown,660-668,range_value,660-668,range_value,,,,,,,extracted
+1016.j.jphotochem.2012.04.011.pdf,,triene,300 and 400,invalid_format,300 and 400,invalid_format,300 and 400,invalid_format,,,,,extracted
+1016.j.jphotochem.2012.04.011.pdf,,amino,,,84,out_of_range(84.0),,,,,,,extracted
+1021.ol400605x.pdf,,unknown,525,valid,,,,,,,,,extracted
+1021.ol400605x.pdf,,PQBD,470,valid,,,,,1,valid,,,extracted
+1021.ol400605x.pdf,,PQBD 1,,,,,,,1,valid,,,extracted
+1021.jo500029f.pdf,10.1021/jo500029f,"5,5 ′-Bis(tris(trimethylsilyl)silyl)-2,2 ′-bithiophene",,,,,0.67,valid,,,,,extracted
+1021.jo500029f.pdf,10.1021/jo500029f,CH2Cl2,,,,,1,valid,,,,,extracted
+1021.jo500029f.pdf,10.1021/jo500029f,Si-T2,,,,,0.74,valid,,,,,extracted
+1021.jo500029f.pdf,10.1021/jo500029f,Si-T4,,,,,0.13,valid,,,,,extracted
+1021.jo500029f.pdf,10.1021/jo500029f,Si,,,,,0.21,valid,,,,,extracted
+1021.jo500029f.pdf,10.1021/jo500029f,"2,6-Bis(1,1,1,3,3,3-hexamethyl-2-(trimethylsilyl)trisilan-2-yl)-dithieno[3,2-b:2 ′,3 ′-d]thiophene",,,,,0.74,valid,,,,,extracted
+1016.j.cplett.2008.09.030.pdf,10.1016/j.cplett.2008.09.030,Ti:Sap-phire,355,valid,380,valid,,,,,,,extracted
+1016.j.cplett.2008.09.030.pdf,10.1016/j.cplett.2008.09.030,TFA,400,valid,,,,,,,,,extracted
+1016.j.cplett.2008.09.030.pdf,10.1016/j.cplett.2008.09.030,Schiff bases,475,valid,,,,,,,,,extracted
+1016.j.cplett.2008.09.030.pdf,10.1016/j.cplett.2008.09.030,benzophenone,350,valid,,,,,,,,,extracted
+1016.j.cplett.2008.09.030.pdf,10.1016/j.cplett.2008.09.030,alcohols,400 and 425,invalid_format,,,,,,,,,extracted
+1016.j.cplett.2008.09.030.pdf,10.1016/j.cplett.2008.09.030,ﬂuorescence,,,,,1,valid,,,,,extracted
+1016.j.cplett.2005.12.098.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.saa.2011.07.083.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1007.s10895-011-0872-9.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.dyepig.2005.03.001.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (704) must match the size of 
+1016.j.tetlet.2011.09.077.pdf,10.1016/j.tetlet.2011.09.077,unmodiﬁed,430,valid,,,,,,,,,extracted
+1016.j.tetlet.2011.09.077.pdf,10.1016/j.tetlet.2011.09.077,tetra-n-butylammonium hexaﬂuorophosphate,524,valid,,,,,,,,,extracted
+1016.j.tetlet.2011.09.077.pdf,10.1016/j.tetlet.2011.09.077,cyclohexane,648,valid,442,valid,,,,,,,extracted
+1016.j.tet.2009.09.077.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (521) must match the size of 
+chou-et-al-2004-a-new-series-of-pyrimidine-containing-linear-molecules-their-elegant-crystal-structures-and-intriguing.pdf,10.1021/jo048914h,CH3CN,350-600,range_value,350-600,range_value,0.65,valid,,,,,extracted
+chou-et-al-2004-a-new-series-of-pyrimidine-containing-linear-molecules-their-elegant-crystal-structures-and-intriguing.pdf,10.1021/jo048914h,unknown,425,valid,425,valid,,,,,,,extracted
+chou-et-al-2004-a-new-series-of-pyrimidine-containing-linear-molecules-their-elegant-crystal-structures-and-intriguing.pdf,10.1021/jo048914h,aluminum,365,valid,,,,,,,,,extracted
+chou-et-al-2004-a-new-series-of-pyrimidine-containing-linear-molecules-their-elegant-crystal-structures-and-intriguing.pdf,10.1021/jo048914h,",",220-700,range_value,,,,,,,5,valid,extracted
+chou-et-al-2004-a-new-series-of-pyrimidine-containing-linear-molecules-their-elegant-crystal-structures-and-intriguing.pdf,10.1021/jo048914h,TMS,,,,,4,out_of_range(4.0),,,,,extracted
+chou-et-al-2004-a-new-series-of-pyrimidine-containing-linear-molecules-their-elegant-crystal-structures-and-intriguing.pdf,10.1021/jo048914h,"2,5-Bis(phenylethynyl)pyrimidine",,,,,4,out_of_range(4.0),,,,,extracted
+chou-et-al-2004-a-new-series-of-pyrimidine-containing-linear-molecules-their-elegant-crystal-structures-and-intriguing.pdf,10.1021/jo048914h,He-Cd,,,,,325,out_of_range(325.0),,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,phenanthrene,,,521,valid,0.05,valid,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,cyclohexane,233(6.5),invalid_format,365,valid,,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,Ph,,,568,valid,,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,"4,4¢-n-Bu",5,out_of_range(5.0),543,valid,7,out_of_range(7.0),,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,n-Bu-phenanthrene,,,87,out_of_range(87.0),,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,"2,2¢-n-Bu",,,566,valid,,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,n-Bu,,,55,out_of_range(55.0),,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,unknown,,,521,valid,,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,ethynyl,,,62,out_of_range(62.0),,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,"4,4¢-bipyridine",,,47,out_of_range(47.0),,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,CD2-Cl2,,,220(0.8),invalid_format,,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,5-12a UV-visb,,,,,5,out_of_range(5.0),,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,CdC,,,,,5,out_of_range(5.0),,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,pyrene,,,,,0.06,valid,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,CH2Cl2,256(1.4),invalid_format,,,,,,,,,extracted
+1021.jo0706574.pdf,10.1021/jo0706574,Et2O,220(0.8),invalid_format,,,,,,,,,extracted
+1016.j.bmc.2003.08.006.pdf,10.1016/j.bmc.2003.08.006,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.j.crci.2012.01.009.pdf,10.1016/j.crci.2012.01.009,indolium,702,valid,717,valid,,,,,,,extracted
+1016.j.crci.2012.01.009.pdf,10.1016/j.crci.2012.01.009,",",680,valid,680,valid,,,,,,,extracted
+1016.j.crci.2012.01.009.pdf,10.1016/j.crci.2012.01.009,ﬂuorescence,,,750,valid,,,,,,,extracted
+1016.j.crci.2012.01.009.pdf,10.1016/j.crci.2012.01.009,EtOH,,,,,25,out_of_range(25.0),,,,,extracted
+1016.j.crci.2012.01.009.pdf,10.1016/j.crci.2012.01.009,dimethylsulfoxide,,,,,0.2,valid,,,,,extracted
+1016.j.tet.2013.01.037.pdf,10.1016/j.tet.2013.01.037,phenyl,436,valid,,,,,,,3,valid,extracted
+1016.j.tet.2013.01.037.pdf,10.1016/j.tet.2013.01.037,ﬂuorescence,,,,,,,,,4,valid,extracted
+1016.j.tet.2013.01.037.pdf,10.1016/j.tet.2013.01.037,C44H28,,,,,,,,,3.2,valid,extracted
+1016.j.tet.2013.01.037.pdf,10.1016/j.tet.2013.01.037,quartz,0.5,out_of_range(0.5),0.2,out_of_range(0.2),,,,,,,extracted
+1016.j.tet.2013.01.037.pdf,10.1016/j.tet.2013.01.037,"3,4,9-Triphenylperylene",,,500,valid,,,,,,,extracted
+1016.j.tet.2013.01.037.pdf,10.1016/j.tet.2013.01.037,"3,4,9,10-Tetraphenylperylene",,,520,valid,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,Ethanol,400,valid,,,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,CMPT,1,out_of_range(1.0),,,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,acetonitrile,434,valid,495,valid,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,ﬂuorescence,434,valid,,,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,ethanol,530,valid,,,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,O2,-266,range_value,,,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,CPPSH,450,valid,,,,,,,,,extracted
+1016.S1010-6030(00)00359-2.pdf,,proﬁle,462,valid,462,valid,,,,,,,extracted
+1002.bio.2400.pdf,10.1002/bio.2400,BCzPCz,,,533,valid,0.516,valid,,,,,extracted
+1002.bio.2400.pdf,10.1002/bio.2400,xenon,1,out_of_range(1.0),5,out_of_range(5.0),,,,,,,extracted
+1002.bio.2400.pdf,10.1002/bio.2400,Cyclohexane,,,542,valid,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,Fluorescein,488,valid,,,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,Benzo[c]cinnolinium,416,valid,,,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,DMSO,483,valid,,,0.003,valid,,,-1,out_of_range(-1.0),extracted
+1021.acs.joc.5b00242.pdf,,phosphate,488,valid,488,valid,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,aBCL3,450,valid,514,valid,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,aBCL3(C),488,valid,,,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,FITC,514,valid,514,valid,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,9-aminobenzo[c]cinnoliniums,60,out_of_range(60.0),,,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,aBCL2,,,,,0.54,valid,4,valid,,,extracted
+1021.acs.joc.5b00242.pdf,,600 Wavelength,,,500-530,range_value,,,,,,,extracted
+1021.acs.joc.5b00242.pdf,,HeLa,,,561,valid,,,,,,,extracted
+1021.jo049452a.pdf,10.1021/jo049452a,unknown,491,valid,,,,,,,,,extracted
+1021.jo049452a.pdf,10.1021/jo049452a,C90H36,475,valid,,,,,,,,,extracted
+1021.jo049452a.pdf,10.1021/jo049452a,graphite,,,594,valid,,,,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,ﬂash,,,,,"6,5",multiple_values,,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,acetoni-trile,,,,,6500,out_of_range(6500.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,1)-DMA,220–380,range_value,,,"6,5",multiple_values,,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,oxygen,,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,"6,5",,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,Phenalenone,,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,TFE,,,,,0.03,valid,,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,methylan-gelicins,,,,,34,out_of_range(34.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,MeCN,400 and 500,invalid_format,,,0.14,valid,,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,Angelicins,,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,O2(1,,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,acetonitrile,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,EtOH,500,valid,,,2,out_of_range(2.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,Acetonitrile,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.jphotochem.2005.04.035.pdf,10.1016/j.jphotochem.2005.04.035,"6,8-Dimethyl-2H-furo[2,3-h]chromen-2-one",355,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,ﬂuorescence,,,405,valid,5,out_of_range(5.0),,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,ﬁrst,,,,,7,out_of_range(7.0),,,3,valid,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,DMSO,,,,,7,out_of_range(7.0),,,3,valid,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,SMe,400,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,THF,450,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,carbonyl,450,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,ﬁve,455,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,"1e ,",489,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,H,,,7,out_of_range(7.0),,,,,,,extracted
+1016.j.saa.2009.03.026.pdf,10.1016/j.saa.2009.03.026,Pro,,,550 ± 10,invalid_format,,,,,,,extracted
+1016.j.molliq.2011.09.014.pdf,10.1016/j.molliq.2011.09.014,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.molliq.2011.09.014.pdf,10.1016/j.molliq.2011.09.014,ﬂuorescence,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.molliq.2011.09.014.pdf,10.1016/j.molliq.2011.09.014,5-AQ,340,valid,,,,,,,,,extracted
+1016.j.molliq.2011.09.014.pdf,10.1016/j.molliq.2011.09.014,Quinoline,313,valid,332,valid,,,,,,,extracted
+1016.j.molliq.2011.09.014.pdf,10.1016/j.molliq.2011.09.014,ACN,,,480,valid,,,,,,,extracted
+1016.j.molliq.2011.09.014.pdf,10.1016/j.molliq.2011.09.014,imino,,,445,valid,,,,,,,extracted
+1016.j.jphotochem.2006.02.028.pdf,10.1016/j.jphotochem.2006.02.028,ﬂuorescent,,,,,31,out_of_range(31.0),,,,,extracted
+1016.j.jphotochem.2006.02.028.pdf,10.1016/j.jphotochem.2006.02.028,Methanol,,,,,,,,,−1,invalid_format,extracted
+1016.j.jphotochem.2006.02.028.pdf,10.1016/j.jphotochem.2006.02.028,(1)n-heptane,,,,,,,,,0.949,valid,extracted
+1016.j.jphotochem.2006.02.028.pdf,10.1016/j.jphotochem.2006.02.028,ns,,,,,,,,,3,valid,extracted
+1016.j.jphotochem.2006.02.028.pdf,10.1016/j.jphotochem.2006.02.028,ﬂuorescence,,,437–450,range_value,,,,,,,extracted
+1016.j.saa.2007.03.018.pdf,10.1016/j.saa.2007.03.018,ethanol,,,,,,,,,28,valid,extracted
+1016.j.saa.2007.03.018.pdf,10.1016/j.saa.2007.03.018,ﬂuorescence,,,455,valid,,,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,phosphate,,,,,0.28,valid,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,ﬂuorescence,,,,,19,out_of_range(19.0),,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,heptamethine,,,,,25,out_of_range(25.0),,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,H2SO4,311,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,Zinc,302,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,hydrazine,311,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,indolenine,306,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,N-sulfophenyl,7,out_of_range(7.0),,,,,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,N-(4-sulfophenyl),,,7,out_of_range(7.0),,,,,,,extracted
+1016.j.dyepig.2012.12.031.pdf,10.1016/j.dyepig.2012.12.031,Tricarbo-cyanine cholesteryl,,,,,,,,,10,valid,extracted
+1016.j.cclet.2018.08.008.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.jqsrt.2010.09.001.pdf,10.1016/j.jqsrt.2010.09.001,unknown,225–230,range_value,,,,,,,,,extracted
+1016.j.jqsrt.2010.09.001.pdf,10.1016/j.jqsrt.2010.09.001,molecules,,,529–661,range_value,,,,,,,extracted
+1016.j.jlumin.2010.07.004.pdf,10.1016/j.jlumin.2010.07.004,silica,1,out_of_range(1.0),1.25,out_of_range(1.25),,,370,valid,,,extracted
+1016.j.cclet.2019.04.058.pdf,10.1016/j.cclet.2019.04.058,- N4,400,valid,,,,,,,5×104,invalid_format,extracted
+1016.j.cclet.2019.04.058.pdf,10.1016/j.cclet.2019.04.058,N1,365,valid,582,valid,,,,,-1,out_of_range(-1.0),extracted
+1016.j.cclet.2019.04.058.pdf,10.1016/j.cclet.2019.04.058,HeLa,,,,,13,out_of_range(13.0),,,,,extracted
+1016.j.cclet.2019.04.058.pdf,10.1016/j.cclet.2019.04.058,BF2bdk,,,,,0.13,valid,,,,,extracted
+1016.j.cplett.2004.10.154.pdf,10.1016/j.cplett.2004.10.154,Ti-Sapphire,367,valid,367,valid,,,,,,,extracted
+1016.j.cplett.2004.10.154.pdf,10.1016/j.cplett.2004.10.154,Wavelength,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.cplett.2004.10.154.pdf,10.1016/j.cplett.2004.10.154,CH 3,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.cplett.2004.10.154.pdf,10.1016/j.cplett.2004.10.154,DCB,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.cplett.2004.10.154.pdf,10.1016/j.cplett.2004.10.154,DMDCB,,,,,3,out_of_range(3.0),,,,,extracted
+1021.bi00581a025.pdf,,cyclohexane,,,401,valid,,,,,,,extracted
+1021.bi00581a025.pdf,,Propylene glycol,,,510,valid,,,,,,,extracted
+1021.bi00581a025.pdf,,6-propionyl-2-(dimethylamino)naphthalene,,,2700,out_of_range(2700.0),,,,,,,extracted
+1021.bi00581a025.pdf,,unknown,340-400,range_value,,,,,,,,,extracted
+1021.bi00581a025.pdf,,ethanol,365,valid,,,,,,,365,valid,extracted
+1021.bi00581a025.pdf,,acetonitrile,350,valid,,,,,,,,,extracted
+1021.jo500520x.pdf,10.1021/jo500520x,Chloroform,354,valid,,,,,,,15,valid,extracted
+1021.jo500520x.pdf,10.1021/jo500520x,octanol,,,,,2,out_of_range(2.0),,,,,extracted
+1021.jo500520x.pdf,10.1021/jo500520x,"N-Phenyl-6-((1E,3E)-4-phenylbuta-1,3-dienyl)quinazolin-4-amine",,,42,out_of_range(42.0),,,,,,,extracted
+1021.jo500520x.pdf,10.1021/jo500520x,ﬂuorescence,,,435,valid,,,,,,,extracted
+1021.jo500520x.pdf,10.1021/jo500520x,2-propanol/ethyl acetate,,,560,valid,,,,,,,extracted
+B_JOFL.0000016287.56322.eb.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,coefﬁcient,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,oxygen,,,,,0.4,valid,,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,7-amino,,,,,7,out_of_range(7.0),,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,ethanol,,,,,0.08,valid,,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,amino,,,,,0.41,valid,,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,quinoxalinone,,,,,1.06,out_of_range(1.06),,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,"2-Phenyl-9-N, N-dimethylamino-3H-naphtho[2,1-b][1,4]-oxazin-3-one",,,,,12,out_of_range(12.0),,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,hexane,,,,,0.721,valid,,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,2-methyl,332,valid,,,,,,,1,valid,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,benzene,355,valid,,,,,,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,Nd,355,valid,,,,,,,,,extracted
+1016.j.jphotochem.2008.06.014.pdf,10.1016/j.jphotochem.2008.06.014,coumarins,300 and 400,invalid_format,450,valid,,,,,,,extracted
+1016.j.tet.2011.07.018.pdf,10.1016/j.tet.2011.07.018,acetonitrile,,,1,out_of_range(1.0),3,out_of_range(3.0),,,,,extracted
+1016.j.tet.2011.07.018.pdf,10.1016/j.tet.2011.07.018,methanol,407,valid,521,valid,,,,,,,extracted
+1016.j.tet.2011.07.018.pdf,10.1016/j.tet.2011.07.018,3-methoxy,,,,,0.02,valid,,,,,extracted
+1016.j.tet.2011.07.018.pdf,10.1016/j.tet.2011.07.018,",",,,,,12,out_of_range(12.0),,,,,extracted
+1016.j.tet.2011.07.018.pdf,10.1016/j.tet.2011.07.018,efﬁcient,,,,,12,out_of_range(12.0),,,,,extracted
+1016.j.tet.2011.07.018.pdf,10.1016/j.tet.2011.07.018,dimethoxy,400,valid,,,,,,,,,extracted
+1016.j.tet.2011.07.018.pdf,10.1016/j.tet.2011.07.018,etheremethanol,500,valid,,,,,,,,,extracted
+1016.S0009-2614(97)00394-1.pdf,,,,missing,,missing,,missing,,missing,,missing,no_records
+1021.acs.joc.9b02523.pdf,10.1021/acs.joc.9b02523,nitrogen,,,478,valid,0.1,valid,,,,,extracted
+1021.acs.joc.9b02523.pdf,10.1021/acs.joc.9b02523,chloroform,,,615,valid,,,,,,,extracted
+1016.S0009-2614(97)00140-1.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.jp9526509.pdf,,Quinine sulfate,375,valid,375,valid,,,,,,,extracted
+1039.c3tc31936a.pdf,10.1039/c3tc31936a,DMOC-DPS,370,valid,,,0.56,valid,,,,,extracted
+1039.c3tc31936a.pdf,10.1039/c3tc31936a,DMOC,,,445,valid,,,,,,,extracted
+1039.c3tc31936a.pdf,10.1039/c3tc31936a,"3,6-di-tert-butyl-carbazole",,,460,valid,,,,,,,extracted
+1039.c3tc31936a.pdf,10.1039/c3tc31936a,DPEPO,,,,,0.8,valid,,,,,extracted
+1016.j.cplett.2012.03.108.pdf,10.1016/j.cplett.2012.03.108,ﬂuorescence,,,,,-2,out_of_range(-2.0),,,,,extracted
+1016.j.cplett.2012.03.108.pdf,10.1016/j.cplett.2012.03.108,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.cplett.2012.03.108.pdf,10.1016/j.cplett.2012.03.108,1La,430–560,range_value,,,,,,,,,extracted
+1016.j.cplett.2012.03.108.pdf,10.1016/j.cplett.2012.03.108,cyclohexane,266,valid,,,,,,,,,extracted
+1016.j.tetlet.2012.01.116.pdf,10.1016/j.tetlet.2012.01.116,TPA-TPP1/TPA-TPP2,378,valid,,,,,,,,,extracted
+1016.j.tetlet.2012.01.116.pdf,10.1016/j.tetlet.2012.01.116,TPA-TPP1,32,out_of_range(32.0),410,valid,,,,,,,extracted
+1016.j.tetlet.2012.01.116.pdf,10.1016/j.tetlet.2012.01.116,toluene,,,426,valid,,,,,,,extracted
+1016.j.tetlet.2012.01.116.pdf,10.1016/j.tetlet.2012.01.116,"2,6-diphenyl-4-(4-vinylphe-nyl)pyridine",,,30,out_of_range(30.0),,,,,,,extracted
+1021.ol901584g.pdf,10.1021/ol901584g,dichloromethane,404 and 408,invalid_format,,,,,,,,,extracted
+1016.j.jphotobiol.2008.12.008.pdf,10.1016/j.jphotobiol.2008.12.008,oxygen,,,,,0.003,valid,,,,,extracted
+1016.j.jphotobiol.2008.12.008.pdf,10.1016/j.jphotobiol.2008.12.008,calycine,470,valid,,,,,,,,,extracted
+1016.j.jphotobiol.2008.12.008.pdf,10.1016/j.jphotobiol.2008.12.008,1-Cl-Pannerine,380,valid,,,,,,,,,extracted
+1016.j.jphotobiol.2008.12.008.pdf,10.1016/j.jphotobiol.2008.12.008,biphenyl,1,out_of_range(1.0),,,,,,,,,extracted
+1016.0584-8539(94)E0121-P.pdf,,Methanol,,,,,1,valid,,,,,extracted
+1016.0584-8539(94)E0121-P.pdf,,acetonitrile,,,,,,,1,valid,,,extracted
+1016.0584-8539(94)E0121-P.pdf,,unknown,,,430,valid,,,,,,,extracted
+1016.0584-8539(94)E0121-P.pdf,,cyclohexane,,,24,out_of_range(24.0),,,,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,quinine sulfate,,,,,5,out_of_range(5.0),,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,THF,354,valid,391,valid,30,out_of_range(30.0),,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,N,354,valid,3-5,range_value,2,out_of_range(2.0),,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,30)F,,,,,5,out_of_range(5.0),,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,"2,4-dinitrobenzene",256,valid,5,out_of_range(5.0),30,out_of_range(30.0),,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,Zn(II),5,out_of_range(5.0),5,out_of_range(5.0),30,out_of_range(30.0),,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,Cu(II),393,valid,,,1,valid,,,15,valid,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,Co(II),,,393,valid,2,out_of_range(2.0),,,,,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,5H,,,,,,,,,8,valid,extracted
+bag-bharadwaj-2005-perturbation-of-the-pet-process-in-fluorophore-spacer-receptor-systems-through-structural.pdf,10.1021/jp047557b,hexane,,,363,valid,,,,,,,extracted
+1016.j.optlastec.2011.02.002.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,BN-phenanthrenes,,,,,0.61,valid,,,,,extracted
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,phenanthrene,326,valid,347,valid,0.09,valid,,,,,extracted
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,nitrogen,,,371,valid,0.61,valid,,,,,extracted
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,alkynyl,,,416,valid,13,out_of_range(13.0),,,,,extracted
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,"9,10-diphenylanthracene",,,,,0.93,valid,,,,,extracted
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,"3,4-dihydro-4-aza-3-boraphenanthrene",,,,,0.61,valid,,,,,extracted
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,boron,,,356,valid,,,,,,,extracted
+1021.acs.joc.9b00800.pdf,10.1021/acs.joc.9b00800,unknown,,,331,valid,,,,,,,extracted
+1021.j100558a015.pdf,,Aminopyridines,,,,,,,11,valid,,,extracted
+1021.j100558a015.pdf,,a,,,,,,,3,valid,,,extracted
+1021.j100558a015.pdf,,hydroxide,,,,,,,3,valid,,,extracted
+1021.j100558a015.pdf,,Cyclohexane,-460,range_value,,,,,,,,,extracted
+1021.j100558a015.pdf,,4-aminopyridine,,,,,,,,,4,valid,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,chrysenes,296−433,invalid_format,,,,,,,,,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,chrysene 4,,,401−470,invalid_format,0.87,valid,,,,,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,Chrysene,,,471,valid,0.44,valid,,,,,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,N - diphenylamino ) phenyl ] benzidine,,,450,valid,,,,,,,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,CH2Cl2,,,,,0.12,valid,,,,,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,chrysene,,,,,0.61−0.87,invalid_format,,,,,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,", 322 296, 351 300 303 349 308, 372, 394 329, 396, 416 299, 370",,,,,12.2,out_of_range(12.2),,,,,extracted
+1021.jo402429q.pdf,10.1021/jo402429q,coumarin-1,,,,,0.99,valid,,,,,extracted
+1021.jo301652j.pdf,10.1021/jo301652j,Aniline,,,,,6,out_of_range(6.0),,,,,extracted
+1021.jo301652j.pdf,10.1021/jo301652j,NaOH,,,,,0.9,valid,,,,,extracted
+1021.jo301652j.pdf,10.1021/jo301652j,H2SO4,,,,,0.54,valid,,,,,extracted
+1016.j.jphotochem.2004.08.015.pdf,10.1016/j.jphotochem.2004.08.015,quinine sul-phate,,,,,0.5,valid,,,,,extracted
+1016.j.jphotochem.2004.08.015.pdf,10.1016/j.jphotochem.2004.08.015,MeOH HCONHMe,,,,,1,valid,1,valid,,,extracted
+1016.j.jphotochem.2004.08.015.pdf,10.1016/j.jphotochem.2004.08.015,Chapter 1,,,,,1,valid,,,,,extracted
+1016.j.jphotochem.2004.08.015.pdf,10.1016/j.jphotochem.2004.08.015,Ti:Sapphire,277,valid,,,,,,,,,extracted
+1016.j.jphotochem.2004.08.015.pdf,10.1016/j.jphotochem.2004.08.015,unknown,,,4.8,out_of_range(4.8),,,11,valid,,,extracted
+1016.j.jphotochem.2004.08.015.pdf,10.1016/j.jphotochem.2004.08.015,cm−1,,,,,,,3.93,valid,,,extracted
+1016.j.jphotochem.2004.08.015.pdf,10.1016/j.jphotochem.2004.08.015,iPrOH-6F,,,,,,,2.11,valid,,,extracted
+1016.j.jphotochem.2006.03.020.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,disodium,,,,,0.9,valid,,,,,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,chromene,,,,,10−2,invalid_format,,,,,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,unknown,,,,,1,valid,,,1,valid,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,2-imino-2H-chromene-3-carbonitrile3a,,,,,4,out_of_range(4.0),,,4,valid,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,Slope S2 NSlope,,,,,1,valid,,,1,valid,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,carbonitrile,,,,,2,out_of_range(2.0),,,2,valid,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,imine,290–300,range_value,,,,,,,,,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,2-Imino-2H-chromene-3-carbonitrile,,,409,valid,,,,,,,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,Gas phase,,,,,,,,,1,valid,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,DMSO,,,,,,,,,46.826,valid,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,Acetonitrile,,,,,,,,,35.688,valid,extracted
+1016.j.molliq.2014.02.029.pdf,10.1016/j.molliq.2014.02.029,Chloroform,,,,,,,,,4.7113,valid,extracted
+1016.j.dyepig.2012.08.028.pdf,10.1016/j.dyepig.2012.08.028,"Thieno-[3,4]-pyrazine",,,,,"8,9",multiple_values,,,,,extracted
+1016.j.dyepig.2012.08.028.pdf,10.1016/j.dyepig.2012.08.028,"thieno-[3,4-b]-pyrazine",400,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.08.028.pdf,10.1016/j.dyepig.2012.08.028,T-,,,647,valid,,,,,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,dime-thoxy,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,toluene,434,valid,434,valid,,,,,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,perylenes,,,,,,,19,valid,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,perylene,,,,,15,out_of_range(15.0),,,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,ethynylene,,,,,15,out_of_range(15.0),,,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,ﬂuorescence,,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.dyepig.2010.06.009.pdf,10.1016/j.dyepig.2010.06.009,Toluene,,,462,valid,,,,,,,extracted
+1016.S1010-6030(96)04410-3.pdf,,unknown,355,valid,,,2,out_of_range(2.0),,,,,extracted
+1016.S1010-6030(96)04410-3.pdf,,",",,,465,valid,2,out_of_range(2.0),,,,,extracted
+1016.S1010-6030(96)04410-3.pdf,,Pyrylium,,,,,2,out_of_range(2.0),,,,,extracted
+1016.S1010-6030(96)04410-3.pdf,,2-and 6-phenyl,,,,,2,out_of_range(2.0),,,,,extracted
+1016.S1010-6030(96)04410-3.pdf,,acetonitrile,385,valid,,,,,,,,,extracted
+1016.j.dyepig.2010.07.006.pdf,10.1016/j.dyepig.2010.07.006,Methyl,351,valid,,,,,,,,,extracted
+1016.j.dyepig.2010.07.006.pdf,10.1016/j.dyepig.2010.07.006,Terphenyl,26,out_of_range(26.0),,,,,,,,,extracted
+1016.j.dyepig.2010.07.006.pdf,10.1016/j.dyepig.2010.07.006,ﬂuoro,,,6,out_of_range(6.0),,,,,,,extracted
+1021.acs.joc.6b00981.pdf,10.1021/acs.joc.6b00981,C–N,,,,,1,valid,,,,,extracted
+1021.acs.joc.6b00981.pdf,10.1021/acs.joc.6b00981,CV,,,,,21,out_of_range(21.0),,,,,extracted
+1021.acs.joc.6b00981.pdf,10.1021/acs.joc.6b00981,methanol,,,,,0.54,valid,,,,,extracted
+1021.acs.joc.6b00981.pdf,10.1021/acs.joc.6b00981,pyridine,,,,,0.3,valid,,,,,extracted
+1021.acs.joc.6b00981.pdf,10.1021/acs.joc.6b00981,M-1 cm-1,,,,,,,,,-1,out_of_range(-1.0),extracted
+1021.jo202062f.pdf,10.1021/jo202062f,Thioxanthones,,,,,0.2,valid,,,,,extracted
+1021.jo202062f.pdf,10.1021/jo202062f,diphenylanthracene,,,,,0.95,valid,,,,,extracted
+1021.jo202062f.pdf,10.1021/jo202062f,anthracene,,,,,0.27,valid,,,,,extracted
+1021.jo202062f.pdf,10.1021/jo202062f,Diphenylan-thracene,,,,,0.95,valid,,,,,extracted
+1021.jo202062f.pdf,10.1021/jo202062f,diverse fluorinated fluorophores,,,71,out_of_range(71.0),,,,,,,extracted
+1021.jo202062f.pdf,10.1021/jo202062f,ethanol,,,,,,,,,30,valid,extracted
+1021.acs.orglett.5b02604.pdf,10.1021/acs.orglett.5b02604,methylene,290,valid,,,,,,,,,extracted
+1021.acs.orglett.5b02604.pdf,10.1021/acs.orglett.5b02604,benzo[c]ﬂuorene,335,valid,335,valid,,,,,,,extracted
+1021.acs.orglett.5b02604.pdf,10.1021/acs.orglett.5b02604,boron,74,out_of_range(74.0),,,,,,,,,extracted
+1021.acs.orglett.5b02604.pdf,10.1021/acs.orglett.5b02604,1-phenylnaphthalene,408,valid,290,valid,70−83,invalid_format,,,,,extracted
+1021.acs.orglett.5b02604.pdf,10.1021/acs.orglett.5b02604,Boron,,,409,valid,,,,,,,extracted
+1021.acs.orglett.5b02604.pdf,10.1021/acs.orglett.5b02604,carbon,,,,,,,,,395(13000),invalid_format,extracted
+1021.acs.orglett.5b02604.pdf,10.1021/acs.orglett.5b02604,phenyl,,,,,80,out_of_range(80.0),,,,,extracted
+1016.1010-6030(94)03924-J.pdf,,acetonitrile,460,valid,,,10,out_of_range(10.0),2,valid,,,extracted
+1016.1010-6030(94)03924-J.pdf,,- II,,,,,4,out_of_range(4.0),,,3,valid,extracted
+1016.1010-6030(94)03924-J.pdf,,alcohols,265,valid,,,,,,,,,extracted
+1016.1010-6030(94)03924-J.pdf,,quartz,355,valid,1,out_of_range(1.0),,,,,,,extracted
+1016.1010-6030(94)03924-J.pdf,,- III,355,valid,,,,,,,,,extracted
+1016.1010-6030(94)03924-J.pdf,,hydrogen,385,valid,435,valid,,,,,,,extracted
+1016.0022-2313(94)90073-6.pdf,,sodium hydroxide,,,,,0.93,valid,,,,,extracted
+1016.j.tet.2007.01.075.pdf,10.1016/j.tet.2007.01.075,benzene,250,valid,,,,,,,,,extracted
+1016.j.tet.2007.01.075.pdf,10.1016/j.tet.2007.01.075,b,263–270,range_value,,,,,,,,,extracted
+1016.j.tet.2007.01.075.pdf,10.1016/j.tet.2007.01.075,ribonucleoside,265,valid,350,valid,,,,,,,extracted
+1016.j.tet.2007.01.075.pdf,10.1016/j.tet.2007.01.075,Nucleosides,,,350,valid,,,,,,,extracted
+1016.j.tet.2007.01.075.pdf,10.1016/j.tet.2007.01.075,tryptophan,,,,,0.058,valid,,,,,extracted
+1016.j.tet.2007.01.075.pdf,10.1016/j.tet.2007.01.075,C-nucleoside,,,,,9,out_of_range(9.0),,,,,extracted
+1016.j.cplett.2007.01.001.pdf,10.1016/j.cplett.2007.01.001,2-picolinoyl-pyrrole,331,valid,,,,,,,,,extracted
+1016.j.cplett.2007.01.001.pdf,10.1016/j.cplett.2007.01.001,diﬂuoroboron,386,valid,,,,,,,,,extracted
+1016.j.cplett.2007.01.001.pdf,10.1016/j.cplett.2007.01.001,BOPPY,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.cplett.2007.01.001.pdf,10.1016/j.cplett.2007.01.001,ﬂuorescence,,,,,,,27,valid,,,extracted
+1016.j.saa.2009.06.027.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.bmcl.2015.10.091.pdf,10.1016/j.bmcl.2015.10.091,BODIPYs,510–590,range_value,,,,,,,,,extracted
+1016.j.bmcl.2015.10.091.pdf,10.1016/j.bmcl.2015.10.091,BODIPY,31,out_of_range(31.0),,,,,,,,,extracted
+1016.j.bmcl.2015.10.091.pdf,10.1016/j.bmcl.2015.10.091,BODIPY–anthracene,540,valid,,,,,,,,,extracted
+1016.j.bmcl.2015.10.091.pdf,10.1016/j.bmcl.2015.10.091,BODIPY 1,254,valid,60,out_of_range(60.0),,,,,,,extracted
+1016.j.jphotobiol.2013.04.006.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,N-dimethylamino,479,valid,,,,,,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,hexane,482,valid,,,,,,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,Ti-sapphire,440,valid,590–625,range_value,,,,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,n-hexane,,,70,out_of_range(70.0),,,,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,hex-adecyl,,,16,out_of_range(16.0),,,,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,ﬂuorescence,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,hemicyanine,,,,,23,out_of_range(23.0),,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,",",,,,,1,valid,,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,benzene,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.dyepig.2004.02.011.pdf,10.1016/j.dyepig.2004.02.011,TBAP,,,,,1,valid,,,,,extracted
+1016.j.chemphys.2006.05.019.pdf,10.1016/j.chemphys.2006.05.019,Ti-sapphire,367,valid,367,valid,,,,,,,extracted
+1016.j.chemphys.2006.05.019.pdf,10.1016/j.chemphys.2006.05.019,ﬂuorescence,,,,,298,out_of_range(298.0),,,,,extracted
+1016.j.chemphys.2006.05.019.pdf,10.1016/j.chemphys.2006.05.019,THF,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.tetlet.2011.02.088.pdf,10.1016/j.tetlet.2011.02.088,THF,450,valid,523,valid,,,,,,,extracted
+1016.j.tetlet.2011.02.088.pdf,10.1016/j.tetlet.2011.02.088,methanol,565,valid,,,,,,,,,extracted
+1016.j.tetlet.2011.02.088.pdf,10.1016/j.tetlet.2011.02.088,Methanol,,,565,valid,,,,,,,extracted
+1016.j.tetlet.2011.02.088.pdf,10.1016/j.tetlet.2011.02.088,ﬂuorescence,,,573,valid,,,,,,,extracted
+1016.j.tetlet.2011.02.088.pdf,10.1016/j.tetlet.2011.02.088,naphthalene,,,40–80,range_value,,,,,,,extracted
+1016.j.jlumin.2012.10.021.pdf,10.1016/j.jlumin.2012.10.021,TCPO,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.jlumin.2012.10.021.pdf,10.1016/j.jlumin.2012.10.021,FFL,,,,,0.94,valid,,,,,extracted
+1016.j.jlumin.2012.10.021.pdf,10.1016/j.jlumin.2012.10.021,9,,,,,1,valid,,,,,extracted
+1016.j.jlumin.2012.10.021.pdf,10.1016/j.jlumin.2012.10.021,tert-butyl,,,,,1,valid,,,,,extracted
+1016.j.jlumin.2012.10.021.pdf,10.1016/j.jlumin.2012.10.021,biphenyl,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.jlumin.2012.10.021.pdf,10.1016/j.jlumin.2012.10.021,ﬂuorophores,,,,,4,out_of_range(4.0),,,,,extracted
+1016.j.saa.2015.11.034.pdf,10.1016/j.saa.2015.11.034,4-acetyl-4 ′-(dimethylamino)biphenyl,,,,,,,,,2,valid,extracted
+1016.j.saa.2015.11.034.pdf,10.1016/j.saa.2015.11.034,BCP,385,valid,575,valid,,,,,,,extracted
+1016.j.saa.2009.02.029.pdf,10.1016/j.saa.2009.02.029,MBBA,662,valid,,,,,,,,,extracted
+1016.j.saa.2009.02.029.pdf,10.1016/j.saa.2009.02.029,ace-tonitrile,643,valid,,,,,,,,,extracted
+1016.j.saa.2009.02.029.pdf,10.1016/j.saa.2009.02.029,DMSO,12,out_of_range(12.0),,,,,,,,,extracted
+1016.j.snb.2011.03.020.pdf,,Toluene,654,valid,,,,,,,,,extracted
+1016.j.snb.2011.03.020.pdf,,THF,630,valid,,,,,,,,,extracted
+1016.j.snb.2011.03.020.pdf,,methanol,490,valid,,,,,,,,,extracted
+1016.j.snb.2011.03.020.pdf,,signiﬁcantly,380,valid,,,,,,,,,extracted
+1016.j.snb.2011.03.020.pdf,,acetonitrile,595,valid,,,,,,,,,extracted
+1016.j.snb.2011.03.020.pdf,,Acetone,490,valid,,,,,,,,,extracted
+1016.j.snb.2011.03.020.pdf,,hydrogen,537,valid,,,,,,,,,extracted
+wang-et-al-2007-synthesis-and-photophysical-properties-of-nonbenzoid-ended-fluorophores.pdf,10.1021/jp073767n,THF,333,valid,,,,,,,,,extracted
+wang-et-al-2007-synthesis-and-photophysical-properties-of-nonbenzoid-ended-fluorophores.pdf,10.1021/jp073767n,"9,9-dibutyl-2,7-diethynyl-9H-fluorene",330,valid,,,,,,,,,extracted
+wang-et-al-2007-synthesis-and-photophysical-properties-of-nonbenzoid-ended-fluorophores.pdf,10.1021/jp073767n,biphenyl,351,valid,351,valid,,,,,,,extracted
+wang-et-al-2007-synthesis-and-photophysical-properties-of-nonbenzoid-ended-fluorophores.pdf,10.1021/jp073767n,"2,7-diethynylfluorene",,,515,valid,,,,,,,extracted
+wang-et-al-2007-synthesis-and-photophysical-properties-of-nonbenzoid-ended-fluorophores.pdf,10.1021/jp073767n,dibenzocycloheptatrienyls,,,,,0.0023,valid,,,,,extracted
+1021.acs.orglett.5b03205.pdf,10.1021/acs.orglett.5b03205,tolan 12,,,,,>1000,invalid_format,,,,,extracted
+1021.acs.orglett.5b03205.pdf,10.1021/acs.orglett.5b03205,CH2Cl2,,,,,16,out_of_range(16.0),,,,,extracted
+1021.acs.orglett.5b03205.pdf,10.1021/acs.orglett.5b03205,CH3CN,,,,,33,out_of_range(33.0),,,,,extracted
+1021.acs.orglett.5b03205.pdf,10.1021/acs.orglett.5b03205,11,,,,,11,out_of_range(11.0),,,,,extracted
+1021.acs.orglett.5b03205.pdf,10.1021/acs.orglett.5b03205,ﬂuorescence,365,valid,,,,,,,,,extracted
+1016.j.jphotochem.2008.09.008.pdf,10.1016/j.jphotochem.2008.09.008,quartz,773,valid,,,,,,,,,extracted
+1016.j.jphotochem.2008.09.008.pdf,10.1016/j.jphotochem.2008.09.008,unknown,773,valid,773,valid,,,773,valid,7,valid,extracted
+1016.j.jphotochem.2008.09.008.pdf,10.1016/j.jphotochem.2008.09.008,ﬂuorescent,700,valid,900,valid,,,,,,,extracted
+1016.j.jphotochem.2008.09.008.pdf,10.1016/j.jphotochem.2008.09.008,meso-chlorine,830,valid,830,valid,,,,,,,extracted
+1016.j.jphotochem.2008.09.008.pdf,10.1016/j.jphotochem.2008.09.008,heptamethine,35,out_of_range(35.0),,,1,valid,,,,,extracted
+1016.j.jphotochem.2008.09.008.pdf,10.1016/j.jphotochem.2008.09.008,C(Me),,,30,out_of_range(30.0),,,,,,,extracted
+kang-et-al-2009-charge-transfer-dye-in-various-polymers-with-different-polarity-synthesis-photophysical-properties-and.pdf,10.1021/ma802532b,PMMA,580,valid,580,valid,,,,,5.5,valid,extracted
+kang-et-al-2009-charge-transfer-dye-in-various-polymers-with-different-polarity-synthesis-photophysical-properties-and.pdf,10.1021/ma802532b,PSt(ε)2.5)13,,,,,,,,,2.5,valid,extracted
+kang-et-al-2009-charge-transfer-dye-in-various-polymers-with-different-polarity-synthesis-photophysical-properties-and.pdf,10.1021/ma802532b,P(St-co-2)signiﬁcantly,,,,,,,,,3.3,valid,extracted
+kang-et-al-2009-charge-transfer-dye-in-various-polymers-with-different-polarity-synthesis-photophysical-properties-and.pdf,10.1021/ma802532b,"1,4-dioxane",,,,,,,,,2.2,valid,extracted
+kang-et-al-2009-charge-transfer-dye-in-various-polymers-with-different-polarity-synthesis-photophysical-properties-and.pdf,10.1021/ma802532b,P(St-co-2),546,valid,546,valid,,,,,,,extracted
+kang-et-al-2009-charge-transfer-dye-in-various-polymers-with-different-polarity-synthesis-photophysical-properties-and.pdf,10.1021/ma802532b,P(AN-co-2),599,valid,599,valid,,,,,,,extracted
+kang-et-al-2009-charge-transfer-dye-in-various-polymers-with-different-polarity-synthesis-photophysical-properties-and.pdf,10.1021/ma802532b,PSt,585,valid,585,valid,,,,,,,extracted
+1016.j.cclet.2019.02.016.pdf,10.1016/j.cclet.2019.02.016,4Br,700,valid,700,valid,,,,,,,extracted
+1016.j.cclet.2019.02.016.pdf,10.1016/j.cclet.2019.02.016,aza 4H,718/754,invalid_format,,,,,,,,,extracted
+1016.j.cclet.2019.02.016.pdf,10.1016/j.cclet.2019.02.016,DPBF,416,valid,,,,,,,,,extracted
+1016.j.cclet.2019.02.016.pdf,10.1016/j.cclet.2019.02.016,aza-BODIPYs,692,valid,733,valid,,,,,,,extracted
+1016.j.cclet.2019.02.016.pdf,10.1016/j.cclet.2019.02.016,BODIPY,,,718/754,invalid_format,,,,,,,extracted
+1016.j.cclet.2019.02.016.pdf,10.1016/j.cclet.2019.02.016,unknown,,,,,,,,,88000-95000,invalid_format,extracted
+1016.j.tetlet.2010.11.053.pdf,10.1016/j.tetlet.2010.11.053,nucleosides,,,490–550,range_value,,,,,,,extracted
+1016.j.tetlet.2010.11.053.pdf,10.1016/j.tetlet.2010.11.053,ABG,,,494,valid,,,,,,,extracted
+1016.j.tetlet.2010.11.053.pdf,10.1016/j.tetlet.2010.11.053,unknown,,,1,out_of_range(1.0),,,,,,,extracted
+1016.j.tetlet.2010.11.053.pdf,10.1016/j.tetlet.2010.11.053,ﬂuorescence,1,out_of_range(1.0),,,,,,,,,extracted
+1021.jo8012622.pdf,10.1021/jo8012622,Perylenes,425,valid,,,,,,,,,extracted
+1021.jo8012622.pdf,10.1021/jo8012622,Perylene,438.5,valid,,,,,,,,,extracted
+1021.jo8012622.pdf,10.1021/jo8012622,Perylene bisimides,4.5,out_of_range(4.5),,,,,,,,,extracted
+1021.jo4028616.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,"6-piperidin-1-yl-benzo[de]isoquinoline-1,3-dione",414,valid,,,,,,,,,extracted
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,DNPA,390,valid,,,,,,,,,extracted
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,anthracene,408,valid,520,valid,,,,,,,extracted
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,DNPOA,389,valid,,,,,,,,,extracted
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,CH2Cl2,408,valid,517,valid,,,,,,,extracted
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,naphtha-limide,,,510,valid,,,,,,,extracted
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,CHCl3,,,380,valid,,,,,,,extracted
+1016.j.dyepig.2004.05.011.pdf,10.1016/j.dyepig.2004.05.011,2-methoxyethanol,,,520,valid,,,,,,,extracted
+1016.j.cplett.2016.10.020.pdf,10.1016/j.cplett.2016.10.020,unknown,360–800,range_value,,,,,,,,,extracted
+1016.j.cplett.2016.10.020.pdf,10.1016/j.cplett.2016.10.020,Signiﬁcant,428,valid,,,,,,,,,extracted
+1016.j.cplett.2016.10.020.pdf,10.1016/j.cplett.2016.10.020,ﬂuorescence,14,out_of_range(14.0),,,,,,,,,extracted
+1016.j.cplett.2016.10.020.pdf,10.1016/j.cplett.2016.10.020,DMSO,430,valid,,,,,,,,,extracted
+1016.j.cplett.2016.10.020.pdf,10.1016/j.cplett.2016.10.020,Toluene,430,valid,512,valid,,,,,,,extracted
+1016.j.jlumin.2011.05.048.pdf,10.1016/j.jlumin.2011.05.048,quartz,10,out_of_range(10.0),900,valid,,,,,,,extracted
+1016.j.jlumin.2011.05.048.pdf,10.1016/j.jlumin.2011.05.048,oxygen,379,valid,485,valid,,,,,,,extracted
+1016.j.jlumin.2011.05.048.pdf,10.1016/j.jlumin.2011.05.048,cyclohexane,41373,out_of_range(41373.0),,,,,,,,,extracted
+1016.j.jlumin.2011.05.048.pdf,10.1016/j.jlumin.2011.05.048,EtOH,415,valid,,,,,,,,,extracted
+1016.j.jlumin.2011.05.048.pdf,10.1016/j.jlumin.2011.05.048,DMF,379,valid,,,,,,,,,extracted
+1016.j.jlumin.2011.05.048.pdf,10.1016/j.jlumin.2011.05.048,DPBF,,,45375,out_of_range(45375.0),,,,,,,extracted
+1016.j.jlumin.2011.05.048.pdf,10.1016/j.jlumin.2011.05.048,ﬂuorescence,,,,,2,out_of_range(2.0),,,,,extracted
+1016.j.tetlet.2007.08.086.pdf,10.1016/j.tetlet.2007.08.086,pyridinium.13,1,out_of_range(1.0),,,1,valid,,,,,extracted
+1016.j.tetlet.2007.08.086.pdf,10.1016/j.tetlet.2007.08.086,1D,,,,,0.76,valid,,,,,extracted
+1016.j.saa.2009.01.001.pdf,10.1016/j.saa.2009.01.001,silica,1,out_of_range(1.0),1.25,out_of_range(1.25),,,,,,,extracted
+1016.j.saa.2009.01.001.pdf,10.1016/j.saa.2009.01.001,Cyclohexane,4,out_of_range(4.0),,,,,,,,,extracted
+1016.j.saa.2009.01.001.pdf,10.1016/j.saa.2009.01.001,Ethylene glycol,,,,,3,out_of_range(3.0),,,,,extracted
+1016.j.saa.2009.01.001.pdf,10.1016/j.saa.2009.01.001,ﬂuorescence,,,,,8,out_of_range(8.0),,,,,extracted
+1016.j.dyepig.2009.11.009.pdf,10.1016/j.dyepig.2009.11.009,amines,2,out_of_range(2.0),,,,,,,,,extracted
+1016.j.dyepig.2009.11.009.pdf,10.1016/j.dyepig.2009.11.009,Coumarin 307,2,out_of_range(2.0),,,,,,,,,extracted
+1016.j.dyepig.2009.11.009.pdf,10.1016/j.dyepig.2009.11.009,carbazole,27,out_of_range(27.0),,,,,,,,,extracted
+1016.j.dyepig.2009.11.009.pdf,10.1016/j.dyepig.2009.11.009,indolocarbazole,453,valid,453,valid,,,,,,,extracted
+1016.j.dyepig.2009.11.009.pdf,10.1016/j.dyepig.2009.11.009,"2,8-yl",730,valid,,,,,,,,,extracted
+1039.c1pp05123g.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1021.acs.joc.9b02857.pdf,10.1021/acs.joc.9b02857,"3,3,3-trifluoroprop-1-",,,,,0.89,valid,,,,,extracted
+1021.acs.joc.9b02857.pdf,10.1021/acs.joc.9b02857,"(E)-2-(3,3,3-Trifluoroprop-1-enyl)aniline",,,,,0.77,valid,,,,,extracted
+1021.acs.joc.9b02857.pdf,10.1021/acs.joc.9b02857,2-TFPE-aniline,350,valid,,,,,,,,,extracted
+1021.acs.joc.9b02857.pdf,10.1021/acs.joc.9b02857,DMSO,220,valid,,,,,,,,,extracted
+1021.acs.joc.9b02857.pdf,10.1021/acs.joc.9b02857,L-Alanine,340,valid,340,valid,,,,,,,extracted
+1021.acsami.8b19635.pdf,10.1021/acsami.8b19635,3-PhQAD,360,valid,466,valid,,,,,,,extracted
+1021.acsami.8b19635.pdf,10.1021/acsami.8b19635,unknown,,,480,valid,,,,,,,extracted
+1021.acsami.8b19635.pdf,10.1021/acsami.8b19635,7-PhQAD,,,472,valid,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,B1,360,valid,360,valid,,,,,15,valid,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,B3(N3),360,valid,,,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,N3,20,out_of_range(20.0),,,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,B3,280-330,range_value,,,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,BN2,,,390,valid,,,244,valid,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,B2N,,,420,valid,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,6DMN-GlyOMe,,,549,valid,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,"2-Dimesitylboryl-7,12-di(N, N-diphenylamino)-5,5¢, 10,10¢, 15,15¢-hexaethyltruxene",,,500,valid,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,N2,,,380,valid,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,"2,7-Di(dimesitylboryl)-12-(N, N-diphenylamino)-5,5¢, 10,10¢, 15,15¢-hexaethyltruxene",,,500,valid,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,N1,,,380,valid,,,,,,,extracted
+1021.jo071064w.pdf,10.1021/jo071064w,coumarin 307,,,,,,,244,valid,,,extracted
+1021.acs.chemmater.8b02632.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,unknown,5,out_of_range(5.0),,,,,,,,,extracted
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,oxazole,330,valid,,,,,,,,,extracted
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,MDPA-PAO,300,valid,,,,,,,,,extracted
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,MDPAPAO,450–650,range_value,,,6,out_of_range(6.0),,,,,extracted
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,C60,450–650,range_value,,,,,,,,,extracted
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,MDMAPAO,340,valid,,,,,,,,,extracted
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,n-Hexane,,,5,out_of_range(5.0),,,,,,,extracted
+1016.j.saa.2012.10.005.pdf,10.1016/j.saa.2012.10.005,2-phenyloxazole,,,600–700,range_value,,,,,,,extracted
+1021.acsami.5b05648.pdf,10.1021/acsami.5b05648,Carbazole,283,valid,,,,,,,,,extracted
+1021.acsami.5b05648.pdf,10.1021/acsami.5b05648,unknown,374,valid,474,valid,,,,,,,extracted
+1021.acsami.5b05648.pdf,10.1021/acsami.5b05648,Time,300,valid,,,,,,,,,extracted
+1021.acsami.5b05648.pdf,10.1021/acsami.5b05648,"2,6-di(9H-carbazol-9-yl)-4-phenylpyridine-3,5-dicarbonitrile",,,,,13,out_of_range(13.0),,,,,extracted
+1021.acsami.5b05648.pdf,10.1021/acsami.5b05648,TADF,,,,,-2000,out_of_range(-2000.0),,,,,extracted
+1063.1.1675715.pdf,10.1063/1.1675715,1-anilino-8-naphthalene sulfonate,,,,,,,1,valid,,,extracted
+1063.1.1675715.pdf,10.1063/1.1675715,nitrogen,300-400,range_value,0.25,out_of_range(0.25),,,,,,,extracted
+1063.1.1675715.pdf,10.1063/1.1675715,TABLE,,,438,valid,,,,,,,extracted
+1016.j.bioorg.2017.02.015.pdf,10.1016/j.bioorg.2017.02.015,- M3,420,valid,420,valid,,,,,,,extracted
+1016.j.bioorg.2017.02.015.pdf,10.1016/j.bioorg.2017.02.015,"3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-",2,out_of_range(2.0),,,,,,,,,extracted
+1016.j.bioorg.2017.02.015.pdf,10.1016/j.bioorg.2017.02.015,DPBF,410,valid,,,,,,,,,extracted
+1016.j.bioorg.2017.02.015.pdf,10.1016/j.bioorg.2017.02.015,unknown,,,662-672,range_value,,,,,,,extracted
+1016.j.bioorg.2017.02.015.pdf,10.1016/j.bioorg.2017.02.015,Hoechst,,,450-500,range_value,,,,,,,extracted
+1016.j.bioorg.2017.02.015.pdf,10.1016/j.bioorg.2017.02.015,M2,,,,,"1,3",multiple_values,,,,,extracted
+1021.j100535a016.pdf,,R6G,0.53,out_of_range(0.53),0.53,out_of_range(0.53),,,3.7,valid,,,extracted
+1021.j100535a016.pdf,,unknown,,,,,,,0,out_of_range(0.0),,,extracted
+1021.j100535a016.pdf,,R6G-ethanol,,,,,,,3.1,valid,,,extracted
+1021.j100535a016.pdf,,methanol,0.16,out_of_range(0.16),,,,,,,,,extracted
+1021.j100535a016.pdf,,Methanol,,,,,,,,,0.16,valid,extracted
+1039.c3mh00079f.pdf,10.1039/c3mh00079f,PzCz,287,valid,332,valid,,,,,,,extracted
+1039.c3mh00079f.pdf,10.1039/c3mh00079f,CzTPN,,,,,85,out_of_range(85.0),,,,,extracted
+1016.j.saa.2012.08.008.pdf,10.1016/j.saa.2012.08.008,THF,316,valid,,,,,,,,,extracted
+1016.j.saa.2012.08.008.pdf,10.1016/j.saa.2012.08.008,2-ethynylthiophene,450,valid,,,,,,,,,extracted
+dufresne-et-al-2007-photophysical-crystallographic-and-electrochemical-characterization-of-symmetric-and-unsymmetric.pdf,10.1021/jo070100o,acetonitrile,355,valid,492,valid,,,,,,,extracted
+dufresne-et-al-2007-photophysical-crystallographic-and-electrochemical-characterization-of-symmetric-and-unsymmetric.pdf,10.1021/jo070100o,Acetonitrile,,,400,valid,,,,,,,extracted
+dufresne-et-al-2007-photophysical-crystallographic-and-electrochemical-characterization-of-symmetric-and-unsymmetric.pdf,10.1021/jo070100o,bithiophene,,,,,15,out_of_range(15.0),,,5,valid,extracted
+dufresne-et-al-2007-photophysical-crystallographic-and-electrochemical-characterization-of-symmetric-and-unsymmetric.pdf,10.1021/jo070100o,azomethines,,,,,24,out_of_range(24.0),,,,,extracted
+dufresne-et-al-2007-photophysical-crystallographic-and-electrochemical-characterization-of-symmetric-and-unsymmetric.pdf,10.1021/jo070100o,azomethine,,,,,30,out_of_range(30.0),,,,,extracted
+dufresne-et-al-2007-photophysical-crystallographic-and-electrochemical-characterization-of-symmetric-and-unsymmetric.pdf,10.1021/jo070100o,xanthone,,,,,30,out_of_range(30.0),,,,,extracted
+1016.j.tetlet.2011.09.058.pdf,,,,missing,,missing,,missing,,missing,,missing,no_records
+1021.acs.joc.8b01924.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.acs.chemmater.8b01207.pdf,10.1021/acs.chemmater.8b01207,Carbazole,295,valid,,,,,,,,,extracted
+1021.acs.chemmater.8b01207.pdf,10.1021/acs.chemmater.8b01207,CzCP,,,425438,out_of_range(425438.0),,,,,,,extracted
+1021.acs.chemmater.8b01207.pdf,10.1021/acs.chemmater.8b01207,hexane,,,30-61,range_value,,,,,,,extracted
+1021.acs.chemmater.8b01207.pdf,10.1021/acs.chemmater.8b01207,TCzTrz,,,,,100,out_of_range(100.0),,,,,extracted
+1021.acs.chemmater.8b01207.pdf,10.1021/acs.chemmater.8b01207,unknown,,,,,100,out_of_range(100.0),,,,,extracted
+1016.1010-6030(94)03949-U.pdf,,C12,190,out_of_range(190.0),,,,,,,,,extracted
+1016.1010-6030(94)03949-U.pdf,,Br2,190,out_of_range(190.0),,,,,,,,,extracted
+1016.1010-6030(94)03949-U.pdf,,Br 2,600,valid,,,,,,,,,extracted
+1016.1010-6030(94)03949-U.pdf,,BrC1,190,out_of_range(190.0),,,,,,,,,extracted
+1016.1010-6030(94)03949-U.pdf,,BrCI,228.3,valid,,,,,,,,,extracted
+1016.1010-6030(94)03949-U.pdf,,Br2-Br2,227,valid,,,,,,,,,extracted
+1016.1010-6030(94)03949-U.pdf,,unknown,270,valid,,,,,,,,,extracted
+1126.sciadv.aao6910.pdf,,3Cz2DMeCzBN,,,480,valid,,,,,,,extracted
+1126.sciadv.aao6910.pdf,,3Cz2DPhCzBN,,,480,valid,−1,invalid_format,,,,,extracted
+1126.sciadv.aao6910.pdf,,argon,340,valid,340,valid,1,valid,-3,out_of_range(-3.0),,,extracted
+1016.j.jorganchem.2003.12.038.pdf,10.1016/j.jorganchem.2003.12.038,silicon,300–400,range_value,,,,,,,,,extracted
+1016.j.jorganchem.2003.12.038.pdf,10.1016/j.jorganchem.2003.12.038,anthryl,375,valid,375,valid,,,,,,,extracted
+1016.j.jorganchem.2003.12.038.pdf,10.1016/j.jorganchem.2003.12.038,naphthyl,290,valid,,,,,,,,,extracted
+1016.j.jorganchem.2003.12.038.pdf,10.1016/j.jorganchem.2003.12.038,argon,280,valid,,,,,,,,,extracted
+1016.j.jorganchem.2003.12.038.pdf,10.1016/j.jorganchem.2003.12.038,Au,255,valid,,,,,,,,,extracted
+1016.j.jorganchem.2003.12.038.pdf,10.1016/j.jorganchem.2003.12.038,diﬀerential,,,475,valid,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,Carboxylic-Acid,400−650,invalid_format,400−650,invalid_format,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,rhodamine B,500−600,invalid_format,500−600,invalid_format,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,rhodamine 6G,500−600,invalid_format,500−600,invalid_format,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,rhodamine 101,500−600,invalid_format,500−600,invalid_format,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,hypochlorous acid,652/670,invalid_format,,,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,merocyanine A,700,valid,734,valid,0.34,valid,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,CS1−6,688−728,invalid_format,688−728,invalid_format,0.29−0.56,invalid_format,,,37,valid,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,CS1,688,valid,721,valid,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,CS 1,160,out_of_range(160.0),,,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,unknown,700,valid,,,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,CH3CN,690,valid,,,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,HClO,670,valid,746,valid,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,CH3OH,670,valid,690−740,invalid_format,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,HOCl,,,652/670,invalid_format,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,CS6,,,780,valid,,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,CS4,,,20,out_of_range(20.0),,,,,,,extracted
+1021.ja209292b.pdf,10.1021/ja209292b,acetyl,,,,,5,out_of_range(5.0),,,,,extracted
+1021.ol1007263.pdf,10.1021/ol1007263,SOPV6,398,valid,,,,,,,,,extracted
+1021.ol1007263.pdf,10.1021/ol1007263,SOPV4,73,out_of_range(73.0),,,,,,,,,extracted
+1021.ol1007263.pdf,10.1021/ol1007263,CH2Cl2,662,valid,495,valid,,,,,,,extracted
+1039.c2jm33891b.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.acs.joc.6b02981.pdf,10.1021/acs.joc.6b02981,"2,4,6-trimethylphenyl",,,,,8,out_of_range(8.0),,,,,extracted
+1021.acs.joc.6b02981.pdf,10.1021/acs.joc.6b02981,"BODIPYs.16c,19 BODIPY 4",,,,,"3,5,8",multiple_values,,,,,extracted
+1021.acs.joc.6b02981.pdf,10.1021/acs.joc.6b02981,C9N2B,365,valid,,,,,,,,,extracted
+1016.j.chemphys.2018.09.042.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1016.j.saa.2011.02.003.pdf,10.1016/j.saa.2011.02.003,quartz,10,out_of_range(10.0),,,,,,,,,extracted
+1016.j.saa.2011.02.003.pdf,10.1016/j.saa.2011.02.003,unknown,,,,,,,,,1,valid,extracted
+1016.j.saa.2011.02.003.pdf,10.1016/j.saa.2011.02.003,1,,,,,,,,,2,valid,extracted
+1016.j.saa.2011.02.003.pdf,10.1016/j.saa.2011.02.003,anthraquinone,,,,,,,,,4,valid,extracted
+1016.j.saa.2011.02.003.pdf,10.1016/j.saa.2011.02.003,Anthraquinone,,,,,,,,,2,valid,extracted
+1016.j.saa.2011.02.003.pdf,10.1016/j.saa.2011.02.003,NH(C7H7),,,,,,,,,3,valid,extracted
+1016.j.saa.2011.09.038.pdf,,ﬂuorescence,350,valid,,,,,,,,,extracted
+1016.j.dyepig.2016.07.041.pdf,10.1016/j.dyepig.2016.07.041,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.j.chemphys.2009.02.008.pdf,10.1016/j.chemphys.2009.02.008,phenyl pyrroles,,,,,1,valid,,,,,extracted
+1021.acs.chemmater.7b03490.pdf,10.1021/acs.chemmater.7b03490,Triptycene,,,450,valid,,,,,,,extracted
+1021.acs.chemmater.7b03490.pdf,10.1021/acs.chemmater.7b03490,toluene,,,430,valid,1,valid,,,,,extracted
+1021.acs.chemmater.7b03490.pdf,10.1021/acs.chemmater.7b03490,unknown,,,441,valid,1,valid,,,,,extracted
+1021.acs.chemmater.7b03490.pdf,10.1021/acs.chemmater.7b03490,CZ,330−400,invalid_format,,,,,,,,,extracted
+1016.1010-6030(88)80035-2.pdf,,Quinine bisulphate,,,,,0.55,valid,,,,,extracted
+1016.1010-6030(88)80035-2.pdf,,phenyl,,,,,2,out_of_range(2.0),,,,,extracted
+1016.1010-6030(88)80035-2.pdf,,w-bis(oxazol-2)-p-oligophenylenes,,,,,4,out_of_range(4.0),,,,,extracted
+1016.1010-6030(88)80035-2.pdf,,"w, w ’-bis(oxazol-2-yl)-p-oligophenylenes",100,out_of_range(100.0),,,,,,,,,extracted
+1016.j.molstruc.2010.08.016.pdf,10.1016/j.molstruc.2010.08.016,ﬂuorescence,2,out_of_range(2.0),,,,,,,,,extracted
+1016.j.molstruc.2010.08.016.pdf,10.1016/j.molstruc.2010.08.016,CHCl3,367,valid,,,,,,,,,extracted
+1016.j.tetlet.2009.10.118.pdf,10.1016/j.tetlet.2009.10.118,"N, N ’-dimethyl-formamide",,,,,0.31,valid,,,,,extracted
+1016.j.tetlet.2009.10.118.pdf,10.1016/j.tetlet.2009.10.118,ﬂuorescence,10,out_of_range(10.0),,,0.07.16,invalid_format,,,,,extracted
+1016.j.tetlet.2009.10.118.pdf,10.1016/j.tetlet.2009.10.118,ﬂuorescent,,,,,0.85,valid,,,,,extracted
+1016.j.tetlet.2009.10.118.pdf,10.1016/j.tetlet.2009.10.118,PFs,,,,,0.55–0.79,invalid_format,,,,,extracted
+1016.j.tetlet.2009.10.118.pdf,10.1016/j.tetlet.2009.10.118,TMS,,,,,0.89,valid,,,,,extracted
+1016.j.tetlet.2009.10.118.pdf,10.1016/j.tetlet.2009.10.118,1H,,,,,0.11,valid,,,,,extracted
+1016.j.tetlet.2009.10.118.pdf,10.1016/j.tetlet.2009.10.118,DMF,25,out_of_range(25.0),,,,,,,,,extracted
+1016.j.tet.2009.08.027.pdf,10.1016/j.tet.2009.08.027,"1,4-dioxane",365,valid,,,,,,,,,extracted
+1016.j.tet.2009.08.027.pdf,10.1016/j.tet.2009.08.027,ﬂuorophore,365,valid,,,,,,,,,extracted
+1016.j.tet.2009.08.027.pdf,10.1016/j.tet.2009.08.027,1-Butanol,413,valid,459,valid,,,,,,,extracted
+1016.j.tet.2009.08.027.pdf,10.1016/j.tet.2009.08.027,clariﬁed,50,out_of_range(50.0),,,,,,,,,extracted
+1016.j.tet.2009.08.027.pdf,10.1016/j.tet.2009.08.027,"1,4-Dioxane",,,,,1,valid,,,,,extracted
+1016.j.tet.2009.08.027.pdf,10.1016/j.tet.2009.08.027,morpholine,,,460,valid,,,,,,,extracted
+1016.j.tet.2009.08.027.pdf,10.1016/j.tet.2009.08.027,ﬂuorescence,,,59,out_of_range(59.0),,,,,,,extracted
+1002.chem.201301020.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.jo500499g.pdf,10.1021/jo500499g,"N, N-Dimethyl-2,4-diphenyl-5-selenazolamine",333,valid,,,,,,,,,extracted
+1021.jo500499g.pdf,10.1021/jo500499g,"N, N-Dimethyl-2-(4-methoxyphenyl)-4-phenyl-5-selenazolamine",333,valid,,,,,,,,,extracted
+1021.jo500499g.pdf,10.1021/jo500499g,sulfur,10,out_of_range(10.0),,,,,,,,,extracted
+1021.jo500499g.pdf,10.1021/jo500499g,Sulfur,,,10,out_of_range(10.0),,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,BODIPY,500,valid,700,valid,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,NaOH,,,10,out_of_range(10.0),30,out_of_range(30.0),,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,acetonitrile,493,valid,524,valid,,,,,240,valid,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,toluene,7,out_of_range(7.0),600,valid,30,out_of_range(30.0),,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,aniline,525,valid,525,valid,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,hydrogen,496,valid,488,valid,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,H +,,,511,valid,0.001,valid,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,"5-(4-N, N-Dimethylphenyl)-1,9-dimethyldipyrromethene",494,valid,494,valid,30,out_of_range(30.0),,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,ammonium,,,496,valid,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,BODIPY6-8,,,,,30,out_of_range(30.0),,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,difluoroboron,,,,,30,out_of_range(30.0),,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,cyclohexane,,,,,30,out_of_range(30.0),,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,"4,4-Difluoro-3,5-dimethyl-8-(4-carbomethoxyphenyl)-4-bora-3a,4a-diaza-s-indacene",,,,,,,244,valid,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,aromatic amines.18,4,out_of_range(4.0),,,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,compounds 1,375,valid,,,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,5,560,valid,,,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,tertiary amine,488,valid,,,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,H,494,valid,,,,,,,,,extracted
+boens-et-al-2005-photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf,10.1021/jp052626n,"5-(4-Cyanophenyl)-1,9-dimethyldipyrromethene",560,valid,,,,,,,,,extracted
+monson-et-al-2008-structure-property-relationships-of-fluorinated-donor-acceptor-tetrakis(phenylethynyl)benzenes-and.pdf,10.1021/jo701740n,nitrophenyl,,,,,,,,,3,valid,extracted
+monson-et-al-2008-structure-property-relationships-of-fluorinated-donor-acceptor-tetrakis(phenylethynyl)benzenes-and.pdf,10.1021/jo701740n,CH2Cl2,450,valid,29-55,range_value,1-12,invalid_format,,,,,extracted
+monson-et-al-2008-structure-property-relationships-of-fluorinated-donor-acceptor-tetrakis(phenylethynyl)benzenes-and.pdf,10.1021/jo701740n,CH2-Cl2,,,5 and 16,invalid_format,,,,,,,extracted
+monson-et-al-2008-structure-property-relationships-of-fluorinated-donor-acceptor-tetrakis(phenylethynyl)benzenes-and.pdf,10.1021/jo701740n,fluorescein,450,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.09.011.pdf,10.1016/j.dyepig.2012.09.011,ﬂuorescence,,,,,"5,10,15,20",multiple_values,,,1,valid,extracted
+1016.j.dyepig.2012.09.011.pdf,10.1016/j.dyepig.2012.09.011,H2TPP,,,513,valid,0.64,valid,,,,,extracted
+1016.j.dyepig.2012.09.011.pdf,10.1016/j.dyepig.2012.09.011,Porphyrins,560,valid,,,"16,17",multiple_values,,,,,extracted
+1016.j.dyepig.2012.09.011.pdf,10.1016/j.dyepig.2012.09.011,phenyl,,,,,0.01,valid,,,,,extracted
+1016.j.dyepig.2012.09.011.pdf,10.1016/j.dyepig.2012.09.011,Nitrobenzaldehyde,350,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.09.011.pdf,10.1016/j.dyepig.2012.09.011,unknown,700,valid,,,,,,,,,extracted
+1016.j.dyepig.2012.09.011.pdf,10.1016/j.dyepig.2012.09.011,Porphyrin,2,out_of_range(2.0),,,,,,,,,extracted
+1016.j.tet.2012.01.093.pdf,10.1016/j.tet.2012.01.093,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.j.tetlet.2016.03.011.pdf,10.1016/j.tetlet.2016.03.011,phenyl,,,,,0.26,valid,,,,,extracted
+1016.j.tetlet.2016.03.011.pdf,10.1016/j.tetlet.2016.03.011,ﬂuorescence,,,,,0.68,valid,,,,,extracted
+1016.j.tetlet.2016.03.011.pdf,10.1016/j.tetlet.2016.03.011,ACN,400,valid,,,,,,,,,extracted
+1016.j.tetlet.2016.03.011.pdf,10.1016/j.tetlet.2016.03.011,unknown,800,valid,,,,,,,,,extracted
+1016.j.tetlet.2018.10.003.pdf,10.1016/j.tetlet.2018.10.003,BODIPYs,650–900,range_value,650–900,range_value,,,,,,,extracted
+1016.j.tetlet.2018.10.003.pdf,10.1016/j.tetlet.2018.10.003,pyrenyl,350,valid,380,valid,,,,,,,extracted
+1016.j.tetlet.2018.10.003.pdf,10.1016/j.tetlet.2018.10.003,chloroform,647,valid,,,,,,,,,extracted
+1016.j.tetlet.2018.10.003.pdf,10.1016/j.tetlet.2018.10.003,BODIPYs 1a –,310–370,range_value,,,,,,,,,extracted
+1016.j.tetlet.2018.10.003.pdf,10.1016/j.tetlet.2018.10.003,BODIPY,,,649,valid,,,3–4,invalid_format,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,4-Amino-N-adamantylphthalimide,,,,,0.15-0.80,invalid_format,,,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,4-aminophthalimides,,,,,"32,33,34",multiple_values,,,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,N-methylphthalimide,,,,,,,0.2,valid,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,Toluene,,,,,,,9.5 and 24.6,invalid_format,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,4-amino-N-adamantylphthalimide,375,valid,350,valid,,,1,valid,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,1-[4-(Trimethylamino)phenyl]-6-,,,,,,,9-25,invalid_format,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,unknown,,,485-540,range_value,,,,,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,Scheme 1,,,410-455,range_value,,,,,,,extracted
+1016.j.snb.2019.01.102.pdf,10.1016/j.snb.2019.01.102,methanol,405,valid,,,,,,,,,extracted
+1021.acsami.9b08729.pdf,10.1021/acsami.9b08729,"butylphenyl)dibenzo[a, c]phenazine-3,6-diyl)bis(10H-phenoxazine)",,,620,valid,83,out_of_range(83.0),,,,,extracted
+1021.acsami.9b08729.pdf,10.1021/acsami.9b08729,"3,6-di(10H-phenoxazin-10-",,,,,84,out_of_range(84.0),,,,,extracted
+1021.acsami.9b08729.pdf,10.1021/acsami.9b08729,DBPZ,,,,,84,out_of_range(84.0),,,,,extracted
+1021.acsami.9b08729.pdf,10.1021/acsami.9b08729,DPXZ,,,617,valid,83,out_of_range(83.0),,,,,extracted
+1021.acsami.9b08729.pdf,10.1021/acsami.9b08729,Si,,,657,valid,,,,,,,extracted
+1016.j.jlumin.2011.04.008.pdf,10.1016/j.jlumin.2011.04.008,unknown,5377,out_of_range(5377.0),,,4,out_of_range(4.0),,,,,extracted
+1016.j.jlumin.2011.04.008.pdf,10.1016/j.jlumin.2011.04.008,Methanol,,,,,30,out_of_range(30.0),30,valid,,,extracted
+1016.j.jlumin.2011.04.008.pdf,10.1016/j.jlumin.2011.04.008,ﬂuorescence,,,402,valid,,,,,,,extracted
+1016.j.jlumin.2011.04.008.pdf,10.1016/j.jlumin.2011.04.008,acetonitrile,476,valid,,,,,,,,,extracted
+1016.j.jlumin.2011.04.008.pdf,10.1016/j.jlumin.2011.04.008,Mg(ClO4)2,440,valid,,,,,,,,,extracted
+1016.j.jlumin.2011.04.008.pdf,10.1016/j.jlumin.2011.04.008,b-CD,,,,,,,-1,out_of_range(-1.0),,,extracted
+1016.j.jlumin.2011.04.008.pdf,10.1016/j.jlumin.2011.04.008,SDS,,,,,,,1,valid,,,extracted
+1016.j.jphotochem.2019.04.011.pdf,10.1016/j.jphotochem.2019.04.011,nm,320,valid,342,valid,33.9,out_of_range(33.9),,,,,extracted
+1016.j.jphotochem.2019.04.011.pdf,10.1016/j.jphotochem.2019.04.011,CHEX,,,350,valid,,,,,,,extracted
+1016.j.jphotochem.2019.04.011.pdf,10.1016/j.jphotochem.2019.04.011,"1,3-substituted B-OXD",,,,,42-44,invalid_format,,,,,extracted
+1038.nature11687.pdf,10.1038/nature11687,4CzIPN,337,valid,507,valid,94,out_of_range(94.0),,,,,extracted
+1038.nature11687.pdf,10.1038/nature11687,toluene,,,460,valid,,,,,,,extracted
+1038.nature11687.pdf,10.1038/nature11687,carbazolyl,,,473,valid,,,,,,,extracted
+1038.nature11687.pdf,10.1038/nature11687,quartz,,,,,-2,out_of_range(-2.0),,,,,extracted
+1016.j.dyepig.2011.08.018.pdf,10.1016/j.dyepig.2011.08.018,Ethyl acetate,400,valid,,,,,,,,,extracted
+1016.j.dyepig.2011.08.018.pdf,10.1016/j.dyepig.2011.08.018,"N-(4,6-dichloro-1,3,5-triazin-2-yl)-1-aminopyrene",103,out_of_range(103.0),,,,,,,,,extracted
+1016.j.bmcl.2011.01.105.pdf,10.1016/j.bmcl.2011.01.105,ﬂuorescence,583,valid,,,,,,,,,extracted
+1016.j.bmcl.2011.01.105.pdf,10.1016/j.bmcl.2011.01.105,ﬂuores,650,valid,,,,,,,,,extracted
+1016.j.tet.2011.03.016.pdf,,,,missing,,missing,,missing,,missing,,missing,error: The size of tensor a (556) must match the size of 
+1016.j.cclet.2019.07.027.pdf,,,,missing,,missing,,missing,,missing,,missing,error: 'NoneType' object has no attribute 'record_method'
+1021.acs.orglett.8b01786.pdf,10.1021/acs.orglett.8b01786,ﬂuorophores,650,valid,900,valid,,,,,,,extracted
+1021.acs.orglett.8b01786.pdf,10.1021/acs.orglett.8b01786,tetramethylrhodamine,∼90,invalid_format,∼90,invalid_format,,,,,,,extracted
+1021.acs.orglett.8b01786.pdf,10.1021/acs.orglett.8b01786,Azasiline,730,valid,,,,,,,,,extracted
+1021.acs.orglett.8b01786.pdf,10.1021/acs.orglett.8b01786,cyanines,700,valid,,,0.11,valid,,,,,extracted
+1021.acs.orglett.8b01786.pdf,10.1021/acs.orglett.8b01786,"3-bromo-N, N-dimethylaniline",,,700,valid,,,,,,,extracted
+1021.acs.orglett.8b01786.pdf,10.1021/acs.orglett.8b01786,Anzalone,,,,,18,out_of_range(18.0),,,,,extracted
+1021.acs.orglett.8b01786.pdf,10.1021/acs.orglett.8b01786,Tween-20,,,,,1,valid,,,,,extracted
+1016.j.tet.2012.05.072.pdf,10.1016/j.tet.2012.05.072,quartz,1,out_of_range(1.0),,,,,,,,,extracted
+1016.j.tet.2012.05.072.pdf,10.1016/j.tet.2012.05.072,Aldehyde,360,valid,,,,,,,,,extracted
+1016.j.tet.2012.05.072.pdf,10.1016/j.tet.2012.05.072,Ketone,385,valid,,,,,,,,,extracted
+1016.j.tet.2012.05.072.pdf,10.1016/j.tet.2012.05.072,Carboxylic acid,380,valid,,,,,,,,,extracted
+1016.j.tet.2012.05.072.pdf,10.1016/j.tet.2012.05.072,OB,,,343,valid,,,343,valid,,,extracted
+1016.j.tet.2012.05.072.pdf,10.1016/j.tet.2012.05.072,ﬂuorescence,,,400,valid,,,,,,,extracted
+1016.j.tet.2012.05.072.pdf,10.1016/j.tet.2012.05.072,]-[,,,570,valid,,,,,,,extracted
+miyamura-et-al-2008-indium-catalyzed-annulation-of-2-aryl-and-2-heteroarylindoles-with-propargyl-ethers-concise.pdf,10.1021/ja803954e,C6H4–p-NPh2,250-260,range_value,,,,,,,,,extracted
+miyamura-et-al-2008-indium-catalyzed-annulation-of-2-aryl-and-2-heteroarylindoles-with-propargyl-ethers-concise.pdf,10.1021/ja803954e,EtOAc,,,,,,,,,6,valid,extracted
+1021.jacs.9b09220.pdf,10.1021/jacs.9b09220,RNI,,,,,4,out_of_range(4.0),,,,,extracted
+1021.jacs.9b09220.pdf,10.1021/jacs.9b09220,rhodamine 6G,,,,,0.94,valid,,,,,extracted
+1021.jacs.9b09220.pdf,10.1021/jacs.9b09220,oxygen,,,,,2,out_of_range(2.0),,,,,extracted
+1021.jacs.9b09220.pdf,10.1021/jacs.9b09220,RNI-O,,,,,0.04,valid,,,,,extracted
+1021.acs.joc.5b01339.pdf,10.1021/acs.joc.5b01339,unknown,300,valid,,,,,,,,,extracted
+1021.acs.joc.5b01339.pdf,10.1021/acs.joc.5b01339,fluorine,300,valid,,,,,,,,,extracted
+1021.acs.joc.5b01339.pdf,10.1021/acs.joc.5b01339,C15H12F2N4,,,,,,,,,-1,out_of_range(-1.0),extracted
+1021.acs.joc.5b01339.pdf,10.1021/acs.joc.5b01339,ethanol,,,,,,,,,-1,out_of_range(-1.0),extracted
+1021.acs.joc.5b01339.pdf,10.1021/acs.joc.5b01339,C14H12F2N4,,,,,,,,,-1,out_of_range(-1.0),extracted
+1021.acs.joc.5b01339.pdf,10.1021/acs.joc.5b01339,C14H12Cl2N4,,,,,,,,,-1,out_of_range(-1.0),extracted
+1021.acs.joc.5b01339.pdf,10.1021/acs.joc.5b01339,C14H12Br2N4,,,,,,,,,-1,out_of_range(-1.0),extracted
+1016.j.tetlet.2018.02.075.pdf,10.1016/j.tetlet.2018.02.075,"2,2-dicyanoethenyl",,,483,valid,,,,,,,extracted
+1016.j.tetlet.2018.02.075.pdf,10.1016/j.tetlet.2018.02.075,imine,,,600,valid,,,,,,,extracted
+1016.j.tetlet.2018.02.075.pdf,10.1016/j.tetlet.2018.02.075,Imine,,,,,0.49,valid,,,,,extracted
+1016.j.snb.2008.03.006.pdf,10.1016/j.snb.2008.03.006,unknown,400,valid,,,,,,,,,extracted
+1016.j.snb.2008.03.006.pdf,10.1016/j.snb.2008.03.006,ﬂuorescence,340,valid,,,,,,,,,extracted
+1016.j.snb.2008.03.006.pdf,10.1016/j.snb.2008.03.006,ClO4,800,valid,,,,,,,,,extracted
+1016.j.snb.2008.03.006.pdf,10.1016/j.snb.2008.03.006,ﬂuoride,,,340,valid,,,,,,,extracted
+1016.j.saa.2012.04.077.pdf,,"4-(p-N, N-dimethyl-aminophenylmethylene-2-phe-nyl-5-oxazolone",,,605,valid,,,,,,,extracted
+1016.j.saa.2012.04.077.pdf,,n-Hexane,,,472,valid,,,,,,,extracted
+1016.j.saa.2012.04.077.pdf,,DPO,1,out_of_range(1.0),2889,out_of_range(2889.0),1,valid,,,,,extracted
+1016.j.saa.2012.04.077.pdf,,[b-CD,,,450,valid,,,,,,,extracted
+1016.j.saa.2012.04.077.pdf,,rhoda-mine 6G,,,,,14,out_of_range(14.0),,,,,extracted
+1016.j.saa.2012.04.077.pdf,,ﬂuorescence,,,,,15,out_of_range(15.0),,,,,extracted
+1016.j.saa.2012.04.077.pdf,,"4-(p-N, N-dimethyl-aminophenylmethylene)-2-phe-nyl-5-oxazolone",4,out_of_range(4.0),,,,,,,,,extracted
+1016.j.saa.2012.04.077.pdf,,DPOH,,,,,,,26,valid,,,extracted
+1016.j.orgel.2019.105404.pdf,10.2478/s11686-019-00090-4,,,missing,,missing,,missing,,missing,,missing,no_records
+1016.1010-6030(94)03831-7.pdf,,benzimidazole,,,,,,,,,2,valid,extracted
+1016.1010-6030(94)03831-7.pdf,,unknown,326,valid,335,valid,,,,,,,extracted
+1016.j.jphotochem.2017.07.026.pdf,10.1016/j.jphotochem.2017.07.026,[5]helicene,,,520-545,range_value,,,,,,,extracted
+1016.j.jphotochem.2017.07.026.pdf,10.1016/j.jphotochem.2017.07.026,ethyl,,,495,valid,,,,,,,extracted
+1016.j.jphotochem.2017.07.026.pdf,10.1016/j.jphotochem.2017.07.026,unknown,432,valid,,,,,,,,,extracted
+1016.j.jphotochem.2017.07.026.pdf,10.1016/j.jphotochem.2017.07.026,dibromo-substituted[5]helicene,418,valid,,,,,,,,,extracted
+1016.j.jphotochem.2017.07.026.pdf,10.1016/j.jphotochem.2017.07.026,dichloromethane,,,,,,,,,4.23,valid,extracted
+1016.j.jphotochem.2017.07.026.pdf,10.1016/j.jphotochem.2017.07.026,M-1 cm-1,,,,,,,,,-1,out_of_range(-1.0),extracted
+1016.j.jphotochem.2017.07.026.pdf,10.1016/j.jphotochem.2017.07.026,"dinaphtho[2,1-e:1 ',2 '-g]isoindole-1,3(2H)-dione",,,,,0.03,valid,,,,,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,toluene,,,412/478,invalid_format,,,,,,,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,ﬁrst,,,682,valid,,,,,,,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,CH2Cl2,,,,,0.9,valid,2.5−4.7,invalid_format,,,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,"naphtho[2,3-b]phosphole",,,,,1,valid,1,valid,,,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,OMe,,,,,428(0.37),invalid_format,,,331(4.44),invalid_format,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,thioxo,,,,,,,,,10,valid,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,unknown,385,valid,,,,,,,,,extracted
+1021.acs.joc.5b00541.pdf,10.1021/acs.joc.5b00541,Ti:sapphire,420,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,Ti:Sa,400,valid,,,,,,,,,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,EDAC,∼360,invalid_format,,,,,,,,,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,DMACA,∼360,invalid_format,,,,,,,"29,30",invalid_format,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,Cyclohexane,,,∼390,invalid_format,,,,,,,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,4-(dimethylamino)cinnamic acid,,,,,5,out_of_range(5.0),,,,,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,Acetonitrile,,,,,5,out_of_range(5.0),,,,,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,ﬂuorescence,,,,,5,out_of_range(5.0),,,,,extracted
+1016.j.saa.2009.03.004.pdf,10.1016/j.saa.2009.03.004,unknown,,,,,5,out_of_range(5.0),,,,,extracted
+1016.j.cap.2008.07.009.pdf,10.1016/j.cap.2008.07.009,Benzene,17,out_of_range(17.0),,,,,,,,,extracted
+1016.j.cap.2008.07.009.pdf,10.1016/j.cap.2008.07.009,Isophorone,626,valid,,,,,,,,,extracted
+1016.j.cap.2008.07.009.pdf,10.1016/j.cap.2008.07.009,unknown,360,valid,,,,,,,,,extracted
+1016.j.cap.2008.07.009.pdf,10.1016/j.cap.2008.07.009,ﬂuorescence,460,valid,650,valid,,,,,,,extracted
+1016.j.cap.2008.07.009.pdf,10.1016/j.cap.2008.07.009,ben-zene,,,63,out_of_range(63.0),,,,,,,extracted
+1016.j.cap.2008.07.009.pdf,10.1016/j.cap.2008.07.009,ﬂuorescent,,,650,valid,,,,,,,extracted
+1021.acs.jpcb.9b01295.pdf,,,,missing,,missing,,missing,,missing,,missing,timeout
+1021.acs.joc.5b01496.pdf,10.1021/acs.joc.5b01496,toluene,,,,,0.88,valid,,,,,extracted
+1021.acs.joc.5b01496.pdf,10.1021/acs.joc.5b01496,2-methyltetrahydrofuran,376,valid,,,,,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,silyl,,,4–5,range_value,,,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,"9,10-dicyanoanthracene",,,437,valid,,,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,"1,4-bis-(trimethylsilylethynyl)",347,valid,,,,,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,naphthalenes,1,out_of_range(1.0),,,,,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,naphthalene,,,,,0.30(2),invalid_format,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,HCl,,,,,0.33(7),invalid_format,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,PrOH,,,,,0.65(10),invalid_format,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,benzene,,,,,0.85(14),invalid_format,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,"1,4-bis(trimethylsilylethynyl)naphthalene",,,,,0.85,valid,,,,,extracted
+3390.molecules17055108.pdf,10.3390/molecules17055108,"1,4-Bis(dimethylsilyl)naphthalene",,,,,,,15.3,valid,,,extracted
+1016.j.dyepig.2014.05.030.pdf,10.1016/j.dyepig.2014.05.030,unknown,365,valid,,,,,,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,Quinoline,,,,,0.91,valid,,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,EtOAc,,,398.89,valid,1–9,invalid_format,,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,eﬀects,,,,,33,out_of_range(33.0),,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,N-aryl-2-aminoquinolines,,,,,1,valid,,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,ﬂuorophore,,,,,7,out_of_range(7.0),,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,ﬂuorescence,,,,,"1,2",multiple_values,,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,"pyrido[2 ′, 1 ′:2, 3]imidazo[4, 5-b]quinoline-12-yl cyanides",,,,,32,out_of_range(32.0),,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,8-Hydroxyquinoline benzoates,,,,,8,out_of_range(8.0),,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,EtOH,,,,,8,out_of_range(8.0),,,,,extracted
+1016.j.jlumin.2018.12.059.pdf,10.1016/j.jlumin.2018.12.059,quinolinyl,373,valid,,,,,,,,,extracted
+1021.acs.joc.7b03008.pdf,10.1021/acs.joc.7b03008,Spirobifluorene,360,valid,,,,,,,,,extracted
+1021.acs.joc.7b03008.pdf,10.1021/acs.joc.7b03008,chrysene,250,valid,,,,,,,,,extracted
+1021.acs.joc.7b03008.pdf,10.1021/acs.joc.7b03008,Chrysene,344,valid,,,,,,,,,extracted
+1021.acs.joc.7b03008.pdf,10.1021/acs.joc.7b03008,toluene,,,,,1×10-5,invalid_format,-3,out_of_range(-3.0),,,extracted
+1021.acs.joc.7b03008.pdf,10.1021/acs.joc.7b03008,TPTP,,,,,61,out_of_range(61.0),,,,,extracted
+1021.acs.joc.7b03008.pdf,10.1021/acs.joc.7b03008,CS-TPTP,,,417,valid,,,,,,,extracted
+1021.jo400128c.pdf,,,,missing,,missing,,missing,,missing,,missing,error: cannot access local variable 'raw_units' where it 
+1016.0022-2313(91)90052-W.pdf,,H3O ~,,,,,3,out_of_range(3.0),,,,,extracted

@@ -1,0 +1,17 @@
+{
+  "openchemie_accuracy": 0.643,
+  "relaxed_rules": {
+    "name_pair": "unordered normalized exact match",
+    "phase1": "must match when both are present",
+    "phase2": "must match when both are present",
+    "composition_abs_tolerance": 0.05,
+    "Mn_relative_tolerance": 0.1
+  },
+  "strict_rules": {
+    "name_pair": "unordered normalized exact match",
+    "phase1": "must match when both are present",
+    "phase2": "must match when both are present",
+    "composition_abs_tolerance": 0.02,
+    "Mn_relative_tolerance": 0.05
+  }
+}

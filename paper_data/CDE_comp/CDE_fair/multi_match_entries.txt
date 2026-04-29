@@ -1,0 +1,16 @@
+idx	SMILES_or_compound	Solvent	Gen_DOI	Reason	#ref_matches
+173	9-Methylalloxazine		10.1016/j.molstruc.2003.10.028	multi_identity_match	6
+174	9-methylalloxazine		10.1016/j.molstruc.2003.10.028	multi_identity_match	6
+239	curcumin		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	multi_identity_match	6
+245	Curcumin		10.1562/0031-8655(2000)0720625EOSOTE2.0.CO2	multi_identity_match	6
+611	CPZ		10.1021/jp044530j	multi_identity_match	3
+612	Phenothiazine		10.1021/jp044530j	multi_identity_match	2
+620	Promazine		10.1021/jp044530j	multi_identity_match	3
+1009	6-propionyl-2-(dimethylamino)naphthalene		10.1021/bi00581a025	multi_identity_match	8
+1083	Aminopyridines		10.1021/j100558a015	multi_identity_match	6
+1087	4-aminopyridine		10.1021/j100558a015	multi_identity_match	4
+1114	2-Imino-2H-chromene-3-carbonitrile		10.1016/j.molliq.2014.02.029	multi_identity_match	5
+1270	DPBF		10.1016/j.jlumin.2011.05.048	multi_identity_match	7
+1318	1-anilino-8-naphthalene sulfonate		10.1063/1.1675715	multi_identity_match	6
+1492	4CzIPN		10.1038/nature11687	multi_identity_match	2
+1566	4-(dimethylamino)cinnamic acid		10.1016/j.saa.2009.03.004	multi_identity_match	11
