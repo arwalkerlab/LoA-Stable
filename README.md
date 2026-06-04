@@ -17,6 +17,9 @@ LoA (Librarian of Alexandria) is a comprehensive tool designed for researchers, 
 
 ## Installation
 
+Note: We have created a docker image of the fully installed code, which is available here:
+https://hub.docker.com/repository/docker/morganro8/loa/general
+
 1. Clone the repository:
    ```
    git clone https://github.com/MorganRO8/LoA.git
